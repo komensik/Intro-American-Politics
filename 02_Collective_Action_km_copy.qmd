@@ -1,0 +1,1247 @@
+---
+title: "Week 2: Democratic Citizenship and Collective Action"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Exit Quiz Logistics
+
+::: {.incremental}
+
+1. Good job
+2. *Most of you* have legible handwriting
+3. Need first *and* last name
+4. Looking for precision w/r/t the *author's* argument
+    + Partial credit for combination of correct + incorrect information
+5. When in doubt, signal knowledge of text
+
+:::
+
+## Exit Quiz Answers
+
+1. Eitan Hersh identifies two main problems caused by political hobbyism. Name one of them.
+
+. . .
+
+*   Hobbyism makes politics worse / sets bad incentives for politicians
+*   Hobbyism distracts from actually doing politics / cedes the playing field to those who will
+
+. . .
+
+Some of you came up with *other* potential downsides of hobbyism.
+
+## Exit Quiz Answers
+
+2. Briefly explain what Levitsky and Way mean by "competitive authoritarianism"
+
+. . .
+
+Competitive authoritarianism is "a system in which parties compete in elections but the incumbent's abuse of power tilts the playing field against the opposition."
+
+## This week
+
+More fundamentals:
+
+-   Are citizens capable of democracy?
+-   What is the social contract?
+-   Collective action and its problems
+
+## Essay 1 prompt posted{.smaller}
+
+If you could go back in time and make one recommendation to the delegates at the Constitutional Convention, what would it be and how would you convince *them* to take your advice?
+
+* Bear in mind that you don't need to convince me that your idea is good, you need to convince me that you could convince *the delegates at the convention*. In this context, a winning argument might be different than a merely correct argument. 
+* Recommendations may take the form of suggested changes to institutional design (i.e. amendments), but they do not need to. For example, you might warn the delegates of future developments they may not have anticipated (which would lead them to make different decisions).
+
+On Canvas: Files/Essay prompts/Essay 1 prompt.docx
+
+Due 9/30 (first day of Institutions), beginning of class
+
+# Information and Democracy
+
+## Citation
+
+Much of today's discussion comes from Chapter One of *What Americans Know About Politics and Why it Matters* (Delli Carpini and Keeter, 1996), which I [almost]{.yellow} assigned.
+
+. . .
+
+This is a [very brief]{.yellow} overview of specific strands of political thought, used for a specific purpose. [Take political theory classes!]{.fragment}
+
+## But first...
+
+Pop "quiz" (not graded):
+
+![](images/pollev_knowledge.png){fig-align="center" fig-alt="pollev.com/jongreen333 (with QR code)"}
+
+## A Democratic Paradox
+
+:::: {.columns}
+::: {.column width="60%"}
+
+Epistemic task of democracy: use information to collectively address pressing matters of public concern. 
+
+::: {.fragment fragment-index=2}
+
+But! Citizens are notorious for their ignorance.
+
+"The best argument against democracy is a five-minute conversation with the average voter." - Churchill
+
+:::
+
+:::
+
+::: {.column width="40%"}
+::: {.fragment fragment-index=2}
+
+![](images/churchill.jpeg){fig-align="center" fig-alt="Winston Churchill"}
+:::
+:::
+::::
+
+
+## A Democratic Paradox
+
+. . .
+
+{{< video images/undecided_voters.mp4 >}}
+
+
+## A Democratic Paradox
+
+. . . 
+
+Classic and early-modern philosophers looked down on what we would recognize as democracy as rule by some combination of:
+
+::: {.incremental}
+
+*   the mob (risks demagogues)
+*   the poor (risks wealth redistribution)
+*   the incompetent (risks generally bad decisionmaking)
+
+:::
+
+. . . 
+
+The people cannot be trusted to govern themselves.
+
+. . .
+
+And yet, people tend to value democracy as a form of government and it's done pretty well over the last couple of centuries. 
+
+<!--
+## A Democratic Paradox
+
+Quick show of hands: can you name your member of Congress (wherever you'd vote)? 
+
+. . . 
+
+What about your state senator?
+
+-->
+
+## Why this matters
+
+Why do proponents of democracy think it's better than the alternatives?
+
+::: {.incremental}
+
+* Fundamental right to self-determination
+* Aggregation of private interests promotes the public good
+    + Democracy solves information problems
+* Democratic citizenship is self-actualizing *for democratic citizens*
+
+:::
+
+## Why this matters
+
+But this only works if citizens have sufficient information and capacity to: 
+
+::: {.incremental}
+
+-   Be aware of and understand relevant issues
+-   Know what they (should) want
+-   Reason together about what they should do
+
+:::
+
+## Why this matters
+
+Mass ignorance leaves three options:
+
+::: {.incremental}
+
+-   Reject democracy
+-   Limit the scope of self-determination
+-   Strengthen democratic citizenship
+
+:::
+
+## Expectations of Democratic Citizenship
+
+Last week I said that democracy isn't either/or. 
+
+There are different types of democracy, and systems can be more or less democratic.
+
+. . .
+
+Democratic theories vary in how much they expect of democratic citizens.
+
+## Strong Democracy for the Few
+
+:::: {.columns}
+::: {.column width="60%"}
+
+Early democracy in Athens involved "thick" democratic citizenship: citizens administered the government directly.
+
+:::
+
+::: {.column width="40%"}
+![](images/athenian_democracy.png){fig-align="center" fig-alt="A portrait depicting Athenian democracy"}
+:::
+::::
+
+:::{.fragment fragment-index=2}
+
+Democratic citizens were expected to deliberate on public matters, serve in public offices, and hold administrative responsibilities.[..though citizenship was strictly limited.]{.fragment}
+
+:::
+
+## Strong Democracy for the Few
+
+Democratic citizens were expected to deliberate on public matters, serve in public offices, and hold administrative responsibilities...though citizenship was strictly limited.
+
+<br>
+
+These work in tandem: limiting citizenship limits scope/dimensions of disagreement.
+
+## Strong Democracy for the Few
+
+:::: {.columns}
+::: {.column width="60%"}
+
+Socrates and Plato were extremely skeptical that even these highly-engaged citizens would be capable of self-rule.
+
+:::
+
+::: {.column width="40%"}
+![](images/plato.jpeg){fig-align="center" fig-alt="Sculpture of Plato"}
+:::
+::::
+
+## Strong Democracy for the Few
+
+:::: {.columns}
+::: {.column width="60%"}
+
+Aristotle was a bit more optimistic, but his "polity" (not to be confused with "democracy") was still elitist.
+
+:::{.fragment fragment-index=2}
+
+Core idea: government should promote the common good, and citizens who aren't necessarily philosophers can reason together toward it.[..though some will be naturally better at this than others.]{.fragment}
+
+:::
+:::
+
+::: {.column width="40%"}
+![](images/aristotle.jpeg){fig-align="center" fig-alt="Sculpture of Aristotle"}
+:::
+::::
+
+## Strong Democracy for the Few
+
+:::: {.columns}
+::: {.column width="60%"}
+
+These ideas heavily informed the Roman republic.
+
+:::
+
+::: {.column width="40%"}
+![](images/roman_republic.jpeg){fig-align="center" fig-alt="Portrait of the Roman senate"}
+:::
+::::
+
+## Fast forwarding...
+
+I'm going to skip a lot of history of democracy.
+
+<br>
+
+What we're after is how classical theories of democratic citizenship link up with modern theories of democratic citizenship.
+
+## The Social Contract
+
+Someone tell me the basic idea behind the social contract.
+
+## Escaping the State of Nature
+
+:::: {.columns}
+::: {.column width="50%"}
+
+The core problem is that humans begin in the state of nature
+
+::: {.fragment fragment-index=2}
+
+-   "war of all against all"
+-   life is "solitary, poor, nasty, brutish, and short"
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=2}
+
+![Hobbes's Leviathan](images/leviathan_frontispiece.jpeg){width=80% fig-align="center" fig-alt="Frontispiece for The Leviathan. The Leviathan is depicted as looming over the city, comprised of individual people, wearing a crown and wielding a sword (for civil authority) and crosier (for religious authority). Additional symbols of civil power are in panels on the lower left and additional symbols of religious power are in panels on the lower right."}
+
+:::
+:::
+::::
+
+## State of Nature as Prisoner's Dilemma{.smaller}
+
+| | P2 Cooperates  | P2 Fights  |
+|:--------:|:--------:|:--------:|
+| P1 Cooperates |  2,2 | 0,3  |
+| P1 Fights | 3,0 | 1,1 |
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+P1's ranking:
+
+*   P1 exploits P2
+*   Peace (both cooperate)
+*   War (both fight)
+*   P2 exploits P1
+
+:::
+
+::: {.column width="50%"}
+
+P2's ranking:
+
+*   P2 exploits P1
+*   Peace (both cooperate)
+*   War (both fight)
+*   P1 exploits P2
+
+:::
+
+::::
+
+. . .
+
+Peace is [Pareto optimal]{.yellow} (no alternative makes everyone better off)
+
+War is [equilibrium]{.yellow} (no alternative is individually rational)
+
+## Collective Action Problem (Preview){.smaller}
+
+The prisoner's dilemma is a type of [collective action problem]{.yellow}, or situation in which individually rational decisions produce socially sub-optimal outcomes
+
+. . .
+
+Collective action problems are fundamental to politics, particularly at scale
+
+*   How to arrive at a collective decision
+*   How to ensure that this decision will be carried out
+
+. . .
+
+Tend to emerge with respect to public/collective goods, such as peace/security[ and clean air, academic peer review, group assignments, party planning...]{.fragment}
+
+
+## Judge a Book by Its Cover{.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+"A multitude of men, are made one person, when they are by one man, or one person, represented; [so that it be done with the consent of every one of that multitude in particular]{.yellow}. For it is the unity of the representer, not the unity of the represented, that maketh the person one...And if the representative consist of many men, [the voice of the greater number, must be considered as the voice of them all]{.yellow}." (Leviathan, Part 1, chapter 16)
+
+:::
+
+::: {.column width="50%"}
+
+![Hobbes's Leviathan](images/leviathan_frontispiece.jpeg){width=80% fig-align="center" fig-alt="Frontispiece for The Leviathan. The Leviathan is depicted as looming over the city, comprised of individual people, wearing a crown and wielding a sword (for civil authority) and crosier (for religious authority). Additional symbols of civil power are in panels on the lower left and additional symbols of religious power are in panels on the lower right."}
+
+:::
+::::
+
+
+## The Social Contract{.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+The social contract solves the previous prisoner's dilemma with an (implicit) agreement to trade some freedom for cooperation-enforcing institutions.
+
+::: {.fragment fragment-index=2}
+
+Those institutions:
+
+::: {.incremental}
+
+-   preserve private rights (safety, e.g.)
+-   derive their authority from the people
+
+:::
+
+:::
+:::
+
+::: {.column width="50%"}
+
+![](images/leviathan_frontispiece.jpeg){width=80% fig-align="center" fig-alt="Frontispiece for The Leviathan. The Leviathan is depicted as looming over the city, comprised of individual people, wearing a crown and wielding a sword (for civil authority) and crosier (for religious authority). Additional symbols of civil power are in panels on the lower left and additional symbols of religious power are in panels on the lower right."}
+
+:::
+::::
+
+## Context on Hobbes
+
+:::: {.columns}
+::: {.column width="50%"}
+
+Heavily influenced by the English Civil War, which resulted in the execution of King Charles I.
+
+::: {.fragment fragment-index=2}
+
+This led him to a...[minimalist]{.yellow} social contract.
+
+:::
+
+::: {.fragment fragment-index=3}
+
+Social contract obligates Leviathan to keep citizens out of the state of nature. [That's about it.]{.fragment}
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/leviathan_frontispiece.jpeg){width=80% fig-align="center" fig-alt="Frontispiece for The Leviathan. The Leviathan is depicted as looming over the city, comprised of individual people, wearing a crown and wielding a sword (for civil authority) and crosier (for religious authority). Additional symbols of civil power are in panels on the lower left and additional symbols of religious power are in panels on the lower right."}
+:::
+::::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+The goal of the social contract is to escape the state of nature -- much lower bar than the Greeks' pursuit of common good.
+
+:::{.fragment fragment-index=2}
+
+Locke: We can still do better than merely preserving our safety.
+
+:::
+:::
+
+::: {.column width="40%"}
+:::{.fragment fragment-index=2}
+
+![](images/locke.jpeg){fig-align="center" fig-alt="Portrait of John Locke"}
+:::
+:::
+::::
+
+:::{.fragment fragment-index=3}
+
+The social contract protects life, liberty, and [property]{.yellow}[, few expectations of citizens beyond self interest.]{.fragment}
+
+:::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+The goal of the social contract is to escape the state of nature -- much lower bar than the Greeks' pursuit of common good.
+
+:::
+
+::: {.column width="40%"}
+
+![](images/locke.jpeg){fig-align="center" fig-alt="Portrait of John Locke"}
+
+:::
+
+::::
+
+[Both]{.yellow} of these perspectives emphasize hierarchy in ability (to reason to decisions, to accumulate property).
+
+:::{.fragment fragment-index=2}
+
+For Locke these hierarchies likely go together.
+
+:::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+This makes elections useful for two things:
+
+. . .
+
+-   Select high ability citizens as representatives
+-   Check their power / throw them out if necessary
+
+. . .
+
+This offers a "thin" model of democratic citizenship. [All it asks is for occasional votes to protect one's private interest.]{.fragment}
+
+. . .
+
+But it is extended to more people who can limit government's excesses.
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+::::{.columns}
+
+::: {.column width="60%"}
+
+The early utilitarians make this explicit
+
+:::{.fragment fragment-index=2}
+
+Relaxed skepticism toward letting lower classes vote after observing mass (partisan!) politics the United States.
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/bentham.jpeg){fig-align="center" fig-alt="Portrait of Jeremy Bentham"}
+:::
+::::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+::::{.columns}
+
+::: {.column width="60%"}
+
+This leaves us with thin citizenship extended to many (but still not most) people.
+
+:::{.fragment fragment-index=2}
+
+Rousseau says we can do better because human nature isn't *inevitably* selfish.
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+:::{.fragment fragment-index=2}
+
+![](images/rousseau.jpeg){fig-align="center" fig-alt="Portrait of Jean-Jacque Rousseau"}
+:::
+:::
+::::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+::::{.columns}
+
+::: {.column width="60%"}
+
+Participation and deliberation will be good [for citizens]{.yellow} as well as society.[.. [if]{.yellow} they are placed in a cooperative social context.]{.fragment}[.. which is likely small and homogeneous.]{.fragment}
+
+:::
+
+::: {.column width="40%"}
+
+![](images/rousseau.jpeg){fig-align="center" fig-alt="Portrait of Jean-Jacque Rousseau"}
+
+:::
+::::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+::::{.columns}
+
+::: {.column width="60%"}
+
+For J.S. Mill, this can be scaled up.
+
+:::{.fragment fragment-index=2}
+
+Civic virtue is a [product of our institutions]{.yellow}, not a trait people either do or don't have.
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/mill.jpeg){fig-align="center" fig-alt="Portrait of John Stuart Mill"}
+:::
+::::
+
+## The Social Contract(s)
+
+::::{.columns}
+
+
+::: {.column width="33%"}
+:::{.fragment fragment-index=2}
+
+![Hobbes](images/tarkin.jpeg){fig-align="center" fig-alt="Grand Moff Tarkin and Darth Vader. Caption: Fear will keep the local systems in line"}
+:::
+:::
+
+::: {.column width="33%"}
+:::{.fragment fragment-index=3}
+
+![Locke](images/convention.jpeg){fig-align="center" fig-alt="Portrait of the constitutional convention"}
+:::
+:::
+
+
+::: {.column width="33%"}
+:::{.fragment fragment-index=4}
+
+![Rousseau](images/town_meeting.jpeg){fig-align="center" fig-alt="Norman Rockwell's 'Freedom of Speech' painting (now a meme)"}
+:::
+:::
+::::
+
+## So where does this leave us?
+
+Fundamental question: who governs?
+
+. . .
+
+This depends on your answers to:
+
+:::{.incremental}
+
+-   Who [should]{.yellow} govern?
+-   Who [can]{.yellow} govern?
+
+:::
+
+. . .
+
+Until relatively recently, the answer was: [some]{.yellow} people.
+
+## Why does this matter?
+
+The U.S. founding and history is full of tensions between these evolving ideas about competence and citizenship.
+
+. . .
+
+Are citizens responsible for...
+
+:::{.incremental}
+
+-   voting?
+-   *participating*?
+
+:::
+
+
+## Why does this matter?
+
+The U.S. founding and history is full of tensions between these evolving ideas about competence and citizenship.
+
+Does expanding citizenship...
+
+:::{.incremental}
+
+-   overburden the incapable and detract from the common good?
+-   broaden society's perspective and provide more checks on self-interest?
+
+:::
+
+## Why does this matter?
+
+The U.S. founding and history is full of tensions between these evolving ideas about competence and citizenship.
+
+Are political knowledge and civic virtue...
+
+:::{.incremental}
+
+-   traits we either do or don't have?
+-   resources we can cultivate?
+
+:::
+
+## Democratic Citizenship in the United States
+
+Scholars often call citizenship in the United States "thin"
+
+. . .
+
+Our institutions reflect the (small-l) liberal democratic social contract tradition
+
+. . .
+
+Emphases:
+
+-   indirect input on decisions via voting
+-   protection of private rights and liberties
+-   few *responsibilities* oriented toward the public good
+
+## Democratic Citizenship in the United States
+
+Scholars often call citizenship in the United States "thin"
+
+And you don't have to look too hard to see Hobbes
+
+![](images/musk_delegative_democracy.png){fig-align="center" fig-alt="Post from Elon Musk, quote-tweeting Tom Fitton (JUDICIAL COUP: Biden Judge orders @RealDonaldTrump To Admit 'Refugees' into the United States!): What is the point of having democratic elections if unelected activist 'judges' can override the clear will of the people? Well, that's no democracy at all!"}
+
+## Democratic Citizenship in the United States
+
+::::{.columns}
+
+::: {.column width="70%"}
+
+But key features of our society (public education, e.g.) take after Rousseau.
+
+:::{.fragment fragment-index=2}
+
+Think about what it means that we *frown upon* being completely ignorant of politics.
+
+:::
+
+:::{.fragment fragment-index=3}
+
+Plenty of evidence that U.S. citizens *want* to participate.
+
+:::
+:::
+
+::: {.column width="30%"}
+
+![](images/dewey.jpg){fig-align="center" fig-alt="Picture of John Dewey"}
+:::
+::::
+
+<!--
+## Democratic Citizenship in the United States
+
+::::{.columns}
+
+::: {.column width="70%"}
+
+"...education is not a prerequisite to political control — political control is the cause of popular education." - W.E.B. Du Bois
+
+:::
+
+::: {.column width="30%"}
+
+![](images/dubois.png)
+:::
+::::
+-->
+
+## Democratic Citizenship in the United States
+
+Competing traditions in U.S. political culture:
+
+::: {.incremental}
+
+*   Skepticism of mass politics
+*   Expectation of civic virtue
+*   Faith in the individual/private sphere
+*   Protectionist belief in voting as a check on centralized power
+*   Communitarian belief in participation as self-actualizing (virtuous cycle)
+
+:::
+
+## Democratic Citizenship in the United States
+
+This suggests a patchwork conception of democratic citizenship
+
+. . .
+
+Values both public good and pursuit of private interest
+
+. . .
+
+Varying expectations regarding the civic knowledge, virtue, and participation
+
+
+## Democratic Citizenship in the United States
+
+
+We treat political knowledge and civic virtue as resources[...without cultivating and distributing them.]{.fragment}
+
+. . .
+
+Result: unequal distribution of information, knowledge, and opportunity for authentic self-rule.
+
+## Civic Virtue as a Collective Action Problem{.smaller}
+
+Civic virtue as a resource we collectively cultivate --> information/participation becomes a matter of collective action
+
+. . .
+
+How so? [Think of some direct/immediate *individual* costs...]{.fragment}
+
+::: {.incremental}
+
+*   Time to collect and process information
+    + Developing coherent belief system takes effort
+    + Evaluating candidates/issues takes effort
+*   Time to discuss politics with peers
+*   Time/resources to go vote
+    + or contact representative, attend public meeting, protest, etc.
+
+:::
+
+## Civic Virtue as a Collective Action Problem{.smaller}
+
+The benefits of participation tend to be indirect/*collective*. [If you participate...]{.fragment}
+
+::: {.incremental}
+
+*   Your candidate you like *might* win/the one you don't *might* lose
+    + You need a bunch of other people like you to show up too
+      - But the odds your vote is decisive are slim
+    + If your candidate wins, they *might* move policy in your direction
+*   Your protest *might* advance its cause
+    + Odds are better if it's a big movement
+      - But the bigger it is, the less it hinges on you
+*   Improved/shared understanding has limited direct *material* value
+
+:::
+
+## Civic Virtue as a Collective Action Problem
+
+Result: inequalities in information/participation
+
+"Rational ignorance" when marginal cost of acquiring information > marginal benefit of using it
+
+![](images/first_amendment_annenberg.png){fig-align="center" fig-alt="Chart of percentage of people who can name specific protections of the First Amendment. 74% correctly name freedom of speech, 39% freedom of religion, 29% freedom of the press, 27% right of assembly, and 11% right of petition. 22% incorrectly name right to bear arms (that's the Second Amendment)"}
+
+
+## This is Fine (?)
+
+Consider:
+
+::: {.incremental}
+
+-   Trivia isn't politics 
+-   Elite representation
+-   Parties reduce complexity
+-   "Collective rationality"
+-   "Low-information rationality"
+-   Ignorance is bliss
+-   Full information doesn't exist
+
+:::
+
+## Why This is Not Fine
+
+These points will come back later in the semester. They're good points! But we shouldn't be satisfied with them.
+
+. . .
+
+Capacity for civic virtue -- i.e. how much we *can expect* from citizens -- is a resource that can be cultivated and distributed.
+
+. . .
+
+One implication: the "democratic paradox" isn't a paradox.[..the less capable citizens are, the [less democratic]{.yellow} society is.]{.fragment}
+
+## Sound Familiar?{.smaller}
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+"We say easily, for instance, 'The ignorant ought not to vote.' We would say, 'No civilized state should have citizens too ignorant to participate in government,' and this statement is but a step to the fact: that [no state is civilized which has citizens too ignorant to help rule it]{.yellow}. Or, in other words, education is not a prerequisite to political control — [political control is the cause of popular education]{.yellow}." - W.E.B. Dubois
+
+:::
+
+::: {.column width="40%"}
+
+![](images/dubois.png){fig-align="center" fig-alt="Picture of W.E.B. Du Bois"}
+
+:::
+
+::::
+
+## Thoughts?
+
+Let's talk about Dubois a bit. What did you think?
+
+. . .
+
+Features of U.S. politics that are more or less democratic?
+
+## Exit Quiz
+
+<!--
+2. W.E.B. Du Bois gives many reasons why the right to vote should not be limited to those with more knowledge or experience. Briefly explain one.
+-->
+1. Briefly explain why, for Dahl, inclusive elections are a necessary but *not* sufficient condition for democracy.
+
+2. In "Of the Ruling of Men," which of the following institutions does W.E.B. Du Bois argue we should extend democracy to?
+
+A) The family / private relations
+B) The workplace / industry
+C) The church / religion
+D) The press / media
+
+# Collective Action
+
+## Collective Action
+
+![](images/oj.jpeg){fig-align="center" fig-alt="Picture of oranges and a glass of orange juice."}
+
+## First, Exit Quiz Answers
+
+1. Briefly explain why, for Dahl, inclusive elections are a necessary but *not* sufficient condition for democracy.
+
+. . .
+
+Additional institutional features are necessary in order to ensure that government actions are responsive to the results of those elections (i.e. participation does not guarantee public contestation)
+
+## First, Exit Quiz Answers{.smaller}
+
+2. In "Of the Ruling of Men," which of the following institutions does W.E.B. Du Bois argue we should extend democracy to?
+
+. . .
+
+The workplace / industry (B)
+
+. . .
+
+No explanation necessary, some of you were right for the wrong reasons. We let that slide this time.
+
+## Maximize Your Country's Profit
+
+![](images/price_schedule.png){fig-align="center" fig-alt="Price schedule, plotting price per ton by global tons produced. Price decreases with global supply. Break-even price is 100k, which occurs at roughly 25 global tons produced."}
+
+## Debrief{.smaller}
+
+Alright, let's talk about this.
+
+::: {.incremental}
+
+*   What made this difficult?
+*   What made this easier?
+*   Rule changes?
+    + Number of teams?
+    + Varying costs?
+    + More than one commodity?
+*   Winners or losers other than countries?
+*   Real-world situations this lines up with?
+
+:::
+
+## Debrief
+
+![](images/biden_spr.png){fig-align="center" fig-alt="Headline: US speeds up purchasing for Strategic Petroleum Reserve as oil prices dip"}
+
+## Types of Collective Action Problems
+
+We just explored a specific collective action problem. Some broader categories:
+
+-   Free rider
+-   Tragedy of the commons
+-   Prisoner's dilemma
+-   Principal-agent
+
+## Excludability and Rivalry
+
+Some flavor of collective action is involved when managing goods that are...
+
+* [non-excludable]{.yellow}: can't prevent others from consuming good once it exists
+* [non-rival]{.yellow}: my consumption doesn't limit your consumption
+
+## Types of Goods
+
+| | Rival  | Non-Rival  |
+|--------|--------|--------|
+|**Excludable**| Private goods (food, cars)  | Club goods (HOAs, unions)   |
+|**Non-Excludable**| Common-pool goods (parks, roads) | Public goods (defense, air)   |
+
+## Free Rider Problem
+
+. . .
+
+Occurs when individual contribution seen as unnecessary for public good production.
+
+*   rational ignorance
+*   group projects
+*   academic peer review
+
+## Tragedy of the Commons
+
+. . .
+
+Occurs when cost to consume a common pool resource is absent/insufficient to moderate consumption.
+
+*   deforestation
+*   overfishing
+*   air pollution
+
+## Prisoner's Dilemma
+
+| | P2 Stays Quiet  | P2 Confesses  |
+|:--------:|:--------:|:--------:|
+| **P1 Stays Quiet** |  1 year, 1 year | 10 years, Free  |
+| **P1 Confesses** | Free, 10 years | 5 years, 5 years |
+
+. . .
+
+Variations:
+
+::: {.incremental}
+
+*   Repeated game
+*   Losses or gains?
+*   More than two players
+*   Institutions (that make defection costly)
+
+:::
+
+## Student's Dilemma
+
+![](images/116_ec.png){fig-align="center" fig-alt="Extra credit question from a previous final: 'Please write either two or five, indicating the number of extra credit points you would like to receive on this exam. If up to 1/4 of those who respond ask for five points, everyone will get the extra credit they ask for. If more than 1/4 of those who respond ask for five points, no one will get any extra credit. Writing down anything other than two or five will be considered abstention (i.e. you will not receive any extra credit and we will subtract you from the denominator when determining the 1/4 threshold for others). There are 32 students in this class. Assuming everyone writes down either two or five, this means that up to eight students can receive five points of extra credit, but if more than eight students ask for five points then no one gets any extra credit. If one student abstains, that threshold drops to seven."}
+
+## Principal-Agent Problem
+
+. . .
+
+Occurs when player delegating action (principal) and player to whom action is delegated (agent) have differing goals/incentives
+
+::: {.incremental}
+
+*   bureaucracy (executive --> bureaucrats)
+*   elections (voters --> politicians)
+*   political campaigns (candidate --> consultants, volunteers)
+
+:::
+
+## Coordination
+
+Before we talk about specific solutions...
+
+If I asked you to meet another student on campus, but you didn't know who, where, or when to meet...where and when would you go?
+
+. . .
+
+Why would this work?
+
+. . .
+
+Focal points aid in coordination.
+
+## Solutions to Collective Action Problems
+
+When spontaneous coordination isn't possible (which is often), we use institutions!
+
+::: {.incremental}
+
+*   Ability to monitor, reward, and sanction
+*   Can vary in how formal they are
+*   Benefit from repeated iterations
+    + Norms develop over time
+    + Actors develop reputations
+
+:::
+
+## Examples of Institutions?
+
+::: {.incremental}
+
+*   Congress
+*   political parties
+*   Krzyzewskiville
+
+:::
+
+
+## Coercion{.smaller}
+
+. . .
+
+Institutions limit some behaviors (coercion) to enable others (cooperation)
+
+. . .
+
+Rewards
+
+::: {.incremental}
+
+*   Incentivize good performance
+    + tax credits for *behavior*
+*   Privatization (property rights backed by state)
+
+:::
+
+Sanction
+
+::: {.incremental}
+
+*   Compel contribution
+    + taxes for *revenue*
+*   Regulation
+
+:::
+
+## Path Dependence
+
+. . .
+
+Results of coordination can stick long after they become inefficient:
+
+::: {.incremental}
+
+*   imperial measurement vs. metric system
+*   UK + colonies driving on left (wrong) side of the road
+*   QWERTY keyboard
+    + Why QWERTY?
+
+:::
+
+. . .
+
+Reflects power dynamics present at time of coordination (QWERTY due to merger of five largest typewriter companies in 1893)
+
+## Costs of Solving Collective Action Problems
+
+Two main ones that trade off against each other (this will come up a lot):
+
+*   [Transaction costs]{.yellow}: costs associated with making a collective decision
+*   [Conformity costs]{.yellow}: the extent to which collective decisions constrain participants
+
+. . .
+
+Examples of each? [In the context of your Orange Juice Production Bureaus?]{.fragment}
+
+. . .
+
+At Duke?
+
+## Costs of Solving Collective Action Problems
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+![](images/duke_psci_major_requirements.png){fig-align="center" fig-alt="Screenshot of Duke political science major requirements web page headline"}
+
+:::
+
+::: {.column width="40%"}
+
+![](images/duke_major_requirements_specific.png){fig-align="center" fig-alt="The major requirements, which can be found in detail at https://polisci.duke.edu/undergraduate/offerings/requirements"}
+
+:::
+
+::::
+
+
+## When is a time you free rode?
+
+. . .
+
+Ever used Wikipedia?
+
+
+## What are some collective action problems that come up in U.S. politics?
+
+. . .
+
+Collective action is everywhere!
+
+<!--
+
+## Let's talk about what you read
+
+. . .
+
+"...the challenge of creating legitimate coercion is at least as great as the challenge of resisting illegitimate coercion." - Jane Mansbridge
+
+
+## Let's talk about what you read
+
+Negotiation
+
+-   Why does Mansbridge like negotiation?
+-   Normative and empirical challenges?
+
+. . .
+
+Transparency...sometimes bad?
+
+. . .
+
+Deliberation, negotiation, and majority rule
+-->
+
+## Let's talk about what you read
+
+Someone explain the "Mancur Olson Doom Loop"
+
+. . .
+
+Examples?
+
+::: {.incremental}
+
+*   American Medical Association
+    + Who wants to argue we should pay heart surgeons less?
+*   Jones Act
+    + Who wants to argue we shouldn't hire U.S. workers?
+*   Tax filing companies
+
+:::
+
+## Let's talk about what you read
+
+Extended by James Q. Wilson...
+
+| | Benefits Concentrated  | Benefits Diffuse  |
+|:--------:|:--------:|:--------:|
+| Costs Concentrated |   |   |
+| Costs Diffuse |  |  |
+
+## Let's talk about what you read
+
+Extended by James Q. Wilson...
+
+| | Benefits Concentrated  | Benefits Diffuse  |
+|:--------:|:--------:|:--------:|
+| Costs Concentrated |  Interest Group Politics | Entrepreneurial Politics  |
+| Costs Diffuse | Client Politics | Majoritarian Politics |
+
+## Let's talk about what you read
+
+Extended by James Q. Wilson...
+
+| | Benefits Concentrated  | Benefits Diffuse  |
+|:--------:|:--------:|:--------:|
+| Costs Concentrated |  Interest Group Politics | Entrepreneurial Politics  |
+| Costs Diffuse | [Client Politics (Distributive Coalitions Win Here)]{.yellow} | Majoritarian Politics |
+
+
+## Exit Quiz
+
+1. Jane Mansbridge highlights two types of legitimacy that are important for her concept of "legitimate coercion." Identify and (briefly!) explain one of them.
+
+2. Dylan Matthews is optimistic that the United States can avoid the "Mancur Olson doom loop." Name one reason why.

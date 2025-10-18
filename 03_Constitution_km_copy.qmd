@@ -1,0 +1,1072 @@
+---
+title: "Week 3: The Constitution"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Quick bit of logistics
+
+I'm traveling Thursday-Sunday for a conference
+
+-   Kristina running class Thursday
+-   No office hours Friday
+
+. . .
+
+Additional regular office hours: W 4-5 (in addition to M 4-5 and F 2-3)
+
+## Exit Quiz Answers
+
+. . .
+
+1.  Jane Mansbridge highlights two types of legitimacy that are important for her concept of "legitimate coercion." Identify and (briefly!) explain one of them.
+
+. . .
+
+-   Empirical legitimacy: Do people actually perceive it as legitimate?
+-   Normative legitimacy: Is it publicly justifiable?
+
+## Exit Quiz Answers
+
+2.  Dylan Matthews is optimistic that the United States can avoid the "Mancur Olson doom loop." Name one reason why.
+
+. . .
+
+-   Possible to form distributive coalitions that represent broader interests (sectoral bargaining, e.g.)
+-   Mass online communication -- easier to generate backlash against distributive coalitions
+
+## Last week
+
+Democratic citizenship and collective action:
+
+-   Are citizens capable of democracy?
+-   What is the social contract?
+-   Collective action problems and solutions
+    -   Transaction costs and conformity costs
+
+## This week
+
+The Constitution
+
+-   What is a constitution?
+-   Politics of revolution (sets context for convention)
+-   Politics of the convention
+-   Politics of ratification
+-   Key features
+
+## Big picture
+
+What is a constitution?
+
+. . .
+
+Basic rules that govern the country:
+
+::: incremental
+-   Not necessarily a single document (UK, e.g.)
+-   Necessarily incomplete, filled in by norms (you can't write everything in advance)
+:::
+
+## Significance of Writing it Down
+
+Federalist #1 (Hamilton): "...it seems to have been reserved to the people of this country, by their conduct and example, to decide the important question, [whether societies of men are really capable or not of establishing good government from reflection and choice, or whether they are forever destined to depend for their political constitutions on accident and force.]{.yellow}"
+
+. . .
+
+Writing down the rules of the game is our alternative to violence. ("accident and force")
+
+## Background: Colonial Self-Government {.smaller}
+
+Landowning men in colonies elect legislatures; crown appoints governor.
+
+. . .
+
+Crown primarily interested in/had capacity for controlling foreign commerce
+
+. . .
+
+Colonies generally exercised [home rule]{.yellow}, maintaining control over their domestic policy in most cases
+
+-   governor retained veto power
+-   crown reserved right to intervene in domestic policy (but generally mostly concerned with trade); helped give colonists some confidence that could manage
+
+. . .
+
+Distance and existing home rule created favorable conditions for colonies to eventually revolt
+
+## Colonial Political Economy
+
+British empire practiced *mercantilism*. What's that? - goal is biggest trade surplus possible, get it by maximizing exports; set colonies' trade policy allowing you to extract resources from them (tax imports), make products, sell them back (also restrict colonies' rights to trade with other non-England countires)
+
+. . .
+
+Goal: maximize exports vs. imports using trade policy
+
+. . .
+
+Easier if you can set trade policy for colonies.
+
+## How it Worked
+
+British extract resources from colonies, sell finished products back to them.
+
+. . .
+
+Restrict colonies' rights to trade with other countries.
+
+-   Navigation Act (1651), Staple Act (1663), Restraining Act (1699)
+-   E.g: Colonies send tobacco to UK *first*, UK then exports it
+
+. . .
+
+Difficult to enforce trade restrictions and prevent informal markets (smuggling, bribing customs officials, etc. to get around taxation on imports, designed to restrict trade)
+
+## Fast-forwarding a bit...
+
+::::::: columns
+::::: {.column width="60%"}
+French and Indian War (1754–1763):
+
+::: fragment
+Bit of a misnomer.
+:::
+
+::: fragment
+North American theater of Seven Years War (broader Europe conflict):
+
+-   French + French colonists vs. England + British colonists
+-   Different Native American tribes fought on either side
+-   British win but saps resources
+:::
+:::::
+
+::: {.column width="40%"}
+![](images/french_indian_war.jpeg){fig-alt="Portrait of British soldiers attacking a French fort in the French and Indian War"}
+:::
+:::::::
+
+## Aftermath
+
+The British won, but the war was *expensive*
+
+::: incremental
+-   Sugar Act: *cut* taxes on sugar/molasses, but stepped up *enforcement* (no bribing customs officials)
+    -   explicitly about raising revenue, not regulating trade -- understood in colonies
+-   Stamp Act: tax on paper (enforced via stamp)
+-   Quartering Act (not economic, but still) colonists have to accept british soldiers in their homes
+:::
+
+. . .
+
+Interventions against home rule led to protests. (understood by colonists as intrusions, unreasonable)
+
+## 1765
+
+Nine colonies send representatives to "Stamp Act Congress" in New York
+
+. . .
+
+Draft list of grievances and codify "no taxation without representation."
+
+. . .
+
+British repealed Stamp Act and revised the Sugar Act, but rejected representation (only representation via us responding to grievances, no vote in parliament)
+
+## 1767
+
+Townshend Acts:
+
+-   New taxation package, including taxes on tea imports
+
+Led to boycott of British tea (and, predictably, a black market for [Dutch]{.orange} tea -- we'll come back to that)
+
+## 1770
+
+::::::: columns
+::::: {.column width="60%"}
+Boston Massacre: violent crackdown on protesters at Boston Customs House - considered a turning point
+
+::: fragment
+Quickly influenced public opinion, with help (and some creative liberties) from Paul Revere (wood carving he did of soldiers firing on protestors, changed race of first protestor killed from black to white)
+:::
+
+::: fragment
+Soldiers involved later found not guilty of murder (represented in court by John Adams!)
+:::
+:::::
+
+::: {.column width="40%"}
+![](images/boston_massacre.jpeg){fig-alt="Paul Revere's engraving depicting the Boston Massacre"}
+:::
+:::::::
+
+## 1773: Boston Tea Party
+
+Tea Act:
+
+::: incremental
+-   Boycott left British East India Company with *17 million pounds* of surplus tea
+-   Tea Act allowed BEIC to sell tea directly to colonies *tax-free*
+-   Massively undercut colonial merchants, who had been selling black-market Dutch tea
+:::
+
+. . .
+
+Merchants responded with the Boston Tea Party (and similar protests elsewhere), prompting harsh crackdown
+
+## 1774-1775
+
+First Continental Congress (all colonies except Georgia): Declaration of Rights and Resolves
+
+::: incremental
+-   Resolutions opposing recent crackdowns, demanding reform (but not independence)
+-   Agreement to reconvene if demands not met
+-   Fighting started before that could happen
+:::
+
+## 1776-1777
+
+Second Continental Congress
+
+. . .
+
+Declaration of Independence: grounded in (Lockean) social contract theory
+
+::: incremental
+-   Invokes natural ("inalienable") rights: life, liberty, and ~~property~~ pursuit of happiness
+-   Government exists to protect these rights, with consent of the governed (articulation of social contract)
+-   If the government isn't protecting these rights, the people have the right to abolish it
+:::
+
+. . .
+
+Outreach to France (send emmissaries asking for help in the war)
+
+## Articles of Confederation {.smaller}
+
+Weak national government emerged from states (reflecting political context):
+
+::: incremental
+-   Limited central powers
+    -   No national power to tax, regulate trade/commerce, or raise armies
+-   States sovereign within their territories
+-   9/13 "unit" majority required for major legislation; amendments must be unanimous
+    -   Legislation not final
+-   No executive to enforce agreements/implement legislation
+-   No judiciary to resolve disputes between states
+:::
+
+## Articles of Confederation {.smaller}
+
+Huge impediment to winning the war:
+
+::: incremental
+-   Slow decisionmaking (due to need for states' approval)
+-   Underfunding (due to states free-riding)
+-   No bureaucracy to implement decisions
+-   Army ill-supplied; citizens upset at lack of compensation for requisitioned supplies
+:::
+
+. . .
+
+Needed financial and material support from France to win.
+
+## The Critical Period: 1781-1789 {.smaller}
+
+Problems with government under the Articles:
+
+::: incremental
+-   Attendance
+-   Supermajority requirements (compounded by attendance)
+-   Levying taxes (tax legislation not final)
+-   Backing a currency
+-   Establishing credibility in trade agreements (undercut by individual states)
+-   Implementing what few laws did pass
+:::
+
+## The Critical Period: 1781-1789 {.smaller}
+
+General problem: Articles put the national government in charge of providing *public goods*....
+
+. . .
+
+...without empowering it to *enforce* cooperation
+
+Hard to prevent states from free riding:
+
+::: incremental
+-   Requisitions divided national expenditure proportionally by state
+-   When one state doesn't contribute, cooperating states paying *more* than fair share
+-   Without national enforcement, states left to do their own game theory on how much to contribute
+:::
+
+. . .
+
+Came to a head with Shay's Rebellion, where failure to coordinate led to a need for a private militia.
+
+## Constitutional Convention
+
+. . .
+
+Originally called for the purpose of revising the Articles
+
+. . .
+
+Goldilocks problem:
+
+-   British rule: too much centralized authority
+-   Articles: not enough centralized authority
+
+## Constitutional Convention
+
+Key points:
+
+::: incremental
+-   No such thing as "the" Framers/Founders who speak with one voice
+-   Delegates were *politicians*, not *philosophers*
+    -   Needed agreement acceptable to delegates *and* state legislatures
+-   Cleavages *material* as well as *ideological*
+:::
+
+## Constitutional Convention
+
+Remember path dependence: decisions made in 1787 lock in power dynamics present among those *in the room*
+
+-   Delegates were all generally a) wealthy and b) dissatisfied with the Articles
+
+. . .
+
+NH showed up late, NY left early, RI skipped
+
+. . .
+
+Some influential revolutionaries boycotted the convention, so as to not legitimize it.
+
+## Constitutional Negotiation
+
+The Constitution is a negotiated agreement:
+
+::: incremental
+-   improving over status quo \> being right
+-   privacy facilitated compromise
+:::
+
+## Philosophical Influences
+
+John Locke: social contract (popular sovereignty, individual rights, limited government)
+
+. . .
+
+Isaac Newton: social analogue to physical laws (checks and balances)
+
+. . .
+
+Montesquieu: separation of powers (legislative, executive, judicial)
+
+. . .
+
+David Hume: politics as competition between competing interests
+
+## Virginia Plan
+
+Madison &co arrived with an agenda:
+
+::: incremental
+-   Central government with legislative, executive, and judicial branches
+-   Bicameral legislature, proportional by population
+-   Lower house of legislature directly elected
+-   Upper house nominated by state legislatures
+-   Lower house selects upper house, executive, and judiciary
+-   Council of Revision can veto legislation, but legislature can override
+:::
+
+## New Jersey Plan
+
+Small state delegates cobble together response to Virginia Plan:
+
+::: incremental
+-   Revise Articles
+-   National government gets new powers to levy taxes, regulate commerce, and veto state legislation
+-   Unicameral legislature, one vote per state
+-   Congress elects executive
+-   Supreme Court adjudicates disputes in limited settings
+:::
+
+. . .
+
+Cleavages in *material interest* as much as philosophy.
+
+## Compromise
+
+Where did we land?
+
+::: incremental
+-   Bicameral legislature
+-   Lower house directly elected, proportional
+-   Upper house selected by state legislatures, two per state
+-   Lower house originates taxation and spending
+-   National government supreme over state governments
+-   Executive appoints judiciary with "advice and consent" of Senate
+-   Executive can veto legislation, 2/3 legislative majorities can override veto
+:::
+
+. . .
+
+Many issues, many cleavages
+
+## Cleavage 1a: Legislative Representation (General)
+
+Large states (VA, MA, PA, e.g.) vs. small states (NJ, NY, DE, e.g.)
+
+-   House by population, Senate by state
+
+## Cleavage 1b: Legislative Representation (Slavery)
+
+Large *northern* states (MA, PA) vs. large *southern* states (VA, NC, SC)
+
+. . .
+
+-   Enslaved count 3/5ths for determining population
+-   Punt on regulating slave trade until 1808
+-   Northern states must return fugitive slaves
+
+. . .
+
+Why 3/5? [Put slave states near 50% of the House (trending up).]{.fragment}
+
+## Cleavage 2: Nationalism
+
+```{=html}
+<!--
+
+Ends (NH, MA, NC, SC, GA) vs. middle
+
+. . .
+
+-->
+```
+
+-   Organization and powers of executive
+-   Citizenship
+-   Federal regulation of commerce and slavery
+    -   2/3 of Senate for treaty ratification (state blocs can veto trade agreements)
+    -   Punt on slave trade for 20 years
+
+## Cleavage 3: Federalism
+
+```{=html}
+<!--
+
+CT, NJ, and MD vs. everyone else
+
+. . .
+
+-->
+```
+
+-   States' role in selecting executive
+    -   joint ballot instead of separate by House/Senate
+-   Western territories / admitting of new states
+-   Federal military intervention
+-   Ratification procedures
+
+## Cleavage 4: Balancing Authority Within Government
+
+NH, CT, NJ, DE, MD, MA, and GA vs. VA, PA, NC, SC
+
+. . .
+
+-   Additional details on selection of executive
+    -   House *delegations* vote if no EC winner (so really by state)
+        -   Expectation that House would select frequently (without parties, EC would split many ways)
+
+## End Result
+
+What's important to remember about all these cleavages:
+
+-   Every state was in some winning coalitions and some losing coalitions
+-   Disagreements rooted in material interest
+-   Final structure acceptable but not ideal for everyone
+
+## Example: Selection of the Executive {.smaller}
+
+:::::: columns
+::: {.column width="40%"}
+Some options:
+
+-   Direct election
+-   Selection by House (VA plan)
+-   Selection by state governors
+:::
+
+:::: {.column width="60%"}
+::: fragment
+Result:
+
+-   States send electors (in a manner of their choosing)
+    -   States get one elector per member of Congress (House + Senate)
+    -   Winner is president, runner up is VP
+-   If no majority, selection by House
+    -   But members vote as state delegations, not individuals
+:::
+::::
+::::::
+
+. . .
+
+No one thought this was the "right" way to do it! And it quickly fell apart / required a patch (12th Amendment).
+
+## Key Features: Separation of Powers... {.smaller}
+
+::::::::: columns
+:::: {.column width="33%"}
+Legislative:
+
+::: incremental
+-   Taxation and spending appropriations
+-   War
+-   Treaty approval
+-   "necessary and proper" laws
+:::
+::::
+
+:::: {.column width="33%"}
+Executive:
+
+::: incremental
+-   Military
+-   Diplomacy
+-   Appointments
+-   Implementing laws
+-   "take care" clause
+:::
+::::
+
+:::: {.column width="33%"}
+Judicial:
+
+::: incremental
+-   Interpret law/resolve disputes
+-   Supremacy clause: national \> state governments
+    -   can review state laws
+:::
+::::
+:::::::::
+
+## Key Features: ...with Checks and Balances
+
+::::::::: columns
+:::: {.column width="33%"}
+Legislative:
+
+::: incremental
+-   Confirms Supreme Court justices
+-   Impeachment
+-   Veto override
+:::
+::::
+
+:::: {.column width="33%"}
+Executive:
+
+::: incremental
+-   Veto legislation
+-   Judicial appointment
+:::
+::::
+
+:::: {.column width="33%"}
+Judicial:
+
+::: incremental
+-   Judicial review?
+-   We'll come back to that one
+:::
+::::
+:::::::::
+
+## Key Features: Federalism
+
+States retain sovereignty and powers not reserved to national government
+
+. . .
+
+This was new!
+
+. . .
+
+We'll talk about that more next week
+
+## Additional Institutional Features
+
+[Symmetric bicameralism]{.yellow} in the legislature: two chambers that can both block proposals
+
+-   Senate is more powerful than many upper houses (UK House of Lords, e.g.)
+
+[Presidentialism]{.yellow}: executive selected independently from the legislature
+
+## Two Key Expansions of National Power
+
+. . .
+
+[Commerce clause]{.yellow}: power to regulate interstate commerce
+
+. . .
+
+<br>
+
+[Necessary and proper clause (or "elastic" clause)]{.yellow}: grants *implied* powers beyond those specifically enumerated
+
+## Not Addressed
+
+Electoral system:
+
+-   States administer elections, no consideration of how to aggregate voters' preferences
+
+Parties:
+
+-   Did not seriously consider
+
+Judicial review:
+
+-   Implied but not codified
+
+## Comparatively
+
+Relative to peer democracies, the US Constitution is the [hardest to amend]{.yellow}, which makes it [short]{.yellow}
+
+-   8k words (Spain: 19k, Canada: 21k, Sweden: 42k)
+
+. . .
+
+Gaps filled in by:
+
+-   Norms
+-   Laws
+-   Bureaucratic rules
+-   Supreme Court interpretation
+
+## Comparatively
+
+Relative to peer democracies, the US Constitution is [old]{.yellow}
+
+. . .
+
+Thomas Jefferson (not present at the convention) argued that there should be regular constitutional conventions, lest the people be ruled by the "dead hand of history"
+
+-   Path dependence!
+
+## Ratification
+
+Nine states needed to ratify Constitution.
+
+. . .
+
+Battle for public opinion: "Federalists" named themselves to avoid being called "nationalists."
+
+## Ratification {.smaller}
+
+Once again, cleavages *material* as well as ideological:
+
+|   | Federalists | Anti-Federalists |
+|----|----|----|
+| Primary constituencies | Merchants, landed rich | Agricultural, small farmers/businesses, workers |
+| Policy preferences | Centralization and checks on mass politics | Decentralization, more frequent elections, referendum and recall |
+| International Affinity | British | French |
+
+. . .
+
+Why would merchants have a greater interest in a stronger national government?
+
+. . .
+
+You've heard of some Anti-Federalists: [Patrick Henry, George Mason, James Monroe, Samuel Adams]{.fragment}
+
+## Ratification
+
+Debate: *Publius* (Federalist) vs. *Brutus* and *Cato* (Anti-Federalist)
+
+. . .
+
+Are the *Federalist Papers* "founding" documents? [Sort of, but not officially.]{.fragment}
+
+## Federalist 10: Dealing with Factions
+
+Point of order: what's a "faction"? ["...number of citizens, whether amounting to a majority or a minority of the whole, who are]{.fragment}[united and actuated by some common impulse of passion, or of interest]{.yellow}, adverse to the rights of other citizens."
+
+. . .
+
+What are the primary cleavages Madison highlights as likely to produce factions?
+
+## Federalist 10: Dealing with Factions
+
+Where do factions come from?
+
+. . .
+
+Freedom x Diversity = Factions [that will press private interests (can't assume "enlightened statesmen").]{.fragment}
+
+. . .
+
+Republican checks on "pure democracy" prevent tyranny of majority faction:
+
+-   Elected representatives
+-   Large body of diverse interests
+-   Delegate local issues to local governments
+
+## Federalist 10: Point of Order
+
+What does Madison mean by "pure democracy"?
+
+. . .
+
+"a society consisting of a small number of citizens, who assemble and administer the government in person"
+
+. . .
+
+Why do pure democracies have trouble managing factions?
+
+## Federalist 10: Point of Order
+
+Contrast "pure" democracy with a republic, or "a government in which the scheme of representation takes place"
+
+Delegation of government to a small number of (elected) representatives
+
+## Federalist 10: Big Picture
+
+How does Madison think about collective action problems?
+
+. . .
+
+Good institutional design *directs* self-interest toward cooperation
+
+. . .
+
+Small districts in a big legislature means:
+
+::: incremental
+-   Districts with clearer interests to represent
+-   Coalition politics necessary to get anything done
+    -   High transaction costs, low conformity costs
+:::
+
+## Federalist 10: Transaction Costs
+
+"Extend the sphere, and you take in a greater variety of parties and interests; you make it less probable that a majority of the whole will have a common motive to invade the rights of other citizens; or [if such a common motive exists, it will be more difficult for all who feel it to discover their own strength, and to act in unison]{.yellow}."
+
+## Federalist 51: Distributing Power
+
+"Ambition must be made to counteract ambition," using human nature to our advantage.
+
+. . .
+
+[In order to leave the state of nature]{.yellow}, even powerful individuals need to cede authority to a government. [This works better in a larger "extended republic" with power distributed vertically and horizontally.]{.fragment} [Why?]{.fragment}
+
+## Federalist 51: Distributing Power
+
+Giving branches lanes to stay in gives them *independent agency*
+
+. . .
+
+Giving branches checks on each other ensures that none become too powerful[...allows government to "control itself."]{.fragment}
+
+. . .
+
+Dividing power twice -- first between federal and state governments, then between branches of federal government -- provides "double security"
+
+```{=html}
+<!--
+## The Irony of Federalist 51
+
+"In republican government, the legislative authority necessarily predominates. The remedy for this inconveniency is to divide the legislature into different branches; and to render them, [by different modes of election and different principles of action, as little connected with each other as the nature of their common functions and their common dependence on the society will admit]{.yellow}."
+
+. . .
+
+The Virginia Plan went about this quite differently!
+-->
+```
+
+## Features of A Madisonian Republic
+
+Extended Republic means:
+
+::: incremental
+-   distributed power
+-   high transaction costs
+-   status quo bias
+:::
+
+. . .
+
+Why was this a winning argument for Madison's audience?
+
+## How Democratic?
+
+. . .
+
+Overwhelming rejection of monarchism
+
+. . .
+
+Adopted democratic principles/premises, but skeptical of practical features
+
+-   Still worried about mob rule / wealth redistribution
+
+. . .
+
+No affirmative right to vote, franchise left to states
+
+## Bill of Rights
+
+Concession made during ratification debate.
+
+. . .
+
+The first two didn't make it! [One found its way...in 1992.]{.fragment}
+
+. . .
+
+![](images/amendment_history.png){width="70%" fig-align="center" fig-alt="The compensation amendment would likely have become a mere footnote of history if not for a young student named Gregory D. Watson. In 1982, the 20-year-old University of Texas at Austin sophomore happened upon the story of the lost amendment while conducting research for a government class. 'This one pertaining to congressional pay raises immediately leaped off the page to me,' he later told the Austin American-Statesman. Sensing that he had unearthed an interesting topic, Watson wrote a term paper asserting that the compensation amendment had no expiration date and could still be added to the Constitution if the required number of states ratified it. Despite his enthusiasm, however, his professor didn't buy his argument. When he got his paper back, he found he had received a 'C' grade."}
+
+::: {style="font-size: 50%;"}
+https://www.history.com/news/the-strange-case-of-the-27th-amendment
+:::
+
+## Bill of Rights
+
+Ten did:
+
+. . .
+
+`(1)` Free expression and religion; `(2)` right to bear arms; `(3)` no quartering soldiers; `(4)` no unreasonable search and seizure; `(5)` due process; `(6)` right to speedy trial by jury; `(7)` jury for civil cases; `(8)` no cruel and unusual punishment; `(9)` unenumerated rights to people; `(10)` unenumerated rights to states.
+
+. . .
+
+<br>
+
+Many of these will come up again in later weeks on civil rights/liberties and the Courts.
+
+## Bill of Rights
+
+::::: columns
+::: {.column width="\"50%"}
+Not the Third Amendment.
+:::
+
+::: {.column width="\"50%"}
+![](images/third_amendment.png){fig-align="center" fig-alt="Jason Momoa meme by Jim Amendments on Twitter: The soldier thinking about taking a nap on my futon, about to be tackled by the Third Amendment."}
+:::
+:::::
+
+## Multiple Values in Bill of Rights
+
+::::::: columns
+:::: {.column width="50%"}
+Liberal (protections for individual freedom):
+
+::: incremental
+-   Speech, press, assembly
+-   Unreasonable search and seizure
+-   Due process
+:::
+::::
+
+:::: {.column width="50%"}
+Communitarian (provisions of local control):
+
+::: incremental
+-   Religious freedom
+-   Militia
+-   Jury trial
+-   Unenumerated state powers
+:::
+::::
+:::::::
+
+## Amending the Constitution
+
+. . .
+
+It's hard!
+
+. . .
+
+A few different pathways. All but the repeal of Prohibition have followed this one:
+
+::: incremental
+-   2/3 of House
+-   2/3 of Senate
+-   3/4 of States
+-   President, Supreme Court, and governors excluded
+:::
+
+. . .
+
+Amendments have tended to happen in spurts (post-Civil War, Progressive Era, Civil Rights Era).
+
+## The Politics of the Constitution: Material Interest
+
+![](images/father_founders.jpeg){width="80%" fig-align="center" fig-alt="Predicted pro-national government votes by convention delegates' number of sons (Panel A), distance from coastline (Panel B) and number of slaves owned (Panel C). Number of sons is positively associated with pro-national government votes, while distance from coastline and number of slaves owned are negatively associated with pro-national government votes."}
+
+::: {style="font-size: 50%;"}
+Pope, Jeremy, and Soren Schmidt. 2021 "Father Founders: Did Child Gender Affect Voting at the Constitutional Convention?" *American Journal of Political Science* 65(3): 529-771.
+:::
+
+## The Politics of the Constitution: Pivotal Players {.smaller}
+
+Does anyone here know who Roger Sherman was?
+
+. . .
+
+:::::: columns
+:::: {.column width="60%"}
+![](images/states_dims.png){width="60%" fig-align="center" fig-alt="States at the Constitutional Convention, reduced to two latent dimensions. Connecticut emerges as pivotal based on its location in the middle with respect to both dimensions."}
+
+::: {style="font-size: 50%;"}
+Dougherty, Keith, and Jac Heckelman. 2006. "A Pivotal Voter from a Pivotal State: Roger Sherman at the Constitutional Convention." *American Political Science Review* 100(2): 298.
+:::
+::::
+
+::: {.column width="40%"}
+![](images/roger_sherman.png){width="80%" fig-align="center" fig-alt="Portrait of Roger Sherman"}
+:::
+::::::
+
+```{=html}
+<!--
+
+## The Politics of the Constitution: Unresolved Issues
+
+. . .
+
+Do we think they knew exactly what these terms meant?
+
+::: {.incremental}
+
+-   "necessary and proper" for congressional jurisdiction
+-   "commerce" for regulating states
+-   "executive power" for president
+-   "high crimes and misdemeanors" for impeachment
+-   "good behavior" for judicial terms
+
+:::
+
+## The Politics of the Constitution: Unresolved Issues
+
+Expectation of more frequent amendments as new issues arose. 
+
+. . .
+
+We tend to rely on judicial review instead (which we'll get to in Courts week)
+
+
+## Let's talk about this
+
+Is Madison right about extended republics?
+
+. . .
+
+<br>
+
+Does the politics and compromise in the Constitution make it more or less impressive?
+
+. . .
+
+<br>
+
+How successful has the Constitution been at preventing tyrannies of the majority?
+
+-->
+```
+
+## Exit Quiz
+
+1.  What was William Paterson’s primary objection to the Virginia Plan’s institutional structure?
+
+2.  True or false: Madison's solution to the mischiefs of faction described in Federalist 10 is to eliminate its root causes.
+
+3.  What is the “double security” described in Federalist 51?
+
+# Break
+
+## Exit Quiz Answers
+
+1.  What was William Paterson’s primary objection to the Virginia Plan’s institutional structure?
+
+. . .
+
+Not politically viable (states would never ratify a Constitution with a unitary government)
+
+. . .
+
+This became bonus because \>50% of class missed.
+
+## Exit Quiz Answers
+
+2.  True or false: Madison's solution to the mischiefs of faction described in Federalist 10 is to eliminate its root causes.
+
+. . .
+
+False (factions are caused by free association and diversity of interests, neither of which you want to eliminate)
+
+## Exit Quiz Answers
+
+3.  What is the “double security” described in Federalist 51?
+
+. . .
+
+Separation of powers with checks and balances, on the one hand, and federalism on the other, both in their own way guard against tyranny of a central national government.
+
+# A More Perfect Constitution
+
+![](images/convention_small.jpg){width="90%" fig-align="center" fig-alt="Portrait of the constitutional convention."}
+
+## A More Perfect Constitution
+
+Think outside the box! Some examples:
+
+-   How many branches of government?
+-   Interbranch relations?
+-   National vs. state power?
+-   Legislature(s) size? Election timing?
+-   Who's eligible for which offices?
+-   How are which offices selected?
+-   Term limits? Who / how many?
+
+## Debrief {.smaller}
+
+Ok, let's unpack that...
+
+::: incremental
+-   Arguing and voting vs. negotiating to agreement
+-   Amending vs. starting from scratch
+    -   abolishing Senate vs. new constitution without one
+-   Based on current events?
+-   Supermajority requirement?
+-   Unit vs. individual voting?
+:::
+
+## Exit Quiz {.smaller}
+
+1.  Which **two** of the following clauses in the Constitution is *Brutus* most concerned will grant the national government too much power (hint: these are specifically referenced by article)?
+
+<!-- -->
+
+A)  The necessary and proper clause
+B)  The commerce clause
+C)  The full faith and credit clause
+D)  The supremacy clause
+
+<!-- -->
+
+2.  True or false: for Dahl, amending the Constitution to allow Congress to levy personal income taxes made the Constitution more democratic.
+
+3.  Juan Linz identifies two *institutional* problems with presidential systems. Briefly explain one of them.

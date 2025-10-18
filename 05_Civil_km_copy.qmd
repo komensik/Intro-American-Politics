@@ -1,0 +1,1440 @@
+---
+title: "Week 5: Civil Liberties and Civil Rights"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Logistics
+
+First essay due (and second prompt posted) [this time next week]{.yellow}.
+
+. . .
+
+Soon: defense scheduling.
+
+## Followup {.smaller}
+
+Question from last time: why was Trump's executive order withholding funds from sanctuary cities ruled unconstitutional when other crossover sanctions aren't?
+
+::: incremental
+1.  [Separation of powers]{.yellow}: Congress has power of the purse, president can't redirect/withhold spending unilaterally (this will come up a lot later)
+2.  [10th Amendment anti-"commandeering"]{.yellow}: can't compel local law enforcement to do federal law enforcement
+    -   Difference between carrots for state policy and sticks for bureaucratic behavior
+3.  (More specific to the specifics of the case) [Too vague]{.yellow} / allowed too much federal discretion
+    -   Related to law vs. executive order in that laws let states make fully informed decisions re: compliance
+    -   NH declined federal highway funds to keep drinking age low, e.g.
+:::
+
+## Exit Quiz Answers
+
+First, friendly reminder that Kristina needs to be able to read your handwriting!
+
+## Exit Quiz Answers
+
+1.  Why does Frymer call his argument a reflection of "an alternate model of \[nation-\]state authority"?
+
+. . .
+
+Conventional accounts highlight institutional/military capacity for state building. Frymer argues that land policies allowed the US to expand via decentralized, largely private activity despite relative lack of military capacity.
+
+## Exit Quiz Answers
+
+2.  Grumbach and Michener argue that there are four main ways that the costs and benefits of federalism are distributed unequally. Name one.
+
+. . .
+
+1.  venue selection/forum shopping
+2.  information asymmetry
+3.  exit threat
+4.  decentralized accountability
+
+## Last week
+
+Federalism
+
+-   What is federalism?
+-   Why do we have a federal system?
+-   How has U.S. federalism evolved over its history?
+-   Who benefits from federalism?
+
+## This week
+
+Civil liberties and civil rights
+
+## Civil Whats?
+
+What's the difference?
+
+. . .
+
+Generally speaking, we're talking about conformity costs:
+
+::: incremental
+-   civil liberties: where government [can't]{.yellow} intervene
+-   civil rights: where government [must]{.yellow} intervene
+:::
+
+. . .
+
+It's a little confusing that the Bill of *Rights* is where we get a lot of our civil *liberties*.
+
+## Bigger Picture
+
+Liberty and equality are two widely-accepted and *sometimes conflicting* traditions in U.S. politics and culture.
+
+. . .
+
+Big questions in civil liberties and civil rights often ask us to *make tradeoffs* between freedom and equality.
+
+. . .
+
+If the answers were easy, the questions wouldn't be interesting.
+
+::: incremental
+-   Edge cases test the limits of our principles
+-   Necessary, but challenging, to prioritize abstract process over short term substance
+:::
+
+## Bill of Rights
+
+The Federalists opposed including a Bill of Rights
+
+-   Redundant (included in many state constitutions)
+-   Unnecessary (unalienable rights in the founding)
+-   Difficult to enforce (would depend on civic norms)
+
+. . .
+
+Conceded to help chances of ratification
+
+## Key Liberties in the Bill of Rights
+
+Shout some out (we're going to walk through them).
+
+. . .
+
+Two other key amendments:
+
+::: incremental
+-   9th Amendment: unenumerated rights to the people
+-   14th Amendment: equal protection, due process
+:::
+
+## Incorporation via Fourteenth Amendment {.smaller}
+
+Fourteenth Amendment: post-Civil War, split into five sections (including congressional apportionment, barring traitors from holding office, and guaranteeing public debt).
+
+Section One is relevant here:
+
+"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws."
+
+## Incorporation via Fourteenth Amendment {.smaller}
+
+Due Process clause:
+
+"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; [nor shall any State deprive any person of life, liberty, or property, without due process of law]{.yellow}; nor deny to any person within its jurisdiction the equal protection of the laws."
+
+. . .
+
+States cannot exercise authority *arbitrarily*
+
+## Incorporation via Fourteenth Amendment {.smaller}
+
+Equal Protection clause:
+
+"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; [nor deny to any person within its jurisdiction the equal protection of the laws.]{.yellow}"
+
+. . .
+
+States cannot exercise authority *unequally*
+
+## Quick aside {.smaller}
+
+The debate over birthright citizenship is about this:
+
+"[All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside]{.yellow}. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws."
+
+```{=html}
+<!--
+5th Amendment: "No person..." shall "be deprived of life, liberty, or property, without due process of law."
+
+. . .
+
+14th Amendment: "No State..." shall "deprive any person of life, liberty, or property, without due process of law."
+
+. . .
+
+Initial interpretation limited to restrict national government / secure rights to freed slaves. Incrementally expanded.
+
+## Incorporation of Due Process to States{.smaller}
+
+*Allgeyer v. Louisiana* (1897): *substantive* due process standard
+
+Issue: Can states prohibit in-state businesses from transacting with out-of-state insurance companies?
+
+. . .
+
+Holding: No
+
+. . .
+
+Upshot:
+
+*   Burden of proof on government (incl. states) to show laws not arbitrary/unjust
+    + Particularly when regulating economic activity (such as contracts)
+
+## *Gitlow v. New York* (1925)
+
+Issue: Can states prosecute individuals for speech advocating the overthrow of the government?
+
+. . .
+
+Holding: Yes, *with limits*. Sedition laws generally unconstitutional.
+
+. . .
+
+Upshot: Formal application of federal free speech protections to state law
+
+::: {.incremental}
+
+-   Extended to freedom of the press in *Near v. Minnesota* (1931)
+
+:::
+
+-->
+```
+
+## Selective Incorporation
+
+:::::: {style="font-size: 60%;"}
+SCOTUS has tended to expand the list of rights deemed fundamental,[^1] but it's taken time
+
+::: fragment
+A non-exhaustive list by Amendment:
+:::
+
+::: incremental
+1.  speech (1925), press (1931), assembly (1937), religion (1940), petition (1963)
+2.  individual right to firearms (2008 / 2010!)
+3.  [lol]{.fragment}
+4.  no unreasonable search (1961), warrant requirements (1964)
+5.  compensation for seized property (1897), self-incrimination (1964), double jeopardy (1969)
+6.  speedy trial (1967), counsel (1963), jury (1966), & other rights of defendants
+7.  
+8.  no cruel and unusual punishment (1962) or excessive bail (1971)
+:::
+
+::: fragment
+Notice anything about these dates?
+:::
+::::::
+
+[^1]: "of the very essence of a scheme of ordered liberty" - *Palko v. Connecticut* (1937)
+
+## First Amendment: Freedom of Speech
+
+Common mix-up between free speech [rights]{.yellow} and free speech [norms]{.yellow} or [values]{.yellow}. The First Amendment restricts the [government's]{.yellow} ability to regulate what you say.
+
+. . .
+
+::::: columns
+::: {.column width="50%"}
+The government can't prosecute you for hate speech, but Instagram can remove it. <!--[And I can ask you to leave.]{.fragment}-->
+:::
+
+::: {.column width="50%"}
+![](images/insta_content.png){fig-alt="Quote from Instagram's community standards: '**Respect other members of the Instagram community**: We want to foster a positive, diverse community. We remove content that contains credible threats or hate speech, content that targets private individuals to degrade or shame them, personal information meant to blackmail or harass someone, and repeated unwanted messages. We do generally allow stronger conversation around people who are featured in the news or have a large public audience due to their profession or chosen activites.'"}
+:::
+:::::
+
+. . .
+
+We adopt free speech norms in class, but your peers are not [constitutionally obligated]{.yellow} to tolerate your opinions.
+
+## First Amendment: Freedom of Speech/Press
+
+The government is.
+
+![](images/trump_speech_illegal.png){fig-align="center" fig-alt="Politico headline: Trump: It's no longer free speech. The president doubled down on his claims that critical media coverage of him is illegal"}
+
+## Early Test-Case: Alien and Sedition Acts {.smaller}
+
+Early focus on "prior restraint" -- can't prohibit speech before the fact, but can punish after the fact.
+
+. . .
+
+::::::: columns
+::::: {.column width="50%"}
+1798: Alien and Sedition Acts banned criticism of Federalist government
+
+::: fragment
+Expired before challenge made it to the Supreme Court
+:::
+
+::: fragment
+Pretty easy call here: not constitutional.
+:::
+:::::
+
+::: {.column width="50%"}
+![](images/adams.jpg){width="60%" fig-align="center" fig-alt="Portrait of John Adams"}
+:::
+:::::::
+
+## Later Test Case: Civil War
+
+States (at that time) not bound by First Amendment.
+
+. . .
+
+<br>
+
+During run-up to Civil War, state-by-state criminalization of criticizing state's stance on slavery
+
+## Later Test Case: Civil War
+
+:::::: columns
+:::: {.column width="60%"}
+Lincoln:
+
+::: incremental
+-   Prohibited printing criticism of Union war effort
+-   Arrested newspaper editors, ignored courts
+-   Suspended *habeas corpus* (requirement to justify detention)
+:::
+::::
+
+::: {.column width="40%"}
+![](images/lincoln.jpeg){fig-alt="Picture of Abraham Lincoln"}
+:::
+::::::
+
+. . .
+
+All found unconstitutional after the war
+
+## Free Speech/Press: Where's the Line?
+
+. . .
+
+World War I: Espionage Act of 1917 criminalizes, among other things, leafleting against the war
+
+. . .
+
+*Schenk v. U.S.* (1919): "clear and present danger" test: government can violate liberties to prevent someone from harming themselves or others.
+
+::: incremental
+-   Pretty vague!
+-   Court has also considered "clear and probable danger" test, accounting for likelihood of harm
+:::
+
+## Where's the Line?
+
+*Bradenburg v. Ohio* (1969) partially overturns *Schenk*, establishes "direct incitement" test.
+
+. . .
+
+Advocating for illegal action *in general* is fine; inciting *specific* and *immediate* illegal action is not.
+
+. . .
+
+Quick question: is shouting fire in a crowded theater illegal? [The theater will probably kick you out, but, technically, not on its own.]{.fragment}
+
+## Prior Restraint?
+
+*New York Times Co. v. US* (1971)
+
+::: incremental
+-   U.S. government had lied about extent of Vietnam War
+-   Department of Defense report illegally leaked to *New York Times*
+-   Government attempted to prevent publication
+:::
+
+. . .
+
+6-3 ruling in favor of publication with nine separate opinions.
+
+. . .
+
+Upshot: government needs a *very good reason* to prevent publication of true information.
+
+## Hate Speech
+
+Contrary to popular belief, there is no hate speech exception to the First Amendment
+
+. . .
+
+Only crosses into unprotected speech if used to *intimidate* or otherwise harm
+
+. . .
+
+We may still informally "regulate" hate speech with social norms
+
+## Symbolic Speech
+
+:::::::: columns
+:::: {.column width="60%"}
+Usually, symbolic expression is treated similarly as speech.
+
+::: {.fragment fragment-index="2"}
+Including its limits.
+:::
+::::
+
+::::: {.column width="40%"}
+::: {.fragment fragment-index="1"}
+![](images/flagburning.jpeg){fig-alt="Picture of a burning American flag"}
+:::
+
+::: {.fragment fragment-index="2"}
+![](images/bh4j.jpg){fig-alt="Picture of students holding a 'Bong Hits 4 Jesus' sign"}
+:::
+:::::
+::::::::
+
+## Money as Speech
+
+Court has typically worried more about corruption than inequality in spending capacity.
+
+. . .
+
+*Buckley v. Valeo* (1971): limits on donations to campaigns OK, but limits on *independent* expenditures are not. [Affirmed in *Citizens United v. FEC* (2013)]{.fragment}
+
+. . .
+
+How that works out in practice comes later.
+
+## Commercial Speech
+
+Used to be much more strictly regulated.
+
+. . .
+
+<br>
+
+Lying for money still not protected the way lying in other contexts is.
+
+. . .
+
+<br>
+
+Spam is generally okay with some loose regulations
+
+## What You Can't Say {.smaller}
+
+Unprotected speech:
+
+::: incremental
+-   Written (libel) or spoken (slander) false defamation of character
+    -   Higher standards in U.S. than elsewhere
+    -   Especially high ("actual malice") standard if speech directed at public figures
+-   "Fighting words" such as threats
+-   Obscenity
+    -   Miller test: prurient interests, "patently offensive," and lacking serious value
+        -   Justice Stewart: "I know it when I see it"
+    -   States/local governments tend to have discretion
+    -   This gets difficult on the Internet
+:::
+
+```{=html}
+<!--
+
+## Current Test Case: Age Verification for Pornography
+
+::: {.fragment fragment-index=2}
+
+"outsourcing censorship to citizens"?
+
+:::
+
+![](images/utah_law.png)
+
+-->
+```
+
+## Freedom of Religion
+
+First Amendment: "Congress shall make no law respecting an [establishment]{.yellow} of religion, or prohibiting the [free exercise]{.yellow} thereof"
+
+Two prongs:
+
+::: incremental
+-   establishment clause[: government can't officially sanction religion]{.fragment}
+-   free exercise clause[: government can't interfere with private religious practice]{.fragment}
+:::
+
+## Freedom of Religion: "Wall of Separation" {.smaller}
+
+Who can tell me about the Danbury Baptists?
+
+. . .
+
+Danbury Baptists worried about persecution as a local religious minority, wrote to then-president Jefferson.
+
+. . .
+
+Jefferson's interpretation of First Amendment: combination of establishment and free exercise clauses establishes "wall of separation" between Church and State.
+
+::: incremental
+-   Government regulates public action, but not private beliefs or opinions
+-   Danbury Baptists don't have anything to worry about
+:::
+
+## Another Line in that Letter
+
+Jefferson also wrote that "Belief lies solely between man and his God...[the legislative powers of the government reach actions only.]{.yellow}"
+
+. . .
+
+This line would later be used to allow states to ban polygamy. [Later decisions allowing drug use in religious ceremonies.]{.fragment}
+
+## Freedom of Religion: Where's the Line? {.smaller}
+
+Questions that recur in First Amendment jurisprudence:
+
+::: incremental
+-   When is state action overly intrusive? [Can states force Amish parents to send their kids to high school?]{.yellow}
+-   When is state action "establishing" religion? [When can public school employees lead prayers on public school property?]{.yellow}
+-   When does religious practice become too "public"? [Do religious hospitals' health insurance plans for secular employees have to include birth control coverage?]{.yellow}
+-   What counts as a "religious" belief or practice in the first place? [Does conscientious objection to war need to be rooted in traditional religious belief for a draft deferment?]{.yellow}
+:::
+
+## Freedom of Assembly/Petition
+
+"Peaceful assembly for lawful discussion cannot be made a crime" - *DeJonge v. Oregon* (1937)
+
+. . .
+
+:::::: columns
+:::: {.column width="70%"}
+But! Assembly still regulated:
+
+::: incremental
+-   "traditional public forums" have less restrictions
+-   You likely need a permit to organize a protest that will block traffic
+:::
+::::
+
+::: {.column width="30%"}
+![](images/protestor_rights.png){fig-alt="ACLU Know Your Rights. Protesters' Rights: The First Amendment protects your right to assemble and express your views through protest. However, police and other government officials are allowed to place certain narrow restrictions on the exercise of speech rights. Make sure you're prepared by brushing up on your rights before heading out into the streets."}
+:::
+::::::
+
+. . .
+
+Government and/or counterprotestors may disagree about what counts as "peaceful"
+
+## Keeping and Bearing Arms {.smaller}
+
+. . .
+
+Anti-Federalists worried that national government would disarm state militias.
+
+. . .
+
+For most of early U.S. history, gun regulations mostly limited to banning possession by formerly enslaved people.
+
+. . .
+
+National Firearms Act of 1934 in response to a) better technology; and b) organized crime.
+
+-   Challenged and upheld on grounds that 2nd Amendment didn't protect the right to own *any kind* of gun
+
+. . .
+
+Individual right to own guns for personal use not established by SCOTUS until 2008 (federal) and 2010 (incorporation to state/local).
+
+## Keeping and Bearing Arms
+
+::::::: columns
+:::: {.column width="50%"}
+*Who* can own *which* guns still contested
+
+::: fragment
+We'll talk about this more during interest groups week.
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.fragment fragment-index="2"}
+![](images/guns_per_capita.jpg){fig-alt="Chart of guns per capita by country. The United States has the highest (120.5 firearms per 100 residents), more than double the next-highest country (Yemen -- 52.8 firearms per 100 residents)."}
+:::
+::::
+:::::::
+
+## Rights of Defendants: Article I
+
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   *habeas corpus*
+    -   require proof of lawful arrest, right to know what you're charged with
+-   no *ex post facto* laws
+-   no bills of attainder
+    -   Congress can't pass a law that says you, specifically, are guilty of something
+:::
+::::
+
+::: {.column width="40%"}
+![](images/lawandorder.jpeg){fig-alt="Law & Order title card"}
+:::
+::::::
+
+## Rights of Defendants: 4th Amendment {.smaller}
+
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   No unreasonable search and seizure
+    -   What's "reasonable"?
+    -   When do the police need a warrant?
+    -   *Who* can (or must) consent to a search of *what*?
+    -   What's a "search" or "seizure" in the 21st Century?
+-   Can't use illegally obtained evidence
+    -   With some exceptions
+:::
+::::
+
+::: {.column width="40%"}
+![](images/lawandorder.jpeg){fig-alt="Law & Order title card"}
+:::
+::::::
+
+## Rights of Defendants: 5th Amendment
+
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   Original Due Process clause!
+-   Grand jury for serious offenses
+-   Right to not self-incriminate
+-   No double-jeopardy
+-   *Miranda v. Arizona* (1966): "Miranda" rights against coerced confession
+:::
+::::
+
+::: {.column width="40%"}
+![](images/fifth.jpg){fig-alt="Keep Calm and Plead the 5th meme"}
+:::
+::::::
+
+## Property Rights: 5th Amendment
+
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   Fair compensation if the government takes your land
+    -   What about limits on how you can develop your land?
+    -   Public interest in private economic development?
+:::
+::::
+
+::: {.column width="40%"}
+![](images/fifth.jpg){fig-alt="Keep Calm and Plead the 5th meme"}
+:::
+::::::
+
+## Exit Quiz
+
+1.  True or false: non-citizens as well as citizens are entitled to due process.
+
+2.  Briefly (one sentence each) explain each side of the debate over whether wearing a mask at a protest is protected under the First Amendment's right to assembly
+
+3.  What is the name of the test the Supreme Court has used to evaluate whether certain classes of defendants are exempt from the death penalty under the Eighth Amendment's prohibition against "cruel and unusual punishment"?
+
+# Break
+
+## Programming Note
+
+![](images/Flyer%20for%20Sandel-Meritocracy.png){fig-align="center"}
+
+## Exit Quiz Answers
+
+1.  True or false: non-citizens as well as citizens have the right to due process.
+
+. . .
+
+True:
+
+-   The text of the Constitution says person, not citizen; and
+-   Due process is part of how the government establishes someone's legal status
+
+## Exit Quiz Answers
+
+2.  Briefly (one sentence each) explain each side of the debate over whether wearing a mask at a protest is protected under the First Amendment's right to assembly
+
+. . .
+
+[Pro]{.yellow}: protesters have a right to anonymity, criminalizing mask wearing might deter protected protest
+
+[Con]{.yellow}: anonymity makes it easier for protesters to engage in unprotected criminal activity
+
+## Exit Quiz Answers
+
+3.  What is the name of the test the Supreme Court has used to evaluate whether certain classes of defendants are exempt from the death penalty under the Eighth Amendment's prohibition against "cruel and unusual punishment"?
+
+. . .
+
+Evolving standards of decency
+
+## Rights of Defendants: 6th Amendment
+
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   Speedy trial by impartial jury of one's peers
+    -   How to ensure representative juries?
+-   Right to counsel - *Gideon v. Wainwright* (1963)
+    -   Right to *effective* counsel
+-   Right to confront witnesses (limited exceptions)
+:::
+::::
+
+::: {.column width="40%"}
+![](images/juryduty.jpg){fig-alt="Picture from Jury Duty (the show)"}
+:::
+::::::
+
+## Rights of Defendants: 8th Amendment
+
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   No excessive bail
+-   No "cruel and unusual punishment"
+    -   Death penalty still up to states, though constitutional restrictions on *procedure*
+    -   Stricter for minors and people with intellectual disabilities
+:::
+::::
+
+::: {.column width="40%"}
+![](images/solitary.jpg){fig-alt="Picture of a prison cell"}
+:::
+::::::
+
+## Unenumerated Rights
+
+9th Amendment: just because the Constitution doesn't explicitly name it doesn't mean the liberty doesn't exist
+
+. . .
+
+Allows for civil liberties to evolve with changing political culture.
+
+## Unenumerated Rights: Right to Privacy {.smaller}
+
+To what extent do enumerated liberties related to speech, association, and unreasonable search imply a "right to be left alone"?
+
+::: incremental
+-   *Griswold v. Connecticut* (1965): married couples allowed to use birth control
+    -   Argues that combination of enumerated rights creates "penumbras" of unenumerated protections
+    -   Extended to unmarried individuals in 1972
+-   *Roe v. Wade* (1973): Extends right to privacy to include abortion, state bans unconstitutional
+    -   Decades of litigation over how strictly to oversee *regulation* of abortion
+    -   Overturned in *Dobbs v. Jackson* (2022)
+-   *Lawrence v. Texas* (2003): State anti-sodomy laws unconstitutional
+:::
+
+## Unenumerated Rights: Right to Organize
+
+:::::: columns
+:::: {.column width="70%"}
+::: incremental
+-   Freedom of association under the penumbra of rights to speech, assembly, and petition
+-   *National Labor Relations Act* (1935)
+    -   Upheld under the commerce clause, but opinion recognizes fundamental right to unionize
+:::
+::::
+
+::: {.column width="30%"}
+![](images/strike.jpg){fig-alt="Picture of a unionized worker on strike, holding a sign that says 'On Strike'"}
+:::
+::::::
+
+```{=html}
+<!--
+
+## Challenges for Civil Liberties
+
+::: {.incremental}
+
+-   Who should decide? Congress? The courts?
+-   Tradeoffs between civil liberties and other considerations?
+
+:::
+
+## If time...
+
+Thoughts on what we read?
+
+. . .
+
+Thoughts on civil liberties more generally?
+
+-->
+```
+
+# Civil Rights
+
+## Pop "Quiz"
+
+1.  Name fifteen signatories to the Declaration of Independence.
+
+2.  Article IV, Sec. 3 of the U.S. Constitution (in part):
+
+::: {style="font-size: 65%;"}
+The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State.
+:::
+
+Explain what this means.
+
+## Just Kidding {.smaller}
+
+. . .
+
+**Article VI, Section 4. Qualification for registration.** Every person presenting himself for registration shall be able to read and write any section of the Constitution in the English language.
+
+![](images/ncliteracy.png){width="90%" fig-align="center" fig-alt="**Literacy test repeal**: Like many states, North Carolina enacted literacy test rules after Reconstruction, during the period now known as the Jim Crow era. They were abused for generations to stop Black people and other minorities from voting. The federal Voting Rights Act of 1965 outlawed literacy tests, as part of the Civil Rights Movement, but North Carolina voters chose in the 1970 elections to keep the rules anyway. The suggestion to ask voters in 2024 to repeal them passed the House unanimously Thursday, but was rejected by the Senate."}
+
+::: {style="font-size: 50%;"}
+"NC constitutional amendments: Legislature approves citizen-only voting, rejects repeal of Jim Crow literacy test law." WRAL News, June 27, 2024. https://www.wral.com/story/nc-constitutional-amendments-legislature-approves-citizen-only-voting-rejects-repeal-of-jim-crow-literacy-test-law/21500789/
+:::
+
+. . .
+
+At the time, carve-out for anyone eligible to vote or descended from someone eligible to vote before January 1, 1867 ("grandfather clause").
+
+## The *Right* to Vote?
+
+Fayetteville Observer, 1899
+
+::::: columns
+::: {.column width="60%"}
+![](images/fayettevilleobserver.jpg){fig-alt="Explanation of the Amendment. 1. Question. If the amendment is adopted, will the negro be allowed to vote? Answer. Only such negroes will be allowed to vote as can read and write, or such as are descended from those negroes who could vote prior to the Constitution of 1835, or who have come from States where negroes could vote before 1867. 2. Q. Will the amendment disenfranchise the uneducated whites? A. Certainly not. Under it, any white man who could vote at any time..."}
+:::
+
+::: {.column width="40%"}
+![](images/fayettevilleobserver3.jpg){fig-alt="3. Q. WHy this difference between the white man and negro? A. Why bless your soul, it is a matter of natural understanding and capacity. The white man has more sense and capacity than the negro, and inherently understands the duties and responsibilities of suffrage and citizenship better than the negro; and the Democratic Party holds that the uneducated white man can be trusted to cast a more intelligent vote than an educated negro. That is what white Democrats believe, whether white Republicans believe it or not. 4. Q. Will white men who are registered befire 1908 have to be able to..."}
+
+![](images/fayettevilleobserver2.jpg){fig-alt="... They have not yet learned that they can not fool all the people all the time. 16. Q. Will the amendment be adopted? A. Yes. By an overwhelming majority. The white people are determined to make white supremacy permanent in North Carolina."}
+:::
+:::::
+
+## The *Right* to Vote?
+
+This is where we get the argument that the U.S. wasn't a consolidated democracy until 1965.
+
+![](images/voting_rights_over_time.png){width="70%" fig-align="center" fig-alt="Chart of national voting rights over time for different groups. White Men: since 1789 (state-by-state restrictions based on property ownership and religion); All Non-Property Owners: since 1856; Black Men (Constitutional): since 1870; Women: since 1920; Native Americans: since 1924 (Federal elections only, some state restrictions lasted longer); Non-White Men and Women (Legislative): since 1965; 18-20 year olds: since 1971."}
+
+## The *Right* to Vote?
+
+The right to vote is, generously, unenumerated.
+
+. . .
+
+The Constitution specifies who you can't *keep* from voting, but it doesn't say everyone *can* vote.
+
+. . .
+
+Why is this distinction important?
+
+## The *Right* to Vote?
+
+![](images/felony_disenfranchisement.png){fig-align="center" fig-alt="Map of voting rights for individuals with felony convictions. No restrictions in Maine and Vermont (everyone including prisoners can vote); many states limit restrictions to prisoners; some states only grant right to vote to those who have completed sentence (including parole); and a few restrict voting rights for ex-felons after completion of sentence."}
+
+## The *Right* to Vote?
+
+![](images/sf_propn.png){fig-align="center" fig-align="**What the Measure Would Do** Proposition N would allow San Francisco residents who are of legal voting age and who are the parents, legal guardians or caregivers for children in the San Francisco United School District to vote in elections for the Board of Education, regardless of whether they are U.S. citizens. The measure would provide these voting rights to noncitizens who are in the country legally and illegally, as long as they have children ages 18 or younger."}
+
+```{=html}
+<!--
+## Civil Rights
+
+The material largely focuses on civil rights for Black Americans and women. 
+
+. . .
+
+There are reasons for this, but it leaves out a lot. 
+
+. . .
+
+We'll come back to this at the end.
+
+-->
+```
+
+## A Founding Focal Point
+
+Declaration of Independence: "all men are created equal" and are endowed with natural rights.
+
+. . .
+
+This is clearly not put into immediate practice. [But.]{.fragment}
+
+. . .
+
+The story of civil rights in the United States is largely a story of marginalized groups [acting collectively]{.yellow} around this [founding principle]{.yellow}.
+
+## Early Civil Rights Movements {.smaller}
+
+Abolition and women's rights (including but not limited to suffrage)
+
+:::::::: columns
+::: {.column width="20%"}
+![Garrison](images/garrison.jpg){fig-alt="Picture of William Lloyd Garrison"}
+:::
+
+::: {.column width="20%"}
+![Douglass](images/douglass.jpg){fig-alt="Picture of Frederick Douglass"}
+:::
+
+::: {.column width="20%"}
+![Truth](images/sojourner.jpeg){fig-alt="Picture of Sojourner Truth"}
+:::
+
+::: {.column width="20%"}
+![Stanton](images/stanton.jpg){fig-alt="Picture of Elizabeth Cady Stanton"}
+:::
+
+::: {.column width="20%"}
+![Mott](images/mott.jpg){fig-alt="Picture of Lucretia Mott"}
+:::
+::::::::
+
+. . .
+
+::::: columns
+::: {.column width="50%"}
+*The Liberator*, American Anti-Slavery Society
+:::
+
+::: {.column width="50%"}
+Seneca Falls Convention, Declaration of Sentiments
+:::
+:::::
+
+. . .
+
+Tensions and affinities between the two movements.
+
+## Slavery and the Run-Up to the Civil War {.smaller}
+
+:::::::::: columns
+:::::: {.column width="50%"}
+1808: Slave trade clause in Constitution expires
+
+:::: fragment
+Missouri Compromise (1820): Slavery banned north of 36°30'
+
+::: incremental
+-   Missouri admitted as slave state
+-   Maine created as free state
+:::
+::::
+
+::: fragment
+1845: Texas cedes land north of 36°30' to enter as slave state
+:::
+::::::
+
+::::: {.column width="50%"}
+:::: fragment
+Compromise of 1850:
+
+::: incremental
+-   Congress passes Fugitive Slave Act
+-   California admitted as free state
+-   Utah and New Mexico each allowed to decide
+:::
+::::
+:::::
+::::::::::
+
+## Slavery and the Run-Up to the Civil War {.smaller}
+
+::::::::: columns
+:::::: {.column width="50%"}
+::::: fragment
+Kansas-Nebraska Act of 1854:
+
+::: incremental
+-   Kansas and Nebraska established, each allowed to decide on slavery
+-   "Bleeding Kansas"
+-   Whigs fall apart, leading to creation of Republican Party
+:::
+
+::: fragment
+Kansas's southern border set at 37° -- land between 36°30' and 37° later becomes Oklahoma panhandle.
+:::
+:::::
+::::::
+
+:::: {.column width="50%"}
+::: fragment
+*Dred Scott v. Sandford* (1857): unconstitutional for Congress to limit property rights of slave owners
+
+-   Undoes prior political management of slavery cleavage
+:::
+::::
+:::::::::
+
+## Civil War and the End of Slavery
+
+Election of 1860:
+
+![](images/election_1860.jpeg){width="60%" fig-align="center" fig-alt="Map of the 1860 presidential election results. Popular vote: Lincoln (Republican) 40%, Douglas (Northern Democratic) 29%, Breckenridge (Southern Democratic) 18%, Bell (Constitutional Union) 13%. Electoral vote: Lincoln (Republican) 59%, Breckenridge (Southern Democratic) 24%, Bell (Constitutional Union) 13%, Douglas (Northern Democratic) 4%"}
+
+. . .
+
+Emancipation Proclamation: enslaved people in Confederate States free on Jan 1, 1863
+
+## Reconstruction: 1865-1877 {.smaller}
+
+:::::::: columns
+:::: {.column width="40%"}
+13th-15th Amendments:
+
+::: incremental
+-   13th: Formally abolishes slavery
+-   14th: Equal protection and due process
+-   15th: Can't deny right to vote based on "race, color or previous condition of servitude"
+:::
+::::
+
+::::: {.column width="60%"}
+::: fragment
+Brief military occupation of the South, followed by brief period of (violently contested) multi-racial democracy
+
+![](images/first_black_moc.jpg){fig-alt="Picture depicting the first black members of Congress: Senator Hiram Reveis (MS, 1870), Representative Benjamin Turner (AL, 1871), Representative Robert CarlosDe Large (SC, 1871), Representative Josiah Walls (FL, 1871), Representative Jefferson Long (GA, 1871), Representative Joseph Rainey (SC, 1870), and Representative Robert Elliot (SC, 1871)"}
+:::
+
+::: fragment
+Formal (Freedmen's Bureau) and informal (Union Leagues) institutions promoting Black economic and political advancement.
+:::
+:::::
+::::::::
+
+## Jim Crow Laws
+
+Northern support for Reconstruction steadily waned, formally ended by Compromise of 1877 to settle election of 1876.
+
+. . .
+
+Southern states quickly moved to formally reestablish white supremacy.
+
+-   Voting restrictions
+-   Segregation
+-   Anti-miscegenation laws
+-   Protections for private discrimination
+
+## Jim Crow Laws
+
+::::::: columns
+:::: {.column width="50%"}
+15th Amendment circumvented through the use of "colorblind" policies with clear intent.
+
+::: fragment
+White-only Democratic primary elections in South ruled unconstitutional in 1944.
+:::
+::::
+
+:::: {.column width="50%"}
+![](images/regrate_louisiana.png){fig-align="center" fig-alt="Proportion of African American and White Voters Registered to vote (in Louisiana) from 1878 to 2010 with Key Historical Periods Noted. African American registration falls to near zero upon adoption of the Grandfather Clause (1898-1915), Poll Tax (1901-1936), and White Primary (1921-1944). Once these restrictions are lifted it rises to 21% before slowing upon adoption of the Understanding CLause (1945-1965). It jumps to 41% upon passage of the Voting Rights Act in 1965 and then gradually increases to over 80% by 2010, where it finally matches white registration rates that have held steady at roughly 80% since the mid-1900s."}
+
+::: {style="font-size: 50%;"}
+Keele, Luke, William Cubbison, and Ismail White. 2021. "Suppressing Black Votes: A Historical Case Study of Voting Restrictions in Louisiana." *American Political Science Review* 115(2): 694–700.
+:::
+::::
+:::::::
+
+## Jim Crow Rulings
+
+*Civil Rights Cases* (1883):
+
+-   Narrow interpretation of Civil Rights Act of 1875
+-   *Government* can't discriminate, but they can't force *individuals* not to
+
+. . .
+
+*Plessy v. Ferguson* (1896):
+
+-   "Separate but equal" doctrine: held that segregation doesn't violate 14th Amendment
+
+## Progressive Era (1896-1917)
+
+Technological change, concentration of wealth, and series of political corruption scandals sparked wave of activism calling for increased transparency, accountability, and labor power.
+
+## Progressive Era (1896-1917)
+
+Among other social movements/organizations, this is where we get:
+
+::: incremental
+-   NAACP
+-   National American Woman Suffrage Association
+-   American Federation of Labor
+:::
+
+## Progressive Era (1896-1917)
+
+Among other reforms, this is where we get
+
+::: incremental
+-   Keating-Owen Act (first national child labor restriction)
+-   Adamson Act (eight hour work day for interstate railroad workers)
+-   Secret ballot and the first primary elections
+-   17th Amendment (direct election of senators)
+-   19th Amendment (women's suffrage)
+:::
+
+## The Lochner Court {.smaller}
+
+:::::: columns
+:::: {.column width="70%"}
+::: incremental
+-   *Allgeyer v. Louisiana* (1897): economic freedom incorporated into due process clause
+-   *Lochner v. New York* (1905): freedom of contract means freedom to work more than 60 hours/week
+-   *Adair v. United States* (1908): OKs "yellow dog" contracts that prohibit union membership
+-   *Hammer v. Dagenhart* (1918): struck down Keating-Owen child labor restrictions
+-   *Adkins v. Childrens Hospital* (1923): struck down federal minimum wage for women+children in DC
+-   ...and so on, ruling variety of economic regulation unconstitutional
+:::
+::::
+
+::: {.column width="30%"}
+![](images/bakeries.jpg){fig-alt="Picture of City Bakeries"}
+:::
+::::::
+
+## The Lochner Court...vs. the New Deal {.smaller}
+
+:::::: columns
+:::: {.column width="70%"}
+::: incremental
+-   *U.S. v. Butler* (1936): blocks Agricultural Adjustment Act
+-   *Carter v. Carter Coal Co.* (1936): blocks federal regulation of coal industry
+-   [1937: FDR proposes Judicial Procedures Reform Bill]{.yellow}
+-   *West Coast Hotel v. Parrish* (1937): minimum wages for women *are* constitutional
+    -   Justice Roberts (not that one) switched stance on minimum wage
+-   1938: Fair Labor Standards Act (minimum wage, 40 hour work week, child labor restrictions)
+:::
+::::
+
+::: {.column width="30%"}
+![](images/RooseveltNewDeal.jpg){fig-alt="Campaign button for FDR: slogan 'For A New Deal'"}
+:::
+::::::
+
+## Implications Beyond Labor Law {.smaller}
+
+Meanwhile, NAACP was working on legal strategy to challenge "separate but equal"
+
+:::::: columns
+:::: {.column width="60%"}
+*Gaines v. Canada* (1938):
+
+::: incremental
+-   Lloyd Gaines applied to University of Missouri Law School
+    -   Rejected due to race without separate option
+-   Holding: either admit him or set up alternative
+-   *Plessy* intact, but tension in "separate but equal" drawn out
+:::
+::::
+
+::: {.column width="40%"}
+![](images/Lloyd_Gaines.jpg){fig-alt="Picture of Lloyd Gaines"}
+:::
+::::::
+
+## *Gaines* as Precedent
+
+:::::: columns
+:::: {.column width="60%"}
+NAACP Legal Defense and Educational Fund
+
+::: incremental
+-   Incremental wins based on *Gaines*
+-   *McLaurin v. Oklahoma* (1950): Can't admit a student then treat them differently
+-   Truman administration wrote *amicus* brief against *Plessy*[...why?]{.fragment}
+:::
+::::
+
+::: {.column width="40%"}
+![](images/marshall.jpeg){fig-align="center" fig-alt="Picture of Thurgood Marshall"}
+
+![](images/mclaurin.jpeg){fig-align="center" fig-alt="Picture of George McLaurin attending class, seated outside of the classroom while his white classmates are seated inside the classroom."}
+:::
+::::::
+
+## Cold War Civil Rights
+
+:::::: columns
+::: {.column width="70%"}
+"If the imprimatur of constitutionality should be put on such a denial of equality, [one would expect the foes of democracy to exploit such an action for their own purposes]{.yellow}. The ideals embodied in our Bill of Rights ridiculed as empty words, devoid of any real substance."
+:::
+
+:::: {.column width="30%"}
+::: fragment
+![](images/dudziak.jpeg){fig-align="center" fig-alt="Cover of *Cold War Civil Rights*, by Mary Dudziak"}
+:::
+::::
+::::::
+
+```{=html}
+<!--
+## Cold War Civil Rights
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+"...a lot of people try to pretend that the whole issue is a creation of Communist imagination.
+
+But [they are not fooling anyone with this kind of pretense]{.yellow}...Negroes were stirred up long before there was a Communist Party, and they'll stay stirred up long after the party has disappeared--[unless Jim Crow has disappeared by then as well]{.yellow}."
+
+:::
+
+::: {.column width="30%"}
+
+![](images/robinson.jpg){fig-align="center"}
+
+:::
+
+::::
+-->
+```
+
+## *Brown v. Board of Education* (1954)
+
+Holding: segregation violates equal protection clause
+
+*Brown v. Board II* (1955): integration "with all deliberate speed," to be enforced by federal government
+
+## Outside of the Courts {.smaller}
+
+The civil rights movement was/is a *social* movement as much as a *legal* movement
+
+:::::: columns
+::: {.column width="33%"}
+![King](images/mlk.jpg){width="60%" fig-alt="Picture of Martin Luther King, Jr."}
+:::
+
+::: {.column width="33%"}
+![Parks](images/parks.jpeg){width="60%" fig-alt="Picture of Rosa Parks"}
+:::
+
+::: {.column width="33%"}
+![Bond](images/julian_bond.jpeg){width="60%" fig-alt="Picture of Julian Bond"}
+:::
+::::::
+
+. . .
+
+Used protests to [draw attention]{.yellow} to issue (we'll come back to this in interest groups week)
+
+## Constitutional Win
+
+24th Amendment (outlawing poll taxes) ratified in 1964, interpreted to cover state/local elections in 1966
+
+## Legislative Wins {.smaller}
+
+Civil Rights Act of 1964:
+
+::: incremental
+-   Bars discrimination in public accommodation
+-   DOJ authority to desegregate
+-   Withhold federal funds from discriminatory state/local programs
+-   Established EEOC to monitor employment discrimination
+    -   covers race, religion, national origin, and sex
+-   Title VII: sexual harassment is sex discrimination
+:::
+
+## Legislative Wins
+
+Voting Rights Act of 1965:
+
+::: incremental
+-   Outlaws Literacy tests, grandfather/understanding clauses
+-   DOJ "preclearance" of changes to election administration
+    -   Formula for determining coverage nixed in *Shelby v. Holder* (2013)
+-   Further interpreted to guarantee minimum minority representation in redistricting
+:::
+
+## But, Keep in Mind
+
+Voting rights for felons still left to states.
+
+![](images/eubank_fresh_fig2.png){width="90%" fig-align="center" fig-alt="Rate of black admissions (to prison) per 100k in states covered vs. not covered by the Voting Rights Act, before and after its passage. Admission rates were lower in covered states (with rates in both types of states stable) prior to passage. After passage, rates increase in covered states faster than they increase in uncovered states, such that by 1980 covered states have at least matched and possibly exceeded incarceration rates of uncovered states."}
+
+::: {style="font-size: 40%;"}
+Eubank, Nicholas, and Adriane Fresh. 2022. "Enfranchisement and Incarceration after the 1965 Voting Rights Act." *American Political Science Review* 116(3): 791-806.
+:::
+
+## Parallel Movements for Civil Rights
+
+::: incremental
+-   Equal Pay Act of 1963: employers can't wage discriminate against women
+    -   Lily Ledbetter Act of 2009: easier to sue employer for past wage discrimination
+-   Title IX of Education Amendments of 1972: bans sex discrimination in federally-funded education
+    -   Among other things, this is huge for women's sports
+:::
+
+## Equal Rights Amendment {.smaller}
+
+Proposed in every Congress since 1923:
+
+-   Equality of rights under the law shall not be denied or abridged by the United States or by any state on account of sex.
+-   The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article.
+
+. . .
+
+:::::: columns
+:::: {.column width="70%"}
+Passed House (354-24) and Senate (84-8) in 1972, quickly ratified by 22 states.
+
+::: incremental
+-   Organization against ERA tied it to *Roe*, the draft, and traditional gender roles
+-   35 states eventually ratified by 1979 deadline (which was extended to 1982), but 38 needed
+-   Nevada, Illinois, and Virginia ratified more recently, after the deadline
+:::
+::::
+
+::: {.column width="30%"}
+![Phyllis Schlafly](images/schlafly.jpg){width="80%" fig-align="center" fig-alt="Picture of Phylis Schlafly wearing a 'STOP ERA' pin"}
+:::
+::::::
+
+## Enforcing Civil Rights
+
+How do we evaluate whether a law violates civil rights?
+
+. . .
+
+Variety of legal tests, depending on whose rights are in question.
+
+## Degrees of Scrutiny
+
+Strict scrutiny (case involves "suspect classification" of race, ethnicity, religion, or national origin):
+
+::: incremental
+-   law must have "compelling state interest"
+-   be narrowly tailored to that interest
+-   be the least restrictive means of achieving that interest
+:::
+
+## Degrees of Scrutiny
+
+Intermediate scrutiny (if case involves sex or gender):
+
+::: incremental
+-   law "substantially related" to "important government objective"
+-   means not substantially broader than necessary
+:::
+
+## Degrees of Scrutiny
+
+Rational Basis (age, economic status, or other criteria):
+
+::: incremental
+-   is government action "rationally" related to "legitimate" interest?
+-   does policy avoid "arbitrary, capricious, or deliberate" discrimination?
+:::
+
+## Degrees of Scrutiny: Example
+
+*Trump v. Hawaii* (2018): upholds temporary ban on immigration from specific Muslim-majority countries
+
+::: incremental
+-   Majority: rational basis test, ban OK due to "sufficient national security justification"
+-   Minority: (among other objections), [we should be using strict scrutiny]{.yellow}
+:::
+
+## Native American Rights
+
+I want to come back to this article for a moment.
+
+::::: columns
+::: {.column width="50%"}
+![](images/frymer_abstract.png){fig-alt="Title and abstract for Frymer (2014), 'A Rush and a Push and the Land is Ours'"}
+:::
+
+::: {.column width="50%"}
+![](images/frymer_figure.png){fig-alt="Figure 7: Removals of indigenous people to Indian Territory. Depicts removals out of Oklahoma and to other states and provinces, mostly in the United States but some in Canada."}
+:::
+:::::
+
+## Native American Rights
+
+After territorial expansion, systematic ignorance of treaties/contracts.
+
+. . .
+
+Dawes Act (1887): Authorized government to parcel out land legally controlled by Native governments
+
+-   90 million acres over 50 years
+
+. . .
+
+Recent progress (*McGirt v. Oklahoma* (2020), e.g.)
+
+## Immigrant Rights
+
+-   Chinese Exclusion Act (1882)
+-   *Ozawa v. United States* (1922): AAPI individuals aren't "white" for immigration purposes
+-   United Farm Workers Union: fighting exploitation of migrant workers
+-   DREAMers: rights for children of undocumented immigrants?
+
+## LGBTQ Rights {.smaller}
+
+-   Stonewall Riot (1969)
+-   Social organizations (Lambda Legal, GLAAD, ACT UP)
+    -   HIV/AIDS discrimination and research, insurance benefits, employment discrimination
+-   *Lawrence v. Texas* (2003): anti-sodomy laws unconstitutional
+-   2010: "Don't Ask, Don't Tell" repeal
+-   *U.S. v. Windsor* (2013): Defense of Marriage Act unconstitutional
+-   *Obergefell v. Hodges* (2015): bans on same-sex marriage unconstitutional
+-   Present-day activism for trans inclusion
+
+## LGBTQ Rights
+
+::::: columns
+::: {.column width="70%"}
+![](images/gallup_same_sex_marriage.png){fig-alt="Trends in Gallup surveys asking 'Do you think marriages between same-sex couples should or should not be recognized by the law as valid, with the same rights as traditional marriages?' from 1996 to 2023. No has fallen from ~70% to 29%, while Yes has risen from ~25% to 71%"}
+:::
+
+::: {.column width="30%"}
+![](images/pew_trans.png){fig-alt="Pew survey from 2022: Young adults, Democrats more likely to say society hasn't gone far enough in accepting people who are transgender. All adults: 38% gone too far, 35% not gone far enough, 23% been about right. 18-29 year olds: 31/47/21, 30-49 year olds: 37/39/23, 50-64 year olds: 41/31/25, 65+ year olds 42/30/25, Rep/Lean Rep 66/10/22, Dem/Lean Dem 15/59/24"}
+:::
+:::::
+
+## Disability Rights
+
+::::: columns
+::: {.column width="50%"}
+Activism building toward Americans with Disabilities Act (1990)
+
+-   Extends Civil Rights Act discrimination protections to citizens with physical or mental disabilities
+:::
+
+::: {.column width="50%"}
+![](images/ada_activism.jpeg){fig-alt="Picture from a disability rights protest, including an American flag where the stars are rearranged to depict the international symbol of access"}
+:::
+:::::
+
+## If time...
+
+Proposal: lower the voting age to 13 for local (city/county) elections.
+
+## Exit Quiz
+
+1.  Andrew Lewis argues that the connection between abortion politics and religious freedom speaks to a “fundamental tension” in American democracy. What is that fundamental tension?
+
+2.  Weaver and Prowse are critical of political science, as a discipline, with respect to how it has considered countries’ levels of democratization. Briefly explain their criticism.
+
+3.  What does Corrine McConnaughey mean in arguing that voting rights for women were delivered "under partisan duress"?

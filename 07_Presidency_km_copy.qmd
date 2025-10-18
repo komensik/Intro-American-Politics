@@ -1,0 +1,1354 @@
+---
+title: "Week 7: The Presidency"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## This is today
+
+![](images/Flyer for Sandel-Meritocracy.png){fig-align="center"}
+
+
+## Exit Quiz Answers
+
+1.	For Mayhew, why is "winning comfortably" more important to a member of Congress than merely winning?
+
+. . .
+
+Winning narrowly is a sign of weakness that could trigger additional resources being deployed against them in the next election
+
+## Exit Quiz Answers
+
+2. Briefly explain what Matt Glassman means by "Most of the time when you lose in a democracy, you don't actually lose a vote"?
+
+. . .
+
+There are many veto points in Congress, and votes are among the last of them. Things like agenda control often matter much more.
+
+## Exit Quiz Answers
+
+3. Per Glassman, what is a *procedural coalition*?
+
+. . .
+
+A coalition that agrees to rules governing agenda control. 
+
+In practice, "backbenchers support leadership agenda choices even if they don't like them, because the benefits they get from the leaders (...) outweigh the costs of occasionally not getting their preferred legislation on the floor and occasionally having bills on the floor they oppose."
+
+## (Would-have-been) Exit Quiz Answers
+
+1. Briefly explain what a "messaging bill" is.
+
+. . .
+
+A bill intended to make the opposing party look bad / show that you need more power to get good things done, rather than to become law itself
+
+. . .
+
+Let's talk about Lee's argument for a second.
+
+## (Would-have-been) Exit Quiz Answers
+
+2. Identify a collective action problem in the Furnas and Lapira report on congressional "brain drain".
+
+. . .
+
+Individual re-election incentives cut against increasing legislative capacity; low office pay and long hours lead staffers to leave for the private sector (other plausible answers)
+
+# Finishing up Congress
+
+## Redistricting
+
+. . .
+
+Or, gerrymandering
+
+![](images/og_gerrymander.jpeg){fig-alt="Cartoon lampooning 'The Gerry-mander', depicting Eldridge Gerry's district as a salamander-like monster."}
+
+## Redistricting
+
+The authority to draw district lines is formally left to the states. 
+
+. . .
+
+State legislatures typically draw the lines (some delegate)
+
+::: {.incremental}
+
+* required once every ten years, after the census (which determines how many seats each state gets)
+* districts must be roughly equal population
+* Voting Rights Act prohibits "diluting" minority votes
+* helps co-partisans *and some incumbents*
+
+:::
+
+## General Models of Institutions
+
+How does single-minded seeking of re-election translate to congressional voting behavior?
+
+. . .
+
+Members of Congress do what they want.
+
+## Pivotal Players
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Players x rules x status quo = nature of policy change
+
+![](images/pivotal_players.png){fig-alt="Figure 2.2: Pivotal legislation if the president is liberal. Depicts a single left/right dimension with the president (p) on the far left, followed from left to right by the veto pivot (v), median voter (m), and filibuster pivot (f). Gridlock interval runs from the veto pivot to the filibuster pivot (policies inside this interval cannot be changed via legislation."}
+
+::: {style="font-size: 50%;"}
+
+Krehbiel, Keith. 1998. *Pivotal Politics: A Theory of U.S. Lawmaking*. University of Chicago Press.
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![Joe Manchin, former pivotal senator](images/manchin.jpg)
+
+:::
+::::
+
+## Let's Try it Out{.smaller}
+
+![](images/pivotal_examples/pivotal_1.png){fig-alt="Where do we expect policy to land? Depicts left-right dimension with, from left to right, president (p), veto pivot (v), median voter (m), filibuster pivot (f), and a status quo policy (q)"}
+
+* P: President
+* V: Veto pivot (33rd-most liberal senator)
+* M: Median voter (50th-most liberal senator)
+    + Proposal starts at chamber median and is amended from there
+* F: Filibuster pivot (60th-most liberal senator)
+* Q: Policy status quo
+
+All players seek to minimize absolute distance between policy and their "ideal point"
+
+## Let's Try it Out
+
+![](images/pivotal_examples/pivotal_2.png){fig-alt="Where do we expect policy to land? Depicts left-right dimension with, from left to right, president (p), veto pivot (v), median voter (m), filibuster pivot (f), and a status quo policy (q)"}
+
+## Let's Try it Out
+
+![](images/pivotal_examples/pivotal_3.png){fig-alt="Where do we expect policy to land? Depicts left-right dimension with, from left to right, president (p), veto pivot (v), median voter (m), a status quo policy (q), and the filibuster pivot (f) "}
+
+## Let's Try it Out
+
+![](images/pivotal_examples/pivotal_4.png)
+
+## Let's Try it Out
+
+![](images/pivotal_examples/pivotal_5.png){fig-alt="Where do we expect policy to land? Depicts left-right dimension with, from left to right, president (p), a status quo policy (q), veto pivot (v), median voter (m), and the filibuster pivot (f) "}
+
+## Let's Try it Out
+
+Some implications...
+
+::: {.incremental}
+
+*   Status quo bias: passing legislation is hard
+    + Harder as "gridlock interval" increases
+    + Harder later in session [(why?)]{.fragment}
+
+:::
+
+
+## Logrolling and Omnibus Legislation
+
+One way to break gridlock: trade wins via [logrolling]{.yellow}
+
+. . .
+
+[Omnibus legislation]{.yellow}: bundling lots of bills (major and minor) together at once
+
+::: {.incremental}
+
+* For example, might try to attach your bill as an amendment to a "must-pass" bill (like the National Defense Authorization Act)
+* Earmarks (i.e. "pork") can generate broader support
+    + Easy to criticize *other* people's earmarks, but very Madisonian
+
+:::
+
+## This week
+
+The Presidency
+
+![](images/presidential_seal.png){fig-align="center" fig-alt="Seal of the President of the United States"}
+
+## Quick Refresher
+
+What is power?
+
+::: {.incremental}
+
+-   Making decisions that affect others' behavior
+-   Setting the agenda
+-   Altering others' frames of reference
+
+:::
+
+. . .
+
+The president exercises power, with limits, in all three ways.
+
+## What is a President?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.incremental}
+
+*   Chief Executive
+*   Commander in Chief of the Armed Forces
+*   National leader
+*   Party leader
+*   Celebrity
+*   Person
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/presidents.png){fig-alt="Picture of former presidents Jimmy Carter, Bill Clinton, Barack Obama, and George W. Bush"}
+
+:::
+
+::::
+
+<!--
+
+## Roots of the Presidency{.smaller}
+
+::: {.incremental}
+
+*   Colonies: royal governors with executive power
+    + Represented monarchy's executive authority
+    + Powers included veto, appointments, military command, spending, (some) pardons, and lawmaking
+    + Tensions with elected colonial legislatures
+*   Immediate post-revolution government very much a *reaction* to this
+    + Many states stripped governors of most formal powers
+    + Articles of Confederation: no national executive
+*   Need for stronger executive a key driver of Constitutional Convention
+
+:::
+
+-->
+
+## The Presidency at the Convention
+
+::: {.incremental}
+
+*   One or more chief executive(s) at a time?
+*   How to select?
+*   Terms? Term length? Re-election?
+*   How to remove for bad behavior?
+*   Veto power? How expansive?
+
+:::
+
+. . .
+
+George Washington in the background made some of these debates easier
+
+## Nuts and Bolts of the Presidency
+
+::: {.incremental}
+
+*   At least 35 years old
+*   Natural-born citizen (no naturalized immigrants)
+*   Resident for at least 14 years
+    + Diplomats need some domestic experience
+    
+:::
+
+## Nuts and Bolts of the Vice Presidency{.smaller}
+
+"...the most insignificant office that ever the invention of man contrived or his imagination conceived." - John Adams, our first vice president
+
+::: {.incremental}
+
+*   Same eligibility requirements, none of the power
+    + Preside over the Senate (except during impeachment trials)
+    + Break ties in the Senate
+    + Other tasks assigned by president (often given a nominal policy area)
+    + President can temporarily delegate authority if needed (25th Amendment) 
+
+:::
+
+## Nuts and Bolts of the Cabinet
+
+Not many specifics in Constitution about the president's Cabinet:
+
+::: {.incremental}
+
+*   Refers to "the principal Officer in each of the executive Departments"
+    + Which departments? 
+    + What to the principal officers get to do?
+*   Legislation establishes agencies; presidents decide which offices are "cabinet-level"
+
+:::
+
+## Presidential Authority{.smaller}
+
+Armed forces
+
+::: {.incremental}
+
+*   President freest to act in foreign policy
+*   "Take care" clause in tension with Congress's formal war declaration power
+    + Congress has delegated much of these (and other) powers
+*   Vietnam War --> War Powers Resolution (passed over Nixon's veto)
+    + President has to notify Congress after sending troops
+    + Congress can vote to authorize their use/bring them back
+    + Continuing tensions between President and Congress here
+*   Present-day: can the president send the army into states uninvited?
+    + So far, no.
+    + This was a major concern at the founding! Against the premise of federalism.
+    
+:::
+
+<!--
+
+## Presidential Authority
+
+"Take Care" clause
+
+::: {.incremental}
+
+*   Open to interpretation / ambiguous
+*   Used to justify unenumerated powers of the presidency
+
+:::
+
+-->
+
+## Presidential Authority{.smaller}
+
+Appointments
+
+::: {.incremental}
+
+*   Arguably most consequential domestic power (will come up more next week)
+    + Principal-agent problems
+*   Senate confirms many appointees:
+    + Cabinet, ambassadors, judges, e.g.
+    + Evolving norms re: when appointments get blocked
+    
+:::
+
+## Presidential Authority{.smaller}
+
+Veto
+
+::: {.incremental}
+
+*   Some at Convention opposed veto power, others wanted *final* veto
+    + Compromise: veto with Congressional override
+*   *Threat* of veto adds to its power (actual vetoes are a sign of weakness)
+*   "Pocket" veto: bill dies if no action for 10 business days *with Congress adjourned*
+    + So Congress just stays in session
+*   Signing statements: informal statements regarding interpretation
+    + "Line-item" veto ruled unconstitutional
+
+:::
+
+<!--
+## Presidential Authority{.smaller}
+
+Some governors have line-item veto power...and use it creatively.^[https://www.vox.com/politics/2023/7/6/23786064/wisconsin-governor-tony-evers-education-funding]
+
+![School funding through <strike>2024-2025</strike> 2425](images/line_item.png){fig-align="center"}
+
+-->
+
+## Presidential Authority{.smaller}
+
+Executive order
+
+::: {.incremental}
+
+* Directive to agents/agencies in the executive branch
+* Must be grounded in existing law
+    + Authority implied by "take care" clause
+    + Many laws, many interpretations
+
+:::
+
+## Presidential Authority
+
+Convening Congress
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Used sparingly to preserve agenda setting power
+
+:::
+
+::: {.column width="50%"}
+
+![](images/joint_session.png){fig-alt="Picture of a joint session of Congress with members seated."}
+
+:::
+
+::::
+
+## Presidential Authority{.smaller}
+
+Trade agreements and diplomacy
+
+::: {.incremental}
+
+*   2/3 approval in Senate (rejection rare)
+*   "executive agreements" if Senate ratification looks unlikely 
+    + not binding for the next administration
+*   "receive ambassadors" --> recognition of other nations
+    + small words/actions can take on huge meaning
+
+:::
+
+## Presidential Authority{.smaller}
+
+Presidents have claimed (emergency) authority to unilaterally set trade policy.
+
+* International Emergency Economic Powers Act (IEEPA): 1977 law originally designed to *limit* president's authority in trade policy
+
+. . .
+
+President Trump not the first president to stretch emergency powers to set trade policy, but by far the most aggressive.
+
+## Presidential Authority{.smaller}
+
+Pardon/commutation/reprieve
+
+::: {.incremental}
+
+*   What's the difference?
+    + Pardon: erases conviction, full restoration of rights
+    + Commutation: keeps conviction, lessens sentence
+    + Reprieve: delays sentence
+*   Limits:
+    + Federal offenses only
+    + Can't use in cases of impeachment
+*   Open questions:
+    + Blanket pardons? Preemptive pardons? Self-pardons?
+
+:::
+
+<!--
+
+## Pardon Power
+
+Origins of pardon power:
+
+::: {.incremental}
+
+*   Short version: holdover from Britain
+    + Crown + royal governors had pardon power
+    + US provision traced to Hamilton
+*   But! Debate at VA ratifying convention
+    + George Mason (anti-federalist) objected
+      - President can protect criminals close to them
+    + Madison: if so, Congress can impeach
+
+:::
+
+## Pardon Power
+
+That hasn't happened, but something related has.
+
+![](images/ford_nixon.png){fig-align="center"}
+
+. . .
+
+Voters can sanction.
+
+-->
+
+## Exit Quiz
+
+1. Neustadt clarifies that by persuasion he means "more than charm or reasoned argument." If not those things, what does he mean by persuasion?
+
+2. Howell outlines two distinctive features of unilateral powers. Name and briefly explain one.
+
+3. In his farewell address, Eisenhower highlights multiple ways in which technological progress might threaten democratic control of public policy. Name one.
+
+# Break
+
+## Exit Quiz Answers
+
+1. Neustadt clarifies that by persuasion he means "more than charm or reasoned argument." If not those things, what does he mean by persuasion?
+
+. . .
+
+The ability to convince others that it is in their interest to act in the president's interest.
+
+## Exit Quiz Answers
+
+2. Howell outlines two distinctive features of unilateral powers. Name and briefly explain one.
+
+. . .
+
+*   First-mover advantage: the president acts, puts the onus on other branches to respond
+*   Unitary actor: the president doesn't need to mobilize allies or compromise to form a coalition
+
+## Exit Quiz Answers
+
+3. In his farewell address, Eisenhower highlights multiple ways in which technological progress might threaten democratic control of public policy. Name one.
+
+. . .
+
+Institutionalization of the military, expansion of federal funding for scientific research (less individual innovation in favor of government-directed projects, risk of policy capture by technocrats)
+
+## Presidential Authority
+
+Executive privilege
+
+::: {.incremental}
+
+*   Assertion of exemption from oversight
+*   Unclear where the lines are 
+    + *U.S. v. Nixon*: president cannot claim executive privileges to evade subpoenas/civil court actions
+    + *Trump v. US*: president is immune from criminal charges for "official acts"
+*   Tradeoff between 
+    + benefits of privacy and flexibility to act
+    + oversight capacity and flexibility to abuse power
+
+:::
+
+## The Early Presidency{.smaller}
+
+Key features of Washington's presidency:
+
+::: {.incremental}
+
+*   Put down Whiskey Rebellion
+    + Federal supremacy in military + taxation
+*   Established Cabinet system
+*   Asserted power to negotiate treaties
+    + Senate gets *approval* but not *input*
+*   Claimed *inherent* powers of diplomacy
+    + Neutrality between French and British, e.g.
+    + Jefferson claimed similar powers for Louisiana Purchase
+    
+:::
+
+## Inherent Powers
+
+What do presidents (Washington is merely the first) mean by "inherent" powers?
+
+. . .
+
+"Inherent" powers are still limited. *Plenary* powers, on the other hand...
+
+![](images/miller_plenary.png){width=70% fig-align="center" fig-alt="Newsweek headline: Stephen Miller's 'Plenary Authority' Remark Raises Eyebrows"}
+
+<!--
+
+## The Early Presidency
+
+Still, 
+
+::: {.incremental}
+
+*   Congress remained "first branch"
+*   President manager of small bureaucracy
+
+:::
+
+-->
+
+## Key Norms: Two Terms
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Having a broadly popular general around to hand executive authority over to is a double-edged sword
+
+::: {.fragment}
+
+No rule against Washington getting re-elected every four years for the rest of his life...and yet!
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/washington_founders.jpeg){fig-alt="Drawing of George Washington, standing, speaking to a room of seated listeners."}
+
+:::
+
+::::
+
+## A Norm that Failed: Nonpartisanship{.smaller}
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Washington's farewell address: parties are bad.^[This is exactly what a broadly popular general who got handed the presidency without having to do the work of building a winning coalition would say.]
+
+::: {.fragment}
+
+"They serve to organize faction, to give it an [artificial and extraordinary force]{.yellow}; to put, in the place of the delegated will of the nation the will of a party, often a [small but artful and enterprising minority]{.yellow} of the community."
+
+"[They are likely, in the course of time and things, to become potent engines]{.yellow}, by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people...."
+
+:::
+
+::: {.fragment}
+
+Well then.
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/washington.jpeg){fig-alt="Portrait of George Washington"}
+
+:::
+
+::::
+
+## Key Norms: Transfer of Power{.smaller}
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Adams and Jefferson were good friends, but their campaigns against each other (1796 and 1800) were *nasty*
+
+::: {.fragment}
+
+1796: 
+
+::: {.incremental}
+
+*   Jefferson's surrogates called Adams ("His Rotundity") a monarchist
+*   Adams's surrogates accused Jefferson of having an affair with his slave and called him an abolitionist.
+*   Adams won, but quirks in Electoral College made Jefferson VP.
+
+:::
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/john_adams.jpeg){fig-alt="Portrait of John Adams"}
+
+:::
+
+::::
+
+## Key Norms: Transfer of Power{.smaller}
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+1800: 
+
+::: {.incremental}
+
+*   Jefferson pamphleteer James Callender on Adams: "hideous hermaphroditical character, which has neither the force and firmness of a man, nor the gentleness and sensibility of a woman."
+    + Also claimed, baselessly, that Adams wanted to start a war with France
+    + Callender went to jail for slander under the Alien and Sedition Act
+*   Adams surrogates claimed Jefferson had run from the British, was an atheist, and would promote prostitution, incest, and adultery if elected.
+
+:::
+
+::: {.fragment}
+
+But when Jefferson won, Adams [packed up and went home]{.yellow}. [This was kind of new!]{.fragment}
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/john_adams.jpeg){fig-alt="Portrait of John Adams"}
+
+:::
+
+::::
+
+## The Monroe Doctrine (1823)
+
+Early articulation of the "imperial" presidency:
+
+::: {.incremental}
+
+*   Buried in annual address to Congress
+*   Warned European powers to stay out of Western hemisphere
+    + Separate "spheres of influence"
+    + European colonization in West would be considered hostile to U.S.
+*   Lacked teeth at the time
+*   (Teddy) Roosevelt Corollary: U.S. can *intervene* in Western hemisphere
+
+:::
+
+## Jackson
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Structural changes:
+
+::: {.incremental}
+
+*   More states, expanded franchise
+    + More populist political terrain
+    + Developing party system
+
+:::
+
+:::
+
+
+::: {.column width="30%"}
+
+![](images/andrew_jackson.jpg){fig-alt="Portrait of Andrew Jackson"}
+
+:::
+
+::::
+
+## Jackson
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Expansion of presidential powers:
+
+::: {.incremental}
+
+*   Trail of Tears (ignoring SCOTUS)
+*   Use of appointment power for patronage ('spoils system')
+    + Strengthened party system
+*   Assertion of federal supremacy over states
+    + vs. SC/Calhoun's nullification of tariffs
+
+:::
+
+:::
+
+
+::: {.column width="30%"}
+
+![](images/andrew_jackson.jpg){fig-alt="Portrait of Andrew Jackson"}
+
+:::
+
+::::
+
+## Lincoln{.smaller}
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Presidency during crisis:
+
+::: {.incremental}
+
+*   Suspended *habeas corpus*
+*   Expanded U.S. Army beyond congressional ceilings
+*   Blockaded southern ports without congressional approval
+*   Censored the mail, jailed critical newspaper editors
+
+:::
+
+::: {.fragment}
+
+Claimed [inherent power]{.yellow} to do all of this. [Supreme Court ruled otherwise after it no longer mattered.]{.fragment}
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/lincoln.jpeg){fig-alt="Portrait of Abraham Lincoln"}
+
+:::
+
+::::
+
+## Development of the Modern Presidency{.smaller}
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Great Depression:
+
+::: {.incremental}
+
+*   New Deal expansion of presidential power in domestic politics
+    + Federal government more involved in economy
+      - Remember Court packing threat
+    + Expanded bureaucracy
+      - Executive Office of the President
+      - New laws, new agencies (SSA, NLRB, SEC, FHA, FDIC, e.g.)
+*   Innovations in communication (radio)
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/RooseveltNewDeal.jpg){fig-alt="FDR campaign button: slogan 'For A New Deal'"}
+
+:::
+
+::::
+
+## Development of the Modern Presidency{.smaller}
+
+Zooming in on the Executive Office of the President...
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: {.incremental}
+
+*   Most of "The White House" is actually down the block in the EEOB
+*   EOP includes (among others)...
+    + Council of Economic Advisers
+    + Office of Management and Budget
+    + Homeland Security Council
+    + Office of Science and Technology Policy
+    + National Security Council
+    + Domestic Policy Council
+    + ...and more
+    
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/eeob.jpeg){fig-alt="Picture of the Eisenhower Executive Office Building (EEOB)"}
+
+:::
+
+::::
+
+## Development of the Modern Presidency{.smaller}
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+World War II and aftermath:
+
+::: {.incremental}
+
+*   U.S. as global superpower
+*   Cold War expansion of standing military establishment
+    + Broadened scope of foreign policy
+    + New bureaucracy
+      - DoD and CIA (1947)
+      - NSA (1952)
+    + Increased funding
+    
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/truman.jpeg){fig-alt="Picture of Harry Truman"}
+
+:::
+
+::::
+
+## Development of the Modern Presidency{.smaller}
+
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Result: President takes on bigger role as national leader:
+
+::: {.incremental}
+
+*   New mechanisms to communicate directly to people (radio, TV)
+*   Claimed "mandates" to enact policy agendas
+*   Embodiment of larger national government
+    + "Buck Stops Here" - expanded scope of *responsibility* for national government
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/buck_stops_here.png){fig-alt="Picture of Harry Truman sitting in the Oval Office with 'The Buck Stops Here' sign on the desk."}
+
+:::
+
+::::
+
+## Development of the Modern Presidency{.smaller}
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Eisenhower's farewell warning:
+
+"American makers of plowshares could, with time and as required, make swords as well. But we can no longer risk emergency improvisation of national defense; [we have been compelled to create a permanent armaments industry of vast proportions]{.yellow}."
+
+"Now this conjunction of an immense military establishment and a large arms industry is new in the American experience...In the councils of government, [we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex]{.yellow}."
+
+:::
+
+::: {.column width="30%"}
+
+![](images/eisenhower.jpg){fig-alt="Picture of Dwight Eisenhower"}
+
+:::
+
+::::
+
+## Presidential *Power*
+
+Neustadt: "Presidents have very little formal power, far less than necessary to meet the enormous expectations heaped on them during the modern era." [And yet, the president sure looks extremely powerful.]{.fragment}
+
+. . .
+
+What's going on here?
+
+## Presidential *Power*
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+Neustadt: "presidential power is the power to persuade."
+
+::: {.fragment}
+
+Informal power, however expansive, can only be exercised informally.
+
+*   One principal, many agents
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/truman.jpeg){fig-align="center" fig-alt="Picture of Harry Truman"}
+
+::: {style="font-size: 50%;"}
+
+"He'll say, 'Do this! Do that!' And nothing will happen. Poor Ike -- it won't be a bit like the Army." - Truman
+
+:::
+
+:::
+
+::::
+
+<!--
+## Paradox in Presidential Power
+
+A key implication from Neustadt: Presidential power is *weakest* when it is *most observable*. 
+
+. . .
+
+Let's take a second to talk about this.
+-->
+
+## Going Public
+
+Indirect exercise of power: directing attention to an issue by talking about it
+
+. . .
+
+President can *set the agenda*
+
+. . .
+
+When the president talks about an issue...
+
+::: {.incremental}
+
+*   The media talks about it
+*   People think about it
+*   This can put pressure on Congress
+
+:::
+
+## Going Public: Relevant Factors{.smaller}
+
+Dynamics that affect the president's power to set the agenda?
+
+::: {.incremental}
+
+*   Attention
+    + More media choice (cable, internet) --> more people tune out of politics
+      - Those left listening are most engaged / least persuadable
+*   Presidential approval
+    + Low approval, low pressure
+*   Substantive issue
+    + Works better for popular ideas!
+*   Point in office
+    + Less power later in (second) term
+
+:::
+
+## The Unilateral Presidency{.smaller}
+
+A lot's changed since 1960.
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Expanded scope of federal government + "take care" clause = broad discretion
+
+::: {.incremental}
+
+*   Limited specifics on what president *can't* do
+*   Presidents can use *ambiguity* to act *unilaterally*
+*   Just need a tie-in to an existing law
+    + And there are a lot of laws available!
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/airbud_president.png){fig-alt="Air Bud meme: Ain't no rule that says the president can't buy new territory!"}
+
+:::
+
+::::
+
+## The Unilateral Presidency{.smaller}
+
+Examples?
+
+::: {.incremental}
+
+*   Emancipation Proclamation
+*   Japanese internment
+*   Desegregation of the military
+*   Wars/military intervention post-WWII
+    + Korea, Vietnam, Honduras, Chile, Panama, Iraq (x2), Afghanistan, etc.
+*   Deferred Action for Childhood Arrivals (DACA)
+*   Paris Climate Agreement
+
+:::
+
+. . .
+
+The current Trump administration has been very active and creative in its use of executive orders, with many legal disputes pending.
+
+## The Unilateral Presidency{.smaller}
+
+Unitary executive theory: because Constitution makes president Commander in Chief, they can...
+
+::: {.incremental}
+
+*   Send troops where they want
+*   Direct the Treasury to pay for them
+*   Without Congress authorizing deployment or spending
+
+:::
+
+. . .
+
+Recent tensions between president and Congress (Libya 2011, Syria 2012-2017, Yemen 2018-2019, Iran 2020)
+
+## The Unilateral Presidency{.smaller}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+Defense Production Act (1950)
+
+President can invoke DPA to...
+
+::: {.incremental}
+
+*   prioritize federal contracts
+*   require companies to set aside resources
+*   direct companies to maintain specific production
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/dpa_covid.jpeg){fig-alt="Picture of a soldier wearing a medical mask holding a syringe looking at the camera, with more soldiers wearing masks in the background."}
+
+:::
+
+::::
+
+. . .
+
+Allowed for federal response to COVID-19 prior to legislation
+
+## The Unilateral Presidency{.smaller}
+
+*Trump v. United States* (2024): President's official acts are presumptively immune from criminal prosecution.
+
+. . .
+
+Stated goal is to prevent retribution against political opponents, allow president flexibility to act.
+
+. . .
+
+Seems like it sets bad incentives for the executive!
+
+## An Unsettled Case: Debt Ceiling{.smaller}
+
+Who can tell me what the debt ceiling is?
+
+. . .
+
+Statute that sets a cap on how much the government is allowed to borrow in order to meet existing obligations.
+
+## An Unsettled Case: Debt Ceiling{.smaller}
+
+Legal and practical tensions.
+
+![](images/fourteenth_sec4.png){fig-alt="Fourteenth Amendment, Section 4: The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for service sin suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss of emancipation of any slave; but all such debts, obligations, and claims shall be held illegal and void."}
+
+. . .
+
+If U.S. defaults on debt, global economy crashes.
+
+## An Unsettled Case: Debt Ceiling{.smaller}
+
+1788-1917: No debt ceiling. Treasury bonds authorized individually by statute.
+
+. . .
+
+1917 (during WWI): Second Liberty Bond Act 
+
+*   Delegates authority to executive (Treasury) to issue bonds/other forms of debt
+    + Provided they stay below specific limits for specific types of debt.
+
+. . .
+
+1939-1941: Public Debts Acts (amended through the 50s) 
+
+*   Consolidate different types of debt
+*   Formalize/periodically raise debt ceiling.
+
+. . .
+
+1950s-1974: Debt ceiling increases used as opportunity to debate budgetary priorities
+
+*   Budget reforms in 1974 made Congress's spending authorization more explicit
+
+## An Unsettled Case: Debt Ceiling{.smaller}
+
+Between 1979-1995, "Gephardt Rule" automatically raised debt ceiling when budget passed.
+
+. . .
+
+Between 1995-2010ish, periodic increases a norm.
+
+. . .
+
+More recently (beginning 2011), debt ceiling used as leverage to negotiate policy concessions from president. [Why?]{.fragment}
+
+## An Unsettled Case: Debt Ceiling{.smaller}
+
+So here's the tension:
+
+::: {.incremental}
+
+*   14th Amendment: U.S. always pays its debts
+*   Existing statutes make spending commitments
+    + President must "take care" that these statutes are "faithfully executed"
+    + President must spend money appropriated by Congress (no impoundment!)
+*   But debt ceiling limits money available to pay debts
+
+:::
+
+. . .
+
+What can the president do when Congress [authorizes less spending than it has mandated?]{.yellow}
+
+## An Unsettled Case: Debt Ceiling{.smaller}
+
+President's options without increase:
+
+::: {.incremental}
+
+*   Print the money? [Risk inflation, also Fed vs. Treasury issue]{.fragment}
+    + Theorized workarounds:
+      - minting platinum coins (similar to printing the money)
+      - zero-principal bonds that pay interest
+*   Ignore the debt ceiling, keep spending[...and get sued]{.fragment}
+*   Adhere to debt ceiling, triage spending[...and get sued]{.fragment}
+
+:::
+
+## An Unsettled Case: Debt Ceiling{.smaller}
+
+So far, debt ceiling standoffs (2011, 2013, 2021, 2023) have resulted in deals with Congress.
+
+. . .
+
+But (Democratic) presidents have faced increasing pressure to act unilaterally.
+
+. . .
+
+Unclear how that would resolve.
+
+## While we're talking about the debt ceiling...
+
+How are we feeling about essay 2?
+
+::::{.columns}
+
+::: {.column width="50%"}
+
+![](images/dogefather.png){width=120% fig-alt="Picture of Elon Musk wearing sunglasses and wielding a chainsaw with the caption 'The Dogefather'"}
+
+:::
+
+::: {.column width="50%"}
+
+![](images/spending_24_25.png){fig-align="center" fig-alt="Tracking federal expenditures in real time. Cumulative federal spending for 2024 and 2025. Spending is higher in 2025 than at this time in 2024."}
+
+:::
+
+::::
+
+## Additional Presidential Advantages{.smaller}
+
+::: {.incremental}
+
+*   Congress acts collectively, president acts as an individual
+*   Delegation risks principal-agent problem
+    + President especially difficult to control as an "agent"
+*   President appoints Supreme Court
+    + Congress is getting more assertive here
+      - But not from POV of Congress *as an institution*
+*   President can act as *first mover*
+
+:::
+
+## First Mover Advantage{.smaller}
+
+Considered in spatial terms...
+
+![](images/pivotal_president_setup.png){fig-align="center" fig-alt="Spatial model from Howell and Moe: from left to right: status quo 1, congressional median voter, veto pivot, status quo 2, president"}
+
+* CM: Congressional median
+* V: Veto pivot
+* P: President
+
+. . .
+
+Where do these policies land if Congress moves first? [What if the president moves first?]{.fragment}
+
+## First Mover Advantage
+
+Let's consider this in spatial terms...
+
+![](images/pivotal_president.png){fig-align="center" fig-alt="Two results. First, if Congress moves first, status quo one moves to the congressional median; status quo two moves as far to the left of the veto pivot as it was previously to the right of the veto pivot. Second, if the president moves first, both status quos move to the veto pivot."}
+
+## Limits of First Mover Advantage
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Why might the president consider moving first a last resort?
+
+::: {.fragment}
+
+Laws are "sticky," executive orders can be undone.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/biden_reverse_eos.png){fig-alt="New York Times article, Jan 20 2021: WASHINGTON -- President Biden unleashed a full-scale assault on his predecessor's legacy on Wednesday, acting hours after taking the oath of office to sweep aside President Donald J. Trump's pandemic response, reverse his environmental agenda, tear down his anti-immigration policies, bolster the sluggish economic recovery and restore federal efforts aimed at promoting diversity. Moving with an urgency not seen from any other modern president, Mr. Biden signed 17 executive orders, memorandums, and proclamations from the Oval Office on Wednesday afternoon. Among the steps the president took were orders to rejoin the Paris climate accord and end Mr. Trump's travel ban on predominantly Muslim and African countries."}
+
+:::
+
+::::
+
+## If Time...{.smaller}
+
+. . .
+
+* Donald Trump has fundamentally reshaped the presidency, vs. 
+* Donald Trump has taken advantage of the tools provided by the modern presidency
+
+## If Time...{.smaller}
+
+. . .
+
+Divide into groups of four and pick a modern (post-WWII, from Truman onward) president.
+
+. . .
+
+Go to [https://www.presidency.ucsb.edu/advanced-search]{.yellow}
+
+*   Search for signing statements (in document category checklist) issued by the president I gave you. 
+*   Find one that raises questions about constitutionality or potential conflicts with other laws.
+
+Prepare to share with class:
+
+*   The substance of the bill being signed (teach us about the issue!)
+*   The sentiments expressed in the signing statement
+*   Potential deviations in implementation from Congress's intent
+
+## Exit Quiz
+
+1. Seitz and Talmadge outline three main problems that the "madman" strategy in international relations typically runs into. Name and explain one of them.
+
+2. Why does Suresh Naidu think the year 1688 is important for understanding Columbia's deal with the Trump administration?
+
+3. Briefly explain what Jack Goldsmith means by the "dispensing" power, and whether the president has it.

@@ -1,0 +1,900 @@
+---
+title: "Week 8: The Bureaucracy"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: true
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Exit Quiz Answers
+
+1.	Seitz and Talmadge outline three main problems that the "madman" strategy in international relations typically runs into. Name and explain one of them.
+
+. . .
+
+*   Signaling problem: observers may not perceive the signal the madman wants to send
+*   Credibility problem: observers may not take madman behavior seriously
+*   Assurance problem: madman can't credibly commit to de-escalation after they get what they want
+
+## Exit Quiz Answers
+
+2. Why does Suresh Naidu think the year 1688 is important for understanding Columbia's deal with the Trump administration?
+
+. . .
+
+1688 marks the creation of parliamentary supremacy in England, which solved the monarch's commitment problem.
+
+## Exit Quiz Answers
+
+3. Briefly explain what Jack Goldsmith means by the "dispensing" power, and whether the president has it.
+
+. . .
+
+The dispensing power is the authority to license future illegal conduct (to issue "special dispensations"), and no the president does not officially have that power.
+
+## Last week
+
+The presidency
+
+-   Personal presidency
+-   Institutional presidency
+-   Expansion of presidential power
+
+## This week
+
+The bureaucracy
+
+![](images/dept_energy.jpeg){fig-align="center" fig-alt="Logo and website for the Department of Energy"}
+
+## Bureaucracy: Central Tradeoffs
+
+. . .
+
+Necessity of delegation vs. agency loss
+
+. . .
+
+Democratic (read: political) control vs. technocratic expertise
+
+. . .
+
+Efficiency vs. accountability
+
+## Getting Oriented
+
+What *is* a bureaucracy? [From Weber, institutional features:]{.fragment}
+
+::: {.incremental}
+
+*   Division of labor/specialization
+*   Hierarchical structure
+*   Abstract rules applied consistently
+*   Impersonality
+*   Careerism 
+*   Specified goals/agency directive
+    + Unlike the market more generally
+
+:::
+
+## Getting Oriented
+
+What are some examples of bureaucracy *outside* of the government?
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/org_chart_mcd.png){width=80% fig-align="right" fig-alt="McDonald's organization tree, featuring the CEO overseeing Corporate, Regional, and Functions divisions, each of which have their own hierarchies"}
+
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+
+![](images/duke_logo.png){width=80% fig-align="left" fig-alt="Duke's logo"}
+
+:::
+
+:::
+
+::::
+
+## The Bureaucratic Dilemma
+
+The government doesn't work without bureaucrats implementing laws.
+
+. . .
+
+But, the people who *make* laws aren't the people who *implement* them.
+
+. . .
+
+There's a reason we call them bureaucratic [agencies]{.yellow}.
+
+## The Bureaucratic Dilemma
+
+Last week: the president is one principal with many agents
+
+. . .
+
+This week: bureaucracies are one agent with many principals
+
+* President
+* Congress+committees
+* Courts
+* Local governments
+* Interest groups
+* Etc.
+
+## Bureaucratic Functions
+
+Sometimes this is (or should be) easy. 
+
+* Budget item allocating $X to purchase Y from Z.
+
+. . .
+
+Sometimes this is hard! 
+
+* Bill directing agency to develop rule that accomplishes regulatory goal.
+
+. . .
+
+Bureaucracy both *enforces* the law and *finishes making* the law. [This is inherently political.]{.fragment}
+
+## Bureaucratic Performance{.smaller}
+
+Bureaucracy is central to [state capacity]{.yellow}: can the government actually do what it wants to do?
+
+::: {.incremental}
+
+*   healthcare.gov rollout, e.g.
+
+:::
+
+. . .
+
+Threat of [regulatory capture]{.yellow}: when the regulated control the regulations
+
+::: {.incremental}
+
+*   Typically big firms, rather than whole industries
+*   Classic example: Interstate Commerce Commission (the first independent agency!)
+    + Railroad regulators captured by big railroad companies
+
+:::
+
+
+## Early Bureaucracy
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+The Constitution doesn't say much about the Cabinet, and yet.
+
+::: {.fragment}
+
+First Congress set up cabinet-level departments:
+
+*   State (Jefferson)
+*   Treasury (Hamilton)
+*   War (Henry Knox)
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/washingtoncabinet_loc.png){fig-alt="Washington and his cabinet (Henry Knox, Alexander Hamilton, Thomas Jefferson, and  Edmund Randolph"}
+
+:::
+
+::::
+
+. . .
+
+Washington's cabinet also included Attorney General Edmund Randolph
+
+## Early Solution to the Bureaucratic Dilemma
+
+. . .
+
+Simply hire the best, most qualified people.
+
+. . .
+
+Other more specific measures to discourage shirking for agents difficult to monitor (bonds, finders fees)
+
+. . .
+
+Why might "the best people" not run the best bureaucracy? 
+
+. . .
+
+* Transaction costs (re: vetting), lack of impersonality, principal-agent problems
+
+## The Spoils System
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+Pioneered by Jackson:
+
+::: {.incremental}
+
+*   Rotating [patronage]{.yellow}
+*   Function of strong party system
+
+:::
+
+:::
+
+::: {.column width="55%"}
+
+![](images/spoils.png){fig-alt="Early political cartoon entitled 'A Nice Family Party', depicting a government official holding a cake labeled 'Government Cake' and saying 'Let us have peace' with a crowd of people pulling at him saying 'Let us have a piece'."}
+
+:::
+
+::::
+
+. . .
+
+Unintended consequence: standardized bureaucratic roles (machines need cogs)
+
+
+## Civil Service Reform
+
+Problems with the spoils system:
+
+::: {.incremental}
+
+*   Corrupt
+*   Unprofessional
+*   Unstable/capricious
+*   Indirectly led to assassination of President Garfield (1881)
+
+:::
+
+## Civil Service Reform
+
+Pendleton Act (1883): creation of modern civil service
+
+::: {.incremental}
+
+*   Merit (as opposed to appointment) system for 10% of federal jobs
+*   President authorized to expand
+*   Now covers vast majority of federal workers
+    + President still makes thousands of appointments (including most top leadership)
+    
+:::
+
+## Civil Service Reform
+
+Hatch Act (1939): separation of politics and state
+
+::: {.incremental}
+
+*   Federal employees can't campaign *in official capacity*
+    + Still can in private capacity
+*   Very loosely enforced
+
+:::
+
+
+## Politics of (Removing) Appointment Power
+
+Why would presidents (typically) expand career civil service protections to larger shares of the workforce, *reducing* the scope of their appointment power?
+
+. . .
+
+<br>
+
+Makes it difficult for *future* presidents to unilaterally change policy by re-turning over the bureaucracy.
+
+## U.S. Federal Bureaucracy
+
+Functions:
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+*   Lend expertise
+*   Develop regulations
+*   Enforce laws
+*   Deliver services
+
+:::
+
+::: {.column width="40%"}
+
+![](images/usps.jpeg){fig-alt="The United States Postal Service logo"}
+
+:::
+
+::::
+
+## Expertise
+
+With few exceptions, members of Congress are not rocket scientists. 
+
+![](images/rush_holt.jpeg){width=60% fig-align="center" fig-alt="Bumper sticker for Rush Holt, slogan: My Congressman IS a Rocket Scientist!"}
+
+. . .
+
+NASA employs some.
+
+## Develop Regulations
+
+![](images/net_neutrality.png){width=80% fig-align="center" fig-alt="Image titled 'What is net neutrality?' with signs reading 'expect delays', 'two-tier internet ahead', and 'protect internet freedom'"}
+
+## Enforce Laws
+
+![](images/audit.png){width=80% fig-align="center" fig-alt="Picture of a tax form with 'audit' stamped on it"}
+
+## Enforce Laws
+
+Fund the tax police?
+
+![](images/irs_audit_rates.png){fig-align="center" fig-alt="Audit Rates by Total Positive Income, Tax Year 2019. Graph shows that audit rates are 0.4% at income under $25k, 0.17 for $25k-$200k and $200k-$500k, 0.53% for $500k-$1M, 1.05% for $1M-$5M, 2.35% for $5M or more, and 0.77% for those claiming the Earned Income Tax Credit (total avg. 0.25%). Text: Audit Results and Resources. From fiscal years 2010 to 2021, the majority of the additional taxes IRS recommended from audits came from taxpayers with incomes below $200,000. However, the additional taxes recommended per audit increased as taxpayer income increased. Over this time, the average number of hours spent per audit was generally stable for lower-income taxpayers but more than doubled for those with incomes of $200,000 and above. According to IRS officials, greater complexity of higher-income audits and increased case transfers due to auditor attrition contributed to the time increase."}
+
+::: {style="font-size: 50%;"}
+
+Government Accountability Office report GAO-22-104960. Tax Compliance: Trends of IRS Audit Rates and Results for Individual Taxpayers by Income. May 17, 2022. https://www.gao.gov/products/gao-22-104960
+
+:::
+
+Auditing high-income citizens is more expensive, but still nets more unpaid taxes, than auditing low-income citizens.
+
+## Deliver Services
+
+![](images/social_security.jpeg){width=80% fig-align="center" fig-alt="Stock image of a Social Security card in between two US treasury bonds"}
+
+## Types of Bureaucracies
+
+Different organizations that vary in independence/jurisdiction:
+
+::: {.incremental}
+
+*   Cabinet department
+*   Independent executive agencies
+*   Independent regulatory commissions
+*   Independent government corporations
+
+:::
+
+## Cabinet Department
+
+State, Justice, Treasury, e.g.
+
+::: {.incremental}
+
+*   Control shared between legislative + executive branches
+    + Established by Congress
+    + Senate-confirmed presidential appointments to run
+*   Not the only "cabinet-level" secretaries
+
+:::
+
+## Independent Executive Agencies
+
+EPA, FCC, FTC, e.g.
+
+::: {.incremental}
+
+*   Established by executive, not Congress
+    + Senate confirms head
+    + Terms often staggered relative to president
+*   Typically confined to specific policy area (environment, communication, trade, e.g.)
+
+:::
+
+## Independent Government Corporations
+
+Amtrak, U.S. Postal Service, e.g.
+
+::: {.incremental}
+
+*   Puts government in role of business
+    + When is this useful?
+    + Hybrid of business as public service
+      - Mail delivery in hard-to-reach areas, e.g.
+*   Senate confirms board (on staggered terms), but not corporation head
+
+:::
+
+
+## Independent Commissions
+
+Federal Reserve, NLRB, CDC, SEC, e.g.
+
+::: {.incremental}
+
+*   Designed to be more removed from executive
+    + In theory, may shield executive from unpopular decisions (does it?)
+    + Protections against political interference
+*   Senate-confirmed
+
+:::
+
+
+## Example: The Federal Reserve
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+::: {.incremental}
+
+*   Response to instability in early 1900s
+*   Dual mandate (unemployment vs. inflation)
+    + Econ theory: inverse relationship between the two requires balancing
+*   Emphasis on independence
+    + Four-year term for chair
+    + Staggered 14-year terms for Board of Governors
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/dual_mandate.png){fig-alt="The Dual Mandate Bullseye. Chart with unemployment rate on the x-axis and core inflation on the y-axis. Point at (target unemployment, target inforation) forms the center of a bullseye that is the aim of monetary policy set by the Federal Reserve."}
+
+:::
+
+::::
+
+
+## Bureaucratic Organization
+
+Why aren't the FBI, CIA, and NSA all under the same roof?
+
+. . .
+
+Why is the FDA an independent agency while the FAA is under the Department of Transportation?
+
+. . .
+
+Path dependence! Bureaucracy evolves, isn't rebuilt from scratch.
+
+## Regulation. It's a Process.{.smaller}
+
+Rulemaking involves:
+
+::: {.incremental}
+
+*   Legislation directs agency to develop rule
+*   Agency drafts rule
+*   Interagency review (OIRA)
+*   Public comment
+*   Agency revisions
+*   Interagency review (OIRA)
+*   Final publication
+*   Legislative/judicial review
+
+:::
+
+. . .
+
+OIRA: Office of Information and Regulatory Affairs
+
+*   Interagency review to avoid conflicts or duplicates
+
+## Discretion
+
+. . .
+
+The rules don't always lock in specific patterns of behavior.
+
+. . .
+
+President has leeway to direct agencies.
+
+. . .
+
+Bureaucrats are people (and politicians) too.
+
+## Presidential Discretion: Which Law to Apply?
+
+Broad laws allow for varying interpretation/implementation.
+
+. . .
+
+![](images/title_8_vs_42.png){width=30% fig-align="center" fig-alt="Pew: Use of Title 42 declined in the first months of the Biden administration. Chart shows stacked bars for each month from August 2020 through March 2022, reflecting the percent of migrant encounters on the U.S.-Mexico border that resulted in expulsion under Title 42 or apprehension (but not expulsion) under Title 8, with the percent expulsion under Title 42 droping from roughly 90% during the Trump administraiton to roughly 50% under the Biden administration."}
+
+## Bureaucratic Discretion: Agency Priorities{.smaller}
+
+Appointed agency leaders have discretion in...
+
+::: {.incremental}
+
+*   rulemaking priorities under existing laws
+*   application of existing rules
+*   budget proposals
+
+:::
+
+. . .
+
+![](images/haaland_budget.png){fig-alt="Strengthen Tribal Nations: The FY 2024 budget proposal affirms this Administration's steadfast comitment to honor our nation's Tribal trust responsibilities and strengthen government-to-government relationships. In addition to valuable investments in Tribal communities, the budget proposal funds several key initiatives of Secretary Haaland's, including addressing the legacy of the federal Indian boarding schools, Native language revitalization, and coordinating federal efforts to address the Missing and Murdered Indigenous Peoples crisis. Additional investments include: (end of image)"}
+
+::: {style="font-size: 50%;"}
+
+Statement by Secretary Deb Haaland on the President’s Fiscal Year 2024 Budget. March 9, 2023. https://www.doi.gov/pressreleases/statement-secretary-deb-haaland-presidents-fiscal-year-2024-budget
+
+:::
+
+<!--
+## Limits on Discretion{.smaller}
+
+Case: A brief history of regulating CO2 emissions
+
+::: {.incremental}
+
+*   Legislation (1963, 1970, 1977, 1990): monitor/limit harmful chemicals in atmosphere
+*   2003: EPA says it isn't allowed to regulate CO2 emissions
+*   *Massachusetts v. EPA* (2007): yes it is
+*   2013: Obama directs EPA to write new CO2 emissions rules for power plants
+    + Two years, three drafts, and six million public comments later...
+    + Clean Power Plan
+*   2017: EPA repealing and replacing Clean Power Plan
+*   2021: Plan for new, stricter regulations
+*   *West Virginia v. EPA* (2022): can't regulate "major questions" without congressional approval
+
+:::
+
+-->
+
+## Limits on Discretion{.smaller}
+
+*Loper Bright Enterprises v. Raimondo* (2024): overturns "*Chevron* deference"
+
+* *Chevron v. Natural Resources Defense Council* (1984): courts must defer to EPA's (then-business friendly) interpretation of Clean Air Act
+
+Question of what happens then Congress delegates to agencies with vague instructions
+
+::: {.incremental}
+
+*   *Chevron* precedent: as long as agencies' interpretation of statutes is reasonable, courts defer to agencies
+    + Pro: agencies have technical expertise that neither Congress nor courts have
+    + Con: encourages Congress to delegate policymaking details to bureaucracy
+*   Now, agencies must defer to courts
+
+:::
+
+. . .
+
+Likely to have big implications for policymaking, especially in complex/new areas (financial markets, internet, environment, etc.)
+
+## Returning the to Bureaucratic Dilemma
+
+Why delegate?
+
+. . .
+
+Policy complex, assign to experts.
+
+. . .
+
+Political climate uncertain, lock policy in via more stable agency
+
+. . .
+
+Compromise (median legislator may prefer specific/less enforcement power)
+
+*   Dirksen Amendments to Title VII of 1964 Civil Rights Act
+    + Among other things, weakening federal EEOC important to secure passage
+
+## Returning the to Bureaucratic Dilemma
+
+Tools to solve principal-agent problem?
+
+. . .
+
+::: {.incremental}
+
+*   Staffing
+    + Appoint bureaucrats who share preferences/goals
+*   Incentives
+    + Budget/tenure based on performance
+*   Monitoring/oversight
+    + Police patrol
+    + Fire alarm
+
+:::
+
+## Police Patrols vs. Fire Alarms
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Police patrols:
+
+::: {.fragment}
+
+![](images/testimony.jpeg){fig-alt="A witness swearing in before testifying before a congressional committee."}
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+Fire alarms:
+
+::: {.fragment}
+
+![](images/whistleblower_protection.png){fig-alt="Department of Homeland Security Office of Inspector General page entitled 'Whistleblower Protection': Whistleblowers perform an important service by reporting what they reasonably believe to be evidence of waste, fraud, abuse, or mismanagement. DHS employees, contractors, subcontractors, grantees, and personal service contractors are protected by law from retaliation for making a protected disclosure. In accordance with the Inspector General Act, as amended, the DHS OIG Whistleblower Protection Coordinator educates DHS agency employees, contractors, grantees, and personal services contractors about whistleblower protections and employees' rights and remedies against retaliation for protected disclosure. The law does not permit the Whistleblower Protection Coordinator to act as a legal representative, agent, or advocate for current or former employees."}
+
+:::
+
+:::
+
+::::
+
+. . .
+
+When/why does Congress prefer one over the other? 
+
+## Who Influences the Bureaucracy?
+
+. . .
+
+Bureaucrats
+
+. . .
+
+Career civil servants have ideas about how to enact policy in their area. 
+
+. . .
+
+May clash with political appointees!
+
+<!--
+
+## Agency Preferences
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+Agents have preferences!
+
+<br>
+
+::: {.fragment}
+
+Incentives on appointments/oversight? 
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/bureau_ideal_points.png)
+
+:::
+
+::::
+
+::: {style="font-size: 40%;"}
+
+Clinton, Joshua, David Lewis, and Jennifer Selin. 2014. "Influencing the Bureaucracy: The Irony
+of Congressional Oversight." *American Journal of Political Science* 58(2): 387–401.
+
+:::
+
+-->
+
+
+## Who Influences the Bureaucracy?
+
+The president
+
+. . .
+
+Appointment power, agenda-setting power, personal power
+
+<!--
+
+## Who Influences the Bureaucracy?
+
+Example: research at the Department of Agriculture
+
+::: {.incremental}
+
+*   Economic Research Service
+*   National Institute of Food and Agriculture
+
+:::
+
+. . .
+
+Proposal 1: reorganize to put ERS under Office of Chief Economist. [Too political.]{.fragment}
+
+Proposal 2: relocate office from DC to KC. [Plausible apolitical reasons, but experienced staff quit.]{.fragment}
+
+-->
+
+## Schedule F -- "Draining the Swamp"?
+
+![](images/schedule_f.png){fig-align="center" fig-alt="Executive Order on Creating Schedule F in the Excepted Service. Issued on: October 21, 2020"}
+
+. . .
+
+Reclassify federal employees whose purview is "confidential, policy-determining, policy-making, or policy-advocating positions" to give president authority to replace them.
+
+## Who Influences the Bureaucracy?
+
+Congress
+
+. . .
+
+Committees with jurisdiction make policy, exercise oversight
+
+
+![](images/committee_oversight.png){width=50% fig-align="center"}
+
+
+## Who Influences the Bureaucracy?
+
+Interest groups
+
+. . .
+
+Use of democratic inputs (meetings, public comment, e.g.) and courts
+
+*   Public comments as democratizing feature of bureaucracy? 
+
+. . .
+
+Tensions in staffing: expertise or capture?
+
+## Who Influences the Bureaucracy?
+
+Relative power between president and Congress
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+President exerts more control as congressional oversight divided across more committees
+
+:::
+
+::: {.column width="40%"}
+
+![](images/relative_oversight.png){fig-alt="Figure 1: Relationship between Relative White House Influence and Number of Committees Exercizing Active Oversight. x-axis reflects relative White House Influence (negative values indicate less, positive values indicate more); y-axis reflects number of active oversight committees. Differences and 95% confidence intervals relative to congressional committees (open) and Democrats in Congress (solid) are plotted. Plot shows that relative White House influence increases with respect to both as the number of active oversight committees increases."}
+
+::: {style="font-size: 50%;"}
+
+Clinton, Joshua, David Lewis, and Jennifer Selin. 2014. "Influencing the Bureaucracy: The Irony of Congressional Oversight." *American Journal of Political Science* 58(2): 387–401.
+
+:::
+
+:::
+
+::::
+
+## Efficiency vs. Accountability
+
+Why do we have red tape? Why is the government "inefficient"?
+
+. . .
+
+Mechanism to render government *accountable* and *legible*.
+
+::: {.incremental}
+
+*   Accountable: reduce discretion
+    + Easier for employees to spend Duke's money than Ohio State's money
+*   Legible: can't evaluate what you can't observe
+    + Forms can be counted, even if they aren't strictly necessary
+
+:::
+
+## Administrative Burdens
+
+What's the time tax?
+
+. . .
+
+Administrative burdens are the red tape *you* have to navigate to access government services you're entitled to.
+
+. . .
+
+Tradeoff between targeting aid and overburdening those who need it.
+
+. . .
+
+Can result in under-utilization of programs.
+
+*   ~1/5 of people eligible for EITC don't use it
+*   Current debate over work requirements for programs like Medicaid
+
+## Privatizing Public Functions
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+Government may delegate bureaucratic function to private sector
+
+::: {.incremental}
+
+*   Contract personnel [(military, health care, e.g.)]{.fragment}
+*   Public-private partnerships [(infrastructure, tax filing, e.g.)]{.fragment}
+*   Private options [(Medicare Advantage, e.g.)]{.fragment}
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment}
+
+Why?
+
+::: {.incremental}
+
+*   Lack of in-house capacity
+*   Efficiency/external expertise
+*   Less oversight
+
+:::
+
+:::
+
+:::
+
+::::
+
+## If time...
+
+How does this (and what you read) tie in to DOGE?
+
+::::{.columns}
+
+::: {.column width="50%"}
+
+![](images/dogefather.png){width=120% fig-alt="Picture of Elon Musk wearing sunglasses and wielding a chainsaw with the caption 'The Dogefather'"}
+
+:::
+
+::: {.column width="50%"}
+
+![](images/spending_24_25.png){fig-align="center" fig-alt="Tracking federal expenditures in real time. Cumulative federal spending for 2024 and 2025. Spending is higher in 2025 than at this time in 2024."}
+
+:::
+
+::::
+
+## Exit Quiz
+
+1. Who or what does Jennifer Pahlka ultimately blame for the kind of wasteful spending in government she wrote about?
+
+2. Shawn Fremstad does not like the way the United States calculates poverty. What does he argue we should do instead?
+
+3. The *New York Post* article highlights multiple practical challenges involved in ICE's efforts to carry out the Trump administration's immigration policy. Name and explain one. 
+
+

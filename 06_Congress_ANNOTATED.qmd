@@ -1,0 +1,227 @@
+---
+title: "Week 5: Civil Liberties and Civil Rights"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Logistics
+
+First essay due (and second prompt posted) [this time next week]{.yellow}.
+
+. . .
+
+Soon: defense scheduling.
+
+::: notes
+Housekeeping note was brief; the focus was that essays are due and that defenses will be scheduled soon (same cadence as in prior weeks). No additional policy guidance beyond normal expectations was given.
+:::
+
+## Followup {.smaller}
+
+Question from last time: why was Trump's executive order withholding funds from sanctuary cities ruled unconstitutional when other crossover sanctions aren't?
+
+::: incremental
+1.  [Separation of powers]{.yellow}: Congress has power of the purse, president can't redirect/withhold spending unilaterally (this will come up a lot later)
+2.  [10th Amendment anti-"commandeering"]{.yellow}: can't compel local law enforcement to do federal law enforcement
+    -   Difference between carrots for state policy and sticks for bureaucratic behavior
+3.  (More specific to the specifics of the case) [Too vague]{.yellow} / allowed too much federal discretion
+    -   Related to law vs. executive order in that laws let states make fully informed decisions re: compliance
+    -   NH declined federal highway funds to keep drinking age low, e.g.
+:::
+
+::: notes
+This wrap-up linked back to last week’s federalism themes that distribute costs/benefits unequally across people and places (venue selection, information asymmetries, exit threat, and decentralized accountability). In particular, decentralized accountability obscures who gets blamed for policy outcomes when responsibilities are split across levels (e.g., pandemic response):contentReference[oaicite:1]{index="1"}.
+:::
+
+## Exit Quiz Answers
+
+First, friendly reminder that Kristina needs to be able to read your handwriting!
+
+::: notes
+Instructor emphasized legibility and then moved directly into content.
+:::
+
+## Exit Quiz Answers
+
+1.  Why does Frymer call his argument a reflection of "an alternate model of \[nation-\]state authority"?
+
+. . .
+
+Conventional accounts highlight institutional/military capacity for state building. Frymer argues that land policies allowed the US to expand via decentralized, largely private activity despite relative lack of military capacity.
+
+::: notes
+This was used to foreshadow later contrasts between **government limits** under the First Amendment and **private platform** rules that can still remove content (norms vs. rights):contentReference[oaicite:2]{index="2"}.
+:::
+
+## Exit Quiz Answers
+
+2.  Grumbach and Michener argue that there are four main ways that the costs and benefits of federalism are distributed unequally. Name one.
+
+. . .
+
+1.  venue selection/forum shopping
+2.  information asymmetry
+3.  exit threat
+4.  decentralized accountability
+
+::: notes
+All four were recapped explicitly to close the federalism unit; “decentralized accountability” was illustrated as blurred lines in emergency response—who is actually responsible and therefore accountable?:contentReference[oaicite:3]{index="3"}.
+:::
+
+## Last week
+
+Federalism
+
+-   What is federalism?
+-   Why do we have a federal system?
+-   How has U.S. federalism evolved over its history?
+-   Who benefits from federalism?
+
+::: notes
+The readings (Birnbaum/Grumbach/Michener) were characterized as **pessimistic** about equality under federalism given strategic venue selection, information gaps, exit constraints, and accountability diffusion:contentReference[oaicite:4]{index="4"}.
+:::
+
+## This week
+
+Civil liberties and civil rights
+
+::: notes
+We moved to a two-day arc: (1) **civil liberties** (freedom *from* government interference), and (2) **civil rights** (freedom *through* government protection). The distinction matters because the **Bill of Rights** mostly secures liberties, while civil rights often require government action to guarantee equal access/participation:contentReference[oaicite:5]{index="5"}.
+:::
+
+## Civil Whats?
+
+What's the difference?
+
+. . .
+
+Generally speaking, we're talking about conformity costs:
+
+::: incremental
+-   civil liberties: where government [can't]{.yellow} intervene
+-   civil rights: where government [must]{.yellow} intervene
+:::
+
+. . .
+
+It's a little confusing that the Bill of *Rights* is where we get a lot of our civil *liberties*.
+
+::: notes
+The lecture defined this as **freedoms from** vs **freedoms through** government. Example preview: liberty of a **religious business** to refuse a same-sex wedding cake vs. equality rights in **public accommodations** (where government may need to intervene to prevent discrimination):contentReference[oaicite:6]{index="6"}.
+:::
+
+## Bigger Picture
+
+Liberty and equality are two widely-accepted and *sometimes conflicting* traditions in U.S. politics and culture.
+
+. . .
+
+Big questions in civil liberties and civil rights often ask us to *make tradeoffs* between freedom and equality.
+
+. . .
+
+If the answers were easy, the questions wouldn't be interesting.
+
+::: incremental
+-   Edge cases test the limits of our principles
+-   Necessary, but challenging, to prioritize abstract process over short term substance
+:::
+
+::: notes
+Two “edge case” examples were discussed: 1) Whether people subject to **domestic-violence restraining orders** can be disarmed: the case implicates immediate safety **and** due-process protections for the accused—students were encouraged to think about **process rights** apart from case sympathy:contentReference[oaicite:7]{index="7"}. 2) The **wedding cake** example above: collision of private religious liberty with equal access to public accommodations:contentReference[oaicite:8]{index="8"}.
+:::
+
+## Bill of Rights
+
+The Federalists opposed including a Bill of Rights
+
+-   Redundant (included in many state constitutions)
+-   Unnecessary (unalienable rights in the founding)
+-   Difficult to enforce (would depend on civic norms)
+
+. . .
+
+Conceded to help chances of ratification
+
+::: notes
+Federalists argued rights were already implicit (social-contract language, state constitutions) and only as strong as civic norms that sustain them; Anti-Federalists wanted explicit protections. The Bill of Rights emerged as a **political compromise** to secure ratification:contentReference[oaicite:9]{index="9"}.
+:::
+
+## Key Liberties in the Bill of Rights
+
+Shout some out (we're going to walk through them).
+
+. . .
+
+Two other key amendments:
+
+::: incremental
+-   9th Amendment: unenumerated rights to the people
+-   14th Amendment: equal protection, due process
+:::
+
+::: notes
+Students named: speech, press, religion, 2A, speedy trial/jury, no unreasonable searches, no quartering; instructor added the **9th** (unenumerated rights) and **14th** (due process & equal protection) as scaffolding for the rest:contentReference[oaicite:10]{index="10"}.
+:::
+
+## Incorporation via Fourteenth Amendment {.smaller}
+
+Fourteenth Amendment: post-Civil War, split into five sections (including congressional apportionment, barring traitors from holding office, and guaranteeing public debt).
+
+Section One is relevant here:
+
+"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws."
+
+::: notes
+Class noted Section 3 (insurrection bar) and the public-debt clause in passing, but the focus today was **Section 1** (citizenship, due process, equal protection):contentReference[oaicite:11]{index="11"}.
+:::
+
+## Incorporation via Fourteenth Amendment {.smaller}
+
+Due Process clause:
+
+"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; [nor shall any State deprive any person of life, liberty, or property, without due process of law]{.yellow}; nor deny to any person within its jurisdiction the equal protection of the laws."
+
+. . .
+
+States cannot exercise authority *arbitrarily*
+
+::: notes
+Instructor definition: **due process requires the state to write down procedures and follow them**; the state may not act arbitrarily when depriving persons of life, liberty, or property:contentReference[oaicite:12]{index="12"}.
+:::
+
+## Incorporation via Fourteenth Amendment {.smaller}
+
+Equal Protection clause:
+
+"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; [nor deny to any person within its jurisdiction the equal protection of the laws.]{.yellow}"
+
+. . .
+
+States cannot exercise authority *unequally*
+
+::: notes
+Instructor gloss: **Write the rule and apply it equally**. A brief aside flagged the brewing debate over **birthright citizenship** and the phrase “subject to the jurisdiction thereof” (not resolved in class):contentReference[oaicite:13]{index="13"}.
+:::
+
+## Quick aside {.smaller}
+
+The debate over birthright citizenship is about this:
+
+"[All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside]{.yellow}. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws."
+
+::: notes
+Instructor noted (wryly) that **long-standing consensus** that birth in the U.S. confers citizenship is being re-litigated on the meaning of “subject to the jurisdiction thereof,” and parked the issue for later:contentReference[oaicite:14]{index="14"}.
+:::
+
+\`\`\`{=html} <!--
+(archival notes omitted for brevity)
+-->

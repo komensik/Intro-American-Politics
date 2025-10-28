@@ -14,23 +14,23 @@ editor_options:
 
 ## Couple bits of logistics
 
-1. Unless we've already chatted, Essay 1 is due now
+1.  Unless we've already chatted, Essay 1 is due now
 
 . . .
 
-2. Please schedule your defense if you haven't already
+2.  Please schedule your defense if you haven't already
 
 . . .
 
-3. I'm traveling tomorrow/Thursday
+3.  I'm traveling tomorrow/Thursday
 
-* No office hours tomorrow
-* David Price guest lecturing Thursday
-    + Think about what you'd like to ask a former member of Congress
+-   No office hours tomorrow
+-   David Price guest lecturing Thursday
+    -   Think about what you'd like to ask a former member of Congress
 
 ## Exit Quiz Answers
 
-1. Andrew Lewis argues that the connection between abortion politics and religious freedom speaks to a "fundamental tension" in American democracy. What is that fundamental tension?
+1.  Andrew Lewis argues that the connection between abortion politics and religious freedom speaks to a "fundamental tension" in American democracy. What is that fundamental tension?
 
 . . .
 
@@ -38,7 +38,7 @@ Between individual rights and morality
 
 ## Exit Quiz Answers
 
-2. Weaver and Prowse are critical of political science, as a discipline, with respect to how it has considered countries’ levels of democratization. Briefly explain their criticism.
+2.  Weaver and Prowse are critical of political science, as a discipline, with respect to how it has considered countries’ levels of democratization. Briefly explain their criticism.
 
 . . .
 
@@ -46,7 +46,7 @@ By focusing on formal institutions and measurable indicators (such as surveys an
 
 ## Exit Quiz Answers
 
-3. What does Corrine McConnaughey mean in arguing that voting rights for women were delivered "under partisan duress"?
+3.  What does Corrine McConnaughey mean in arguing that voting rights for women were delivered "under partisan duress"?
 
 . . .
 
@@ -56,33 +56,27 @@ Women organized for the right to vote in many states first, giving the movement 
 
 Institutions, starting with Congress
 
-![](images/capitol.jpg){width=80% fig-align="center" fig-alt="The Capitol building"}
+![](images/capitol.jpg){width="80%" fig-align="center" fig-alt="The Capitol building"}
 
 ## Essay prompt
 
-::::{.columns}
-
+::::: columns
 ::: {.column width="50%"}
-
-![](images/dogefather.png){width=120% fig-alt="Picture of Elon Musk wearing sunglasses and wielding a chainsaw with the caption 'The Dogefather'"}
-
+![](images/dogefather.png){width="120%" fig-alt="Picture of Elon Musk wearing sunglasses and wielding a chainsaw with the caption 'The Dogefather'"}
 :::
 
 ::: {.column width="50%"}
-
 ![](images/spending_24_25.png){fig-align="center" fig-alt="Tracking federal expenditures in real time. Cumulative federal spending for 2024 and 2025. Spending is higher in 2025 than at this time in 2024."}
-
 :::
+:::::
 
-::::
+## Essay prompt {.smaller}
 
-## Essay prompt{.smaller}
-
-At the beginning of his term, President Trump appointed Elon Musk as a special government employee  who would spearhead the Department of Government Efficiency (DOGE), tasked with modernizing the federal government and cutting wasteful spending. Musk had pledged "at least \$2 trillion" in budget savings. This goal was eventually revised down to \$1 trillion, and then \$150 billion. Within six months, Musk had left the administration with overall federal spending having gone *up*, not down, despite the abrupt (and legally dubious) cancellation of thousands of federal jobs and contracts.
+At the beginning of his term, President Trump appointed Elon Musk as a special government employee who would spearhead the Department of Government Efficiency (DOGE), tasked with modernizing the federal government and cutting wasteful spending. Musk had pledged "at least \$2 trillion" in budget savings. This goal was eventually revised down to \$1 trillion, and then \$150 billion. Within six months, Musk had left the administration with overall federal spending having gone *up*, not down, despite the abrupt (and legally dubious) cancellation of thousands of federal jobs and contracts.
 
 Based on your understanding of the federal government's institutions, identify and explain one reason why DOGE was unable to achieve its spending reduction goals.
 
-* There are many potential reasons to choose from. By asking for one, I am encouraging you to answer with depth rather than breadth. The only requirement is that the reason must be related to institutions.
+-   There are many potential reasons to choose from. By asking for one, I am encouraging you to answer with depth rather than breadth. The only requirement is that the reason must be related to institutions.
 
 . . .
 
@@ -94,31 +88,31 @@ On Canvas under Files/Essay Prompts/Essay 2 prompt.docx
 
 Some structural features of U.S. Congress:
 
-*   Bicameral
-    + 435 House members (plus non-voting representatives from DC/territories); 100 senators
-    + House apportioned by population, Senate gets 2 per state
-    + Two-year House terms; 6-year Senate terms
-    
+-   Bicameral
+    -   435 House members (plus non-voting representatives from DC/territories); 100 senators
+    -   House apportioned by population, Senate gets 2 per state
+    -   Two-year House terms; 6-year Senate terms
+
 ## Structure of Congress
 
 Some structural features of U.S. Congress:
 
-*   Eligibility:
-    + Legal resident of the state
-      - In-district residence for House a strong *norm* but not a rule
-    + Minimum age: 25 (House), 30 (Senate)
-    + U.S. citizen for at least seven (House) or nine (Senate) years
-    
+-   Eligibility:
+    -   Legal resident of the state
+        -   In-district residence for House a strong *norm* but not a rule
+    -   Minimum age: 25 (House), 30 (Senate)
+    -   U.S. citizen for at least seven (House) or nine (Senate) years
+
 ## Structure of Congress
 
 Some structural features of U.S. Congress:
 
-*   Elections:
-    + Single-member
-    + Plurality / first-past-the-post
-    + Geographic districts 
-      - House districts drawn by state legislatures
-      
+-   Elections:
+    -   Single-member
+    -   Plurality / first-past-the-post
+    -   Geographic districts
+        -   House districts drawn by state legislatures
+
 . . .
 
 Institutional features [structure members' behavior]{.yellow} as representatives.
@@ -127,65 +121,51 @@ Institutional features [structure members' behavior]{.yellow} as representatives
 
 The House is small.
 
-:::: {.columns}
-
-::: {.column width="50%}
-
+::::: columns
+::: {.column width="\"50%"}
 ![](images/house_panel_a.png){fig-alt="2014 Population and Lower House Size, Current OECD Countries. Trend line shows cube root of country population. Small countries tend to follow the cube root rule closely. Some countries are above the line (have larger lower houses than the cube root of their population), including France, Italy, the UK, and Germany. The United States is the only large OECD country with a lower chamber smaller than the cube root of its population, and it is significantly smaller (cube root rule would mean roughly 700 seats, actual size is 435)."}
-
 :::
 
-::: {.column width="50%}
-
+::: {.column width="\"50%"}
 ![](images/house_panel_b.png){fig-alt="U.S. House Apportionment: 1790-2010. Shows cube root of population and actual House size. Chamber regularly increased in size with the decennial census roughly in line with the cube root rule until 1920, when it stopped growing (and population continued to)."}
 :::
-
-::::
+:::::
 
 ## Structure of Congress
 
-:::: {.columns}
-
-::: {.column width="40%}
-
+:::::: columns
+::: {.column width="\"40%"}
 The House is supposed to be bigger (Federalist 58)
 
-* smaller constituency size
-* keep members close to their constituents 
-
+-   smaller constituency size
+-   keep members close to their constituents
 :::
 
-
-::: {.column width="60%}
-
+:::: {.column width="\"60%"}
 ![](images/house_constituency_size.png){fig-align="center" fig-alt="House Constituency Size Since 1880. Eligible voters per house district by year. In 1880 members represented roughly 35,000 eligible voters, slowly increasing until 1920 when it doubled (women's suffrage), then steadily increasing until 1980, when it jumped again (18-20 year old suffrage) and continued to increase since. In 2010 members represented roughly 500,000 eligible voters."}
 
 ::: {style="font-size: 50%;"}
-
 Data from electproject.org
-
 :::
-
-:::
-
 ::::
+::::::
 
-## Powers of Congress{.smaller}
+## Powers of Congress {.smaller}
 
 Powers of U.S. Congress:
 
-*   Make laws
-*   Raise and spend money ('power of the purse')
-    + Revenue bills originate in House
-*   Declare war (formally)
-*   Approve treaties (Senate)
-*   Establish military/bureaucratic agencies
-*   Establish lower courts
-*   Print money
-*   Regulate interstate commerce
-*   Manage the mail
-*   Manage intellectual property/patents
-*   Set rules for immigration/naturalization
+-   Make laws
+-   Raise and spend money ('power of the purse')
+    -   Revenue bills originate in House
+-   Declare war (formally)
+-   Approve treaties (Senate)
+-   Establish military/bureaucratic agencies
+-   Establish lower courts
+-   Print money
+-   Regulate interstate commerce
+-   Manage the mail
+-   Manage intellectual property/patents
+-   Set rules for immigration/naturalization
 
 ## Powers of Congress
 
@@ -197,13 +177,11 @@ Congress's power of the purse is currently being contested.
 
 Newly-relevant jargon...
 
-::: {.incremental}
-
-* Impoundment
-* Recission
-    + Pocket recission
-* Shadow docket
-
+::: incremental
+-   Impoundment
+-   Recission
+    -   Pocket recission
+-   Shadow docket
 :::
 
 ## Impoundment is bad.
@@ -214,12 +192,10 @@ Impoundment is bad *even if you don't like the spending being withheld*. Why?
 
 Raises transaction costs:
 
-::: {.incremental}
-
-*   Undermines credibility of government's commitments
-*   Undermines congressional negotiations
-*   Encourages policy [personalism]{.yellow}
-
+::: incremental
+-   Undermines credibility of government's commitments
+-   Undermines congressional negotiations
+-   Encourages policy [personalism]{.yellow}
 :::
 
 ## Impoundment is bad.
@@ -227,34 +203,30 @@ Raises transaction costs:
 ![](images/simpson_impoundment.png){fig-align="center" fig-alt="'I don't think the Democrats want to shut down either,' Rep. Mike Simpson (R-Idaho), a senior appropriator, told Bloomberg Government. 'Their concern right now, and it's a legitimate concern, is that, how can we agree to any deal when our OMB director will just impound the funds and say we're not going to spend them there?"}
 
 ::: {style="font-size: 50%;"}
-
 "Trump’s Funding Feuds With Congress Add Strain to Shutdown Fight", Bloomberg Government, Septemgber 29, 2025. https://news.bgov.com/bloomberg-government-news/trumps-funding-feuds-with-congress-add-strain-to-shutdown-fight
-
 :::
 
-## Checks of Congress{.smaller}
+## Checks of Congress {.smaller}
 
 Some *checks* Congress has on the other branches:
 
-*   Override presidential veto (2/3 majority)
-*   Conduct oversight
-*   Advice and consent on executive appointments (Senate)
-*   Initiate/pass articles of impeachment (House)
-*   Hold impeachment trial (Senate)
-*   Initiate constitutional amendments
-*   Sets size/jurisdiction of SCOTUS
+-   Override presidential veto (2/3 majority)
+-   Conduct oversight
+-   Advice and consent on executive appointments (Senate)
+-   Initiate/pass articles of impeachment (House)
+-   Hold impeachment trial (Senate)
+-   Initiate constitutional amendments
+-   Sets size/jurisdiction of SCOTUS
 
 ## Vision of Congress
 
 Congress as the "first branch"
 
-::: {.incremental}
-
-*   "refine and enlarge the debate" to balance common good with local interests
-*   Senate as the more public-interested, "cooler"/less passionate deliberative body
-    + Until 1917, not directly elected
-    + Still: larger/more diverse constituencies and less frequent elections
-      
+::: incremental
+-   "refine and enlarge the debate" to balance common good with local interests
+-   Senate as the more public-interested, "cooler"/less passionate deliberative body
+    -   Until 1917, not directly elected
+    -   Still: larger/more diverse constituencies and less frequent elections
 :::
 
 ## Federalist 57
@@ -269,92 +241,73 @@ Sounds like Locke.
 
 Different *normative* theories of how representation *should* work:
 
-::: {.incremental}
-
-*   Delegate: [representative should be an agent of the represented]{.fragment}
-*   Trustee: [representative should use their best judgment]{.fragment}
-*   Gyroscopic: [representative should be in regular consultation with the represented]{.fragment}
-
+::: incremental
+-   Delegate: [representative should be an agent of the represented]{.fragment}
+-   Trustee: [representative should use their best judgment]{.fragment}
+-   Gyroscopic: [representative should be in regular consultation with the represented]{.fragment}
 :::
 
 ## Congressional Representation
 
 Different *types* of representation:
 
-::: {.incremental}
-
+::: incremental
 -   Substantive: [policy correspondence]{.fragment}
 -   Descriptive: [demographic correspondence]{.fragment}
-    + Surrogate: [group interests that span constituencies]{.fragment}
-
+    -   Surrogate: [group interests that span constituencies]{.fragment}
 :::
 
 ## Guiding Principle of Congress
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
+::::::: columns
+::::: {.column width="60%"}
 Mayhew: in expectation, members are "single-minded seekers of reelection"
 
-::: {.fragment}
-
+::: fragment
 <br>
 
 What does that mean?
-
 :::
 
-::: {.fragment}
+::: fragment
 <br>
 
 Pros and cons?
-
 :::
-
-:::
+:::::
 
 ::: {.column width="40%"}
-
 ![](images/wexton.jpg){fig-align="center" fig-alt="Figure of Congresswoman Jennifer Wexton"}
-
 :::
-
-::::
+:::::::
 
 ## Guiding Principle of Congress
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="70%"}
-
 Members boost their re-election chances through:
 
-* Credit-claiming (includes legislative output and casework)
-* Position-taking (policy not necessarily tied to output)
-* Advertising (public without policy)
-
-
+-   Credit-claiming (includes legislative output and casework)
+-   Position-taking (policy not necessarily tied to output)
+-   Advertising (public without policy)
 :::
 
 ::: {.column width="30%"}
-
 ![](images/wexton.jpg){fig-align="center" fig-alt="Figure of Congresswoman Jennifer Wexton"}
-
 :::
-
-::::
+:::::
 
 ## Overlapping Constituencies
 
 To whom are members of Congress accountable?
 
-. . . 
+. . .
 
 Fenno (1978): *concentric circles* of representation
 
-![](images/concentric_circles.png){width=40% fig-align="center" fig-alt="Illustration of concentric circles of representation. Personal circle inside Primary circle inside General circle inside District circle."}
+![](images/concentric_circles.png){width="40%" fig-align="center" fig-alt="Illustration of concentric circles of representation. Personal circle inside Primary circle inside General circle inside District circle."}
 
+```{=html}
 <!--
 
 ## Fenno's Paradox
@@ -411,62 +364,50 @@ Enten, Harry. "Disliking Congress, as a Whole And as Individuals." FiveThirtyEig
 ::::
 
 -->
+```
 
 ## How a Bill Becomes a Law
 
-:::: {.columns}
-
-::: {.column width="80%"}
-
-::: {.fragment}
-
+::::::: columns
+::::: {.column width="80%"}
+::: fragment
 Lots of veto points!
-
 :::
 
-::: {.fragment}
-
+::: fragment
 Committees (which ones have jurisdiction, who sits on them) extremely important.
-
 :::
-
-:::
+:::::
 
 ::: {.column width="20%"}
-
 ![](images/bill_law.png){fig-alt="Diagram of how a bill becomes a law. Begins with a bill being drafted, then follows dual tracks. In the Senate: introduced and referred to committee(s) -> committee hearings, markup, and reported out -> Senate floor -> conference committee -> Senate floor. In the House: introduced and referred to committee(s) -> House committee hearings, markup, reported out -> Rules Committee -> House floor -> conference committee -> House floor. If conference committee version passes both chambers, goes to president for signature or veto."}
 :::
-
-::::
+:::::::
 
 ## Types of Legislation
 
-::: {.incremental}
-
-*   [Bill]{.yellow}: [becomes law if passed by both chambers and signed by president]{.fragment}
-    + Tax Cuts and Jobs Act, Inflation Reduction Act, e.g.
-*   [Simple resolution]{.yellow}: [symbolic, formal expressions from one chamber, not signed by president]{.fragment}
-    + Congratulating the Super Bowl winner
-    + Concurrent resolution if from both chambers
-*   [Joint resolution]{.yellow}: [like a bill, unless it's a constitutional amendment]{.fragment}
-
+::: incremental
+-   [Bill]{.yellow}: [becomes law if passed by both chambers and signed by president]{.fragment}
+    -   Tax Cuts and Jobs Act, Inflation Reduction Act, e.g.
+-   [Simple resolution]{.yellow}: [symbolic, formal expressions from one chamber, not signed by president]{.fragment}
+    -   Congratulating the Super Bowl winner
+    -   Concurrent resolution if from both chambers
+-   [Joint resolution]{.yellow}: [like a bill, unless it's a constitutional amendment]{.fragment}
 :::
 
 ## Orthodox Lawmaking
 
-Proposal → presiding officer → Committee\*^ → Subcommittee\*^ → Committee → Rules Committee\*^ (if House) → Chamber floor\*^ → other chamber floor\*^ → Conference Committee\*^ → Final Passage^ → President^
+Proposal → presiding officer → Committee\*\^ → Subcommittee\*\^ → Committee → Rules Committee\*\^ (if House) → Chamber floor\*\^ → other chamber floor\*\^ → Conference Committee\*\^ → Final Passage\^ → President\^
 
-::: {.fragment fragment-index=2}
-
+::: {.fragment fragment-index="2"}
 if veto...
 
-New floor votes^ (need 2/3 majority to pass)
-
+New floor votes\^ (need 2/3 majority to pass)
 :::
 
 \* Bill can be amended
 
-^ Bill can die
+\^ Bill can die
 
 ## Unorthodox Lawmaking
 
@@ -478,8 +419,8 @@ Multiple pathways for a given piece of legislation to become law. [Rules and pro
 
 . . .
 
-*   Major bills may bypass committee system via [discharge petition]{.yellow} (rare) or [special rules]{.yellow} (common, in House)
-    + Special rules for Patriot Act, Affordable Care Act, e.g.
+-   Major bills may bypass committee system via [discharge petition]{.yellow} (rare) or [special rules]{.yellow} (common, in House)
+    -   Special rules for Patriot Act, Affordable Care Act, e.g.
 
 . . .
 
@@ -489,20 +430,18 @@ Special rules may require revising policy to fit procedure (ACA individual manda
 
 The rules, organization, and norms in Congress are all generally geared toward some high-level functions
 
-*   Acquiring information (committees, e.g.)
-*   Coordinating action (delegating authority to party leaders, e.g.)
-*   Resolving conflict (remarks submitted in advance, e.g.)
+-   Acquiring information (committees, e.g.)
+-   Coordinating action (delegating authority to party leaders, e.g.)
+-   Resolving conflict (remarks submitted in advance, e.g.)
 
 . . .
 
 Lots of veto points by design, heavy status quo bias
 
-## Leadership Roles in Congress{.smaller}
+## Leadership Roles in Congress {.smaller}
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
-
 House:
 
 -   Speaker
@@ -513,11 +452,9 @@ House:
 -   Assistant leader (Democratic)
 -   Committee chair/ranking member
 -   Campaign committee chair
-
 :::
 
 ::: {.column width="50%"}
-
 Senate:
 
 -   Vice President/President Pro-Tempore
@@ -527,11 +464,10 @@ Senate:
 -   Policy committee chair
 -   Committee chair/ranking member
 -   Campaign committee chair
-
 :::
+:::::
 
-::::
-
+```{=html}
 <!--
 
 ## Rules about Rules
@@ -553,20 +489,19 @@ House elects its Speaker, who needs a [procedural majority]{.yellow} in order fo
 :::
 
 -->
+```
 
 ## House and Senate rules
 
 Chambers set their own rules at the beginning of the session. Some key differences:
 
-::: {.incremental}
-
-*   Path to the floor
-    + Rules Committee in the House
-*   Debate and amendment process
-    + Filibuster in the Senate
-    + Open, modified-open, structured, and closed rules in the House
-      - Who can offer amendments when?
-
+::: incremental
+-   Path to the floor
+    -   Rules Committee in the House
+-   Debate and amendment process
+    -   Filibuster in the Senate
+    -   Open, modified-open, structured, and closed rules in the House
+        -   Who can offer amendments when?
 :::
 
 ## The House Rules Committee
@@ -575,21 +510,15 @@ Why is the Rules Committee so powerful?
 
 . . .
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="60%"}
-
 (When and under what procedures) will the bill be considered by the full chamber?
-
 :::
 
 ::: {.column width="40%"}
-
-![](images/agenda_control.png){width=70% fig-align="center" fig-alt="Giant vs. man meme. Giant is agenda control, man is popular policy."}
-
+![](images/agenda_control.png){width="70%" fig-align="center" fig-alt="Giant vs. man meme. Giant is agenda control, man is popular policy."}
 :::
-
-::::
+:::::
 
 ## Procedure is Power
 
@@ -598,9 +527,7 @@ Why is the Rules Committee so powerful?
 ![](images/dingell_quote.png){fig-alt="When a committee colleague once taunted him that he didn't have the votes to stop from being reported a bill Dingell opposed, he responded 'Yeah, but I've got the gavel,' with which he banged the meeting to adjournement, sending the bill into legislative oblivion for the remainder of that Congress."}
 
 ::: {style="font-size: 50%;"}
-
 Wolfensberger, Don. "Long-Serving Dingell Is a Master of House Traditions." Roll Call, June 11 2013. https://rollcall.com/2013/06/11/long-serving-dingell-is-a-master-of-house-traditions-wolfensberger/
-
 :::
 
 . . .
@@ -613,42 +540,33 @@ Wolfensberger, Don. "Long-Serving Dingell Is a Master of House Traditions." Roll
 
 Congressional Budget Act of 1974:
 
-::: {.incremental}
-
-*   Background: Nixon attempting impoundment
-*   Bill systematizes budgetary and spending processes
-*   Established
-    + Congressional Budget Office
-    + House and Senate Budget Committees
-    + Formalized budget process and timeline
-      - Including budget "reconciliation"
-
+::: incremental
+-   Background: Nixon attempting impoundment
+-   Bill systematizes budgetary and spending processes
+-   Established
+    -   Congressional Budget Office
+    -   House and Senate Budget Committees
+    -   Formalized budget process and timeline
+        -   Including budget "reconciliation"
 :::
 
 ## When Rules Matter (Always)
 
 Byrd Rule for reconciliation (and avoiding filibuster)
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
-::: {.incremental}
-
-*   Determines whether item is/isn't "extraneous" to budget
-*   Interpreted by Senate parliamentarian [(who?)]{.fragment}
-*   Re-upping the Byrd Rule is a *norm*: Senate could change it, chooses not to
-
-:::
-
-:::
-
-::: {.column width="40%"}
-
-![](images/byrd.jpg){fig-alt="Picture of former Senator Robert Byrd"}
-
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   Determines whether item is/isn't "extraneous" to budget
+-   Interpreted by Senate parliamentarian [(who?)]{.fragment}
+-   Re-upping the Byrd Rule is a *norm*: Senate could change it, chooses not to
 :::
 ::::
+
+::: {.column width="40%"}
+![](images/byrd.jpg){fig-alt="Picture of former Senator Robert Byrd"}
+:::
+::::::
 
 ## When Norms Matter (Always)
 
@@ -658,31 +576,25 @@ Once again, you can't write everything down.
 
 Senate "folkways" and norms of collegiality
 
-* Many norms concern minority's (in some cases single member's) ability to slow/block majority
-* Polarization strains these norms
+-   Many norms concern minority's (in some cases single member's) ability to slow/block majority
+-   Polarization strains these norms
 
-## Committee Structure{.smaller}
+## Committee Structure {.smaller}
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="40%"}
-
 The chambers organize themselves:
 
 -   Standing committees
 -   Select/special committees
 -   Joint committees
 -   Conference committees
-
 :::
 
 ::: {.column width="60%"}
-
 ![](images/house_committees.png){fig-alt="House committees: Agriculture, Appropriations, Armed Services, Budget, Education and the Workforce, Energy and Commerce, Ethics, Financial Services, Foreign Affairs, Homeland Security, House Administration, Judiciary, Natural Resources, Oversight and Accountability, Rules, Science, Space, and Technology, Small Business, Transportation and Infrastructure, Veterans' Affairs, Ways and Means, Permanent Select Committee on Intelligence, Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party, Joint Economic Committee, Joint Committee on the Library, Joint Committee on Printing, Joint Committee on Taxation"}
-
 :::
-
-::::
+:::::
 
 . . .
 
@@ -690,7 +602,9 @@ Each committee further divided into subcommittees, etc.
 
 ## House Committee Assignments
 
-Seats on committees allocated by the majority party in consultation with the minority.^[ Except Ethics committee, which is always split 5/5]
+Seats on committees allocated by the majority party in consultation with the minority.[^1]
+
+[^1]: Except Ethics committee, which is always split 5/5
 
 . . .
 
@@ -704,20 +618,19 @@ Lists approved by full chamber.
 
 Why does Congress organize itself into committees?
 
-::: {.incremental}
-
-*   Distributive theory: [good for members]{.fragment}
-    + Opportunities for specialized credit-claiming and position-taking
-    + Lever of power for party leadership
-*   Informational theory: [good for chamber]{.fragment}
-    + Committees develop expertise relative to chamber
-
+::: incremental
+-   Distributive theory: [good for members]{.fragment}
+    -   Opportunities for specialized credit-claiming and position-taking
+    -   Lever of power for party leadership
+-   Informational theory: [good for chamber]{.fragment}
+    -   Committees develop expertise relative to chamber
 :::
 
 ## Members on Committees
 
 ![Valerie Foushee (NC-4)](images/foushee_committees.png){fig-alt="Committees page on Rep. Valerie Foushee's website (NC-4): House Committee on Transportation and Infrastructure (Subcommittees on Railroads, Pipelines, and Hazardous materials -- Vice Ranking Member; and Aviation), House Committee on Science, Space, and Technology (Subcommittees on Space and Aeronautics -- Ranking Member; and Energy)"}
 
+```{=html}
 <!--
 
 ## Importance of Committee Assignments
@@ -755,6 +668,7 @@ Why does Congress organize itself into committees?
 :::
 
 -->
+```
 
 ## Gridlock and Polarization
 
@@ -763,9 +677,7 @@ What do we mean when we say congressional "ideology"? [Pros and cons of this mea
 ![](images/dwnom_118.png){fig-alt="Plot of DW-NOMINATE first and second dimension (latent dimensions of congressional voting behavior) for the 118th Congress, depicting partisan polarization on the first dimension"}
 
 ::: {style="font-size: 50%;"}
-
 Source: voteview.com
-
 :::
 
 ## Gridlock and Polarization
@@ -775,72 +687,57 @@ Polarization is relative. ["Textbook" Congress in 60s-70s had abnormally *low* p
 ![](images/congress_overtime.png){fig-alt="Party median DW-NOMINATE scores over time, depicting recent polarizaiton between median Democrat and median Republican"}
 
 ::: {style="font-size: 50%;"}
-
 Source: voteview.com
-
 :::
 
 ## Theories of Congressional Polarization
 
 Less evidence:
 
-:::{.incremental}
-
+::: incremental
 -   social capital
 -   gerrymandering
 -   money in politics (general)
-
 :::
 
 ## Theories of Congressional Polarization
 
 Mixed evidence:
 
-:::{.incremental}
-
+::: incremental
 -   economic inequality
 -   money in politics (specific: dark money, small donors)
 -   weakening of formal parties
 -   changes in media environment
-
 :::
 
 ## Theories of Congressional Polarization
 
 More evidence:
 
-:::{.incremental}
-
+::: incremental
 -   sorting
 -   nationalization
 -   competition
-
 :::
 
 ## Example: Madison Cawthorn
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
+:::::: columns
+:::: {.column width="60%"}
 "I have built my staff around comms rather than legislation."
 
-::: {.fragment}
-
+::: fragment
 1st term, minority party, anticipation of competitive midterm...rational?
-
 :::
-
-:::
-
-::: {.column width="40%"}
-
-![](images/cawthorn.jpg){fig-alt="Official photo of former Congressman Madison Cawthorn."}
-
-:::
-
 ::::
 
+::: {.column width="40%"}
+![](images/cawthorn.jpg){fig-alt="Official photo of former Congressman Madison Cawthorn."}
+:::
+::::::
+
+```{=html}
 <!--
 
 ## Bringing it together
@@ -911,6 +808,7 @@ Some implications...
 :::
 
 -->
+```
 
 ## Logrolling and Omnibus Legislation
 
@@ -918,6 +816,7 @@ One way to break gridlock: trade wins via [logrolling]{.yellow}
 
 . . .
 
+```{=html}
 <!--
 Common example: Farm Bill
 
@@ -930,39 +829,33 @@ Common example: Farm Bill
 
 . . .
 -->
+```
 
 [Omnibus legislation]{.yellow}: bundling lots of bills (major and minor) together at once
 
 One unorthodox strategy: get your bill attached to a "must-pass" bill (like the National Defense Authorization Act)
 
-## Earmarks{.smaller}
+## Earmarks {.smaller}
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
+:::::: columns
+:::: {.column width="60%"}
 Another way to break gridlock: cut everyone in via "pork"
 
-::: {.incremental}
-
-*   Earmarks involving district-specific appropriations
-    + infrastructure, grants, e.g.
-    + relatively small \$\$ overall
-*   Easy to criticize *other* members' projects as wasteful
-*   Norms of *universalism* generate broad buy-in (very Madisonian)
-
+::: incremental
+-   Earmarks involving district-specific appropriations
+    -   infrastructure, grants, e.g.
+    -   relatively small \$\$ overall
+-   Easy to criticize *other* members' projects as wasteful
+-   Norms of *universalism* generate broad buy-in (very Madisonian)
 :::
-
-:::
-
-::: {.column width="40%"}
-
-![](images/flake_mccaskill_pork.jpg){fig-alt="Former Senators Jeff Flake (R-AZ) and Claire McCaskill (D-MO) attend an anti-pork event together"}
-
-:::
-
 ::::
 
+::: {.column width="40%"}
+![](images/flake_mccaskill_pork.jpg){fig-alt="Former Senators Jeff Flake (R-AZ) and Claire McCaskill (D-MO) attend an anti-pork event together"}
+:::
+::::::
+
+```{=html}
 <!--
 ## If time...
 
@@ -1182,6 +1075,7 @@ https://governmentrelations.duke.edu/
 ::::
 
 -->
+```
 
 ## Redistricting
 
@@ -1193,108 +1087,81 @@ Or, gerrymandering. [Why "gerrymandering"?]{.fragment}
 
 ## Redistricting
 
-The authority to draw district lines is formally left to the states. 
+The authority to draw district lines is formally left to the states.
 
 . . .
 
 For most states, state legislatures draw the lines (but may delegate)
 
-* *typically* once every ten years, after the census
+-   *typically* once every ten years, after the census
 
 ## Redistricting
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
+:::::::::: columns
+:::::: {.column width="60%"}
 Rules (everyone):
 
-::: {.incremental}
-
+::: incremental
 -   Equal population
 -   Voting Rights Act: no diluting minority representation
-
 :::
 
-::: {.fragment}
-
+:::: fragment
 Rules (some/most states)
 
-::: {.incremental}
-
+::: incremental
 -   Compactness
 -   Contiguity
 -   Communities of interest
-
 :::
+::::
+::::::
 
-:::
-
-:::
-
-::: {.column width="40%"}
-
-::: {.fragment}
-
+::::: {.column width="40%"}
+:::: fragment
 Norms:
 
-::: {.incremental}
-
+::: incremental
 -   Incumbent protection (or lack thereof)
 -   Partisan fairness (or lack thereof)
-
 :::
-
-:::
-
-:::
-
 ::::
+:::::
+::::::::::
 
 ## "Cracking" and "Packing"
 
 ![](images/cracking_packing.png){fig-alt="Illustration of 'cracking and packing' gerrymandering strategies. In theory, a constituency with equal numbers of green and purple dots can be apportioned such that there are green majorities in five districts by 'packing' a concentrated set of purple dots into a single district where it is the overwhelming majority (wasting a lot of their votes). Or the same constituency can be rearranged to have four purple majority districts and only two green majority districts by 'cracking' that same concentration of purple dots to distribute them across all of the districts. This is then shown in practice in North Carolina (using a previous district map), where some cities are 'cracked' to dilute Democratic votes (Asheville, Greensboro, Greenville) while others are 'packed' to waste Democratic votes (Charlotte, Raleigh)."}
 
 ::: {style="font-size: 50%;"}
-
 Princeton Gerrymandering Project
-
 :::
 
 ## Common Gerrymanders
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
+::::::: columns
+:::: {.column width="60%"}
 Partisan:
 
 ![](images/ohio_9th.png){fig-alt="Illustration of a partisan gerrymander, where a new district (the 9th, running along Lake Erie/the northern border of the state from Toledo to Cleveland) was drawn out of three existing Democratic-held districts (the 10th, 13th, and 9th)."}
 
 ::: {style="font-size: 50%;"}
-
 Smith, Jamil. "Ohio gerrymandering costs Congress a liberal." NBC News, March 7, 2012.
-
 :::
+::::
 
-:::
-
-::: {.column width="40%"}
-
+:::: {.column width="40%"}
 Racial:
 
 ![](images/il4_gerrymander.png){fig-alt="Chicago's 4th district, which connects two Latino neighborhoods in different parts of the city to create a majority-minority district. It is nicknamed the 'earmuffs' district because on the map it looks like the city is wearing earmuffs, rotated at 90 degrees."}
 
 ::: {style="font-size: 50%;"}
-
 Scales, Liliana. "Why Chicago’s 4th Congressional District — those 'earmuffs' — are about fairness and not gerrymandering." Chicago Sun-Times, March 11, 2020.
-
 :::
-
-:::
-
 ::::
+:::::::
 
+```{=html}
 <!--
 
 ## Gerrymandering Metrics
@@ -1335,6 +1202,7 @@ Ansolabehere, Stephen, and William Leblanc. 2008. "A spatial model of the relati
 ::::
 
 -->
+```
 
 ## Redistricting Tradeoffs
 
@@ -1346,7 +1214,7 @@ Aggressive redistricting can backfire...why? [Maps decay; uniform swing can crea
 
 . . .
 
-Competitive districts "waste" votes...Thoughts on why? [["Leapfrog" representation.]{.yellow}]{.fragment}
+Competitive districts "waste" votes...Thoughts on why? ["Leapfrog" representation.]{.yellow}
 
 . . .
 
@@ -1354,8 +1222,8 @@ Competitive districts "waste" votes...Thoughts on why? [["Leapfrog" representati
 
 ## Exit Quiz
 
-1.	For Mayhew, why is "winning comfortably" more important to a member of Congress than merely winning?
+1.  For Mayhew, why is "winning comfortably" more important to a member of Congress than merely winning?
 
-2. Briefly explain what Matt Glassman means by "Most of the time when you lose in a democracy, you don't actually lose a vote"?
+2.  Briefly explain what Matt Glassman means by "Most of the time when you lose in a democracy, you don't actually lose a vote"?
 
-3. Per Glassman, what is a *procedural coalition*?
+3.  Per Glassman, what is a *procedural coalition*?

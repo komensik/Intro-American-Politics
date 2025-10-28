@@ -14,14 +14,14 @@ editor_options:
 
 ## Exit Quiz Answers
 
-1. Which **two** of the following clauses in the Constitution is *Brutus* most concerned will grant the national government too much power (hint: these are specifically referenced by article)?
+1.  Which **two** of the following clauses in the Constitution is *Brutus* most concerned will grant the national government too much power (hint: these are specifically referenced by article)?
 
 . . .
 
-A)   The necessary and proper clause
-B)   The commerce clause
-C)   The full faith and credit clause
-D)   The supremacy clause
+A)  The necessary and proper clause
+B)  The commerce clause
+C)  The full faith and credit clause
+D)  The supremacy clause
 
 . . .
 
@@ -29,7 +29,7 @@ Necessary and proper; supremacy (A,D)
 
 ## Exit Quiz Answers
 
-2. True or false: for Dahl, amending the Constitution to allow Congress to levy personal income taxes made the Constitution more democratic.
+2.  True or false: for Dahl, amending the Constitution to allow Congress to levy personal income taxes made the Constitution more democratic.
 
 . . .
 
@@ -37,38 +37,36 @@ True
 
 ## Exit Quiz Answers
 
-3. Juan Linz identifies two *institutional* problems with presidential systems. Briefly explain one of them.
+3.  Juan Linz identifies two *institutional* problems with presidential systems. Briefly explain one of them.
 
 . . .
 
-::: {.incremental}
-
-*   Competing democratic mandates between executive and legislature. Especially under divided government, unclear who speaks for the people. 
-*   Fixed term for the president punctuates/heightens political conflict at specific intervals, when you might want to swap out the executive at some other time but presidents are difficult to remove mid-term.
-
+::: incremental
+-   Competing democratic mandates between executive and legislature. Especially under divided government, unclear who speaks for the people.
+-   Fixed term for the president punctuates/heightens political conflict at specific intervals, when you might want to swap out the executive at some other time but presidents are difficult to remove mid-term.
 :::
 
 # A More Perfect Constitution
 
-![](images/convention_small.jpg){width=90% fig-align="center" fig-alt="Portrait of the constitutional convention."}
+![](images/convention_small.jpg){width="90%" fig-align="center" fig-alt="Portrait of the constitutional convention."}
 
 ## A More Perfect Constitution
 
 Think outside the box! Some examples:
 
-*   How many branches of government?
-*   Interbranch relations?
-*   National vs. state power?
-*   Legislature(s) size? Election timing?
-*   Who's eligible for which offices?
-*   How are which offices selected?
-*   Term limits? Who / how many?
+-   How many branches of government?
+-   Interbranch relations?
+-   National vs. state power?
+-   Legislature(s) size? Election timing?
+-   Who's eligible for which offices?
+-   How are which offices selected?
+-   Term limits? Who / how many?
 
 # Break
 
 ## Tuesday Exit Quiz / Answers
 
-1. What does Riker mean in arguing that federalism "grants far more than is necessary for freedom"?
+1.  What does Riker mean in arguing that federalism "grants far more than is necessary for freedom"?
 
 . . .
 
@@ -76,7 +74,7 @@ Federalism grants minorities the right to make policy without becoming a majorit
 
 ## Tuesday Exit Quiz / Answers
 
-2. Describe one impediment the legal marijuana industry is facing due to continued federal prohibition.
+2.  Describe one impediment the legal marijuana industry is facing due to continued federal prohibition.
 
 . . .
 
@@ -84,58 +82,47 @@ No access to banking, no interstate commerce or shipping across federal waters
 
 ## Tuesday Exit Quiz / Answers
 
-3. There are two main policies that exemplify "new federalism." Name and (briefly!) explain one.
+3.  There are two main policies that exemplify "new federalism." Name and (briefly!) explain one.
 
 . . .
 
-::: {.incremental}
-
-* Block grants: giving states money for a program but not specifying how the program must be implemented
-* Devolution: giving authority back to states in a given policy area
-
+::: incremental
+-   Block grants: giving states money for a program but not specifying how the program must be implemented
+-   Devolution: giving authority back to states in a given policy area
 :::
 
 ## Convention Debrief
 
 What did we learn?
 
-::: {.incremental}
-
-* Arguing and voting vs. negotiating to agreement
-* Amending vs. starting from scratch
-    + potential amendments interact with other existing institutions/norms
-* Rules matter:
-    + Supermajority requirement
-    + Unit vs. individual voting
-
+::: incremental
+-   Arguing and voting vs. negotiating to agreement
+-   Amending vs. starting from scratch
+    -   potential amendments interact with other existing institutions/norms
+-   Rules matter:
+    -   Supermajority requirement
+    -   Unit vs. individual voting
 :::
 
-## Pivotal Players{.smaller}
+## Pivotal Players {.smaller}
 
 Who remembers Roger Sherman?
 
 . . .
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
-![](images/states_dims.png){width=60% fig-align="center" fig-alt="States at the Constitutional Convention, reduced to two latent dimensions. Connecticut emerges as pivotal based on its location in the middle with respect to both dimensions."}
+:::::: columns
+:::: {.column width="60%"}
+![](images/states_dims.png){width="60%" fig-align="center" fig-alt="States at the Constitutional Convention, reduced to two latent dimensions. Connecticut emerges as pivotal based on its location in the middle with respect to both dimensions."}
 
 ::: {style="font-size: 50%;"}
-
 Dougherty, Keith, and Jac Heckelman. 2006. "A Pivotal Voter from a Pivotal State: Roger Sherman at the Constitutional Convention." *American Political Science Review* 100(2): 298.
-
-:::
-
-:::
-
-::: {.column width="40%"}
-
-![](images/roger_sherman.png){width=80% fig-align="center" fig-alt="Portrait of Roger Sherman"}
-
 :::
 ::::
+
+::: {.column width="40%"}
+![](images/roger_sherman.png){width="80%" fig-align="center" fig-alt="Portrait of Roger Sherman"}
+:::
+::::::
 
 # Finishing up the Constitution
 
@@ -151,12 +138,10 @@ Good institutional design *directs* self-interest toward cooperation
 
 Small districts in a big legislature means:
 
-::: {.incremental}
-
-* Districts with clearer interests to represent
-* Coalition politics necessary to get anything done
-    + High transaction costs, low conformity costs
-
+::: incremental
+-   Districts with clearer interests to represent
+-   Coalition politics necessary to get anything done
+    -   High transaction costs, low conformity costs
 :::
 
 ## Federalist 10: Transaction Costs
@@ -187,6 +172,7 @@ Dividing power twice -- (federal/state, then within federal) -- provides "double
 
 Not the Virginia Plan! But a winning argument for Madison's audience.
 
+```{=html}
 <!--
 ## The Irony of Federalist 51
 
@@ -231,6 +217,7 @@ Adopted democratic principles/premises, but skeptical of practical features
 :::
 
 -->
+```
 
 ## Bill of Rights
 
@@ -242,12 +229,10 @@ The first two didn't make it! [One found its way...in 1992.]{.fragment}
 
 . . .
 
-![](images/amendment_history.png){width=70% fig-align="center" fig-alt="The compensation amendment would likely have become a mere footnote of history if not for a young student named Gregory D. Watson. In 1982, the 20-year-old University of Texas at Austin sophomore happened upon the story of the lost amendment while conducting research for a government class. 'This one pertaining to congressional pay raises immediately leaped off the page to me,' he later told the Austin American-Statesman. Sensing that he had unearthed an interesting topic, Watson wrote a term paper asserting that the compensation amendment had no expiration date and could still be added to the Constitution if the required number of states ratified it. Despite his enthusiasm, however, his professor didn't buy his argument. When he got his paper back, he found he had received a 'C' grade."}
+![](images/amendment_history.png){width="70%" fig-align="center" fig-alt="The compensation amendment would likely have become a mere footnote of history if not for a young student named Gregory D. Watson. In 1982, the 20-year-old University of Texas at Austin sophomore happened upon the story of the lost amendment while conducting research for a government class. 'This one pertaining to congressional pay raises immediately leaped off the page to me,' he later told the Austin American-Statesman. Sensing that he had unearthed an interesting topic, Watson wrote a term paper asserting that the compensation amendment had no expiration date and could still be added to the Constitution if the required number of states ratified it. Despite his enthusiasm, however, his professor didn't buy his argument. When he got his paper back, he found he had received a 'C' grade."}
 
 ::: {style="font-size: 50%;"}
-
 https://www.history.com/news/the-strange-case-of-the-27th-amendment
-
 :::
 
 ## Bill of Rights
@@ -266,29 +251,21 @@ Many of these will come up again next week when we cover civil liberties/rights.
 
 ## Bill of Rights
 
-:::: {.columns}
-
-::: {.column width="50%}
-
+:::::: columns
+:::: {.column width="\"50%"}
 Not the Third Amendment.
 
-::: {.fragment}
-
+::: fragment
 Well, maybe not.
-
 :::
-
-:::
-
-::: {.column width="50%}
-
-
-![](images/third_amendment.png){fig-align="center" fig-alt="Jason Momoa meme by Jim Amendments on Twitter: The soldier thinking about taking a nap on my futon, about to be tackled by the Third Amendment."}
-
-:::
-
 ::::
 
+::: {.column width="\"50%"}
+![](images/third_amendment.png){fig-align="center" fig-alt="Jason Momoa meme by Jim Amendments on Twitter: The soldier thinking about taking a nap on my futon, about to be tackled by the Third Amendment."}
+:::
+::::::
+
+```{=html}
 <!--
 
 ## Multiple Values in Bill of Rights
@@ -355,6 +332,7 @@ Pope, Jeremy, and Soren Schmidt. 2021 "Father Founders: Did Child Gender Affect 
 :::
 
 -->
+```
 
 # Federalism
 
@@ -366,19 +344,17 @@ Over/under: how many governments are there in the U.S.?
 
 As of 2017...
 
-::: {.incremental}
-
-*   One national government
-*   50 state governments [(plus DC and territories)]{.fragment}
-*   ~90,000 local governments
-    + ~3,000 counties
-    + ~20,000 cities/municipalities
-    + ~16,000 townships
-    + ~50,000 special purpose districts
-
+::: incremental
+-   One national government
+-   50 state governments [(plus DC and territories)]{.fragment}
+-   \~90,000 local governments
+    -   \~3,000 counties
+    -   \~20,000 cities/municipalities
+    -   \~16,000 townships
+    -   \~50,000 special purpose districts
 :::
 
-
+```{=html}
 <!--
 ## Why do we have federalism?
 
@@ -396,7 +372,7 @@ From last week...
     
 :::
 -->
-
+```
 
 ## What is Federalism?
 
@@ -420,17 +396,16 @@ Constituent governments accept bargain because they need protection or desire st
 
 Federalism is when...
 
-::: {.incremental}
-
+::: incremental
 -   Multiple governments cover the same land and people
 -   Each government has at least one area where [autonomous authority]{.yellow} is [codified]{.yellow}
-
 :::
 
 . . .
 
 Madison says federalism secures freedom. [Riker says not *necessarily*. Soviet Union met these criteria in a one-party state, e.g.]{.fragment}
 
+```{=html}
 <!--
 
 ## Some High-Level Consequences
@@ -446,24 +421,21 @@ Madison says federalism secures freedom. [Riker says not *necessarily*. Soviet U
 :::
 
 -->
+```
 
 ## Powers
 
 Under federalism, some powers are...
 
-::: {.incremental}
-
+::: incremental
 -   Exclusive: [(federal sets up army / states set up police forces, e.g.)]{.fragment}
 -   Concurrent: [(federal and state both work on roads, social welfare, e.g.)]{.fragment}
-
 :::
 
 ## Federal powers
 
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="50%"}
-
 National government can...
 
 -   Print money
@@ -471,32 +443,24 @@ National government can...
 -   Military, defense/war
 -   Post offices / mail
 -   "Necessary and proper" laws to execute the above
-
 :::
 
-::: {.column width="50%"}
-
-::: {.fragment}
-
+:::: {.column width="50%"}
+::: fragment
 National government can't...
 
 -   Tax goods traveling between states
 -   Spend money without Congress authorizing it
 -   Change state boundaries
-    + This one's *fundamental* to federalism
-
+    -   This one's *fundamental* to federalism
 :::
-
-:::
-
 ::::
+::::::
 
-## Federal powers{.smaller}
+## Federal powers {.smaller}
 
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="50%"}
-
 State government can...
 
 -   Issue licenses
@@ -505,35 +469,30 @@ State government can...
 -   Set up local governments
 -   Ratify constitutional amendments
 -   Do anything federal government doesn't prohibit
-
 :::
 
-::: {.column width="50%"}
-
-::: {.fragment}
-
+:::: {.column width="50%"}
+::: fragment
 State government can't...
 
-*   Make international treaties
-*   Print money
-*   Tax imports/exports
-*   Interfere with private contracts
-*   Violate federal law
-
+-   Make international treaties
+-   Print money
+-   Tax imports/exports
+-   Interfere with private contracts
+-   Violate federal law
 :::
-:::
-
 ::::
+::::::
 
 ## Federal powers
 
 Both federal and state governments can...
 
-*   Tax
-*   Borrow money
-*   Charter banks and corporations
-*   Take property (eminent domain)
-*   Enforce laws, establish courts
+-   Tax
+-   Borrow money
+-   Charter banks and corporations
+-   Take property (eminent domain)
+-   Enforce laws, establish courts
 
 ## Federalism Between the States
 
@@ -561,27 +520,19 @@ You can buy the fun fireworks in South Carolina. [Riker's example here is divorc
 
 . . .
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
+:::::: columns
+:::: {.column width="50%"}
 Chartered and dissolved by states, not mini-states. [Codified by "Dillon's Rule" in 1868.]{.fragment}
 
-::: {.fragment}
-
+::: fragment
 States can pass laws that set local policy.
-
 :::
-
-:::
+::::
 
 ::: {.column width="50%"}
-
 ![](images/minwage_durham.png){fig-align="center" fig-alt="Headline: Activists fight North Carolina law barring cities from raising minimum wage"}
-
 :::
-
-::::
+::::::
 
 ## How Common is Federalism?
 
@@ -589,7 +540,7 @@ Federalism not *un*common. Australia, Canada, and Germany have federal systems.
 
 . . .
 
-But ~80% of world governments (incl. Israel, France, Japan, and Sweden) have unitary systems. 
+But \~80% of world governments (incl. Israel, France, Japan, and Sweden) have unitary systems.
 
 -   Includes cases where subnational governments lack important powers (UK / Scotland).
 
@@ -597,27 +548,21 @@ But ~80% of world governments (incl. Israel, France, Japan, and Sweden) have uni
 
 Confederations are very rare these days.
 
-## Dual Federalism{.smaller}
+## Dual Federalism {.smaller}
 
 Dual federalism perhaps its purest form: mutually exclusive "spheres of sovereignty."
 
 Federalist 45:
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="70%"}
-
 "The powers delegated by the proposed Constitution [to the federal government are few and defined]{.yellow}. Those which are to remain [in the State governments are numerous and indefinite]{.yellow}. The former will be exercised principally on external objects, as war, peace, negotiation, and foreign commerce; with which last the power of taxation will, for the most part, be connected."
-
 :::
 
 ::: {.column width="30%"}
-
 ![](images/madison.png){fig-alt="Portrait of James Madison"}
-
 :::
-
-::::
+:::::
 
 . . .
 
@@ -631,39 +576,27 @@ Over time, contestation and interpretation has moved us from [dual federalism]{.
 
 Slow but (relatively) steady nationalization of power.
 
-## *Chisholm v. Georgia* (1793) 
+## *Chisholm v. Georgia* (1793)
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
-::: {.fragment fragment-index=2}
-
+:::::::: columns
+:::::: {.column width="60%"}
+::: {.fragment fragment-index="2"}
 Issue: Georgia's debt for Revolutionary War goods owed to out-of-state individual
-
 :::
 
-::: {.fragment fragment-index=3}
-
+::: {.fragment fragment-index="3"}
 Holding: Citizens of one state can sue another state in federal court
-
 :::
 
-::: {.fragment fragment-index=4}
-
+::: {.fragment fragment-index="4"}
 But! Reversed by 11th Amendment. Upshot: state sovereign immunity.
-
 :::
-
-:::
+::::::
 
 ::: {.column width="40%"}
-
 ![](images/chisholm.jpeg){fig-alt="Drawing depicting Alexander Chisholm fighting in the Revolutionary War"}
-
 :::
-
-::::
+::::::::
 
 ## *McCulloch v. Maryland* (1819): Elastic clause
 
@@ -678,166 +611,114 @@ Holding: Federal government can set up a bank, states can't tax its branches
 
 . . .
 
-Upshot: Affirms national supremacy through broad interpretation of elastic clause, less state power 
+Upshot: Affirms national supremacy through broad interpretation of elastic clause, less state power
 
 ## *Gibbons v. Ogden* (1819): Commerce clause
 
-:::: {.columns}
-
-::: {.column width="70%"}
-
-::: {.fragment fragment-index=2}
-
+:::::::: columns
+:::::: {.column width="70%"}
+::: {.fragment fragment-index="2"}
 Issue: State-granted monopoly on navigation of interstate waterways within state boundaries
-
 :::
 
-::: {.fragment fragment-index=3}
-
+::: {.fragment fragment-index="3"}
 Holding: State can't interfere with federal regulation of interstate commerce
-
 :::
 
-::: {.fragment fragment-index=4}
-
+::: {.fragment fragment-index="4"}
 Upshot: Clarifies and extends commerce clause (to navigation), less state power
-
 :::
-
-:::
+::::::
 
 ::: {.column width="30%"}
-
 ![](images/gibbons.jpeg){fig-alt="Drawing of a steamboat"}
-
 :::
-
-::::
+::::::::
 
 ## *Barron v. Baltimore* (1833)
 
-:::: {.columns}
-
-::: {.column width="70%"}
-
-::: {.fragment fragment-index=2}
-
+:::::::: columns
+:::::: {.column width="70%"}
+::: {.fragment fragment-index="2"}
 Issue: City construction reduced deep waters in harbor, damaging wharf owner's profits. Owner won damages in civil court, reversed by state court.
-
 :::
 
-::: {.fragment fragment-index=3}
-
+::: {.fragment fragment-index="3"}
 Holding: 5th Amendment property protections *don't* extend to states
-
 :::
 
-::: {.fragment fragment-index=4}
-
+::: {.fragment fragment-index="4"}
 Upshot: Clarifies "dual federalism," affirms state power.
-
 :::
-
-:::
+::::::
 
 ::: {.column width="30%"}
-
 ![](images/barron.jpeg){fig-alt="Map of the Baltimore Harbor circa *Barron v. Baltimore*"}
-
 :::
-
-::::
+::::::::
 
 ## *Dred Scott v. Sandford* (1857)
 
-:::: {.columns}
-
-::: {.column width="70%"}
-
+:::::: columns
+:::: {.column width="70%"}
 Background: Missouri Compromise of 1820:
 
-::: {.incremental}
-
-*   Admitted Missouri as slave state
-*   Created Maine as free state for balance
-*   Outlawed slavery above 36&deg; 30' latitude
-
+::: incremental
+-   Admitted Missouri as slave state
+-   Created Maine as free state for balance
+-   Outlawed slavery above 36° 30' latitude
 :::
-
-:::
-
-::: {.column width="30%"}
-
-![](images/dred_scott.jpeg){fig-alt="Drawing of Dred Scott"}
-
-:::
-
 ::::
 
-## *Dred Scott v. Sandford* (1857){.smaller}
+::: {.column width="30%"}
+![](images/dred_scott.jpeg){fig-alt="Drawing of Dred Scott"}
+:::
+::::::
 
-:::: {.columns}
+## *Dred Scott v. Sandford* (1857) {.smaller}
 
-::: {.column width="70%"}
-
+::::::: columns
+::::: {.column width="70%"}
 Issue: Does residence in free states/territories under the Missouri Compromise of 1820 grant freedom in slave states?
 
-::: {.fragment}
+:::: fragment
+Holding:
 
-Holding: 
-
-::: {.incremental}
-
-*   No.
-*   Black people lack standing in federal court
-*   Missouri Compromise unconstitutional
-    + Violates 5th Amendment property rights protections
-
+::: incremental
+-   No.
+-   Black people lack standing in federal court
+-   Missouri Compromise unconstitutional
+    -   Violates 5th Amendment property rights protections
 :::
-
-:::
-
-:::
+::::
+:::::
 
 ::: {.column width="30%"}
-
 ![](images/dred_scott.jpeg){fig-alt="Drawing of Dred Scott"}
-
 :::
-
-::::
+:::::::
 
 ## *Dred Scott v. Sandford* (1857)
 
-:::: {.columns}
-
-::: {.column width="70%"}
-
+::::::: columns
+::::: {.column width="70%"}
 Upshots:
 
-::: {.incremental}
-
-*   More state power
-*   Contributing cause of the Civil War
-    + Upends management/suppression of political cleavage dating back to the founding
-
+::: incremental
+-   More state power
+-   Contributing cause of the Civil War
+    -   Upends management/suppression of political cleavage dating back to the founding
 :::
 
-::: {.fragment}
-
+::: fragment
 Widely considered one of the worst Supreme Court rulings
-
 :::
-
-:::
+:::::
 
 ::: {.column width="30%"}
-
 ![](images/dred_scott.jpeg){fig-alt="Drawing of Dred Scott"}
-
 :::
-
-::::
+:::::::
 
 ## Civil War as a Turning Point
 
@@ -851,90 +732,68 @@ Afterward, we get the 13th-15th Amendments in quick succession.
 
 14th, in particular, has big implications for federalism:
 
-*   Extended federal due process/equal protection to states[...incrementally.]{.fragment}
+-   Extended federal due process/equal protection to states[...incrementally.]{.fragment}
 
 ## Civil War and the National Idea
 
 . . .
 
-:::: {.columns}
-
-::: {.column width="70%"}
-
+:::::: columns
+:::: {.column width="70%"}
 ::: {style="font-size: 70%;"}
-
 "Before the first Bull Run we generally said 'the United States are'—are a Confederacy, for instance; after Appomattox we learned to say 'the United States is'—is a Nation, for instance. [The war settled permanently the question of grammar, and all that that implies]{.yellow}—behind the sentiment was the syntax...Whatever we may have thought once, however we may have felt once, it is now seen to be better for us all to say 'the United States is'—is a Nation." - *Washington Post* editorial board, 1887
-
-:::
-
-:::
-
-::: {.column width="30%"}
-
-![](images/grammar_civil_war.png){fig-alt="Figure depicting percent of mentions referring to singular (as opposed to plural) United States between 1800 and 1900, depicting steady increase that steepens particularly among Northern newspapers during and after the Civil War."}
-
 :::
 ::::
 
+::: {.column width="30%"}
+![](images/grammar_civil_war.png){fig-alt="Figure depicting percent of mentions referring to singular (as opposed to plural) United States between 1800 and 1900, depicting steady increase that steepens particularly among Northern newspapers during and after the Civil War."}
+:::
+::::::
+
 ::: {style="font-size: 50%;"}
-
 Lee, Melissa, Nan Zhang, and Tillman Herschenroder. 2023. "From *Pluribus* to *Unum?* The Civil War and Imagined Sovereignty in Nineteenth-Century America." *American Political Science Review* FirstView 1-17.
-
 :::
 
-## Wither Dual Federalism?{.smaller}
+## Wither Dual Federalism? {.smaller}
 
 Courts re-establish some state power in late/post Reconstruction:
 
-::: {.incremental}
-
-*   1873: 13th and 14th Amendment don't cover state laws
-    + Narrowly interpreted to cover freed slaves only
-*   1877: Reconstruction formally ends
-*   1883: Civil Rights Act of 1875 ruled unconstitutional
-    + Restored right to discriminate in public accommodation (this comes up a lot)
-*   Commerce clause allows regulation of inter-state supply chains but not intra-state production
-    + Anti-trust, child labor, e.g.
-    
+::: incremental
+-   1873: 13th and 14th Amendment don't cover state laws
+    -   Narrowly interpreted to cover freed slaves only
+-   1877: Reconstruction formally ends
+-   1883: Civil Rights Act of 1875 ruled unconstitutional
+    -   Restored right to discriminate in public accommodation (this comes up a lot)
+-   Commerce clause allows regulation of inter-state supply chains but not intra-state production
+    -   Anti-trust, child labor, e.g.
 :::
-   
+
 . . .
 
 But also:
 
-*   1909: 16th Amendment (national income tax)
-*   1912: 17th Amendment (direct election of senators)
+-   1909: 16th Amendment (national income tax)
+-   1912: 17th Amendment (direct election of senators)
 
 ## *New State Ice Co. v. Liebmann* (1932)
 
-:::: {.columns}
-
-::: {.column width="70%"}
-
+::::::: columns
+::::: {.column width="70%"}
 Issue: Can Oklahoma use licensing power to grant a monopoly in ice sales?
 
-::: {.fragment}
-
+::: fragment
 Holding: No, this violates 14th Amendment due process
-
 :::
 
-::: {.fragment}
-
+::: fragment
 Upshot: erodes dual federalism, but we get Brandeis's famous "laboratories of democracy" dissent
-
 :::
-
-:::
+:::::
 
 ::: {.column width="30%"}
-
 ![](images/brandeis.jpg){fig-alt="Picture of Justice Louis Brandeis"}
-
 :::
-
-::::
-
+:::::::
 
 ## The Great Depression
 
@@ -952,12 +811,10 @@ Roosevelt / New Deal reforms dramatically expanded federal government's role in 
 
 Elements of New Deal consistently struck down by Courts, prompting FDR proposal to expand court (and appoint new justices)
 
-::: {.incremental}
-
-*   Court packing was unpopular (norm violation!) and didn't pass
-*   But afterward, favorable rulings that limit state economic power
-    + national collective bargaining rights, minimum wage, crop subsidies
-
+::: incremental
+-   Court packing was unpopular (norm violation!) and didn't pass
+-   But afterward, favorable rulings that limit state economic power
+    -   national collective bargaining rights, minimum wage, crop subsidies
 :::
 
 . . .
@@ -966,37 +823,27 @@ This will come up again
 
 ## Industry, Crisis, Rights, and Cooperative Federalism
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
+:::::::: columns
+::::: {.column width="50%"}
 Industrialization means less commerce stays within-state
 
-:::  {.fragment}
-
+::: fragment
 National crises (wars, Great Depression, COVID-19)
-
 :::
 
-:::  {.fragment}
-
+::: fragment
 Need to address *coordination problems* leads to cooperative (or "picket fence") federalism
-
 :::
-:::
+:::::
 
-::: {.column width="50%"}
-
+:::: {.column width="50%"}
 ![](images/picket_fence_federalism.jpeg){fig-alt="Graphic depicting picket fence federalism, with the vertical posts as policy issues (such as agriculture, environment, and tax policy) and the horizontal slats as levels of government (national, state, and local)"}
 
 ::: {style="font-size: 40%;"}
-
 Bianco, William, and David Canon. 2023. *American Politics Today*, 8th Edition. W.W. Norton.
-
 :::
-:::
-
 ::::
+::::::::
 
 ## Characteristics of Cooperative Federalism
 
@@ -1010,62 +857,48 @@ National government uses variety of incentives to influence state policy
 
 Examples:
 
-::: {.incremental}
-
-*   Conditional funding [(age limit on alcohol purchases)]{.fragment}
-    + Often in the form of a *crossover sanction*
-*   Block grant [(Temporary Assistance for Needy Families)]{.fragment}
-    + Fixed amount for specific purpose
-*   Matching grant [many infrastructure projects, e.g.]{.fragment}
-    + Percentage contribution toward specific project
-    + Can create moral hazard as spending state doesn't shoulder full cost
-
+::: incremental
+-   Conditional funding [(age limit on alcohol purchases)]{.fragment}
+    -   Often in the form of a *crossover sanction*
+-   Block grant [(Temporary Assistance for Needy Families)]{.fragment}
+    -   Fixed amount for specific purpose
+-   Matching grant [many infrastructure projects, e.g.]{.fragment}
+    -   Percentage contribution toward specific project
+    -   Can create moral hazard as spending state doesn't shoulder full cost
 :::
 
 ## Sticks: Coerceive Federalism
 
 Examples:
 
-::: {.incremental}
-
+::: incremental
 -   Preemption [(Motor Voter Act)]{.fragment}
 -   Unfunded mandate [(Americans with Disabilities Act)]{.fragment}
-
 :::
 
 ## Example: Medicaid Expansion
 
 . . .
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
+:::::::: columns
+::::: {.column width="50%"}
 2010: Affordable Care Act ("Obamacare")
 
-::: {.fragment}
-
+::: fragment
 Categorical grants to states to expand Medicaid
-
 :::
 
-::: {.fragment}
-
+::: fragment
 Supreme Court: can't force states to take the money
-
 :::
+:::::
 
-:::
-
-::: {.column width="50%"}
-
-::: {.fragment}
-
+:::: {.column width="50%"}
+::: fragment
 ![](images/medicaid_expansion.png){fig-alt="Map of states that have and have not expanded Medicaid under the Affordable Care Act. Most states have, but some (mostly southeastern) states such as Florida, Texas, Wyoming, Wisconsin, and Alabama have not."}
 :::
-
-:::
 ::::
+::::::::
 
 ## Example: Sanctuary Cities
 
@@ -1081,19 +914,17 @@ In first Trump administration, executive order to withhold federal funding from 
 
 ## Competitive Federalism
 
-Tiebout (1956): Communities offer different baskets of goods (public services) at different prices (taxes), people sort efficiently based on their preferences. 
+Tiebout (1956): Communities offer different baskets of goods (public services) at different prices (taxes), people sort efficiently based on their preferences.
 
 . . .
 
 Some (not all) key assumptions:
 
-::: {.incrmeental}
-
-*   Frictionless movement
-*   Complete information
-*   Equal financing of public goods
-*   No public good spillover
-
+::: incrmeental
+-   Frictionless movement
+-   Complete information
+-   Equal financing of public goods
+-   No public good spillover
 :::
 
 . . .
@@ -1102,21 +933,15 @@ All models are wrong, but some are useful.
 
 ## Competitive Federalism
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="70%"}
-
 "Crucial to understanding federalism in modern day America is the concept of mobility, or ['the ability to vote with your feet.']{.yellow} If you don’t support the death penalty and citizens packing a pistol — don’t come to Texas. If you don’t like medicinal marijuana and gay marriage, don’t move to California."
-
 :::
 
 ::: {.column width="30%"}
-
 ![](images/rick_perry_fed_up.jpg){fig-alt="The cover of former Texas Governor Rick Perry's book, Fed Up!"}
-
 :::
-
-::::
+:::::
 
 ## Competitive Federalism
 
@@ -1126,56 +951,45 @@ Hearkening back to states as "laboratories of democracy"
 
 Consider: Delaware and "Delaware corporations" -- business friendly...
 
-::: {.incremental}
-
-*   Legal environment
-*   Financial regulation
-*   Tax structures
-*   Transparency/disclosure
-
+::: incremental
+-   Legal environment
+-   Financial regulation
+-   Tax structures
+-   Transparency/disclosure
 :::
 
 . . .
 
 Result: forum shopping!
 
-## Competitive Federalism: Problems{.smaller}
+## Competitive Federalism: Problems {.smaller}
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
+::::::: columns
+:::: {.column width="50%"}
 Negative externalities / issues with public goods provision:
 
-::: {.incremental}
-
-*   Air polluting industry close to upwind border, e.g.
-*   Restrictions in one state spur consumption in neighboring state (guns, e.g.)
-
+::: incremental
+-   Air polluting industry close to upwind border, e.g.
+-   Restrictions in one state spur consumption in neighboring state (guns, e.g.)
 :::
+::::
 
-:::
-
-::: {.column width="50%"}
-
+:::: {.column width="50%"}
 ![](images/gone_with_wind.png){fig-alt="Figure 1: Average Wind Direction from 1930 to 1996 at 299 Weather Stations around the United States. Shows that the wind is blowing inward (toward the center of the state) at some locations and outward (into other states) at others."}
 
 ::: {style="font-size: 40%;"}
-
 Monogan III, James, David Konisky, and Neal Woods. 2017. "Gone with the Wind: Federalism and the Strategic Location of Air Polluters." *American Journal of Political Science* 61(2): 257-270.
-
 :::
-
-:::
-
 ::::
+:::::::
 
 ## Competitive Federalism: Problems
 
 Race to the bottom:
 
-![](images/state_income_taxes.png){width=80% fig-align="center" fig-alt="Top marginal income tax rates by state, some states (CA, e.g.) are higher while others (FL, e.g.) are nonexistent."}
+![](images/state_income_taxes.png){width="80%" fig-align="center" fig-alt="Top marginal income tax rates by state, some states (CA, e.g.) are higher while others (FL, e.g.) are nonexistent."}
 
+```{=html}
 <!--
 
 ## Innovations in Forum Shopping
@@ -1183,52 +997,40 @@ Race to the bottom:
 ![](images/montana_climate.png)
 
 -->
-
+```
 
 ## State Government Variation
 
 State governments vary *wildly* in how professionalized they are.
 
-::: {.incremental}
-
-*   How many days in session?
-*   Paid enough to quit your day job?
-*   Term limits?
-*   Staff size?
-    + Chamber staff, member staff
-
+::: incremental
+-   How many days in session?
+-   Paid enough to quit your day job?
+-   Term limits?
+-   Staff size?
+    -   Chamber staff, member staff
 :::
 
 ## Collaboration Across States
 
-All states compare notes. Some states copy. 
+All states compare notes. Some states copy.
 
-:::: {.columns}
-
-::: {.column width="40%"}
-
-::: {.incremental}
-
-*   Interest groups provide *legislative subsidy* with "model legislation"
-*   Less professionalized legislatures copy more
-
+::::::: columns
+:::: {.column width="40%"}
+::: incremental
+-   Interest groups provide *legislative subsidy* with "model legislation"
+-   Less professionalized legislatures copy more
 :::
+::::
 
-:::
-
-::: {.column width="60%"}
-
+:::: {.column width="60%"}
 ![](images/jansa_copy.png){fig-alt="Image comparing passages from Flroida's 2005 stand your ground law and Oklahoma's 2011 stand your ground law, showing a near-perfect match (reported cosine similarity between the two bills is of 0.88 out of a possible 1)."}
 
 ::: {style="font-size: 50%;"}
-
 Jansa, Joshua, Eric Hansen, and Virginia Gray. 2019. "Copy and Paste Lawmaking: Legislative Professionalism and Policy Reinvention in the States." *American Politics Research* 47(4): 739–767.
-
 :::
-
-:::
-
 ::::
+:::::::
 
 ## Return of Large States
 
@@ -1236,18 +1038,17 @@ State policy as a market leader
 
 . . .
 
-California negotiates with large automakers to set fuel efficiency standards --> those standards apply to other states
+California negotiates with large automakers to set fuel efficiency standards --\> those standards apply to other states
 
-## Recent Reassertions of State Power{.smaller}
+## Recent Reassertions of State Power {.smaller}
 
-*   *U.S. v. Lopez* (1995): carrying a gun isn't interstate commerce
-*   *Bond v. United States* (2011): individuals can raise 10th Amendment challenges to federal law 
-*   *NFIB v. Sebelius* (2012): can't force states to accept Medicaid expansion money
-    + Individual mandate OK as a *tax* but not as a *regulation* (not interstate commerce)
-*   *U.S. v. Windsor* (2013): can't deny federal benefits to same-sex couples legally married under state law
-*   *Shelby County v. Holder* (2013): Voting Rights Act "preclearance" policy violates state sovereignty
-*   *Dobbs vs. Jackson* (2022): States can regulate abortion, overturning *Roe v. Wade*
-
+-   *U.S. v. Lopez* (1995): carrying a gun isn't interstate commerce
+-   *Bond v. United States* (2011): individuals can raise 10th Amendment challenges to federal law
+-   *NFIB v. Sebelius* (2012): can't force states to accept Medicaid expansion money
+    -   Individual mandate OK as a *tax* but not as a *regulation* (not interstate commerce)
+-   *U.S. v. Windsor* (2013): can't deny federal benefits to same-sex couples legally married under state law
+-   *Shelby County v. Holder* (2013): Voting Rights Act "preclearance" policy violates state sovereignty
+-   *Dobbs vs. Jackson* (2022): States can regulate abortion, overturning *Roe v. Wade*
 
 ## Who Benefits from Federalism?
 
@@ -1271,7 +1072,6 @@ Distinct communities, or differentially-weighted baskets of Democrats and Republ
 
 ## Exit Quiz
 
-1. Why does Frymer call his argument a reflection of "an alternate model of [nation-]state authority"?
+1.  Why does Frymer call his argument a reflection of "an alternate model of \[nation-\]state authority"?
 
-2. Grumbach and Michener argue that there are four main ways that the costs and benefits of federalism are distributed unequally. Name one.
-
+2.  Grumbach and Michener argue that there are four main ways that the costs and benefits of federalism are distributed unequally. Name one.

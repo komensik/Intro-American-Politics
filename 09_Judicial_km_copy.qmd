@@ -14,7 +14,7 @@ editor_options:
 
 ## Exit Quiz Answers
 
-1. Who or what does Jennifer Pahlka ultimately blame for the kind of wasteful spending in government she wrote about?
+1.  Who or what does Jennifer Pahlka ultimately blame for the kind of wasteful spending in government she wrote about?
 
 . . .
 
@@ -22,7 +22,7 @@ Citizens and their distrust in government
 
 ## Exit Quiz Answers
 
-2. Shawn Fremstad does not like the way the United States calculates poverty. What does he argue we should do instead?
+2.  Shawn Fremstad does not like the way the United States calculates poverty. What does he argue we should do instead?
 
 . . .
 
@@ -30,12 +30,11 @@ Use a relative measure, like percent of median household income.
 
 ## Exit Quiz Answers
 
-3. The *New York Post* article highlights multiple practical challenges involved in ICE's efforts to carry out the Trump administration's immigration policy. Name and explain one. 
+3.  The *New York Post* article highlights multiple practical challenges involved in ICE's efforts to carry out the Trump administration's immigration policy. Name and explain one.
 
 . . .
 
-Multiple correct answers, including high quotas forcing agents to focus on non-criminal immigrants (criminals are harder to find), which is in tension with other stated priorities and requires working longer/harder hours to process more detainees. 
-
+Multiple correct answers, including high quotas forcing agents to focus on non-criminal immigrants (criminals are harder to find), which is in tension with other stated priorities and requires working longer/harder hours to process more detainees.
 
 ## This week
 
@@ -47,29 +46,23 @@ The judiciary (mostly the Supreme Court)
 
 . . .
 
-No courts under Articles --> difficult to resolve disputes between states.
+No courts under Articles --\> difficult to resolve disputes between states.
 
 . . .
 
 Delegates at Constitutional Convention agreed some arbiter necessary[...but it's the third branch for a reason.]{.fragment}
 
-## The Least Dangerous Branch?{.smaller}
+## The Least Dangerous Branch? {.smaller}
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="70%"}
-
 "...the judiciary, from the nature of its functions, will always be the [least dangerous to the political rights of the Constitution]{.yellow}...The Executive not only dispenses the honors, but holds the sword of the community. The legislature not only commands the purse, but prescribes the rules by which the duties and rights of every citizen are to be regulated. The judiciary, on the contrary, has [no influence over either the sword or the purse]{.yellow}...It may truly be said to have [neither FORCE nor WILL, but merely judgment]{.yellow}; and must ultimately [depend upon the aid of the executive arm]{.yellow} even for the efficacy of its judgments." - Federalist 78
-
 :::
 
 ::: {.column width="30%"}
-
 ![](images/hamilton.jpeg){fig-align="center", fig-alt="Portrait of Alexander Hamilton"}
-
 :::
-
-::::
+:::::
 
 ## Judicial Review
 
@@ -113,7 +106,7 @@ Judiciary Act of 1801: Federalists, having just lost the election of 1800, reduc
 
 . . .
 
-On final night of Adams presidency, five signed/sealed appointment letters (including Marbury's) get left on a desk. 
+On final night of Adams presidency, five signed/sealed appointment letters (including Marbury's) get left on a desk.
 
 On first morning of Jefferson presidency, Madison (new Secretary of State) chooses not to deliver them.
 
@@ -125,13 +118,11 @@ Marbury sues for his position.
 
 Three questions:
 
-::: {.incremental}
-
-*   Does Marbury deserve the position? [Yes.]{.fragment}
-*   Should there be a legal remedy? [Yes.]{.fragment}
-*   Can the Supreme Court provide it? [No!]{.fragment}
-    + Component of Judiciary Act of 1789 that says it can is unconstitutional
-    
+::: incremental
+-   Does Marbury deserve the position? [Yes.]{.fragment}
+-   Should there be a legal remedy? [Yes.]{.fragment}
+-   Can the Supreme Court provide it? [No!]{.fragment}
+    -   Component of Judiciary Act of 1789 that says it can is unconstitutional
 :::
 
 . . .
@@ -150,54 +141,48 @@ Marshall asserts power of judicial review, everyone behaves *as if* he has it.
 
 Makes intuitive sense given a written constitution...but this was a *departure* from British rule (no written constitution).
 
-## Evolution of Judicial Review{.smaller}
+## Evolution of Judicial Review {.smaller}
 
 We've seen some of these before:
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
-
-*   Slavery / Jim Crow:
-    + *Dred Scott v. Sandford* (1857)
-    + *Plessy v. Ferguson* (1896)
-*   Economic regulation:
-    + *Lochner* era
-    + *West Virginia v. EPA* (2022)
-*   Civil rights:
-    + *Gaines v. Canada* (1938)
-    + *McLaurin v. Oklahoma* (1950)
-    + *Brown v. Board* (1954)
-  
+-   Slavery / Jim Crow:
+    -   *Dred Scott v. Sandford* (1857)
+    -   *Plessy v. Ferguson* (1896)
+-   Economic regulation:
+    -   *Lochner* era
+    -   *West Virginia v. EPA* (2022)
+-   Civil rights:
+    -   *Gaines v. Canada* (1938)
+    -   *McLaurin v. Oklahoma* (1950)
+    -   *Brown v. Board* (1954)
 :::
 
 ::: {.column width="50%"}
-
-*   Privacy:
-    + *Roe v. Wade* (1973)
-    + *Dobbs v. Jackson* (2022)
-*   Federalism
-    + *McCulloch v. Maryland* (1819)
-    + *NFIB v. Sebelius* (2012)
-
+-   Privacy:
+    -   *Roe v. Wade* (1973)
+    -   *Dobbs v. Jackson* (2022)
+-   Federalism
+    -   *McCulloch v. Maryland* (1819)
+    -   *NFIB v. Sebelius* (2012)
 :::
-
-::::
+:::::
 
 ## The Courts and Democracy
 
 The Supreme Court is a *counter*majoritarian institution.
 
-*   Shielded from democratic accountability
-*   Intervene against elected officials
+-   Shielded from democratic accountability
+-   Intervene against elected officials
 
 . . .
 
 Some reasons we might want this:
 
-*   Protect against tyranny of majority
-    + Independence from political pressure/trends
-*   Safeguard rules of the democratic game
+-   Protect against tyranny of majority
+    -   Independence from political pressure/trends
+-   Safeguard rules of the democratic game
 
 ## The Courts and Democracy
 
@@ -207,17 +192,14 @@ This does *not* mean the Court is independent of politics
 
 Justices are...
 
-::: {.incremetal}
-
-*   appointed/confirmed by strategic politicians
-*   people with backgrounds, perspectives, and preferences
-*   concerned with the court's power relative to Congress/Executive
-*   concerned with court's democratic legitimacy
-
+::: incremetal
+-   appointed/confirmed by strategic politicians
+-   people with backgrounds, perspectives, and preferences
+-   concerned with the court's power relative to Congress/Executive
+-   concerned with court's democratic legitimacy
 :::
 
-
-## What Does the Supreme Court Consider{.smaller}
+## What Does the Supreme Court Consider {.smaller}
 
 What it wants (sort of)
 
@@ -225,12 +207,12 @@ What it wants (sort of)
 
 Per the Constitution:
 
-*   Cases under Constitution and laws/treaties of U.S.
-*   Cases involving maritime law or diplomats/public ministers
-*   Cases where U.S. is a party
-*   Disputes involving multiple states
-*   Disputes between state and citizen of another state (updated in 11th Amendment)
-*   Disputes between states/their citizens and foreign states/their citizens
+-   Cases under Constitution and laws/treaties of U.S.
+-   Cases involving maritime law or diplomats/public ministers
+-   Cases where U.S. is a party
+-   Disputes involving multiple states
+-   Disputes between state and citizen of another state (updated in 11th Amendment)
+-   Disputes between states/their citizens and foreign states/their citizens
 
 . . .
 
@@ -242,13 +224,13 @@ Discretion over what to hear, some categories of cases ("political questions," e
 
 Original: hearing disputes as a trial court
 
-*   Very rare
+-   Very rare
 
 . . .
 
 Appellate: reviewing/revising cases previously decided by lower court
 
-*   Accounts for almost all cases
+-   Accounts for almost all cases
 
 ## Types of Case
 
@@ -256,16 +238,16 @@ Appellate: reviewing/revising cases previously decided by lower court
 
 Civil vs. criminal:
 
-*   Burden of proof (who proves?) 
-    + "innocent until proven guilty" in *criminal* cases, civil depends
-*   Standard of proof (how convincing?)
-    + "preponderance of evidence" vs. "beyond reasonable doubt"
+-   Burden of proof (who proves?)
+    -   "innocent until proven guilty" in *criminal* cases, civil depends
+-   Standard of proof (how convincing?)
+    -   "preponderance of evidence" vs. "beyond reasonable doubt"
 
 . . .
 
 "Decriminalizing" vs. "legalizing"
 
-## Standing{.smaller}
+## Standing {.smaller}
 
 Article III: judicial power extends to "cases" and "controversies"
 
@@ -275,47 +257,45 @@ In order to bring a suit, you have to have been harmed.
 
 *Fairchild v. Hughes* (1922):
 
-*   citizens in states that already had women's suffrage lacked standing to challenge 19th Amendment
-*   can't preemptively challenge statutes/amendments that haven't passed yet
+-   citizens in states that already had women's suffrage lacked standing to challenge 19th Amendment
+-   can't preemptively challenge statutes/amendments that haven't passed yet
 
 . . .
 
 *303 Creative LLC v. Elenis* (2023):
 
-*   can challenge ("clarify rights") existing state law you haven't broken (yet)
-    + this is an expansive view on standing
+-   can challenge ("clarify rights") existing state law you haven't broken (yet)
+    -   this is an expansive view on standing
 
-## Collusionn, Ripeness, and Mootness{.smaller}
+## Collusionn, Ripeness, and Mootness {.smaller}
 
 Cases need potential to provide relief to one party or another. Court can reject case for...
 
-::: {.incremental}
-
-*   "collusion": litigants want the same outcome
-    + no controversy
-*   (lack of) "ripeness": law not yet in effect
-    + too early, no injury
-*   "mootness": potentially illegal action has been abandoned
-    + too late, no injury
-
+::: incremental
+-   "collusion": litigants want the same outcome
+    -   no controversy
+-   (lack of) "ripeness": law not yet in effect
+    -   too early, no injury
+-   "mootness": potentially illegal action has been abandoned
+    -   too late, no injury
 :::
 
-## Judiciary Acts of 1789{.smaller}
+## Judiciary Acts of 1789 {.smaller}
 
 Set up three-tiered federal judiciary system
 
-*   U.S. District Courts
-    + Federal government is party
-    + Civil suits under federal law
-    + Civil suits between citizens of different states (if high enough $ amount)
-    + Admirality/maritime disputes
-*   U.S. Courts of Appeals
-    + No original jurisdiction (hears appeals from District Courts)
-*   U.S. Supreme Court
-    + Cases from... 
-      - U.S. Courts of Appeals
-      - state supreme courts
-      - Court of Military Appeals
+-   U.S. District Courts
+    -   Federal government is party
+    -   Civil suits under federal law
+    -   Civil suits between citizens of different states (if high enough \$ amount)
+    -   Admirality/maritime disputes
+-   U.S. Courts of Appeals
+    -   No original jurisdiction (hears appeals from District Courts)
+-   U.S. Supreme Court
+    -   Cases from...
+        -   U.S. Courts of Appeals
+        -   state supreme courts
+        -   Court of Military Appeals
 
 ## Formal Qualifications?
 
@@ -333,68 +313,58 @@ American Bar Association rates lower court nominees.
 
 Lifetime term under "good behavior." [What's good behavior?]{.fragment}
 
-::: {.incremental}
-
-*   Only 15 federal judges have ever been impeached; 8 convicted
-    + Most recent removal in 2010
-    + Only one SCOTUS justice ever impeached (in 1804, acquitted by Senate)
-*   Typically involves serious crimes (bribes, perjury, e.g.)
-*   Recent debate over adoption of (non-binding) ethics code for SCOTUS
-
+::: incremental
+-   Only 15 federal judges have ever been impeached; 8 convicted
+    -   Most recent removal in 2010
+    -   Only one SCOTUS justice ever impeached (in 1804, acquitted by Senate)
+-   Typically involves serious crimes (bribes, perjury, e.g.)
+-   Recent debate over adoption of (non-binding) ethics code for SCOTUS
 :::
 
-## Practical Qualifications{.smaller}
+## Practical Qualifications {.smaller}
 
 . . .
 
 **Ideology**: [why?]{.fragment}
 
-::: {.incremental}
-
-*   Politicians make political appointments!
-
+::: incremental
+-   Politicians make political appointments!
 :::
 
 . . .
 
 **Experience**: [why?]{.fragment}
 
-::: {.incremental}
-
-*   External legitimacy
-*   Track record mitigates principal-agent problem
-
+::: incremental
+-   External legitimacy
+-   Track record mitigates principal-agent problem
 :::
 
 . . .
 
 **Age**: [why?]{.fragment}
 
-::: {.incremental}
-
-*   Lifetime appointment means more at 50 than it does at 70!
-
+::: incremental
+-   Lifetime appointment means more at 50 than it does at 70!
 :::
 
 . . .
 
 **Demographics (gender, race, religion, professional background)**: [why?]{.fragment}
 
-::: {.incremental}
-
-*   Substantive interest in diverse perspectives
-*   Political constituencies
-
+::: incremental
+-   Substantive interest in diverse perspectives
+-   Political constituencies
 :::
 
 ## Clerks
 
 Justices hire top graduates from top law schools to do a huge amount of work
 
-*   Filter petitions
-*   Conduct research
-*   Communicate between offices
-*   Help draft written opinions
+-   Filter petitions
+-   Conduct research
+-   Communicate between offices
+-   Help draft written opinions
 
 . . .
 
@@ -406,100 +376,88 @@ Pros and cons?
 
 ## How a Case Becomes a Ruling
 
-Thousands of cases filed each term. SCOTUS typically hears ~75.
+Thousands of cases filed each term. SCOTUS typically hears \~75.
 
 . . .
 
 Court has wide discretion to grant writ of *certiorari* ("grant cert")
 
-::: {.incremental}
+::: incremental
+-   1988 law removed main source of automatic appeals
+-   "Cert pool" -- clerks filter applications
+-   "Rule of four" -- norm governing when cert is granted
+-   Discretion allows court to be strategic
+    -   Can avoid cases it doesn't want to decide
+:::
 
-*   1988 law removed main source of automatic appeals
-*   "Cert pool" -- clerks filter applications
-*   "Rule of four" -- norm governing when cert is granted
-*   Discretion allows court to be strategic
-    + Can avoid cases it doesn't want to decide
-
-::: 
-
-
-## Factors Associated with Granted Cert{.smaller}
+## Factors Associated with Granted Cert {.smaller}
 
 Again, highly discretionary, but...
 
-::: {.incremental}
-
-*   Federal government asking for review
-    + Solicitor general: the federal government's SCOTUS lawyer
-*   Conflicting rulings in lower courts
-*   Civil rights/liberties at issue
-*   Ideological valence
-    + Hear more cases from ideologically distant lower courts, e.g.
-*   Significant social/political interest
-    + Volume of *amicus* briefs
-
+::: incremental
+-   Federal government asking for review
+    -   Solicitor general: the federal government's SCOTUS lawyer
+-   Conflicting rulings in lower courts
+-   Civil rights/liberties at issue
+-   Ideological valence
+    -   Hear more cases from ideologically distant lower courts, e.g.
+-   Significant social/political interest
+    -   Volume of *amicus* briefs
 :::
 
-## How a Case Becomes a Ruling{.smaller}
+## How a Case Becomes a Ruling {.smaller}
 
-After cert is granted... 
+After cert is granted...
 
 . . .
 
 Briefs:
 
-*   Both sides submit written arguments
-*   Outside parties file *amicus curiae* (friend of the court) briefs
+-   Both sides submit written arguments
+-   Outside parties file *amicus curiae* (friend of the court) briefs
 
 . . .
 
 Oral argument
 
-*   Both sides state their case
-*   Field questions from justices
-
+-   Both sides state their case
+-   Field questions from justices
 
 ## How a Case Becomes a Ruling
 
 Conference
 
-::: {.incremental}
-
-*   Justices deliberate and state vote intention
-*   Vote intention used to delegate opinion-writing
-    + When Chief Justice in majority, they assign
-      - When not, most senior justice in majority assigns
-    + *This gives them power* to shape ruling's tone and scope
-
+::: incremental
+-   Justices deliberate and state vote intention
+-   Vote intention used to delegate opinion-writing
+    -   When Chief Justice in majority, they assign
+        -   When not, most senior justice in majority assigns
+    -   *This gives them power* to shape ruling's tone and scope
 :::
 
 ## How a Case Becomes a Ruling
 
 Opinions
 
-::: {.incremental}
-
-*   Drafts circulated
-    + Allows justices to respond to each others' arguments
-    + Sometimes justices *bargain* at this stage
-    + Sometimes votes switch at this stage!
-    + Justices can write separate dissents or concurrences
-*   Drafts finalized
-*   Rulings made public
-
+::: incremental
+-   Drafts circulated
+    -   Allows justices to respond to each others' arguments
+    -   Sometimes justices *bargain* at this stage
+    -   Sometimes votes switch at this stage!
+    -   Justices can write separate dissents or concurrences
+-   Drafts finalized
+-   Rulings made public
 :::
 
 ## Dispositions
 
 Justices' votes actually have *three* possible dispositions, not two:
 
-::: {.incremental}
-
-*   Affirm: lower court's ruling stands
-*   Reverse/void/vacate: lower court's ruling overturned
-*   Remand: send case back to lower court
-    + Can be combined with reversal
-
+::: incremental
+-   Affirm: lower court's ruling stands
+-   Reverse/void/vacate: lower court's ruling overturned
+-   Remand: send case back to lower court
+    -   Can be combined with reversal
 :::
 
 . . .
@@ -516,144 +474,114 @@ Typically used in case of emergency, more frequently recently
 
 Typically not considered binding precedent, but informative for lower courts
 
-
-## With time remaining...{.smaller}
+## With time remaining... {.smaller}
 
 Divide into groups of five
 
-*   Browse upcoming Supreme Court cases: https://www.oyez.org/cases/2024
-*   Pick one that your group finds interesting
-*   Take notes on the facts of the case
-    + Lower court rulings
-    + Relevant statutes
-    + Relevant prior rulings
-    + Amicus briefs
-* Come prepared to deliberate on Thursday
+-   Browse upcoming Supreme Court cases: https://www.oyez.org/cases/2024
+-   Pick one that your group finds interesting
+-   Take notes on the facts of the case
+    -   Lower court rulings
+    -   Relevant statutes
+    -   Relevant prior rulings
+    -   Amicus briefs
+-   Come prepared to deliberate on Thursday
 
-## With time remaining...{.smaller}
+## With time remaining... {.smaller}
 
 Some cases you might find particularly interesting...
 
-* *Garland v. VanDerStok* (ghost guns)
-* *Smith & Wesson v. Estados Unidos Mexicanos* (gun manufacturer liability)
-* *Free Speech Coalition, Inc. v. Paxton* (age verification for adult content)
-* *Ames v. Ohio Department of Youth Services* (reverse discrimination)
-* *FDA v. Wages and White Lion Investments LLC* (e-cigarette regulation)
-* *FDA v. RJ Reynolds Vapor Co.* (forum shopping, and also e-cigarette regulation)
-* *Glossip v. Oklahoma* and *Gutierrez v. Saenz* (capital punishment)
-* *NVIDIA v. E. Ohman J / Fonder AB* (standard of proof for misleading investors)
-* *Facebook v. Amalgamated Bank* (Cambridge Analytica risk disclosure)
-* *US v. Skrmetti* (state bans on gender affirming care for minors)
+-   *Garland v. VanDerStok* (ghost guns)
+-   *Smith & Wesson v. Estados Unidos Mexicanos* (gun manufacturer liability)
+-   *Free Speech Coalition, Inc. v. Paxton* (age verification for adult content)
+-   *Ames v. Ohio Department of Youth Services* (reverse discrimination)
+-   *FDA v. Wages and White Lion Investments LLC* (e-cigarette regulation)
+-   *FDA v. RJ Reynolds Vapor Co.* (forum shopping, and also e-cigarette regulation)
+-   *Glossip v. Oklahoma* and *Gutierrez v. Saenz* (capital punishment)
+-   *NVIDIA v. E. Ohman J / Fonder AB* (standard of proof for misleading investors)
+-   *Facebook v. Amalgamated Bank* (Cambridge Analytica risk disclosure)
+-   *US v. Skrmetti* (state bans on gender affirming care for minors)
 
 ## Exit Quiz
 
-1 (2 pts).	Brennan and Scalia both mention capital punishment in their arguments, and discuss how their legal philosophy leads them to arrive at particular conclusions on its constitutionality. Explain their reasoning.
+1 (2 pts). Brennan and Scalia both mention capital punishment in their arguments, and discuss how their legal philosophy leads them to arrive at particular conclusions on its constitutionality. Explain their reasoning.
 
 # Break
 
 ## Exit Quiz Answers
 
-1 (2 pts).	Brennan and Scalia both mention capital punishment in their arguments, and discuss how their legal philosophy leads them to arrive at particular conclusions on its constitutionality. Explain their reasoning.
+1 (2 pts). Brennan and Scalia both mention capital punishment in their arguments, and discuss how their legal philosophy leads them to arrive at particular conclusions on its constitutionality. Explain their reasoning.
 
 . . .
 
 Brennan: capital punishment is cruel and unusual because it deprives individuals of dignity and "the right to have rights."
 
-Scalia: capital punishment is constitutional because the founders clearly didn't consider it cruel and unusual. 
+Scalia: capital punishment is constitutional because the founders clearly didn't consider it cruel and unusual.
 
 ## Models of Supreme Court Decisionmaking
 
 . . .
 
-:::: {.columns}
-
-::: {.column width="33%"}
-
+::::::::::: columns
+:::: {.column width="33%"}
 Legal model: [balls and strikes]{.fragment}
 
-::: {.fragment}
-
+::: fragment
 ![](images/roberts_confirmation.jpeg){fig-alt="Picture of John Roberts at his confirmation hearing, where he argued that the job of a Supreme Court justice is to 'call balls and strikes'."}
 :::
+::::
 
-:::
-
-::: {.column width="33%"}
-
-::: {.fragment}
-
+::::: {.column width="33%"}
+:::: fragment
 Attitudinal model: [power and preference]{.fragment}
 
-::: {.fragment}
-
+::: fragment
 ![](images/affact_scotus.jpeg){fig-alt="Opposing groups of protestors outside of the Supreme Court as it heard a case relating to affirmative action. One holds a sign saying 'Stop discrimination on the basis of race'; another holds a sign reading 'diversity, opportunity, justice'"}
-
 :::
+::::
+:::::
 
-:::
-
-:::
-
-::: {.column width="33%"}
-
-::: {.fragment}
-
+::::: {.column width="33%"}
+:::: fragment
 Rational Choice (or Strategic) model: [politicians *in more ways than one*]{.fragment}
 
-::: {.fragment}
-
+::: fragment
 ![](images/breyer_gorsuch.png){fig-alt="Supreme Court justices Gorsuch and Breyer talking to each other at a public speaking event."}
-
 :::
-
-:::
-
-:::
-
 ::::
+:::::
+:::::::::::
 
 ## Legal Model
 
 . . .
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
+:::::::: columns
+:::: {.column width="50%"}
 Decisions based on...
 
-::: {.incremental}
-
-*   Facts of the case
-*   Intent of the law
-*   Text of the law
-*   *Stare decisis* (precedent)
-
+::: incremental
+-   Facts of the case
+-   Intent of the law
+-   Text of the law
+-   *Stare decisis* (precedent)
 :::
+::::
 
-:::
-
-::: {.column width="50%"}
-
-::: {.fragment}
-
+::::: {.column width="50%"}
+:::: fragment
 Assumptions:
 
-::: {.incremental}
-
-*   Justices are good lawyers
-    + Correct answer exists
-    + We can reason toward it
-    + Force of the better argument wins
-    + Precedent constrains
-
+::: incremental
+-   Justices are good lawyers
+    -   Correct answer exists
+    -   We can reason toward it
+    -   Force of the better argument wins
+    -   Precedent constrains
 :::
-
-:::
-
-:::
-
 ::::
+:::::
+::::::::
 
 ## Attitudinal Model
 
@@ -661,93 +589,70 @@ Also called "legal realism"
 
 . . .
 
-:::: {.columns}
-
-::: {.column width="30%"}
-
+:::::::: columns
+:::: {.column width="30%"}
 Decisions based on...
 
-::: {.incremental}
-
-*   Distribution of preferences
-*   That's it
-
+::: incremental
+-   Distribution of preferences
+-   That's it
 :::
-
-:::
-
-::: {.column width="70%"}
-
-::: {.fragment}
-
-Assumptions:
-
-::: {.incremental}
-
-*   Justices are good lawyers (derogatory)
-    + skilled at rationalizing preferences
-*   Ambiguity gives discretion
-    + Text/intent unclear
-    + Conflicting legal principles
-*   Everyone likes precedents they agree with
-
-:::
-
-:::
-
-:::
-
 ::::
 
-## Rational Choice (or Strategic) Model{.smaller}
+::::: {.column width="70%"}
+:::: fragment
+Assumptions:
+
+::: incremental
+-   Justices are good lawyers (derogatory)
+    -   skilled at rationalizing preferences
+-   Ambiguity gives discretion
+    -   Text/intent unclear
+    -   Conflicting legal principles
+-   Everyone likes precedents they agree with
+:::
+::::
+:::::
+::::::::
+
+## Rational Choice (or Strategic) Model {.smaller}
 
 . . .
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
+:::::::: columns
+:::: {.column width="50%"}
 Decisions based on...
 
-::: {.incremental}
-
-*   Preferences
-*   Constraints
-    + Precedent
-    + Public opinion
-      - On case specifics
-      - On Court overall
-    + Congress/President
-    + Enforcement capacity
-
+::: incremental
+-   Preferences
+-   Constraints
+    -   Precedent
+    -   Public opinion
+        -   On case specifics
+        -   On Court overall
+    -   Congress/President
+    -   Enforcement capacity
 :::
+::::
 
-:::
-
-::: {.column width="50%"}
-
-::: {.fragment}
-
+::::: {.column width="50%"}
+:::: fragment
 Assumptions:
 
-::: {.incremental}
-
-*   Justices are politicians
-*   Attitudinal model is too simple
-*   Considerations *other than* law and preferences also matter
-
+::: incremental
+-   Justices are politicians
+-   Attitudinal model is too simple
+-   Considerations *other than* law and preferences also matter
 :::
-
-:::
-
-:::
-
 ::::
+:::::
+::::::::
 
 ## Recent Developments
 
 ![Lemley (2022), as told by The Onion in 1997](images/onion_scotus.png){fig-align="center" fig-alt="The Onion: Supreme Court Rules Supreme Court Rules"}
 
+```{=html}
 <!--
 
 ## Measuring the Court?
@@ -793,134 +698,101 @@ Collapses complex reasoning into single dimension
 Lopsided/unanimous cases tend to generate less coverage.
 
 -->
+```
 
 ## Enforcement Capacity
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
+:::::: columns
+:::: {.column width="60%"}
 "John Marshall has made his decision; now let him enforce it." - Andrew Jackson (attributed)
 
-::: {.incremental}
-
-*   Compliance depends on *implementing* population and *consuming* population.
-
+::: incremental
+-   Compliance depends on *implementing* population and *consuming* population.
 :::
-
-
-:::
-
-::: {.column width="40%"}
-
-![](images/andrew_jackson.jpg){fig-alt="Portrait of Andrew Jackson"}
-
-:::
-
 ::::
 
-## Enforcement Capacity{.smaller}
+::: {.column width="40%"}
+![](images/andrew_jackson.jpg){fig-alt="Portrait of Andrew Jackson"}
+:::
+::::::
 
-:::: {.columns}
+## Enforcement Capacity {.smaller}
 
-::: {.column width="60%"}
-
+:::::: columns
+:::: {.column width="60%"}
 Example: Virginia's "Massive Resistance" (to *Brown v. Board*):
 
-::: {.incremental}
-
-*   Deny state funding to integrated schools
-*   Governor authorized to close integrated schools
-*   Redirected resulting funds to private "segregation academies"
-*   Some public school districts closed entirely
-    + Courts ordered them reopened, legislature made attendance optional
-*   *Green v. County School Board of New Kent County* (1968): "free choice" plans unconstitutional (de-facto segregation)
-
+::: incremental
+-   Deny state funding to integrated schools
+-   Governor authorized to close integrated schools
+-   Redirected resulting funds to private "segregation academies"
+-   Some public school districts closed entirely
+    -   Courts ordered them reopened, legislature made attendance optional
+-   *Green v. County School Board of New Kent County* (1968): "free choice" plans unconstitutional (de-facto segregation)
 :::
-
-:::
-
-::: {.column width="40%"}
-
-![](images/massive_resistance.png){fig-alt="Political cartoon depicting 'Virginia's Massive Resistance' as a battleship that massively outguns 'Federal Government's Orders', a much smaller boat."}
-
-:::
-
 ::::
 
+::: {.column width="40%"}
+![](images/massive_resistance.png){fig-alt="Political cartoon depicting 'Virginia's Massive Resistance' as a battleship that massively outguns 'Federal Government's Orders', a much smaller boat."}
+:::
+::::::
 
 ## Enforcement Capacity
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
+:::::: columns
+:::: {.column width="60%"}
 Example: Alabama's congressional map
 
-::: {.incremental}
-
-*   One person, one vote -- *Reynolds v. Sims* (1964)
-*   But! No vote dilution -- Voting Rights Act (1965)
-*   Solution: majority-minority districts
-    + How many to draw?
-
+::: incremental
+-   One person, one vote -- *Reynolds v. Sims* (1964)
+-   But! No vote dilution -- Voting Rights Act (1965)
+-   Solution: majority-minority districts
+    -   How many to draw?
 :::
-
-:::
-
-::: {.column width="40%"}
-
-![](images/alabama_map.png){fig-alt="Picture of a proposed congressional map of Alabama"}
-
-:::
-
 ::::
 
+::: {.column width="40%"}
+![](images/alabama_map.png){fig-alt="Picture of a proposed congressional map of Alabama"}
+:::
+::::::
 
 ## Enforcement Capacity
 
+Alabama says one, SCOTUS says two[...Alabama says one.]{.fragment fragment-index="2"}
 
-Alabama says one, SCOTUS says two[...Alabama says one.]{.fragment fragment-index=2}
-
-::: {.fragment fragment-index=2}
-
+:::: {.fragment fragment-index="2"}
 ![](images/alabama39pt9.png){fig-align="center" fig-alt="But there is only one majority-black District in the new redistricting plan passed by the state's Republican-controlled legislature last month. In another district, Black Alabamians make up 39.9% of the voting age population -- a share that, the map's challengers say, does not meet the court's requirements."}
 
 ::: {style="font-size: 50%;"}
-
 Wang, Hansi Lo. "Alabama lost a voting rights case at the Supreme Court. It's still trying to win" NPR, August 13, 2023. https://www.npr.org/2023/08/14/1193420289/alabama-congressional-districts-redistricting-map
-
 :::
-
-:::
+::::
 
 . . .
 
 <br>
 
-Federal court eventually said two. 
+Federal court eventually said two.
 
-## Now you try{.smaller}
+## Now you try {.smaller}
 
 Reconvene your group of five
 
-*   Take a preliminary vote on your case
-*   Discuss the facts of the case / explain your reasoning
-*   Vote again (to see if anyone switches) 
-*   Select members to deliver... 
-    + a majority opinion
-    + a dissent (if there is one)
-    + a concurrence (if there is one)
-    
+-   Take a preliminary vote on your case
+-   Discuss the facts of the case / explain your reasoning
+-   Vote again (to see if anyone switches)
+-   Select members to deliver...
+    -   a majority opinion
+    -   a dissent (if there is one)
+    -   a concurrence (if there is one)
+
 ## Debrief
 
 Ok, let's unpack that...
 
-::: {.incremental}
-
-*   Legal, attitudinal, or strategic model best explains your group?
-*   Do you expect SCOTUS to reach same conclusion?
-
+::: incremental
+-   Legal, attitudinal, or strategic model best explains your group?
+-   Do you expect SCOTUS to reach same conclusion?
 :::
 
 . . .
@@ -933,13 +805,14 @@ John Roberts as a strategic politician?
 
 ## Exit Quiz
 
+```{=html}
 <!--
 1. Mark Lemley argues that the modern Supreme Court does not take consistent sides in traditional conflicts over the appropriate balance of power in US politics. Name two of these traditional conflicts (hint: think of the first paragraph).
 -->
+```
 
-1. Mark Lemley lists a number of judicial norms that the modern Supreme Court is eroding. Name one.
+1.  Mark Lemley lists a number of judicial norms that the modern Supreme Court is eroding. Name one.
 
-2. Joan Biskupic outlines two features of John Roberts' deal with Anthony Kennedy that helped limit damage to the Court's image. Name one.
+2.  Joan Biskupic outlines two features of John Roberts' deal with Anthony Kennedy that helped limit damage to the Court's image. Name one.
 
-3. Erwin Chemerinsky outlines four main objections to the Supreme Court’s increasing reliance on “shadow docket” to make significant rulings. Name one of them.
-
+3.  Erwin Chemerinsky outlines four main objections to the Supreme Court’s increasing reliance on “shadow docket” to make significant rulings. Name one of them.

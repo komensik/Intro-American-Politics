@@ -1,0 +1,1051 @@
+---
+title: "Week 12: Elections"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Exit Quiz Answers
+
+1.  Levitsky and Ziblatt identify two problems with Hamilton's argument (from Federalist 68) that the Electoral College would serve an effective gatekeeping function. Name one.
+
+. . .
+
+::: incremental
+-   Electoral College goes into effect after votes have been cast; doesn't affect who runs/wins votes in the first place.
+-   Didn't anticipate parties, which coordinated to place electors.
+:::
+
+## Exit Quiz Answers
+
+2.  Finkel, et al describe three components of political sectarianism. Name one.
+
+. . .
+
+::: incremental
+-   Othering: tendency to view opposing partisans as essentially different
+-   Aversion: tendency to dislike and distrust opposing partisans
+-   Moralization: tendency to view opposing partisans’ views as bad, not just different
+:::
+
+## This week
+
+Elections
+
+![](images/nyt_map.png){fig-align="center" fig-alt="Map of 2012 presidential election results. Each county is represented by a dot, colored by whether it voted for Obama or Romney and sized by the number of votes cast in that county."}
+
+::: {style="font-size: 50%;"}
+Parlapiano, Alicia. "There Are Many Ways to Map Election Results. We've Tried Most of Them." *New York Times*, most recently updated November 1, 2016. https://www.nytimes.com/interactive/2016/11/01/upshot/many-ways-to-map-election-results.html
+:::
+
+## If this sounds interesting...
+
+POLSCI 242: Campaigns and Elections
+
+## Why elections? {.smaller}
+
+What are elections...for?
+
+::: incremental
+-   Basic premise of "rule by many"
+-   Non-violent mechanism for conferring authority
+-   Sanction representatives to exercise accountability
+    -   [Retrospective]{.yellow} evaluations
+-   Select representatives to shape policy
+    -   [Prospective]{.yellow} evaluations
+    -   If hard to monitor for accountability, try to select faithful agent
+:::
+
+## Before we dive in...
+
+It is *extremely strange* that President Trump was allowed to run for office post-Jan 6.
+
+-   Failure of elite gatekeeping (Senate, SCOTUS, Republican Party)
+
+. . .
+
+We only get to disagree about policy if we agree about democracy ("a system where parties lose elections")
+
+. . .
+
+Prisoner's dilemma: must be more costly for losing incumbent to defect (reject election results) than to cooperate (accept election results)
+
+## Election mechanics {.smaller}
+
+Administering an election involves answering these questions (among others)...
+
+::::: columns
+::: {.column width="50%"}
+Basics:
+
+-   Who can run?
+    -   Age/residency requirements?
+-   Who can vote?
+    -   Eligibility requirements?
+    -   Registration requirements?
+        -   Closed primary, e.g.?
+-   Who's on the ballot?
+    -   Candidates? Party lists?
+-   How to vote?
+    -   Where? When?
+    -   How many votes on a single ballot?
+:::
+
+::: {.column width="50%"}
+Decision rules:
+
+-   How to count?
+    -   Single/multiple/ranked choice?
+        -   How to allocate ranked choices?
+    -   When to recount?
+-   How is a winner determined?
+    -   How many winners are there?
+        -   Single/multi-member?
+    -   Plurality? Majority? Proportional?
+:::
+:::::
+
+## How to vote
+
+States have wide latitude to set administrative procedures
+
+::: incremental
+-   Typically require registration
+    -   Many states offer some form of same-day registration
+    -   ND abolished voter registration in 1951
+-   Vary in extent of absentee/early/mail-in voting
+    -   Some states (Oregon, e.g.) fully by mail
+    -   Absentee vs. early: absentee typically requires reason
+:::
+
+## When is the election? {.smaller}
+
+Election Day is the Tuesday after the first Monday in November (since 1845)
+
+:::::: columns
+:::: {.column width="60%"}
+Goes back to making voting convenient for farmers
+
+::: incremental
+-   Sunday (church) and Wednesday (market day) unavailable for travel, also ruling out Monday and Thursday
+    -   Tuesday
+-   After harvest season, but before it gets too cold
+    -   Early November
+-   November 1 ruled out (All Saints Day)
+:::
+::::
+
+::: {.column width="40%"}
+![](images/snl_when.png){fig-alt="Screenshot of SNL sketch with an undecided voter asking, 'When is the election?'"}
+:::
+::::::
+
+. . .
+
+Path dependence!
+
+## Presidential election mechanics {.smaller}
+
+Really 51 (including DC) state elections with some common features
+
+-   Who can run?
+    -   35yr+ natural-born citizen
+-   Who can vote?
+    -   18yr+ citizens (with some exclusions)
+-   How do they vote?
+    -   Varies by state
+-   How do ballots get counted?
+    -   Varies by state
+-   How is a winner determined?
+    -   Majority in Electoral College
+        -   If no EC majority, House delegations vote
+
+## Big Picture (Participation)
+
+Why do people vote?
+
+::: incremental
+-   resources
+-   habits
+-   social context (norms, networks)
+-   competition
+-   candidate/issue preferences
+-   campaign contact
+:::
+
+## Big Picture (Participation)
+
+Why do people vote?
+
+. . .
+
+Economic model: U = pB - C + D
+
+::: incremental
+-   [U]{.yellow}: utility of voting (vote if \> 0)
+-   [p]{.yellow}: probability your vote is decisive
+-   [B]{.yellow}: net benefits from your preferred candidate winning
+-   [C]{.yellow}: costs of voting
+-   [D]{.yellow}: intrinsic benefits of voting (regardless of who wins)
+:::
+
+## Big Picture (Participation)
+
+Why do people vote?
+
+Economic model: U = pB - C + D
+
+The economic model is pretty vague. Can we unpack it? What goes under which term?
+
+## Big Picture (Participation)
+
+Why do people vote?
+
+Economic model: U = pB - C + D
+
+Common to drop pB
+
+::: incremental
+-   p is \~0, so pB is \~0
+-   U = D - C?
+    -   Puzzle: \~nobody votes because they think the outcome matters to them?
+:::
+
+## Big Picture (Participation) {.smaller}
+
+Some objections to dropping pB in practice:
+
+::: incremental
+-   p is small but not zero...and B is large
+-   p is subjective (can be overestimated)
+-   p is endogenous (those who prefer to believe their vote matters behave as if it does)
+-   uncertainty about what others will do
+    -   if everybody behaves as if their vote doesn't matter, your vote is decisive *by definition*!
+-   voting is a collective action sustained by norms
+    -   p is probability that *people like you* are decisive
+:::
+
+## Big Picture (Choice)
+
+How do voters decide? [Quick thought experiment about hot dog vendors...]{.fragment}
+
+. . .
+
+![](images/hotelling_1.png){width="80%" fig-align="center" fig-alt="My very rough, PowerPoint-generated image of a beach (tan rectangle for sand, blue rectangle for water) with two hot dog stands."}
+
+## Big Picture (Choice)
+
+How do voters decide? Quick thought experiment about hot dog vendors...
+
+![](images/hotelling_2.png){width="80%" fig-align="center" fig-alt="Starting positions for the hot dog vendors, where one is positioned 1/4 of the way from the left end of the beach and the other is positioned 1/4th of the way from the right, such that the one on the left is the closest stand for all beachgoers on the left half of the beach (green line) and the one on the right is the closest stand for all beachgoers on the right half of the beach (red line)."}
+
+## Big Picture (Choice)
+
+How do voters decide? Quick thought experiment about hot dog vendors...
+
+![](images/hotelling_3.png){width="80%" fig-align="center" fig-alt="Depiction of what happens if the vendor on the left moves toward the center (green arrow), increasing their market share (green line gets longer, red line gets shorter)."}
+
+## Big Picture (Choice)
+
+How do voters decide? Quick thought experiment about hot dog vendors...
+
+![](images/hotelling_4.png){width="80%" fig-align="center" fig-alt="Equilibrium: both vendors at the center of the beach, such that the vendor on the left has the left half of the beach and the vendor on the right has the right half of the beach."}
+
+## Big Picture (Choice): Spatial Models
+
+General explanation for spatial clustering (fast food chains, gas stations, e.g.)
+
+. . .
+
+Downs (1957) restates as [Median Voter Theorem]{.yellow}
+
+-   Not meant to fully explain politics, but useful jumping off point
+
+## Big Picture (Choice): Spatial Models
+
+More concretely, worth thinking about [how candidates/parties appeal to pivotal voters]{.yellow}.
+
+. . .
+
+Spatial proximity is one explanation. [Debate over whether what matters is proximity per se, vs. *direction* of expected change.]{.fragment}
+
+## Big Picture (Choice) {.smaller}
+
+Assumptions that make the hot dog equilibrium (and Median Voter Theorem) work:
+
+::: incremental
+-   [one dimension]{.yellow}: beach, not mall; no one's selling ice cream
+-   [exogenous preferences]{.yellow}: beach umbrellas stay in same spot regardless of where vendors move
+-   [full participation]{.yellow}: everyone buys a hot dog no matter how far they have to walk
+-   [complete information]{.yellow}: everyone sees/agrees where vendors and consumers are
+-   [no uncertainty]{.yellow}: vendor isn't trying to convince you of where they'll set up shop tomorrow
+-   [unitary actor]{.yellow}: consumers on edge of the beach aren't part of the business
+-   [free movement]{.yellow}: no lags or competing claims over perceived (re)positioning
+:::
+
+. . .
+
+Useful for thinking about *when and how these assumptions are (not) met*.
+
+## Big Picture (Choice): Behavior {.smaller}
+
+Second model: partisanship serves as default setting/"standing decision," additional factors may lead voters to change behavior
+
+Worth considering...what factors affect vote choice? [In rough temporal order...]{.fragment}
+
+::: incremental
+-   (pre)dispositions
+-   socialization (family and friends)
+-   salient identities (race, gender, age, religion)
+-   partisanship/ideology
+-   specific issues
+-   valence (non-ideological candidate traits)
+-   material conditions (sociotropic)
+-   material conditions (personal)
+-   current events
+:::
+
+. . .
+
+Can interact; earlier factors can affect evaluation of later factors.
+
+## Big Picture (Choice): Fundamentals
+
+First two models are *prospective*; third is *retrospective*.
+
+:::::: columns
+:::: {.column width="60%"}
+Retrospective economic voting is *fundamental* to macropolitical theory
+
+::: fragment
+Not a model of *all* voters' behavior; a model of the *pivotal* voter's behavior.
+:::
+::::
+
+::: {.column width="40%"}
+!["It's the economy, stupid." - James Carville](images/carville.jpeg){width="60%" fig-alt="Picture of Democratic political consultant James Carville"}
+:::
+::::::
+
+## Big Picture (Choice) {.smaller}
+
+::::::: columns
+::::: {.column width="40%"}
+Possible mechanisms:
+
+::: incremental
+-   Sanction
+    -   Remove bad incumbents/retain good incumbents
+-   Selection
+    -   Identify faithful/competent agents
+:::
+
+::: fragment
+Psychological accounts of voters' inability to do this with perfect efficiency
+:::
+:::::
+
+::: {.column width="60%"}
+![](images/retrospective_cycle.png){fig-alt="Diagram of the cyclce of retrospectve accountability. Voters observe events, actions, and outcomes in incumbent's term --> Attribute credit/blame for those events, actions, and outcomes --> Evaluate incumbent, vote --> Elected officials respond to electoral incentives --> Voters observe events, actions, and outcomes in incumbent's term"}
+:::
+:::::::
+
+## Big Picture (Choice): Psychology {.smaller}
+
+Psychological factors:
+
+::: incremental
+-   Heuristics (partisanship, e.g.) affect evaluations
+-   Recency bias (more weight on recent performance)
+-   Myopia
+    -   More credit for (costlier, more visible) response than (cheaper, less visible) prevention
+-   "Blind" retrospection (credit/blame for irrelevant events)
+    -   Unexpected college football results, e.g.
+:::
+
+. . .
+
+These aren't all *bad*. [Heuristics are *useful*; more recent information might *warrant* higher weight; voters use relevant information *when they have it*, e.g.]{.fragment.}
+
+## Big Picture (Choice)
+
+Fundamentals models make vote share fairly predictable (outcomes hard to predict lately because vote share was predictably close)
+
+![](images/sides_2016.png){fig-align="center" fig-alt="John Sides, August 23, 2016 headline: Never forget: The 2016 presidential election is supposed to be one that Republicans can win"}
+
+## Big Picture (Choice, 2024 specifically)
+
+Post-COVID unwinding has led voters to penalize incumbents pretty much everywhere
+
+-   UK, New Zealand, Australia, Germany, Canada, India, etc. etc.
+
+. . .
+
+In this context, the 2024 election *was the Republican nominee's to lose*
+
+## Campaign Effects {.smaller}
+
+So (when/why) do campaigns matter?
+
+. . .
+
+Strategic campaigns tailor strategy to economic conditions (Vavreck 2009):
+
+::: incremental
+-   Clarifying campaign: party advantaged by economic fundamentals emphasizes them
+-   Insurgent campaign: party disadvantaged by economic fundamentals emphasizes other issues where
+    -   that party's positions popular/that party owns issue
+    -   other party's positions are unpopular/lacks ownership
+:::
+
+. . .
+
+Two high-profile, well-resourced general election campaigns often cancel each other out. Doesn't mean they don't matter.
+
+. . .
+
+Effects easier to observe in primaries and open-seat races (no partisan cue, less baked-in familiarity)
+
+## Campaign Effects {.smaller}
+
+Campaigns still serve important functions:
+
+::: incremental
+-   information
+    -   help voters learn about economic conditions
+    -   reinforce existing views/bring partisans home
+-   salience
+    -   contest which cleavage will be dominant
+-   valence
+    -   make claims on efficacy/trustworthiness
+-   mobilization
+    -   encourage supporters to participate
+:::
+
+## If time...
+
+![](images/dems_liberal.png){fig-align="center" fig-alt="Chart showing upward trend in share of voters saying Democratic Party is 'too liberal,' rising from the mid-40s in the early 2010s to the mid-50s in the mid-2020s"}
+
+## Exit Quiz
+
+1.  (2pts) Both Popkin (*The Reasoning Voter*) and Achen/Bartels (*Democracy for Realists*) argue that voters generally have low/incomplete information about politics. For whom is this is a *bigger* problem for democracy?
+
+2.  Briefly (two sentences max) how "approval voting" works.
+
+# Break
+
+## Exit Quiz Answers
+
+1.  (2pts) Both Popkin (*The Reasoning Voter*) and Achen/Bartels (*Democracy for Realists*) argue that voters generally have low/incomplete information about politics. For whom is this is a *bigger* problem for democracy?
+
+. . .
+
+Achen/Bartels
+
+## Exit Quiz Answers
+
+2.  Briefly (two sentences max) how "approval voting" works.
+
+. . .
+
+Individuals vote for every candidate they would "approve" of holding office, and whoever gets the most votes wins.
+
+## Election Cycles/Perpetual Campaigns
+
+Federal elections in even-numbered years.
+
+Some states do legislative/gubernatorial elections in odd-numbered years.
+
+Municipalities usually have something important on the ballot every year.
+
+. . .
+
+Officeholders are considered to be running for re-election or their next seat until they say they aren't.
+
+## Candidate Emergence {.smaller}
+
+The choices voters make are conditional on the choices voters are given.
+
+Factors that influence who runs for office? [Means, motive, and opportunity:]{.fragment}
+
+::: incremental
+-   means
+    -   time, money, networks
+-   motive
+    -   generally want to run?
+    -   fit between specific office and goals
+-   opportunity
+    -   open seat?
+    -   political lean of district?
+    -   party support?
+:::
+
+## Candidate Emergence {.smaller}
+
+Have any of you run for office?
+
+. . .
+
+Thought about running for office in the future? [Why (not)?]{.fragment}
+
+## Campaign Setup {.smaller}
+
+What do you need to run a campaign?
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   money
+    -   staff
+    -   office space
+    -   infrastructure
+    -   ads
+-   platform
+    -   party may subsidize this step
+-   plan
+    -   what's your "win number"?
+    -   how will you reach it?
+:::
+::::
+
+::: {.column width="50%"}
+![](images/klobuchar_announcement.png){fig-alt="Picture of Amy Klobuchar at her 2020 presidential campaign launch event (in the snow)"}
+:::
+::::::
+
+## Campaign Setup {.smaller}
+
+In principle, can organize however you want. But, some basics.
+
+::::: columns
+::: {.column width="50%"}
+-   Campaign manager
+-   Communications director
+    -   Press secretary
+    -   Pollster
+    -   Digital director
+-   Finance director
+-   Political director
+-   Field director
+    -   Data director
+-   Research director
+:::
+
+::: {.column width="50%"}
+![](images/obama_staff.png){fig-alt="Picture of Barack Obama's 2012 campaign senior staff"}
+:::
+:::::
+
+## Consultants
+
+Industry of firms selling campaign expertise. May sell specific services (polling, research, advertising, direct voter contact, e.g.) or entire campaign. [Principal-agent relationship!]{.fragment}
+
+![Stuart Stevens, with Mitt Romney](images/stevens_romney.png){fig-align="center" fig-alt="Picture of Stuart Stevens (campaign manager) behind Mitt Romney in 2012"}
+
+## Nomination {.smaller}
+
+Parties' role in candidate selection especially important under conditions of polarization. [Why?]{.fragment}
+
+. . .
+
+Partisan "primaries" can be organized as...
+
+-   convention (party elites pick)
+-   caucus (public forum that ends in a public vote)
+-   primary election
+    -   closed primary: registered members only
+    -   semi-closed primary: no members of other party
+    -   open primary: anyone can participate
+
+. . .
+
+Non-partisan primaries (essentially "first stage" elections) becoming more popular
+
+## Primaries {.smaller}
+
+"Invisible" primary: informal campaign for activist/elite support before voting begins
+
+![](images/burgum_iowa.jpeg){fig-align="center" fig-alt="Picture of Doug Burgum flipping burgers at a fair in Iowa while running for president"}
+
+## Winning Coalitions
+
+Getting to your "win number" means thinking about [marginal voters]{.yellow}. Two types of marginal voter:
+
+::: incremental
+-   Might vote, will vote for you if they do
+    -   Mobilization
+-   Will vote, might vote for you
+    -   Persuasion
+:::
+
+. . .
+
+If you don't fall into either of these groups, campaign messaging *is not for you* (volunteer/donation appeals separate).
+
+## Winning Coalitions
+
+Abilities to target different types of marginal voter vary by state.
+
+. . .
+
+::::: columns
+::: {.column width="70%"}
+Different states collect different data on voters, made available to campaigns.
+:::
+
+::: {.column width="30%"}
+![](images/hacking_electorate.jpg){fig-alt="Cover of Hacking the Electorate by Eitan Hersh"}
+:::
+:::::
+
+## Winning Coalitions
+
+Let's talk about this for a second.
+
+To what extent do mobilization and persuasion trade off against each other?
+
+## Winning Coalitions
+
+Let's talk about this for a second.
+
+"Persuasion" as we commonly understand the term (and as some of you learned last week) is *really hard*.
+
+. . .
+
+But, campaigns can persuade people to vote for them *without changing their minds*.
+
+## The Art of Manipulation
+
+Campaigns manipulate[^1] the political terrain using [heresthetics]{.yellow} (Riker 1986)
+
+[^1]: non-derogatory
+
+. . .
+
+Rhetoric: winning the debate at hand
+
+Heresthetic: altering terms of debate to be more favorable
+
+. . .
+
+Vavreck's "insurgent campaigns" rely on heresthetics.
+
+. . .
+
+Aim is to set agenda on issue that divides your opponent's coalition and unites yours.
+
+## Campaign Messages
+
+Campaigns develop a "message box"
+
+|            |    We Say    |  They Say  |
+|------------|:------------:|:----------:|
+| About Us   |    Why us    | Why not us |
+| About Them | Why not them |  Why them  |
+
+. . .
+
+Decisions early on about what you want the race to be "about"
+
+. . .
+
+Campaign rhetoric is repetitive by design.
+
+```{=html}
+<!--
+
+## Campaign Messages
+
+Types of issues:
+
+*   Ideological (policy stance on left/right continuum)
+*   Valence (character, background, experience, competence)
+
+. . .
+
+Incentive to be *vague* on left/right spectrum and emphasize valence issues during general elections.
+-->
+```
+
+## Ads
+
+Ads can be...
+
+-   positive: why you're good
+-   negative: why they're bad
+-   inoculating: why you aren't bad
+-   contrasting: why you're better
+
+## Ads
+
+People say they don't like negative ads, and yet we see a lot of them. Why?
+
+. . .
+
+Negative ads are often *informative*
+
+![](images/negative_katko.jpeg){width="70%" fig-align="center" fig-alt="Image from a negative ad against Rep. John Katko, featuring a headline from syracues.com reading 'Why Central New York's biggest Obamacare insurer wants whopping 39 percent rate hike' with the text: 'John Katko's vote: Jacking up insurance premiums 39%'"}
+
+## Ads
+
+People say they don't like negative ads, and yet we see a lot of them. Why?
+
+Candidates in a prisoner's dilemma
+
+|   | Candidate B Positive | Candidate B Negative |
+|----|:--:|:--:|
+| Candidate A Positive | Competitive, reputations intact | B wins |
+| Candidate A Negative | A wins | Competitive, reputations harmed |
+
+## Ads
+
+It's hard to know what messages will be effective without pre-testing.
+
+::::: columns
+::: {.column width="50%"}
+![](images/shor_ads.png){fig-alt="Headline of an article by David Shor: With message testing, popularity does not equal persuasiveness"}
+:::
+
+::: {.column width="50%"}
+![](images/shor_ads_context.png){fig-alt="Text from the article: 'We saw this first-hand when working on the Doug Jones campaign in Alabama last December. Opponent Roy Moore was mired in controversy and scandal, so it seemed intuitive to focus Jones ads on Moore's reported misconduct. But when we tested the messaging, we found that ads emphasizing Jones's ability to improve education in the state were in fact the most persuasive. While people might have responded favorably to ads focused on the Moore scandal, the media had publicized it enough that additional messaging didn't actually *change minds*. Interestingly, we also found that messages aligning Moore with Trump didn't persuade voters to support Jones -- rather, it dissuaded certain groups to vote at all.'"}
+:::
+:::::
+
+## Ads
+
+Less negative campaigning under ranked-choice voting (why?)
+
+. . .
+
+Change institutions (here, decision rules), change behavior
+
+. . .
+
+But! Tradeoff in loss of (negative) information.
+
+## Campaign Messages {.smaller}
+
+Campaigns buy air time in [media markets]{.yellow}
+
+![](images/media_market_states.png){fig-align="center" fig-alt="Map of media markets in the United States"}
+
+. . .
+
+Key:
+
+-   Pricing varies by market
+-   Markets span multiple constituencies
+    -   Not drawn with politics in mind
+
+## Campaign Messages
+
+Ads increasingly moving to digital platforms
+
+. . .
+
+Platform affordances make ads useful for different things.
+
+. . .
+
+<br>
+
+Why, for instance, are campaigns' ads on Facebook *more partisan* and *less negative* than ads on TV?
+
+```{=html}
+<!--
+
+## Conventions
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Used to matter more for candidate selection. Now essentially a sustained rally.
+
+::: {.fragment}
+
+Candidates typically get "convention bump" from increased in-party enthusiasm 
+
+*   possibly just response bias
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/rnc2020.jpeg){fig-align="center"}
+
+:::
+
+::::
+
+
+## Debates
+
+Debating is a norm.
+
+. . .
+
+Frontrunners might not feel compelled to participate.
+
+. . .
+
+Effects often more about *clarifying* than *persuading*. [2024 an exception that proved the rule.]{.fragment}
+
+. . .
+
+Media coverage often affects perceptions more than direct viewing. [2024 actually consistent in this regard.]{.fragment}
+
+## Debates
+
+How do we know who "won" a debate?
+
+. . .
+
+![](images/debate_2024_prepost.png){fig-align="center"}
+
+::: {style="font-size: 50%;"}
+
+Bycoffe, Aaron, Amina Brown, and Nathaniel Rakich. "Who Won The First Biden-Trump Presidential Debate?" FiveThirtyEight, Most recently updated June 28, 2025. https://projects.fivethirtyeight.com/biden-trump-june-debate-poll/
+
+:::
+
+-->
+```
+
+## Ground Game
+
+Direct voter contact about *winning the margins*
+
+-   Canvassing
+-   Phonebanking/textbanking
+-   Relational organizing (contact through personal networks)
+
+. . .
+
+Phases:
+
+-   ID likely/potential supporters
+-   Persuade undecideds
+-   Mobilize confirmed supporters (GOTV)
+
+## Money
+
+Money obviously matters, but people often overestimate *how much* and *where* it matters.
+
+. . .
+
+Difficult to identify:
+
+-   Campaign contributions affecting roll call votes
+    -   Any given contribution is small share of total, issue priority unclear
+    -   Easier to help an ally than win a convert
+-   How many dollars to buy a vote
+    -   Closest races see highest spending
+
+## Campaign Finance
+
+Federal Election Campaign Act of 1971 (FECA): first *comprehensive* campaign finance regulations
+
+-   Disclosure requirements
+-   Partial public funding
+-   Federal Elections Commission
+
+. . .
+
+Spending limits struck down in *Buckley v. Valeo (1976)*, which set initial precedent that (spending) money is speech.
+
+## Campaign Finance {.smaller}
+
+Bipartisan Campaign Reform Act of 2002 (aka McCain-Feingold)
+
+-   Designed to regulate "soft money" (i.e. money not directly contributed to campaigns)
+    -   Contribution limits
+        -   Generally upheld by SCOTUS (interest in anti-corruption warrants limiting speech)
+        -   Limits on aggregate contribution across all committees overturned
+    -   Restrictions on issue ads near elections
+        -   Overturned by SCOTUS
+    -   Restrictions on self-financing
+        -   Overturned by SCOTUS
+    -   Restrictions on election communication from corporations/unions
+        -   Overturned by SCOTUS (*Citizens United*)
+
+## Campaign Finance
+
+General theme: government's interest in regulating campaign finance is about *preventing corruption*, not *equal voice*
+
+. . .
+
+*Value conflict* between freedom (of speech) and equality (of voice) when some can "speak" louder than others.
+
+## Political Action Committees {.smaller}
+
+Emerged in response to restrictions on who could directly contribute
+
+-   CIO-PAC in 1943
+
+. . .
+
+"Connected" PACs: political arms of established organizations (non-connected PACs for issues, candidates, e.g.)
+
+. . .
+
+Leadership PACs: non-connected PACs for elected officials
+
+-   Can make independent expenditures as long they aren't coordinated with/directly for member's own campaign (can distribute to other members' campaigns, e.g.)
+
+## Super PACs
+
+Not subject to contribution or spending limits, so long as they are fully independent.
+
+. . .
+
+-   No coordination with/donations to campaigns
+-   Same disclosure requirements as regular PACs, but...
+    -   Intermediaries can circumvent disclosure
+    -   Quarterly filing --\> final push disclosed after the election
+
+## Super PACs
+
+Super PACs change campaign dynamics.
+
+. . .
+
+:::::: columns
+::: {.column width="40%"}
+Attempts to get around coordination restrictions within letter of law
+:::
+
+:::: {.column width="60%"}
+![](images/superpac_twitter_poll.png){fig-alt="Washington (CNN) -- Republicans and outside groups used anonymous Twitter accounts to share internal polling data ahead of the midterm elections, CNN has learned, a practice that raises questions about whether they violated campaign finance laws that prohibit coordination. The Twitter accounts were hidden in plain sight. The profiles were publicly available but meaningless without knowledge of how to find them and decode the information, according to a source with knowledge of the activities."}
+
+::: {style="font-size: 50%;"}
+Moody, Chris. "How the GOP used Twitter to stretch election laws." CNN, November 17, 2014. https://www.cnn.com/2014/11/17/politics/twitter-republicans-outside-groups/index.html
+:::
+::::
+::::::
+
+```{=html}
+<!--
+
+## Dark Money vs. Parties
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+Recent deregulation has *weakened formal parties* and *strengthened policy-demanding groups*
+
+:::
+
+
+::: {.column width="60%"}
+
+![](images/dark_parties.png)
+
+:::
+
+::::
+
+
+## Campaign Finance
+
+Current landscape:
+
+![fec.gov](images/fec_limits.png)
+
+## Campaign Finance
+
+Current disclosure requirements (for *aggregate* contributions):
+
+*   $50: Date, name, mailing address
+*   $200: Date, full name, mailing address, occupation, employer
+
+## Campaign Finance
+
+Non-profits can promote issues, not candidates
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Traditional non-profit
+
+![501(c)(3)](images/cap.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+Broader "social welfare" non-profit
+
+![501(c)(4)](images/cap_action.png){width=70% fig-align="center"}
+
+:::
+
+::::
+
+## Campaign Finance
+
+527 committees:
+
+*   Named for relevant section of the tax code
+*   Committees set up for the express purpose of influencing politics
+
+## Public Financing?
+
+Technically, the U.S. has limited forms of public financing
+
+::: {.incremental}
+
+*   Presidential Election Campaign Fund
+    + Voluntary contribution through tax form
+*   Presidential campaigns can apply for [matching funds]{.yellow}
+    + Need >=\$5000 in increments of <=\$250 in 20 states
+    + Government matches donations <= $250
+
+:::
+
+. . .
+
+General election presidential campaigns eligible for $20m grant *if they limit spending*, so they typically don't take it.
+-->
+```
+
+## Initiatives and Referenda
+
+Select opportunities for direct input:
+
+-   Initiative: citizen's proposal on ballot
+-   Referendum: legislature's proposal on ballot
+-   Recall: up or down retention vote
+
+. . .
+
+Rules for ballot access and passage vary by state
+
+## Let's talk about this
+
+How do you think about whether/for whom to vote?
+
+-   Prospective/retrospective?
+-   Civic duty/net utility?
+-   Partisan attachment/spatial proximity/material benefit?
+
+. . .
+
+Now think about someone you know who votes for the other team. What's their calculus, do you think?
+
+## Exit Quiz
+
+1.  In Vavreck's model of campaign effects, campaigns engage in three core behaviors. Name one.
+
+2.  (2 pts, second is bonus) Grimmer/Marble and Sides/Tesler/Vavreck offer different accounts of why Donald Trump won in 2016, but Lynn Vavreck in particular argues that the two teams are really answering different questions about that election. What are these two questions?

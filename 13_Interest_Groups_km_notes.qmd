@@ -1,0 +1,727 @@
+---
+title: "Week 13: Interest Groups"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Bonus Question
+
+Q. Explain the principal-agent problem political parties need to solve in Bawn, et al.
+
+A. How to elect representatives *who will faithfully pursue the party's agenda* (even if it's not the agenda favored by the general election's median voter) once they are elected.
+
+. . .
+
+Less than 1/2 got this one, so it's getting counted as bonus.
+
+## Exit Quiz Answers
+
+1.  In Vavreck's model of campaign effects, campaigns engage in three core behaviors. Name one.
+
+::: incremental
+-   Agenda setting: refocusing the voters’ attention to issues favorable to the candidate/changing the weights voters place on certain issues
+-   Persuading: convincing voters that candidates hold particular positions on specific issues
+-   Clarifying: educating voters about their positions on already-important issues
+:::
+
+## Exit Quiz Answers {.smaller}
+
+2.  (2 pts, second is bonus) Grimmer/Marble and Sides/Tesler/Vavreck offer different accounts of why Donald Trump won in 2016, but Lynn Vavreck in particular argues that the two teams are really answering different questions about the 2016 election. What are these two questions?
+
+::: incremental
+-   Sides/Tesler/Vavreck: Change in relationship between racial attitudes and vote choice among voters?
+-   Grimmer/Marble: Change in contribution of racially \[moderate/conservative\] voting blocs to Republican coalition?
+    -   i.e. change in composition of the electorate, accounting for turnout
+:::
+
+## Both can be true!
+
+![](images/grimmer_marble.png){fig-align="center" fig-alt="Measuring the Contribution of Voting Blocs to Election Outcomes (authors: Justin Grimmer, William Marble, and Cole Tanigawa-Lau"}
+
+"...we show that in 2016, Trump's largest gains in support, compared to Mitt Romney in 2012, came from White voters with moderate racial resentment...despite the fact that the relationship between vote choice and racial resentment was stronger in 2016 and 2020 than in other elections."
+
+## This week
+
+Interest Groups
+
+## Interest Groups
+
+What do we already know about interest groups?
+
+::: incremental
+-   Related to factions/policy demanders
+    -   Worth thinking about where the lines are
+-   Interact with...
+    -   Members of Congress
+    -   Executive branch / bureaucracy
+    -   Parties
+:::
+
+## Stated formally
+
+An interest group is an [organization]{.yellow} whose members [share preferences]{.yellow} and attempt to [influence policy]{.yellow} through [electioneering and lobbying]{.yellow}.
+
+## Logic of Lobbying
+
+::::::: columns
+::::: {.column width="70%"}
+Politics is our process for determining who gets what.
+
+::: fragment
+Interest groups form when individuals act collectively to try and get what they want.
+:::
+
+::: fragment
+Political scientists' pet peeve: "special" interest groups just means *other people's* interest groups.
+:::
+:::::
+
+::: {.column width="30%"}
+![](images/chamber_of_commerce.png){fig-align="center" fig-alt="The logo for the United States Chamber of Commerce"}
+:::
+:::::::
+
+## Linkage Institutions
+
+Interest groups are [linkage institutions]{.yellow}: a mechanism that connects citizens to policymakers / provides a channel for communicating preferences.
+
+. . .
+
+Elections, parties, and the media are also linkage institutions.
+
+. . .
+
+Interest group signals as (difficult to quantify) public opinion?
+
+## Interest Group Pluralism
+
+Early theory of interest groups: pluralism
+
+. . .
+
+Diverse array of interests organize and *compete* for power
+
+. . .
+
+Diversity of interests is balancing, no one group can become too powerful
+
+## Pluralism's Critics
+
+What's missing here?
+
+::: incremental
+-   Uneven playing field
+    -   strength in dollars
+-   Logic of collective action
+    -   easier to organize some interests than others (debt reduction, e.g.)
+    -   some groups better-able to overcome free-rider problems
+-   If broader public doesn't provide input, is that tacit agreement?
+:::
+
+## Promoting collective action
+
+What can interest groups do to discourage free riding?
+
+::: incremental
+-   Moral incentives
+    -   Public interest sign-ups, e.g.
+-   Selective benefits
+    -   AAA, e.g.
+-   Compulsory participation
+    -   Labor unions, e.g.
+:::
+
+## Why Join?
+
+Different types of benefits
+
+. . .
+
+::::::: columns
+:::: {.column width="50%"}
+More outcome-based:
+
+::: incremental
+-   [Material]{.yellow}: tangible benefits (may be specific to group membership)
+-   [Purposive]{.yellow}: benefits from working to achieve a broader policy goal (skills, e.g.)
+:::
+::::
+
+:::: {.column width="50%"}
+Less outcome-based:
+
+::: incremental
+-   [Solidary]{.yellow}: benefits from working together (community, friendship, e.g.)
+-   [Expressive]{.yellow}: benefits from signaling group membership
+:::
+::::
+:::::::
+
+## Interest Group Mechanics
+
+Interest groups may vary in how much direct input their members have.
+
+. . .
+
+AARP, e.g. -- selective benefits for members, but members don't direct lobbying priorities
+
+![](images/aarp.jpeg){width="60%" fig-align="center" fig-alt="The logo for the AARP"}
+
+## Lobbying in the Public Interest
+
+Public interest lobbies...examples?
+
+. . .
+
+-   Consumer advocacy
+-   Environmentalism
+-   Anti-homelessness
+
+. . .
+
+What do these have in common?
+
+. . .
+
+Organizers overlap with but not necessarily beneficiaries
+
+. . .
+
+Heavily reliant on [moral incentives]{.yellow} ("help us help others")
+
+## Expansion of Interest Groups
+
+:::::: columns
+:::: {.column width="60%"}
+Size, scope, and nature of interest group activity interacts with technology and political landscape
+
+::: fragment
+Earlier bottom-up [voluntary associations]{.yellow} largely gave way to top-down [advocacy organizations]{.yellow}
+:::
+::::
+
+::: {.column width="40%"}
+![](images/voluntary_association.jpeg){fig-alt="Picture of a crowded meeting room for a voluntary association"}
+:::
+::::::
+
+## Expansion of Interest Groups
+
+Interest group activity more concentrated in DC now than in previous eras
+
+. . .
+
+Linked to expansion in size/scope of federal government, but which way does causal arrow go?
+
+-   Larger federal government --\> more interest group organization
+-   More interest group organization --\> larger federal government
+
+## Interest group activities
+
+Think about your own experience with interest groups.
+
+::: incremental
+-   How often are you asked to sign petitions?
+    -   Or put your name on an email list?
+-   How often are you asked to donate money?
+-   How often are you asked to attend a meeting?
+:::
+
+## Market of Influence {.smaller}
+
+::::::: columns
+::::: {.column width="60%"}
+Lobbying is a regulated business.
+
+::: incremental
+-   Quarterly reporting of how much which clients spent on which issues
+-   Reporting requirements for interest groups/corporations' lobbying activity
+-   Requirement to register if acting on behalf of foreign government
+:::
+
+::: fragment
+Relatively light restrictions on "revolving door" from government staff to lobbying.
+
+-   Typically one-year cooling off for staff / two years for electeds
+:::
+:::::
+
+::: {.column width="40%"}
+![](images/k_street.png){fig-alt="Street sign at the 1500 block of K Street NW in Washington, DC"}
+:::
+:::::::
+
+## Market of Influence {.smaller}
+
+Lobbying is a big business because *the stakes are really high*
+
+. . .
+
+-   Total federal outlays in 2024: 6.8 trillion
+-   Total spending on federal lobbying in 2024: \$4.5 billion (.066% of outlays)
+
+. . .
+
+Top spenders tend to represent industries with heavy government involvement
+
+-   Chamber of Commerce
+-   National Association of Realtors
+-   Pharmaceutical Research and Manufacturers of America
+-   American Hospital Association
+
+## How Lobbying Matters
+
+Intuitive to think that lobbying systematically buys politicians' support, but this is often difficult to quantify. Why?
+
+. . .
+
+Easier to help an ally than win a convert
+
+-   Lobbying as [legislative subsidy]{.yellow}: providing information, expertise, and political support to help politicians draft/prioritize legislation that they already want to pass
+
+## How Lobbying Matters
+
+Doesn't mean lobbying never secures initial support, especially when politician begins indifferent
+
+. . .
+
+And, money in other places can help allies win elections in the first place
+
+. . .
+
+But! It does mean that "politicians are bought and paid for" is a bit too simple
+
+## How Lobbying Matters
+
+Less professionalized legislatures rely more heavily on lobbyists.
+
+Tradeoff relevant to debates over congressional staffing and term limits:
+
+-   High turnover in Congress --\> more reliance on/deference to lobbyists
+
+## Market of Influence
+
+Who works for interest groups?
+
+::: incremental
+-   Policy experts ("wonks")
+-   Politics experts ("hacks")
+:::
+
+## Market of Influence
+
+::::::: columns
+:::: {.column width="40%"}
+Interest group representatives often hired back into government agencies.
+
+::: fragment
+This often looks unseemly...why haven't we banned it?
+:::
+::::
+
+:::: {.column width="60%"}
+![](images/sec_clayton.png){fig-alt="Open Secrets page for former Securities and Exchange Commissioner Jay Clayton, who worked at the lobbying firm Sullivan & Cromwell for over 20 years before being appointed SEC chairman."}
+
+::: {style="font-size: 50%;"}
+https://www.opensecrets.org/revolving/rev_summary.php?id=79303
+:::
+::::
+:::::::
+
+## Interest Groups and Social Movements {.smaller}
+
+What's the difference?
+
+::::: columns
+::: {.column width="50%"}
+Social movements
+
+-   Loosely organized
+-   Lobbying *public* to think/care about issue
+:::
+
+::: {.column width="50%"}
+Interest groups
+
+-   Formally organized
+-   Lobbying *government* for specific policy
+:::
+:::::
+
+Both demonstrate *power* and encourage responsiveness to policy demands.
+
+. . .
+
+Lines can blur / overlap. Interest groups can grow out of social movements.
+
+## Tactics {.smaller}
+
+::::::: columns
+:::: {.column width="50%"}
+Insider:
+
+::: incremental
+-   Interact with government
+    -   legislature
+        -   members and staff
+    -   bureaucracy
+-   Testimony, meetings, calls, emails, comments on regulations, etc.
+-   Repeated game, important to stay credible
+    -   On both substance and politics
+:::
+::::
+
+:::: {.column width="50%"}
+Outsider:
+
+::: incremental
+-   Pressuring government
+    -   From petitioning to protesting to advertising
+-   Aim to alter incentives
+:::
+::::
+:::::::
+
+## Insider Tactics: Meetings
+
+![](images/lobbying_meeting.png){fig-align="center" fig-alt="Picture of a meeting at a small round table"}
+
+## Insider Tactics: Public Comments
+
+![](images/rule_comments.png){fig-align="center" fig-alt="Screenshot of a page showing proposed rules on regulations.gov, with options to comment on the proposed rules."}
+
+## Outsider Tactics: Advertising
+
+![](images/harry_louise.png){fig-align="center" fig-alt="Picture from the 'Harry and Louise' ads against Bill Clinton's health insurance reform bill. Tagline: Know the Facts 1-800-285-HEALTH. Paid for by the Coalition for Health Insurance Choices. Funding by Health Insurance Association of America"}
+
+## Outsider Tactics: Sponsored Research
+
+![Homeowners associations are great, according to new research by interest group representing homeowners associations.](images/hoa_research.png){fig-alt="Excerpt from a report prepared by the Community Associations Institute. Title: Community Associations Remain Preferred Places to Call Home: 2020 Homeowner Satisfaction Survey. Text: For the eighth time in 15 years, Americans living in homeowners associations, condominiums, and housing cooperatives say they're overwhelmingly satisfied in their communities. 89% of residents rate their overall community association experience as very good or good (70%) or neutral (19%). 89% say members of their elected governing board 'absolutely' or 'for the most part' serve the best interests of their communities. 74% say their community managers provide value and support to residents and their associations. 94% say their association's rules protect and enhance property values (71%) or have a neutral effect (23%); only 4% say the rules harm property values."}
+
+::: {style="font-size: 50%;"}
+https://www.caionline.org/AboutCommunityAssociations/Pages/StatisticalInformation.aspx
+:::
+
+## Outsider Tactics: Protest
+
+![](images/fanduel.png){fig-align="center" fig-alt="Picture of CNBC coverage of a pro-sports betting protest. Caption: Fanduel hosting rally outside NY AG's office. Protesters holding signs reading 'Let's get real, it's just fantasy,' and 'Schneiderman should focus on real problems'"}
+
+## General Tactics: Legal
+
+:::::::: columns
+:::: {.column width="50%"}
+Both insiders and outsiders can sue.
+
+-   End-around democratic competition if you can ground your demands in *rights*.
+
+::: fragment
+Use *amicus* briefs to argue interests before SCOTUS
+:::
+::::
+
+::::: {.column width="50%"}
+:::: fragment
+![](images/amicus_net.png){fig-alt="Figure 3. AMicus Curiae Network. Squares indicate organizations in the test set. Circles indicate organizations in the training set. Nodes are colored by ACNet score from liberal (blue) to conservative (red). Nodes without scores are light grey. Figure shows polarization in the network, with a clear cluster of blue nodes and multiple smaller clusters of red nodes with little overlap, as well as a ring of isolates that are disconnected from the rest of the network."}
+
+::: {style="font-size: 50%;"}
+Abi-Hassan, Sahar, Janet Box-Steffensmeier, Dino P. Christenson, Aaron R. Kaufman, and Brian Libgober. 2023. "The Ideologies of Organized Interests and Amicus Curiae Briefs: Large-Scale, Social Network Imputation of Ideal Points." *Political Analysis* 31: 396–413.
+:::
+::::
+:::::
+::::::::
+
+## Exit Quiz {.smaller}
+
+1.  Baylor argues that the NAACP and CIO's choice to prioritize a specific policy was crucial for racial realignment (hint: "One could have hardly invented a better institution for pitting \[Republican interests\] against the interests of civil rights groups"). Which policy was it?
+
+<!-- -->
+
+a)  Anti-lynching laws
+b)  Establishing a Fair Employment Practices Commission
+c)  Desegregating the military
+d)  The Voting Rights Act
+
+<!-- -->
+
+2.  Per Della Costa, Vaughn, and Baumgartner, who are the main opponents of changing the North Carolina school calendar?
+
+# Break
+
+## Exit Quiz Answers {.smaller}
+
+1.  Baylor argues that the NAACP and CIO's choice to prioritize a specific policy was crucial for racial realignment (hint: "One could have hardly invented a better institution for pitting \[Republican interests\] against the interests of civil rights groups"). Which policy was it?
+
+<!-- -->
+
+a)  Anti-lynching laws
+b)  Establishing a Fair Employment Practices Commission
+c)  Desegregating the military
+d)  The Voting Rights Act
+
+. . .
+
+b)  Establishing a Fair Employment Practices Commission
+
+## Exit Quiz Answers
+
+2.  Who, according to Della Costa, Vaughn, and Baumgartner, opposes changing the North Carolina school calendar?
+
+. . .
+
+The travel and tourism industries, and representatives who represent tourism-heavy districts.
+
+## What about you? {.smaller}
+
+What are some interests you might organize around *as Duke students*?
+
+. . .
+
+Groups/clubs, sure, but also...
+
+::::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Housing and dining
+    -   Greek life / party policy
+    -   Food costs/options
+-   Accessibility
+-   Sports
+-   Transit (+parking?)
+:::
+::::
+
+:::: {.column width="50%"}
+::: incremental
+-   Curriculum
+    -   Majors? Requirements? Classes? Grading?
+-   Support services
+    -   Health, academic, professional, etc.
+-   Activity fee amount/distribution
+    -   External speakers
+:::
+::::
+:::::::
+
+## What about you?
+
+How might you go about organizing around these interests?
+
+. . .
+
+What would make that easier or harder?
+
+## Case studies
+
+I've had you read about a few specific cases of successful interest group activity this week.
+
+. . .
+
+A few of them are a bit dense. I want to talk about them in a bit more depth.
+
+## NAACP / CIO
+
+![](images/baylor_abstract.png){fig-align="center" fig-alt="Title page for Baylor (2013). Title: First to the Party: The Group Origins of the Partisan Transformation on Civil Rights, 1940-1960. Author: Christopher A. Baylor, College of the Holy Cross. Abstract: One of the most momentous shifts in twentieth-century party politics was the Democratic Party's embrace of civil rights. Recent scholarship finds that this realignment began as early as the 1940s and traces it to pressure groups, especially organized labor. But such scholarship does not explain why labor, which was traditionally hostile to African Americans, began to work with them. Nor does it ascribe agency to the efforts of African American pressure groups. Focusing on the National Association for the Advancement of Colored People (NAACP) and the Congress of Industrial Organizations (CIO), this article attempts to fill these gaps in the literature. It explains why civil rights and labor leaders reassessed their traditional animosities and began to work as allies in the Democratic Party. It further shows how pressure from the new black-blue alliance forced the national Democratic Party to stop straddling civil rights issues and to become instead the vehicle for promoting civil rights. NAACP and CIO leaders consciously sought to remake the Democratic Party by marginalizing conservative Southerners, and eventually succeeded."}
+
+## NAACP / CIO {.smaller}
+
+NAACP's internal politics: Walter White (not that one) vs. W.E.B. Du Bois
+
+. . .
+
+Being a "team player" means taking short-term losses (like slow-walking civil rights provisions of labor laws) for long-term gains
+
+. . .
+
+Compatible --\> coherent
+
+. . .
+
+Heading off the "demands of those who seek to push us into third party adventures"
+
+. . .
+
+The Fair Employment Practices Commission (FEPC) as a wedge issue
+
+. . .
+
+Coalition politics in nominations and platforms
+
+. . .
+
+NAACP starts as junior partner, ends as peer?
+
+## NRA
+
+The puzzle:
+
+![](images/polls_background_checks.png){fig-align="center" fig-alt="Morning Consult article. Headline: Voters are Nearly United in Support for Expanded Background Checks. Subhed: But electorate is more divided on legislation aimed at closing 'Charleston loophole'. Author: Eli Yokley. Date: March 10, 2021. Key Takeaways: 84% of voters, including 77% of Republicans, support requiring all gun purchasers to go through a background check. 48% support closing the 'Charleston loophole', while 38% oppose the move. Voter are more likely to trust Democrats than Republicans on gun policy, 44% to 38%, though it's an area of relative weakness for the president's party."}
+
+## NRA
+
+Common answers:
+
+::: incremental
+-   Issue importance
+    -   Minority votes on issue; majority doesn't
+        -   But! This might be changing
+-   Money
+    -   Not obvious that funding is unequal for/against
+:::
+
+## NRA
+
+Emerging answer: "people who own guns" --\> "gun owners"
+
+![](images/lacombe_nra.png){fig-alt="Journal article title page. Title: The Political Weaponization of Gun Owners: The National Rifle Association's Cultivation, Dissemination, and Use of a Group Social Identity. Author: Matthew J. Lacombe, Barnard College, Columbia University. Abstract: There is substantial evidence indicating that the NRA's (National Rifle Association) political influence is closely tied to the deep political engagement of the minority of Americans who oppose strict gun control laws. This explanation of the NRA’s influence, however, raises its own questions; namely, why are gun owners so devoted to their cause, and why is the NRA so effective at mobilizing them? I marshal a wide range of evidence covering nearly nine decades to demonstrate that an important cause of the political activity of gun owners is the NRA’s long-term cultivation and dissemination of a distinct, politicized gun owner social identity, which the NRA uses to mobilize mass political action on its behalf. My findings shed new light on the ability of interest groups to develop and use resources that help them influence policy by altering the political behavior of members of the mass public."}
+
+## NRA
+
+Hahrie Han has some pretty tough words for gun control groups. What did you think?
+
+:::::: columns
+::: {.column width="33%"}
+![](images/everytown.png){fig-alt="Logo for Everytown for Gun Safety"}
+:::
+
+::: {.column width="33%"}
+![](images/moms_demand.png){fig-alt="Logo for Moms Demand Action for Gun Sense in America"}
+:::
+
+::: {.column width="33%"}
+![](images/marchforourlives.jpeg){fig-alt="Logo for March for our Lives"}
+:::
+::::::
+
+## ACT-UP
+
+:::::::: columns
+:::::: {.column width="60%"}
+Being right, being "right," and winning.
+
+::: fragment
+Costly signals
+:::
+
+::: fragment
+Solidary benefits
+:::
+
+::: fragment
+Similarities/differences with contemporary social movements?
+:::
+::::::
+
+::: {.column width="40%"}
+![](images/actupfda.jpeg){fig-alt="Picture from an ACT-UP 'die-in' at the FDA. Signs read 'Silence = Death', and 'RIP Killed by the FDA'"}
+:::
+::::::::
+
+## Bringing it together
+
+These interests are very different...what do the groups have in common?
+
+. . .
+
+Balance between general and specific demands?
+
+## Let's talk about milk
+
+What *is* milk?
+
+![](images/got_milk.png){fig-align="center" fig-alt="got milk? logo"}
+
+## So here's the issue
+
+::::: columns
+::: {.column width="70%"}
+![https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=131.110](images/fda_milk.png){fig-alt="Code of Federal Regulations Title 21 -- Food and Drugs, Chapter I -- Food and Drug Administration Department of Health and Human Services, Subchapter B -- Food for Human Consumption, Part 131 -- Milk and Cream, Subpart B -- Requirements for Specific Standardized Milk and Cream, Section 131.110: Milk. (a) Description. Milk is the lacteal secretion, practically free from colostrum, obtained by the complete milking of one or more healthy cows. Milk that is in final package form for beverage use shall have been pasteurized or ultrapasteurized, and shall contain not less than 8 1/4 pecent milk solids not fat and not less than 3 1/4 percent milkfat. Milk may have been adjusted by separating part of the milkfat therefrom, or by adding thereto cream, concentrated milk, dry whole milk, skim milk, concentrated skim milk, or nonfat dry milk. Milk may be homogenized."}
+:::
+
+::: {.column width="30%"}
+![](images/oatly.png){fig-alt="A box of Oatly oat milk"}
+:::
+:::::
+
+## Your job {.smaller}
+
+Divide into groups of three. Each group will be given an interest to represent.
+
+. . .
+
+Your group's job is to:
+
+-   Consider the proposed rule
+-   Draft a public comment [from your interest's perspective]{.yellow}
+    -   What should the FDA do about plant-based milk labeling?
+        -   Is the proposed rule acceptable? If not, what should they change?
+    -   [Why]{.yellow} should the FDA adopt your group's preferred policy?
+-   Don't worry about writing this down, we'll talk it out
+
+. . .
+
+You may review the public comments that were actually submitted here: https://www.regulations.gov/document/FDA-2023-D-0451-0002/comment
+
+-   If you don't want to type out the URL, to the regulations.gov home page, search for docket ID [FDA-2023-D-0451-0002]{.yellow}, and click on "Browse Posted Comments"
+
+## Your job {.smaller}
+
+::::: columns
+::: {.column width="60%"}
+The proposed rule (FDA Docket Number FDA-2023-D-0451):
+
+-   Plant-based milk can be marketed as "milk" as long as it identifies plant source
+    -   "oat milk" is fine; "imitation milk" is typically not necessary
+-   Plant-based milk producers are encouraged to voluntarily include nutritional differences from cow's milk
+    -   Specifically (but not limited to) calcium, protein, vitamins A/D/B12, magnesium, phosphorous, potassium, or riboflavin
+:::
+
+::: {.column width="40%"}
+![Example](images/milk_labeling_fda.png){fig-alt="Example from the proposed rule. Figure 1: Example of Voluntary Nutrient Statement on Product Label netxt to Product Name (box includes in small print next to product name: Contains a lower amount of potassium than milk). Figure 2: Example of Voluntary Nutrient Statement on Product Label next to Product Name: (same disclaimer, but zoomed in)"}
+:::
+:::::
+
+## How this played out
+
+::::: columns
+::: {.column width="50%"}
+![](images/milk_quote.png){fig-alt="Excerpt from article covering the proposed rule: 'Woefully insufficient'. The National Milk PRoducers Federation (NMPF) said the FDA proposal 'falls woefully short of ending the decades-old problem of misleading plant-based labeling using dairy terminology but supported the federal agency's initiative to introduce nutrient statements, designed to highlight any significant nutritional differences between dairy milk and a plant-based alternative. 'For far too long, plant-based beverage manufacturers have blurred well-defined standards of identity to inappropriately and unfairly capitalize on dairy's nutritional benefits while FDA has ignored its enforcement obligations,' said Jim Mulhern, NMPF president and CEO. 'FDA's draft guidance is an encouraging first step toward promoting labeling transparency in the marketplace, but it's not enough. Our comments outline a solution to the misleading labeling practices existing in the marketplace today, and provide clear, truthful labeling options for marketers of plant-based beverages."}
+:::
+
+::: {.column width="50%"}
+![](images/vege_quote.png){fig-alt="Another excerpt: 'No justification for an uprecedecnted, unique, disparaging disclaimer' Proponents in favor of the use of dairy terms on dairy alternative products argued adopting 'milk' for use on plant-based products would be in line with what consumers were accustomed to. In its comments to the FDA, the Vegetarian Resource Groups -- an NGO dedicated to promoting vegetarianism -- said results of a survey it commissioned in 2020 suggested that 92% of US adults 'recognized that soy milk and dairy milk were different.' 'This supports our view that use of 'milk' to describe a plant-baed milk will not be confusing to consumers.'"}
+
+![](images/vege_quote_2.png){fig-alt="Another excerpt: The Plant Based Foods Association, a trade body that represents plant-based food companies, had submitted a 19-page statement in which it rebukes the need for nutrient disclaimers, questions the FDA's proposed use of the school nutrition standards that plant-based alternatives must meet, and suggests that the FDA had relied on 'questionable research and empirical evidence' that informed its recommendation for voluntary nutrient statements and naming obligations. The trade body argued that 'there is no justification for an unprecedented, unique, disparaging disclaimer' highlighting that plant-based products were low in nutrients that were not of public health concern, such as magnesium or protein. Of the nine essential nutrients contained in milk, only calcium, vitamin D, and potassium have been identified as such within the Dietary Guidelines for Americans, yet the FDA recommends manufacturers to highlight nutritional differences related to magnesium or protein content, the body said."}
+:::
+:::::
+
+::: {style="font-size: 50%;"}
+Lyubomirova, Teodora. "Dairy and plant-based organizations go head-to-head over FDA’s plant-based milk labeling guidance." Dairy Reporter, August 3, 2023.
+:::
+
+## How this played out
+
+End result: plant-based milk can be marketed as milk.
+
+-   Producers encouraged, but not required, to note nutritional differences from dairy
+
+. . .
+
+But!
+
+![](images/dairy_pride.png){width="60%" fig-align="center" fig-alt="Press release from Senator Tammy Baldwin: Baldwin, Risch, Collins, Welch, Introduce Bipartisan DAIRY PRIDE Act to Combat Mislabeling of Non-Dairy Products. Washington, DC -- Following the U.S. Food and Drug Administration's proposed guidance last week allowingnut, oat, soy, and other non-dairy products to use the name 'milk,' Senators Tammy Baldwin (D-WI), Jim Risch (R-ID), Susan Collins (R-ME), and Peter Welch (D-VT) today introduced bipartisan legislation to combat the unfair practice of mislabeling non-dairy products using dairy names. The Defending Against Imitations and Replacements of Yogurt, milk, and cheese to Promote Regular Intake of Dairy Everyday Act (DAIRY PRIDE Act) of 2023 would require non-dairy products made from nuts, seeds, plants, and algae to no longer be mislabeled with dairy terms such as milk, yogurt, or cheese."}
+
+## Exit Quiz {.smaller}
+
+1.  Name one contrast Hahrie Han draws between the gun control movement and the gun rights movement.
+
+2.  True or false: one of the key differences Theda Skocpol identifies between "fellowship associations" and "advocacy groups" is that advocacy groups are more representative of/responsive to working class people and interests.
+
+3.  ACT UP organized around multiple specific policy goals shown in the documentary. Name one.

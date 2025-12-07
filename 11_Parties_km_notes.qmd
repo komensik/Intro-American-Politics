@@ -1,0 +1,1009 @@
+---
+title: "Week 11: Parties"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Last week
+
+Public opinion
+
+1.  Public opinion is more than the sum of its parts
+2.  People contain multitudes
+3.  Random sampling is beautiful
+4.  No such thing as a perfect question
+
+. . .
+
+Reminder: take the eval survey if you haven't yet!
+
+## Exit Quiz Answers {.smaller}
+
+1.  Zaller's model of how individuals form political attitudes, and report those attitudes on surveys, includes four axioms. Name one.
+
+. . .
+
+1)  Reception: People who are more engaged are more likely to be exposed to and comprehend (i.e. receive) relevant messages.
+2)  Resistance: People tend to resist messages that are inconsistent with their predispositions, but only if they understand the relationship between the message and their predispositions.
+3)  Accessibility: Considerations that were brought to mind more recently are easier to retrieve.
+4)  Response: The survey response is a weighted average of accessible considerations.
+
+## Exit Quiz Answers
+
+2.  Nate Cohn's article is entitled "How One Polling Decision is Leading to Two Distinct Stories of the Election." Name that decision.
+
+. . .
+
+Whether to include respondents’ recollection of who they voted for in 2020 in survey weights.
+
+## Exit Quiz Answers
+
+3.  Agiesta, et al break independents down into five general sub-types. Name one.
+
+. . .
+
+Upbeat Outsiders, Disappointed Middle, Democratic Lookalikes, Republican Lookalikes, Checked out
+
+## This week {.smaller}
+
+Political parties
+
+![](images/political_party_founders.jpeg){width="50%" fig-align="center" fig-alt="A political party. Portrait of the constitutional convention, but with kegs and red solo cups."}
+
+. . .
+
+If this sounds interesting...
+
+POLSCI 202: Political Parties in Competition. Left, Right, and Beyond.
+
+## Structure for this week
+
+1.  Why parties?
+2.  History of the US party system(s)
+3.  Where's the party?
+4.  How do we make parties?
+
+# Why Parties?
+
+## Parties are fundamental to democracy
+
+. . .
+
+The framers warned us about parties, and yet...
+
+. . .
+
+Democracy is "a system where parties lose elections." - Adam Przeworski
+
+Democracy is "unthinkable" without parties. - E.E. Schattschneider
+
+. . .
+
+Why?
+
+## Why Parties?
+
+Parties are an emergent property of democracy because [parties solve collective action problems]{.yellow}.
+
+. . .
+
+"...an organized attempt to get control of the government." (Schattschneider 1942)
+
+## Why Parties?
+
+Time for some game theory...
+
+|         | Player A | Player B | Player C | Enacted? |
+|---------|:--------:|:--------:|:--------:|:--------:|
+| Issue 1 |    1     |    -1    |    0     |    No    |
+| Issue 2 |    1     |    0     |    -1    |    No    |
+| Issue 3 |    -1    |    1     |    0     |    No    |
+| Issue 4 |    0     |    1     |    -1    |    No    |
+| Issue 5 |    -1    |    0     |    1     |    No    |
+| Issue 6 |    0     |    -1    |    1     |    No    |
+
+. . .
+
+No cooperation, no policy
+
+## Why Parties?
+
+Remember Federalist 10: cooperation is necessary
+
+|                    |   Player A   |   Player B   | Player C |    Enacted?    |
+|--------------------|:------------:|:------------:|:--------:|:--------------:|
+| Issue 1            |      1       |      -1      |    0     |       No       |
+| [Issue 2]{.yellow} | [1]{.yellow} | [0]{.yellow} |    -1    | [Yes]{.yellow} |
+| Issue 3            |      -1      |      1       |    0     |       No       |
+| [Issue 4]{.yellow} | [0]{.yellow} | [1]{.yellow} |    -1    | [Yes]{.yellow} |
+| Issue 5            |      -1      |      0       |    1     |       No       |
+| Issue 6            |      0       |      -1      |    1     |       No       |
+
+Players A and B make a deal
+
+## Why Parties?
+
+Decision rule: if indifferent, defer to partner
+
+|                  |  Player A  |  Player B  | Player C |   Enacted?   |
+|------------------|:----------:|:----------:|:--------:|:------------:|
+| Issue 1          |     1      |     -1     |    0     |      No      |
+| [Issue 2]{.blue} | [1]{.blue} | [0]{.blue} |    -1    | [Yes]{.blue} |
+| Issue 3          |     -1     |     1      |    0     |      No      |
+| [Issue 4]{.blue} | [0]{.blue} | [1]{.blue} |    -1    | [Yes]{.blue} |
+| Issue 5          |     -1     |     0      |    1     |      No      |
+| Issue 6          |     0      |     -1     |    1     |      No      |
+
+Players A and B form a [long coalition]{.yellow}
+
+## Why Parties?
+
+How does the coalition keep itself together?
+
+. . .
+
+In order to repeat their patterns of cooperation, coalitions need to be able to...
+
+-   monitor members' behavior
+-   reward cooperation
+-   sanction defection
+
+. . .
+
+Parties develop the tools to do these things.
+
+## Why Parties?
+
+Who are Players A, B, and C here?
+
+|                  |  Player A  |  Player B  | Player C |   Enacted?   |
+|------------------|:----------:|:----------:|:--------:|:------------:|
+| Issue 1          |     1      |     -1     |    0     |      No      |
+| [Issue 2]{.blue} | [1]{.blue} | [0]{.blue} |    -1    | [Yes]{.blue} |
+| Issue 3          |     -1     |     1      |    0     |      No      |
+| [Issue 4]{.blue} | [0]{.blue} | [1]{.blue} |    -1    | [Yes]{.blue} |
+| Issue 5          |     -1     |     0      |    1     |      No      |
+| Issue 6          |     0      |     -1     |    1     |      No      |
+
+## Why Parties?
+
+This is actually not settled in political science!
+
+. . .
+
+:::::: columns
+::: {.column width="50%"}
+Top-down view: parties are teams of politicians seeking to win elections
+
+![](images/dnc.jpg){fig-alt="The Democratic National Convention 2020"}
+:::
+
+:::: {.column width="50%"}
+::: fragment
+Bottom-up view: parties are teams of "policy demanders" seeking to win policy
+
+![](images/interest_groups.png){fig-alt="Interest group logos. From top-left to bottom-right: United Auto Workers, Sunrise, National Association for the Advancement of Colored People, United Farm Workers, Everytown for Gun Safety, National Education Association, Emily's List"}
+:::
+::::
+::::::
+
+## Why Parties?
+
+::::: columns
+::: {.column width="50%"}
+Top-down view: parties are teams of politicians seeking to win elections
+
+![](images/dnc.jpg){fig-alt="The Democratic National Convention 2020 (pictures of Joe Biden and Kamala Harris)"}
+:::
+
+::: {.column width="50%"}
+Middle-up view: parties are teams of "policy demanders" seeking to win policy
+
+![](images/interest_groups.png){fig-alt="Interest group logos. From top-left to bottom-right: United Auto Workers, Sunrise, National Association for the Advancement of Colored People, United Farm Workers, Everytown for Gun Safety, National Education Association, Emily's List"}
+:::
+:::::
+
+How do monitoring, rewarding, and sanctioning work in each of these models?
+
+## Parties' Functions {.smaller}
+
+What do parties *do* for democracy?
+
+::: incremental
+-   recruit, vet, nominate, and support candidates
+-   develop policy proposals
+-   help organize/staff government
+-   structure issue space/debate
+    -   formally in platforms, informally in stances/communication
+    -   provide cues to voters re: "what goes with what"
+:::
+
+## Parties' Functions {.smaller}
+
+Can restate these as collective actions
+
+::: incremental
+-   Coordination
+    -   Manage conflicting ambitions/tradeoffs
+    -   Set priorities
+-   Public goods
+    -   Party brand applies to all candidates
+    -   Turning out one voter helps multiple candidates
+-   Social choice
+    -   Logrolling preferences breaks gridlock, stability clarifies alternatives
+:::
+
+## Party Brands
+
+Parties become associated with sets of positions/ideas/groups over time
+
+. . .
+
+This brand can be useful for voters and politicians
+
+::: incremental
+-   voters: reduces costs of information search
+-   politicians: reduces costs of educating voters on positions
+:::
+
+## Party Brands
+
+But! Lower transaction costs mean higher conformity costs
+
+Voters get "choice between compromises"
+
+-   Many combinations of stances excluded
+-   Many issues excluded
+
+## Party Brands
+
+Brands can serve as an accountability mechanism. [Why?]{.fragment}
+
+. . .
+
+Parties evaluated collectively, punished collectively for bad outcomes.
+
+## Choice Between Compromises
+
+U.S. has a two-party system. Why?
+
+. . .
+
+Implication: governing coalitions form *before* election, with voters choosing between them
+
+::: fragment
+-   (if you're frustrated with the two-party system, this is probably why)
+:::
+
+. . .
+
+Multi-party system:
+
+::: incremental
+-   voters can express narrower preferences with their vote
+-   if no majority, governing coalition forms *after* the election
+:::
+
+## U.S. Party Systems over Time {.smaller}
+
+Can demarcate historical periods of stable two-party competition in the US as party "systems"
+
+. . .
+
+Five or six party systems, depending on where you draw the lines. General pattern:
+
+-   Coalitions form around dominant cleavage
+-   New cleavages threaten to split coalition arrangements
+-   [Realignment]{.yellow} around new cleavage
+
+. . .
+
+Organizations often persist (institutional durability), but who and what they represent changes
+
+. . .
+
+Remember Duverger's Law. Single-member plurality elections a huge obstacle for minor parties.
+
+## First Party System (1790s-1820s) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Federalists
+
+-   Urban/New England base
+-   Merchant interests
+-   Protective tariffs
+-   Pro-national bank
+-   Lean British
+
+![](images/hamilton.jpeg){width="40%" fig-align="center" fig-alt="Portrait of Alexander Hamilton"}
+:::
+
+::: {.column width="40%"}
+Democratic-Republicans
+
+-   Rural/Southern base
+-   Agricultural interests
+-   Low tariffs
+-   Anti-national bank
+-   Lean French
+
+![](images/jefferson.jpeg){width="50%" fig-align="center" fig-alt="Portrait of Thomas Jefferson"}
+:::
+:::::
+
+## First Party System (1790s-1820s) {.smaller}
+
+Key developments:
+
+-   Primarily legislative (small electorate)
+-   Era of Good Feelings
+    -   Democratic-Republican dominance (Monroe essentially unopposed for re-election)
+-   First (disorganized) groups
+    -   Informal nomination procedures
+    -   Candidates promoted through clubs, newsletters, informal networks
+
+## Second Party System (1830s-1856) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   Continuation of Democratic-Republicans
+-   Populist
+-   Pro-slavery
+
+![](images/andrew_jackson.jpg){width="45%" fig-align="center" fig-alt="Portrait of Andrew Jackson"}
+:::
+
+::: {.column width="50%"}
+Whigs
+
+-   Opposition party
+-   Urban/educated
+-   Split on slavery
+
+![](images/henry_clay.jpeg){width="50%" fig-align="center" fig-alt="Portrait of Henry Clay"}
+:::
+:::::
+
+## Second Party System (1830s-1856) {.smaller}
+
+Key developments:
+
+-   Expansion of electorate (removal of property requirements)
+    -   Extension of competition for new voters
+-   Development of party organizations/newspaper networks
+    -   First party conventions
+-   Spoils system
+-   Suppression of slavery as potential cleavage
+
+## Third Party System (1857-1896) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   Pro-slavery/anti-Reconstruction
+-   Southern + urban bases
+    -   Machines assimilate immigrants, urban workers
+
+![](images/tweed.jpeg){width="50%" fig-align="center" fig-alt="Picture of Boss Tweed"}
+:::
+
+::: {.column width="50%"}
+Republicans
+
+-   Anti-slavery
+-   Northeastern base
+-   Pro-business
+
+![](images/lincoln.jpeg){fig-alt="Picture of Abraham Lincoln"}
+:::
+:::::
+
+## Third Party System (1857-1896)
+
+Key developments
+
+-   Civil War -\> Reconstruction -\> Jim Crow
+-   Industrial Revolution / Gilded Age
+    -   Clarification of economic cleavage
+-   Development of political machines in cities
+    -   "Honest graft" analogous to previous spoils system
+    -   Parties as central features of *social* life
+
+## Fourth Party System (1897-1932) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   Southern + industrial base
+    -   White primary, de-facto one-party rule in South
+-   Anti-immigration
+
+![](images/wilson.png){width="50%" fig-align="center" fig-alt="Picture of Woodrow Wilson"}
+:::
+
+::: {.column width="50%"}
+Republicans
+
+-   Non-Southern, middle-class base
+-   Pro-business
+-   Less anti-immigration
+
+![](images/roosevelt.jpeg){fig-align="center" fig-alt="Picture of Teddy Roosevelt"}
+:::
+:::::
+
+## Fourth Party System (1897-1932) {.smaller}
+
+Key developments
+
+-   Government takes over party functions / weakens parties
+    -   Secret ballot (states adopted between 1884-1891)
+    -   Administration of elections
+    -   Social services
+-   Progressive Era reforms
+    -   Women's suffrage
+    -   Civil service reform
+    -   Direct primary and senate elections
+-   Emergence/incorporation of minor parties (Progressives, Populists)
+
+## Fifth Party System (1933-1968) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   New Deal coalition
+    -   Working class base
+    -   Racial realignment / "Dixiecrats"
+-   More active government in economy
+
+![](images/RooseveltNewDeal.jpg){width="50%" fig-align="center" fig-alt="FDR campaign button, slogan 'For A New Deal'"}
+:::
+
+::: {.column width="50%"}
+Republicans
+
+-   (Mostly) opposition party
+-   Middle class base
+-   Pro-business
+    -   Opposed New Deal spending/regulation
+    -   More anti-communist
+
+![](images/eisenhower.jpg){width="50%" fig-align="center" fig-alt="Picture of Dwight Eisenhower"}
+:::
+:::::
+
+## Fifth Party System (1933-1968) {.smaller}
+
+Key developments
+
+-   Great Depression
+-   World War II --\> Cold War
+-   Civil Rights Movement
+-   Racial realignment
+    -   Starts early, takes time (we'll come back to this)
+-   Weaker parties --\> candidate-centered elections
+
+## Quick Aside
+
+1950: American Political Science Association report on political parties
+
+. . .
+
+Key argument: parties *aren't polarized enough*, voters need clearer choice
+
+. . .
+
+Now seems like a product of being in the middle of long-term sorting
+
+## 1968 {.smaller}
+
+Chain of events lead to democratization of parties' nomination procedures
+
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   Robert F. Kennedy (JFK's brother, RFK Jr's father) assassinated after winning CA primary
+    -   Had been running on anti-war platform
+-   Humphrey nominated at convention over McGovern
+    -   Hadn't campaigned in primaries
+    -   Not anti-war
+-   Protests turned to riots at the convention
+:::
+::::
+
+::: {.column width="40%"}
+![](images/rfk.png){fig-alt="Robert F. Kennedy (senior) speaking to supporters in Los Angeles prior to being assassinated."}
+:::
+::::::
+
+## 1968's Aftermath {.smaller}
+
+McGovern-Fraser Commission convenes to amend rules in response
+
+-   "The cure for the ills of democracy is more democracy."
+-   Changes to Democratic delegate selection procedures (incl. pledged delegates)
+    -   Republicans soon followed suit
+    -   More states shifted to selecting delegates in primaries (vs. caucuses/conventions)
+
+. . .
+
+McGovern, not entirely coincidentally, wins nomination in 1972 (and loses badly in the general)
+
+## Sixth Party System (1969-present) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   More active government in economy
+-   Culturally liberal
+-   More dovish foreign policy
+-   Urban base
+
+![](images/obama.png){width="40%" fig-align="center" fig-alt="Picture of Barack Obama"}
+:::
+
+::: {.column width="50%"}
+Republicans
+
+-   Less active government in economy
+-   Culturally conservative
+-   More hawkish foreign policy
+-   Rural base
+
+![](images/reagan.jpeg){width="40%" fig-align="center" fig-alt="Picture of Ronald Reagan"}
+:::
+:::::
+
+## Sixth Party System (1969-present) {.smaller}
+
+Key developments
+
+-   Nationalization of politics
+    -   Harder to develop distinct/local brands
+-   "Conflict extension" (Layman and Carsey 2002)
+    -   Polarization
+    -   Sorting
+
+## Minor Parties {.smaller}
+
+Foiled by Duverger. But! Can influence major party agendas or sub-national government.
+
+::::: columns
+::: {.column width="50%"}
+Past
+
+-   Free Soil (1840)
+-   Prohibition (1880)
+-   Progressive/Bull Moose (1912)
+-   American Independent (1968)
+:::
+
+::: {.column width="50%"}
+Present
+
+-   Libertarian
+-   Green
+-   Working Families
+-   Democratic Farmer-Labor (MN)
+:::
+:::::
+
+# Where's the Party?
+
+## Where are parties located?
+
+:::::: columns
+:::: {.column width="70%"}
+A few different places!
+
+::: incremental
+-   Party in government
+    -   Elected officials, appointed bureaucrats
+-   Party in organization
+    -   Campaign committees
+-   Party in the electorate
+    -   Voters, activists
+:::
+::::
+
+::: {.column width="30%"}
+![V.O. Key](images/vokey.png){fig-alt="Picture of V.O. Key"}
+:::
+::::::
+
+## Party in Government
+
+. . .
+
+Question: is Bernie Sanders a Democrat?
+
+. . .
+
+On the (senate) ballot, no. In Congress, yes. [Angus King and Bernie Sanders *elected* as independents but *caucus* as Democrats.]{.fragment}
+
+. . .
+
+This matters for...
+
+-   procedure
+-   collaboration
+-   committees
+
+## Party in Government
+
+Parties in government...
+
+-   set the agenda
+-   coordinate across branches of government
+-   hold each other accountable
+
+## Party Organizations {.smaller}
+
+Committees all the way down
+
+-   National
+    -   General (DNC, RNC)
+    -   Congressional (DCCC, RCCC, DSCC, RSCC)
+    -   Gubernatorial (DGA, RGA)
+    -   State legislative (DLCC, RLCC)
+-   State
+    -   Central committees and conventions
+    -   Congressional district committees
+-   Local
+    -   City/county committees
+    -   Precinct/ward committees
+        -   Student groups
+
+## Party "Strength" {.smaller}
+
+"Strong" parties are better-able to select candidates of their choosing and constrain their behavior
+
+::: incremental
+-   parties historically adapt to changes in formal rules
+    -   authority vs. power in nomination process
+:::
+
+. . .
+
+Present-day *parties* are considered relatively "weak," but *partisanship* is relatively strong.
+
+. . .
+
+Why are political scientists worried about this?
+
+![](images/weak_parties_strong_partisanship.png){fig-align="center" fig-alt="Headline of Vox article, by Julia Azari: Weak parties and strong partisanship are a bad combination"}
+
+## Party "Strength" {.smaller}
+
+Case: Biden 2024
+
+. . .
+
+No formal mechanism to remove a candidate seen as a liability for the party. [But!]{.fragment}
+
+. . .
+
+![](images/pelosi_biden.png){width="80%" fig-align="center"}
+
+::: {style="font-size: 50%;"}
+Zhou, Li. "Nancy Pelosi is still in charge." Vox, July 23, 2024. https://www.vox.com/politics/362620/nancy-pelosi-biden
+:::
+
+```{=html}
+<!--
+
+## Extended Party Networks
+
+In practice, boundaries of "party-in-organization" may blur. [Party-aligned media...part of the party organization?]{.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/democratic_epn.png)
+
+:::
+
+::: {.column width="50%"}
+
+![](images/republican_epn.png)
+
+:::
+
+::::
+
+::: {style="font-size: 50%;"}
+
+Koger, Gregory, Seth Masket, and Hans Noel. 2009. "Partisan Webs: Information Exchange and Party Networks." *British Journal of Political Science* 39(3): 633-653.
+
+:::
+
+## Knowledge Regimes
+
+Political coalitions develop policy expertise to support their agendas.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Center for American Progress](images/cap.png)
+
+:::
+
+::: {.column width="50%"}
+
+![Heritage Foundation](images/heritage.png)
+
+:::
+
+::::
+
+. . .
+
+This is more heavily *privatized* in the U.S. than elsewhere.
+
+-->
+```
+
+## Exit Quiz
+
+1.  Explain the principal-agent problem political parties need to solve in Bawn, et al.
+
+2.  What is the main *institutional* feature of U.S. politics that Lee Drutman identifies as the issue at the core of the two-party system?
+
+```{=html}
+<!--
+
+## Party in the Electorate
+
+A few different flavors of parties in the electorate
+
+*   Registered partisans
+*   Partisan identifiers
+*   Partisan voters
+
+## Party in the Electorate
+
+Party registration isn't the same thing as party identification
+
+::: {.incremental}
+
+*   [registration]{.yellow}: administrative, varies by state, used for primary election eligibility
+    + NC uses partisan registration for semi-closed primary
+*   [identity]{.yellow}: social/informal, can carry different weight for different individuals
+
+:::
+
+. . .
+
+These might not necessarily go together!
+
+## Party in the Electorate
+
+Partisanship is currently, for the most part, [nationalized]{.yellow}
+
+. . .
+
+Some exceptions!
+
+![](images/ky_map.png){width=60% fig-align="center"}
+
+
+## Party in the Electorate
+
+Early accounts: partisanship as a "standing decision," or default setting.
+
+*   Repeat past behavior unless given reason not to
+
+. . .
+
+Current accounts emphasize partisanship as a [social identity]{.yellow} or bundle of identities.
+
+*   Parties are groups, subject to group dynamics
+
+## Party in the Electorate{.smaller}
+
+Many sources of party identification
+
+*   material interest
+*   specific events
+*   culture/ideology
+*   socialization
+    + friends/family
+    + local context
+*   group identity
+    + people like me
+    + people I like
+
+## Party in the Electorate{.smaller}
+
+Polarization means different things
+
+*   Issues?
+    + More in recent years, but not as much as people think
+    + Think back to last week: people contain multitudes!
+*   Sorted social groups?
+    + Big cleavages: race, education, religious observance
+*   Affective dislike?
+    + Rising
+
+. . .
+
+Question: what's bad about polarization?
+
+## Some quirks in identification
+
+Many self-ID'ed independents consistently vote for one party
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+"Negative" partisanship: disliking one party more than liking another.
+
+:::
+
+::: {.column width="50%"}
+
+![](images/idk_not_trump.png){fig-align="center"}
+
+:::
+
+::::
+
+## Party Brands
+
+Parties become associated with sets of positions/ideas over time
+
+. . .
+
+This brand can be [useful]{.yellow} for voters and politicians
+
+::: {.incremental}
+
+*   voters: reduces costs of information search
+*   politicians: reduces costs of educating voters on positions
+
+:::
+
+## Party Brands
+
+But! Lower transaction costs mean higher conformity costs
+
+Voters get "choice between compromises" 
+
+* Many combinations of stances excluded
+* Many issues excluded
+
+## Party Brands
+
+Brands can serve as an accountability mechanism. [Why?]{.fragment}
+
+. . .
+
+Parties evaluated collectively, punished collectively for bad outcomes.
+
+## Issue Constraint
+
+High-information, strong partisans tend to exhibit the most issue constraint.
+
+. . .
+
+Generally, political knowledge/interest associated with higher issue constraint.
+
+. . .
+
+Let's talk about this for a second.
+
+*   Current debate in the field whether issue constraint reflects [sophistication]{.yellow} or [dogmatism]{.yellow}
+*   What do you think? 
+
+## Issue Ownership
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+Some voters trust different parties with different general issues
+
+::: {.fragment}
+
+Parties want elections to be "about" issues they "own"
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+![](images/issue_ownership.png){fig-align="center"}
+
+::: {style="font-size: 35%;"}
+
+Wright, Jamie, Scott Clifford, and Elizabeth Simas. "Partisanship now trumps political parties’ ownership of issues among voters, except among independents." London School of Economics, July 5 2022. https://blogs.lse.ac.uk/usappblog/2022/07/05/partisanship-now-trumps-political-parties-ownership-of-issues-among-voters-except-among-independents/
+
+:::
+
+:::
+
+::::
+
+## Let's talk about this
+
+::: {.incremental}
+
+*   Costs and benefits of weak parties?
+    + Benefits of gatekeeping
+
+:::
+
+-->
+```
+
+# Break
+
+## Essay 2 Defense
+
+Please claim a time if you haven't already
+
+## Exit Quiz Answers
+
+1.  Explain the principal-agent problem political parties need to solve in Bawn, et al.
+
+. . .
+
+How to elect representatives *who will faithfully pursue the party's agenda* (even if it's not the agenda favored by the general election's median voter) once they are elected.
+
+## Exit Quiz Answers
+
+2.  What is the main institutional feature of U.S. politics that Lee Drutman identifies as the issue at the core of the two-party system?
+
+. . .
+
+Single-member districts with plurality voting.
+
+## Let's try this
+
+You're making your own parties.
+
+. . .
+
+-   Consider your [interest]{.yellow} and develop [goals]{.yellow}
+-   Form [coalitions]{.yellow} with other interests
+-   Develop a [platform]{.yellow} that advances your [goals]{.yellow}
+    -   you can only advance your goals if you [win]{.yellow}
+
+## Debrief
+
+Ok, what just happened?
+
+. . .
+
+Where do you see this happening?
+
+## Coalitions everywhere
+
+![](images/singh_endorsements.png){width="80%" fig-align="center"}
+
+## Exit Quiz
+
+1.  Levitsky and Ziblatt identify two problems with Hamilton's argument (from Federalist 68) that the Electoral College would serve an effective gatekeeping function. Name one.
+
+2.  Finkel, et al describe three components of political sectarianism. Name one.

@@ -841,7 +841,7 @@ Some flavor of collective action is involved when managing goods that are...
 ## Types of Goods
 
 |   | Rival | Non-Rival |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Excludable** | Private goods (food, cars) | Club goods (HOAs, unions) |
 | **Non-Excludable** | Common-pool goods (parks, roads) | Public goods (defense, air) |
 
@@ -1079,7 +1079,7 @@ Extended by James Q. Wilson...
 Extended by James Q. Wilson...
 
 |   | Benefits Concentrated | Benefits Diffuse |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Costs Concentrated | Interest Group Politics | Entrepreneurial Politics |
 | Costs Diffuse | [Client Politics (Distributive Coalitions Win Here)]{.yellow} | Majoritarian Politics |
 

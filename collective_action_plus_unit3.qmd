@@ -1,0 +1,5678 @@
+---
+title: "Week 2: Democratic Citizenship and Collective Action"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Exit Quiz Logistics
+
+::: incremental
+1.  Good job
+2.  *Most of you* have legible handwriting
+3.  Need first *and* last name
+4.  Looking for precision w/r/t the *author's* argument
+    -   Partial credit for combination of correct + incorrect information
+5.  When in doubt, signal knowledge of text
+:::
+
+## Exit Quiz Answers
+
+1.  Eitan Hersh identifies two main problems caused by political hobbyism. Name one of them.
+
+. . .
+
+-   Hobbyism makes politics worse / sets bad incentives for politicians
+-   Hobbyism distracts from actually doing politics / cedes the playing field to those who will
+
+. . .
+
+Some of you came up with *other* potential downsides of hobbyism.
+
+## Exit Quiz Answers
+
+2.  Briefly explain what Levitsky and Way mean by "competitive authoritarianism"
+
+. . .
+
+Competitive authoritarianism is "a system in which parties compete in elections but the incumbent's abuse of power tilts the playing field against the opposition."
+
+## This week
+
+More fundamentals:
+
+-   Are citizens capable of democracy?
+-   What is the social contract?
+-   Collective action and its problems
+
+## Essay 1 prompt posted {.smaller}
+
+If you could go back in time and make one recommendation to the delegates at the Constitutional Convention, what would it be and how would you convince *them* to take your advice?
+
+-   Bear in mind that you don't need to convince me that your idea is good, you need to convince me that you could convince *the delegates at the convention*. In this context, a winning argument might be different than a merely correct argument.
+-   Recommendations may take the form of suggested changes to institutional design (i.e. amendments), but they do not need to. For example, you might warn the delegates of future developments they may not have anticipated (which would lead them to make different decisions).
+
+On Canvas: Files/Essay prompts/Essay 1 prompt.docx
+
+Due 9/30 (first day of Institutions), beginning of class
+
+# Information and Democracy
+
+## Citation
+
+Much of today's discussion comes from Chapter One of *What Americans Know About Politics and Why it Matters* (Delli Carpini and Keeter, 1996), which I [almost]{.yellow} assigned.
+
+. . .
+
+This is a [very brief]{.yellow} overview of specific strands of political thought, used for a specific purpose. [Take political theory classes!]{.fragment}
+
+## But first...
+
+Pop "quiz" (not graded):
+
+![](images/pollev_knowledge.png){fig-align="center" fig-alt="pollev.com/jongreen333 (with QR code)"}
+
+## A Democratic Paradox
+
+::::::: columns
+:::: {.column width="60%"}
+Epistemic task of democracy: use information to collectively address pressing matters of public concern.
+
+::: {.fragment fragment-index="2"}
+But! Citizens are notorious for their ignorance.
+
+"The best argument against democracy is a five-minute conversation with the average voter." - Churchill
+:::
+::::
+
+:::: {.column width="40%"}
+::: {.fragment fragment-index="2"}
+![](images/churchill.jpeg){fig-align="center" fig-alt="Winston Churchill"}
+:::
+::::
+:::::::
+
+## A Democratic Paradox
+
+. . .
+
+{{< video images/undecided_voters.mp4 >}}
+
+## A Democratic Paradox
+
+. . .
+
+Classic and early-modern philosophers looked down on what we would recognize as democracy as rule by some combination of:
+
+::: incremental
+-   the mob (risks demagogues)
+-   the poor (risks wealth redistribution)
+-   the incompetent (risks generally bad decisionmaking)
+:::
+
+. . .
+
+The people cannot be trusted to govern themselves.
+
+. . .
+
+And yet, people tend to value democracy as a form of government and it's done pretty well over the last couple of centuries.
+
+```{=html}
+<!--
+## A Democratic Paradox
+
+Quick show of hands: can you name your member of Congress (wherever you'd vote)? 
+
+. . . 
+
+What about your state senator?
+
+-->
+```
+
+## Why this matters
+
+Why do proponents of democracy think it's better than the alternatives?
+
+::: incremental
+-   Fundamental right to self-determination
+-   Aggregation of private interests promotes the public good
+    -   Democracy solves information problems
+-   Democratic citizenship is self-actualizing *for democratic citizens*
+:::
+
+## Why this matters
+
+But this only works if citizens have sufficient information and capacity to:
+
+::: incremental
+-   Be aware of and understand relevant issues
+-   Know what they (should) want
+-   Reason together about what they should do
+:::
+
+## Why this matters
+
+Mass ignorance leaves three options:
+
+::: incremental
+-   Reject democracy
+-   Limit the scope of self-determination
+-   Strengthen democratic citizenship
+:::
+
+## Expectations of Democratic Citizenship
+
+Last week I said that democracy isn't either/or.
+
+There are different types of democracy, and systems can be more or less democratic.
+
+. . .
+
+Democratic theories vary in how much they expect of democratic citizens.
+
+## Strong Democracy for the Few
+
+::::: columns
+::: {.column width="60%"}
+Early democracy in Athens involved "thick" democratic citizenship: citizens administered the government directly.
+:::
+
+::: {.column width="40%"}
+![](images/athenian_democracy.png){fig-align="center" fig-alt="A portrait depicting Athenian democracy"}
+:::
+:::::
+
+::: {.fragment fragment-index="2"}
+Democratic citizens were expected to deliberate on public matters, serve in public offices, and hold administrative responsibilities.[..though citizenship was strictly limited.]{.fragment}
+:::
+
+## Strong Democracy for the Few
+
+Democratic citizens were expected to deliberate on public matters, serve in public offices, and hold administrative responsibilities...though citizenship was strictly limited.
+
+<br>
+
+These work in tandem: limiting citizenship limits scope/dimensions of disagreement.
+
+## Strong Democracy for the Few
+
+::::: columns
+::: {.column width="60%"}
+Socrates and Plato were extremely skeptical that even these highly-engaged citizens would be capable of self-rule.
+:::
+
+::: {.column width="40%"}
+![](images/plato.jpeg){fig-align="center" fig-alt="Sculpture of Plato"}
+:::
+:::::
+
+## Strong Democracy for the Few
+
+:::::: columns
+:::: {.column width="60%"}
+Aristotle was a bit more optimistic, but his "polity" (not to be confused with "democracy") was still elitist.
+
+::: {.fragment fragment-index="2"}
+Core idea: government should promote the common good, and citizens who aren't necessarily philosophers can reason together toward it.[..though some will be naturally better at this than others.]{.fragment}
+:::
+::::
+
+::: {.column width="40%"}
+![](images/aristotle.jpeg){fig-align="center" fig-alt="Sculpture of Aristotle"}
+:::
+::::::
+
+## Strong Democracy for the Few
+
+::::: columns
+::: {.column width="60%"}
+These ideas heavily informed the Roman republic.
+:::
+
+::: {.column width="40%"}
+![](images/roman_republic.jpeg){fig-align="center" fig-alt="Portrait of the Roman senate"}
+:::
+:::::
+
+## Fast forwarding...
+
+I'm going to skip a lot of history of democracy.
+
+<br>
+
+What we're after is how classical theories of democratic citizenship link up with modern theories of democratic citizenship.
+
+## The Social Contract
+
+Someone tell me the basic idea behind the social contract.
+
+## Escaping the State of Nature
+
+::::::: columns
+:::: {.column width="50%"}
+The core problem is that humans begin in the state of nature
+
+::: {.fragment fragment-index="2"}
+-   "war of all against all"
+-   life is "solitary, poor, nasty, brutish, and short"
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.fragment fragment-index="2"}
+![Hobbes's Leviathan](images/leviathan_frontispiece.jpeg){width="80%" fig-align="center" fig-alt="Frontispiece for The Leviathan. The Leviathan is depicted as looming over the city, comprised of individual people, wearing a crown and wielding a sword (for civil authority) and crosier (for religious authority). Additional symbols of civil power are in panels on the lower left and additional symbols of religious power are in panels on the lower right."}
+:::
+::::
+:::::::
+
+## State of Nature as Prisoner's Dilemma {.smaller}
+
+|               | P2 Cooperates | P2 Fights |
+|:-------------:|:-------------:|:---------:|
+| P1 Cooperates |      2,2      |    0,3    |
+|   P1 Fights   |      3,0      |    1,1    |
+
+. . .
+
+::::: columns
+::: {.column width="50%"}
+P1's ranking:
+
+-   P1 exploits P2
+-   Peace (both cooperate)
+-   War (both fight)
+-   P2 exploits P1
+:::
+
+::: {.column width="50%"}
+P2's ranking:
+
+-   P2 exploits P1
+-   Peace (both cooperate)
+-   War (both fight)
+-   P1 exploits P2
+:::
+:::::
+
+. . .
+
+Peace is [Pareto optimal]{.yellow} (no alternative makes everyone better off)
+
+War is [equilibrium]{.yellow} (no alternative is individually rational)
+
+## Collective Action Problem (Preview) {.smaller}
+
+The prisoner's dilemma is a type of [collective action problem]{.yellow}, or situation in which individually rational decisions produce socially sub-optimal outcomes
+
+. . .
+
+Collective action problems are fundamental to politics, particularly at scale
+
+-   How to arrive at a collective decision
+-   How to ensure that this decision will be carried out
+
+. . .
+
+Tend to emerge with respect to public/collective goods, such as peace/security[and clean air, academic peer review, group assignments, party planning...]{.fragment}
+
+## Judge a Book by Its Cover {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+"A multitude of men, are made one person, when they are by one man, or one person, represented; [so that it be done with the consent of every one of that multitude in particular]{.yellow}. For it is the unity of the representer, not the unity of the represented, that maketh the person one...And if the representative consist of many men, [the voice of the greater number, must be considered as the voice of them all]{.yellow}." (Leviathan, Part 1, chapter 16)
+:::
+
+::: {.column width="50%"}
+![Hobbes's Leviathan](images/leviathan_frontispiece.jpeg){width="80%" fig-align="center" fig-alt="Frontispiece for The Leviathan. The Leviathan is depicted as looming over the city, comprised of individual people, wearing a crown and wielding a sword (for civil authority) and crosier (for religious authority). Additional symbols of civil power are in panels on the lower left and additional symbols of religious power are in panels on the lower right."}
+:::
+:::::
+
+## The Social Contract {.smaller}
+
+::::::: columns
+::::: {.column width="50%"}
+The social contract solves the previous prisoner's dilemma with an (implicit) agreement to trade some freedom for cooperation-enforcing institutions.
+
+:::: {.fragment fragment-index="2"}
+Those institutions:
+
+::: incremental
+-   preserve private rights (safety, e.g.)
+-   derive their authority from the people
+:::
+::::
+:::::
+
+::: {.column width="50%"}
+![](images/leviathan_frontispiece.jpeg){width="80%" fig-align="center" fig-alt="Frontispiece for The Leviathan. The Leviathan is depicted as looming over the city, comprised of individual people, wearing a crown and wielding a sword (for civil authority) and crosier (for religious authority). Additional symbols of civil power are in panels on the lower left and additional symbols of religious power are in panels on the lower right."}
+:::
+:::::::
+
+## Context on Hobbes
+
+::::::: columns
+::::: {.column width="50%"}
+Heavily influenced by the English Civil War, which resulted in the execution of King Charles I.
+
+::: {.fragment fragment-index="2"}
+This led him to a...[minimalist]{.yellow} social contract.
+:::
+
+::: {.fragment fragment-index="3"}
+Social contract obligates Leviathan to keep citizens out of the state of nature. [That's about it.]{.fragment}
+:::
+:::::
+
+::: {.column width="50%"}
+![](images/leviathan_frontispiece.jpeg){width="80%" fig-align="center" fig-alt="Frontispiece for The Leviathan. The Leviathan is depicted as looming over the city, comprised of individual people, wearing a crown and wielding a sword (for civil authority) and crosier (for religious authority). Additional symbols of civil power are in panels on the lower left and additional symbols of religious power are in panels on the lower right."}
+:::
+:::::::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+::::::: columns
+:::: {.column width="60%"}
+The goal of the social contract is to escape the state of nature -- much lower bar than the Greeks' pursuit of common good.
+
+::: {.fragment fragment-index="2"}
+Locke: We can still do better than merely preserving our safety.
+:::
+::::
+
+:::: {.column width="40%"}
+::: {.fragment fragment-index="2"}
+![](images/locke.jpeg){fig-align="center" fig-alt="Portrait of John Locke"}
+:::
+::::
+:::::::
+
+::: {.fragment fragment-index="3"}
+The social contract protects life, liberty, and [property]{.yellow}[, few expectations of citizens beyond self interest.]{.fragment}
+:::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+::::: columns
+::: {.column width="60%"}
+The goal of the social contract is to escape the state of nature -- much lower bar than the Greeks' pursuit of common good.
+:::
+
+::: {.column width="40%"}
+![](images/locke.jpeg){fig-align="center" fig-alt="Portrait of John Locke"}
+:::
+:::::
+
+[Both]{.yellow} of these perspectives emphasize hierarchy in ability (to reason to decisions, to accumulate property).
+
+::: {.fragment fragment-index="2"}
+For Locke these hierarchies likely go together.
+:::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+This makes elections useful for two things:
+
+. . .
+
+-   Select high ability citizens as representatives
+-   Check their power / throw them out if necessary
+
+. . .
+
+This offers a "thin" model of democratic citizenship. [All it asks is for occasional votes to protect one's private interest.]{.fragment}
+
+. . .
+
+But it is extended to more people who can limit government's excesses.
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+:::::: columns
+:::: {.column width="60%"}
+The early utilitarians make this explicit
+
+::: {.fragment fragment-index="2"}
+Relaxed skepticism toward letting lower classes vote after observing mass (partisan!) politics the United States.
+:::
+::::
+
+::: {.column width="40%"}
+![](images/bentham.jpeg){fig-align="center" fig-alt="Portrait of Jeremy Bentham"}
+:::
+::::::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+::::::: columns
+:::: {.column width="60%"}
+This leaves us with thin citizenship extended to many (but still not most) people.
+
+::: {.fragment fragment-index="2"}
+Rousseau says we can do better because human nature isn't *inevitably* selfish.
+:::
+::::
+
+:::: {.column width="40%"}
+::: {.fragment fragment-index="2"}
+![](images/rousseau.jpeg){fig-align="center" fig-alt="Portrait of Jean-Jacque Rousseau"}
+:::
+::::
+:::::::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+::::: columns
+::: {.column width="60%"}
+Participation and deliberation will be good [for citizens]{.yellow} as well as society.[..]{.fragment}[if]{.yellow} they are placed in a cooperative social context.[.. which is likely small and homogeneous.]{.fragment}
+:::
+
+::: {.column width="40%"}
+![](images/rousseau.jpeg){fig-align="center" fig-alt="Portrait of Jean-Jacque Rousseau"}
+:::
+:::::
+
+## The Social Contract and the Emergence of Liberal Democracy
+
+:::::: columns
+:::: {.column width="60%"}
+For J.S. Mill, this can be scaled up.
+
+::: {.fragment fragment-index="2"}
+Civic virtue is a [product of our institutions]{.yellow}, not a trait people either do or don't have.
+:::
+::::
+
+::: {.column width="40%"}
+![](images/mill.jpeg){fig-align="center" fig-alt="Portrait of John Stuart Mill"}
+:::
+::::::
+
+## The Social Contract(s)
+
+::::::::: columns
+:::: {.column width="33%"}
+::: {.fragment fragment-index="2"}
+![Hobbes](images/tarkin.jpeg){fig-align="center" fig-alt="Grand Moff Tarkin and Darth Vader. Caption: Fear will keep the local systems in line"}
+:::
+::::
+
+:::: {.column width="33%"}
+::: {.fragment fragment-index="3"}
+![Locke](images/convention.jpeg){fig-align="center" fig-alt="Portrait of the constitutional convention"}
+:::
+::::
+
+:::: {.column width="33%"}
+::: {.fragment fragment-index="4"}
+![Rousseau](images/town_meeting.jpeg){fig-align="center" fig-alt="Norman Rockwell's 'Freedom of Speech' painting (now a meme)"}
+:::
+::::
+:::::::::
+
+## So where does this leave us?
+
+Fundamental question: who governs?
+
+. . .
+
+This depends on your answers to:
+
+::: incremental
+-   Who [should]{.yellow} govern?
+-   Who [can]{.yellow} govern?
+:::
+
+. . .
+
+Until relatively recently, the answer was: [some]{.yellow} people.
+
+## Why does this matter?
+
+The U.S. founding and history is full of tensions between these evolving ideas about competence and citizenship.
+
+. . .
+
+Are citizens responsible for...
+
+::: incremental
+-   voting?
+-   *participating*?
+:::
+
+## Why does this matter?
+
+The U.S. founding and history is full of tensions between these evolving ideas about competence and citizenship.
+
+Does expanding citizenship...
+
+::: incremental
+-   overburden the incapable and detract from the common good?
+-   broaden society's perspective and provide more checks on self-interest?
+:::
+
+## Why does this matter?
+
+The U.S. founding and history is full of tensions between these evolving ideas about competence and citizenship.
+
+Are political knowledge and civic virtue...
+
+::: incremental
+-   traits we either do or don't have?
+-   resources we can cultivate?
+:::
+
+## Democratic Citizenship in the United States
+
+Scholars often call citizenship in the United States "thin"
+
+. . .
+
+Our institutions reflect the (small-l) liberal democratic social contract tradition
+
+. . .
+
+Emphases:
+
+-   indirect input on decisions via voting
+-   protection of private rights and liberties
+-   few *responsibilities* oriented toward the public good
+
+## Democratic Citizenship in the United States
+
+Scholars often call citizenship in the United States "thin"
+
+And you don't have to look too hard to see Hobbes
+
+![](images/musk_delegative_democracy.png){fig-align="center" fig-alt="Post from Elon Musk, quote-tweeting Tom Fitton (JUDICIAL COUP: Biden Judge orders @RealDonaldTrump To Admit 'Refugees' into the United States!): What is the point of having democratic elections if unelected activist 'judges' can override the clear will of the people? Well, that's no democracy at all!"}
+
+## Democratic Citizenship in the United States
+
+::::::: columns
+::::: {.column width="70%"}
+But key features of our society (public education, e.g.) take after Rousseau.
+
+::: {.fragment fragment-index="2"}
+Think about what it means that we *frown upon* being completely ignorant of politics.
+:::
+
+::: {.fragment fragment-index="3"}
+Plenty of evidence that U.S. citizens *want* to participate.
+:::
+:::::
+
+::: {.column width="30%"}
+![](images/dewey.jpg){fig-align="center" fig-alt="Picture of John Dewey"}
+:::
+:::::::
+
+```{=html}
+<!--
+## Democratic Citizenship in the United States
+
+::::{.columns}
+
+::: {.column width="70%"}
+
+"...education is not a prerequisite to political control — political control is the cause of popular education." - W.E.B. Du Bois
+
+:::
+
+::: {.column width="30%"}
+
+![](images/dubois.png)
+:::
+::::
+-->
+```
+
+## Democratic Citizenship in the United States
+
+Competing traditions in U.S. political culture:
+
+::: incremental
+-   Skepticism of mass politics
+-   Expectation of civic virtue
+-   Faith in the individual/private sphere
+-   Protectionist belief in voting as a check on centralized power
+-   Communitarian belief in participation as self-actualizing (virtuous cycle)
+:::
+
+## Democratic Citizenship in the United States
+
+This suggests a patchwork conception of democratic citizenship
+
+. . .
+
+Values both public good and pursuit of private interest
+
+. . .
+
+Varying expectations regarding the civic knowledge, virtue, and participation
+
+## Democratic Citizenship in the United States
+
+We treat political knowledge and civic virtue as resources[...without cultivating and distributing them.]{.fragment}
+
+. . .
+
+Result: unequal distribution of information, knowledge, and opportunity for authentic self-rule.
+
+## Civic Virtue as a Collective Action Problem {.smaller}
+
+Civic virtue as a resource we collectively cultivate --\> information/participation becomes a matter of collective action
+
+. . .
+
+How so? [Think of some direct/immediate *individual* costs...]{.fragment}
+
+::: incremental
+-   Time to collect and process information
+    -   Developing coherent belief system takes effort
+    -   Evaluating candidates/issues takes effort
+-   Time to discuss politics with peers
+-   Time/resources to go vote
+    -   or contact representative, attend public meeting, protest, etc.
+:::
+
+## Civic Virtue as a Collective Action Problem {.smaller}
+
+The benefits of participation tend to be indirect/*collective*. [If you participate...]{.fragment}
+
+::: incremental
+-   Your candidate you like *might* win/the one you don't *might* lose
+    -   You need a bunch of other people like you to show up too
+        -   But the odds your vote is decisive are slim
+    -   If your candidate wins, they *might* move policy in your direction
+-   Your protest *might* advance its cause
+    -   Odds are better if it's a big movement
+        -   But the bigger it is, the less it hinges on you
+-   Improved/shared understanding has limited direct *material* value
+:::
+
+## Civic Virtue as a Collective Action Problem
+
+Result: inequalities in information/participation
+
+"Rational ignorance" when marginal cost of acquiring information \> marginal benefit of using it
+
+![](images/first_amendment_annenberg.png){fig-align="center" fig-alt="Chart of percentage of people who can name specific protections of the First Amendment. 74% correctly name freedom of speech, 39% freedom of religion, 29% freedom of the press, 27% right of assembly, and 11% right of petition. 22% incorrectly name right to bear arms (that's the Second Amendment)"}
+
+## This is Fine (?)
+
+Consider:
+
+::: incremental
+-   Trivia isn't politics
+-   Elite representation
+-   Parties reduce complexity
+-   "Collective rationality"
+-   "Low-information rationality"
+-   Ignorance is bliss
+-   Full information doesn't exist
+:::
+
+## Why This is Not Fine
+
+These points will come back later in the semester. They're good points! But we shouldn't be satisfied with them.
+
+. . .
+
+Capacity for civic virtue -- i.e. how much we *can expect* from citizens -- is a resource that can be cultivated and distributed.
+
+. . .
+
+One implication: the "democratic paradox" isn't a paradox.[..the less capable citizens are, the]{.fragment}[less democratic]{.yellow} society is.
+
+## Sound Familiar? {.smaller}
+
+. . .
+
+::::: columns
+::: {.column width="60%"}
+"We say easily, for instance, 'The ignorant ought not to vote.' We would say, 'No civilized state should have citizens too ignorant to participate in government,' and this statement is but a step to the fact: that [no state is civilized which has citizens too ignorant to help rule it]{.yellow}. Or, in other words, education is not a prerequisite to political control — [political control is the cause of popular education]{.yellow}." - W.E.B. Dubois
+:::
+
+::: {.column width="40%"}
+![](images/dubois.png){fig-align="center" fig-alt="Picture of W.E.B. Du Bois"}
+:::
+:::::
+
+## Thoughts?
+
+Let's talk about Dubois a bit. What did you think?
+
+. . .
+
+Features of U.S. politics that are more or less democratic?
+
+## Exit Quiz
+
+```{=html}
+<!--
+2. W.E.B. Du Bois gives many reasons why the right to vote should not be limited to those with more knowledge or experience. Briefly explain one.
+-->
+```
+
+1.  Briefly explain why, for Dahl, inclusive elections are a necessary but *not* sufficient condition for democracy.
+
+2.  In "Of the Ruling of Men," which of the following institutions does W.E.B. Du Bois argue we should extend democracy to?
+
+<!-- -->
+
+A)  The family / private relations
+B)  The workplace / industry
+C)  The church / religion
+D)  The press / media
+
+# Collective Action
+
+## Collective Action
+
+![](images/oj.jpeg){fig-align="center" fig-alt="Picture of oranges and a glass of orange juice."}
+
+## First, Exit Quiz Answers
+
+1.  Briefly explain why, for Dahl, inclusive elections are a necessary but *not* sufficient condition for democracy.
+
+. . .
+
+Additional institutional features are necessary in order to ensure that government actions are responsive to the results of those elections (i.e. participation does not guarantee public contestation)
+
+## First, Exit Quiz Answers {.smaller}
+
+2.  In "Of the Ruling of Men," which of the following institutions does W.E.B. Du Bois argue we should extend democracy to?
+
+. . .
+
+The workplace / industry (B)
+
+. . .
+
+No explanation necessary, some of you were right for the wrong reasons. We let that slide this time.
+
+## Maximize Your Country's Profit
+
+![](images/price_schedule.png){fig-align="center" fig-alt="Price schedule, plotting price per ton by global tons produced. Price decreases with global supply. Break-even price is 100k, which occurs at roughly 25 global tons produced."}
+
+## Debrief {.smaller}
+
+Alright, let's talk about this.
+
+::: incremental
+-   What made this difficult?
+-   What made this easier?
+-   Rule changes?
+    -   Number of teams?
+    -   Varying costs?
+    -   More than one commodity?
+-   Winners or losers other than countries?
+-   Real-world situations this lines up with?
+:::
+
+## Debrief
+
+![](images/biden_spr.png){fig-align="center" fig-alt="Headline: US speeds up purchasing for Strategic Petroleum Reserve as oil prices dip"}
+
+## Types of Collective Action Problems
+
+We just explored a specific collective action problem. Some broader categories:
+
+-   Free rider
+-   Tragedy of the commons
+-   Prisoner's dilemma
+-   Principal-agent
+
+## Excludability and Rivalry
+
+Some flavor of collective action is involved when managing goods that are...
+
+-   [non-excludable]{.yellow}: can't prevent others from consuming good once it exists
+-   [non-rival]{.yellow}: my consumption doesn't limit your consumption
+
+## Types of Goods
+
+|   | Rival | Non-Rival |
+|------------------------|------------------------|------------------------|
+| **Excludable** | Private goods (food, cars) | Club goods (HOAs, unions) |
+| **Non-Excludable** | Common-pool goods (parks, roads) | Public goods (defense, air) |
+
+## Free Rider Problem
+
+. . .
+
+Occurs when individual contribution seen as unnecessary for public good production.
+
+-   rational ignorance
+-   group projects
+-   academic peer review
+
+## Tragedy of the Commons
+
+. . .
+
+Occurs when cost to consume a common pool resource is absent/insufficient to moderate consumption.
+
+-   deforestation
+-   overfishing
+-   air pollution
+
+## Prisoner's Dilemma
+
+|                    | P2 Stays Quiet |   P2 Confesses   |
+|:------------------:|:--------------:|:----------------:|
+| **P1 Stays Quiet** | 1 year, 1 year |  10 years, Free  |
+|  **P1 Confesses**  | Free, 10 years | 5 years, 5 years |
+
+. . .
+
+Variations:
+
+::: incremental
+-   Repeated game
+-   Losses or gains?
+-   More than two players
+-   Institutions (that make defection costly)
+:::
+
+## Student's Dilemma
+
+![](images/116_ec.png){fig-align="center" fig-alt="Extra credit question from a previous final: 'Please write either two or five, indicating the number of extra credit points you would like to receive on this exam. If up to 1/4 of those who respond ask for five points, everyone will get the extra credit they ask for. If more than 1/4 of those who respond ask for five points, no one will get any extra credit. Writing down anything other than two or five will be considered abstention (i.e. you will not receive any extra credit and we will subtract you from the denominator when determining the 1/4 threshold for others). There are 32 students in this class. Assuming everyone writes down either two or five, this means that up to eight students can receive five points of extra credit, but if more than eight students ask for five points then no one gets any extra credit. If one student abstains, that threshold drops to seven."}
+
+## Principal-Agent Problem
+
+. . .
+
+Occurs when player delegating action (principal) and player to whom action is delegated (agent) have differing goals/incentives
+
+::: incremental
+-   bureaucracy (executive --\> bureaucrats)
+-   elections (voters --\> politicians)
+-   political campaigns (candidate --\> consultants, volunteers)
+:::
+
+## Coordination
+
+Before we talk about specific solutions...
+
+If I asked you to meet another student on campus, but you didn't know who, where, or when to meet...where and when would you go?
+
+. . .
+
+Why would this work?
+
+. . .
+
+Focal points aid in coordination.
+
+## Solutions to Collective Action Problems
+
+When spontaneous coordination isn't possible (which is often), we use institutions!
+
+::: incremental
+-   Ability to monitor, reward, and sanction
+-   Can vary in how formal they are
+-   Benefit from repeated iterations
+    -   Norms develop over time
+    -   Actors develop reputations
+:::
+
+## Examples of Institutions?
+
+::: incremental
+-   Congress
+-   political parties
+-   Krzyzewskiville
+:::
+
+## Coercion {.smaller}
+
+. . .
+
+Institutions limit some behaviors (coercion) to enable others (cooperation)
+
+. . .
+
+Rewards
+
+::: incremental
+-   Incentivize good performance
+    -   tax credits for *behavior*
+-   Privatization (property rights backed by state)
+:::
+
+Sanction
+
+::: incremental
+-   Compel contribution
+    -   taxes for *revenue*
+-   Regulation
+:::
+
+## Path Dependence
+
+. . .
+
+Results of coordination can stick long after they become inefficient:
+
+::: incremental
+-   imperial measurement vs. metric system
+-   UK + colonies driving on left (wrong) side of the road
+-   QWERTY keyboard
+    -   Why QWERTY?
+:::
+
+. . .
+
+Reflects power dynamics present at time of coordination (QWERTY due to merger of five largest typewriter companies in 1893)
+
+## Costs of Solving Collective Action Problems
+
+Two main ones that trade off against each other (this will come up a lot):
+
+-   [Transaction costs]{.yellow}: costs associated with making a collective decision
+-   [Conformity costs]{.yellow}: the extent to which collective decisions constrain participants
+
+. . .
+
+Examples of each? [In the context of your Orange Juice Production Bureaus?]{.fragment}
+
+. . .
+
+At Duke?
+
+## Costs of Solving Collective Action Problems
+
+::::: columns
+::: {.column width="60%"}
+![](images/duke_psci_major_requirements.png){fig-align="center" fig-alt="Screenshot of Duke political science major requirements web page headline"}
+:::
+
+::: {.column width="40%"}
+![](images/duke_major_requirements_specific.png){fig-align="center" fig-alt="The major requirements, which can be found in detail at https://polisci.duke.edu/undergraduate/offerings/requirements"}
+:::
+:::::
+
+## When is a time you free rode?
+
+. . .
+
+Ever used Wikipedia?
+
+## What are some collective action problems that come up in U.S. politics?
+
+. . .
+
+Collective action is everywhere!
+
+```{=html}
+<!--
+
+## Let's talk about what you read
+
+. . .
+
+"...the challenge of creating legitimate coercion is at least as great as the challenge of resisting illegitimate coercion." - Jane Mansbridge
+
+
+## Let's talk about what you read
+
+Negotiation
+
+-   Why does Mansbridge like negotiation?
+-   Normative and empirical challenges?
+
+. . .
+
+Transparency...sometimes bad?
+
+. . .
+
+Deliberation, negotiation, and majority rule
+-->
+```
+
+
+---
+title: "Week 10: Public Opinion"
+author: "POLSCI 116"
+format: 
+  revealjs:
+    theme: [default, PS630.scss.txt]
+    slide-number: false
+    preview-links: auto
+    embed-resources: true
+    auto-play-media: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Exit Quiz Answers
+
+1. Mark Lemley lists a number of judicial norms that the modern Supreme Court is eroding. Name one.
+
+. . .
+
+* Stare decisis (deference to precedent)
+* Deference to lower court fact finding
+* Deference to agency expertise
+* Interpreting statutes charitably (deference to Congress)
+* Taking cases as they are presented
+
+## Exit Quiz Answers
+
+2. Joan Biskupic outlines two features of John Roberts' deal with Anthony Kennedy that helped limit damage to the Court's image. Name one.
+
+. . .
+
+* Agreeing to take *Masterpiece Cakeshop* prevented publication of Alito’s dissent
+
+* Announcing both parts of the deal on the same day limited negative coverage of Court agreeing to take *Masterpiece Cakeshop*
+
+## Exit Quiz Answers
+
+3. Erwin Chemerinsky outlines four main objections to the Supreme Court's increasing reliance on the "hadow docket" to make significant rulings. Name one of them.
+
+. . .
+
+* No briefing or oral argument
+* No explanation
+* Implicitly overruling precedent
+* Ignoring standards of appellate review
+
+## Essay 2
+
+Due this time on Thursday
+
+Please help Kristina out by including which institution (Congress, Presidency, Bureaucracy, Courts) is *closest* to your *primary* focus in the file name (lastname_essay2_congress.docx, e.g.). Will not affect your grade, will help her organize.
+
+
+## Essay 3 Prompt: The Public{.smaller}
+
+Early in the semester we discussed a collective action problem at the core of democracy: it is a system of government that relies on people using information to contribute to collective decisions, but for any given individual the costs of acquiring true, important, and useful information are typically not worth the benefits. This is often referred to as "rational ignorance."
+
+Each week in this section of the course will cover a different element of "the public" -- individuals, political parties, political candidates, interest groups, and the media. [Your assignment is to explain how the public can (in theory) address rational ignorance from the perspective of/with an emphasis on *one* of these elements.]{.yellow}
+
+Successful essays will engage with multiple weeks of material, as elements of the public necessarily interact, but in order to keep things manageable one element of the public should remain the primary focus.
+
+## This week: Public Opinion
+
+![](images/public_opinion.png){width=80% fig-align="center" fig-align="Roper Center archived polling question: Do you think public opinion polls are always accurate, mostly accurate, sometimes accurate, or never accurate? Topline: Always: 1%; Mostly: 21%; Sometimes: 69%; Never: 5%; Depends: 2%; Don't know: 2%. Sample: 843 adult residents of New Jersey, interviewed between 11/30/2015-12/6/2015 by telephone (cell phone and landline) by the Eagleton Center for Public Interest Polling on behalf of the Eagleton Institute of Politics, Rutgers University."}
+
+## Quick logistics
+
+One reading in the module (for Thursday) is new relative to syllabus.
+
+One additional item in the module for the media (a video) as well.
+
+Will update the syllabus to reflect the change.
+
+## Big Picture{.smaller}
+
+Four big ideas
+
+::: {.incremental}
+
+1. Public opinion is more than the sum of its parts
+    i) Surveys are useful-but-incomplete proxies
+    ii) Social science is hard
+2. People contain multitudes
+    i) Mass attitudes have signal and noise
+3. Random sampling is beautiful
+    i) And really hard to approximate
+4. No such thing as a perfect question
+    i) But some questions are better than others
+
+:::
+
+. . .
+
+If you find this stuff interesting, take POLSCI 201 with Prof. Hillygus!
+
+# Public opinion is more than the sum of its parts
+
+## What is public opinion?{.smaller}
+
+. . .
+
+Not clear that there's a single right answer!
+
+. . .
+
+Key (1961): "...those opinions held by private persons which governments find it prudent to heed."
+
+. . .
+
+In the bigger picture...
+
+::: {.incremental}
+
+*   what does it mean to have an opinion?
+    + general disposition? specific stance? articulated reason?
+    + retrieved ("file-drawer") or constructed?
+*   what does it mean for that opinion to be public?
+    + tallied or publicly articulated/justified?
+*   how hell-bent is the majority?
+
+:::
+
+## "Public" vs. "Mass" Opinion{.smaller}
+
+Mass opinion: "the product of a purely formal [arithmetic operation]{.yellow} by which typically poorly informed, casually maintained, critically unexamined, and [privately held considerations]{.yellow} about politics are [aggregated]{.yellow} by the pollster into an [ersatz vox populi]{.yellow}." - Gregory Markus (1994)
+
+## The opinion survey
+
+Surveys are pretty weird when you think about them.
+
+. . .
+
+Sort of like a conversation, but typically...
+
+::: {.incremental}
+
+*   strictly limits vocabulary
+*   standardizes meaning
+*   flattens differences in certainty/intensity
+*   aggregates to point estimates
+
+:::
+
+. . .
+
+More useful for some questions than others.
+
+<!--
+
+## Key terms in mass opinion
+
+::: {.incremental}
+
+*   Attitude: [latent/general construct in long-term memory]{.fragment}
+*   Preference: [specific opinion on policy issue/area]{.fragment}
+*   Stance: [position for/against a specific proposal]{.fragment}
+*   Consideration: [discrete piece of information]{.fragment}
+    + Potential reason for/against something
+
+:::
+
+## Models of Answering Survey Questions{.smaller}
+
+Not the same thing as models of public opinion!
+
+::: {.incremental}
+
+*   [R]{.yellow}eceive, [A]{.yellow}ccept, [S]{.yellow}ample
+    + Considerations accepted/rejected based on predispositions
+      - Some people have more/stronger predispositions than others
+    + Response is weighted average of considerations at "top of the head"
+    + Events/context influence which considerations are available
+*   On-line processing
+    + Information affects summary judgment but isn't stored
+*   Heuristics
+    + Shortcuts to navigate unfamiliar/complex issues
+    + Efficient, but not always accurate
+    
+:::
+
+-->
+
+## Surveys/Polls in Brief
+
+![](images/levy_polls.png){fig-align="center" fig-align="Bluesky post from CNN polling editor Ariel Edwards-Levy: 'always fun when people's binary modes are 'polls are bad!! you can't trust polls!!' and 'allow me to uncrticially and hyperbolically share some random survey'. (polls are useful but imperfect tools for contextualizing public opinion, and understanding the flaws makes them vastly more useful as tools)'"}
+
+# People contain multitudes
+
+## People Contain Multitudes{.smaller}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+"Do I contradict myself?
+
+Very well then I contradict myself,
+
+(I am large, I contain multitudes.)"
+
+- *Song of Myself*, by Walt Whitman
+
+:::
+
+::: {.column width="40%"}
+
+![](images/whitman.png){fig-align="center" fig-alt="Picture of Walt Whitman"}
+
+:::
+
+::::
+
+## People Contain Multitudes{.smaller}
+
+Where do opinions come from?
+
+::: {.incremental}
+
+*   Material interest
+*   Socialization (family, friends, community)
+*   Events/experiences
+*   Group identity
+*   Social norms
+*   Partisanship/ideology
+    + Elite cues
+
+:::
+
+## Material Interest vs. Ideology
+
+Individuals are often [cross-pressured]{.yellow}
+
+![](images/marble_nall_housing.png){fig-alt="Paper title page. Title: Where Self-Interest Trumps Ideology: Liberal Homeowners and Local Opposition to Housing Development; Authors: William Marble (Stanford University) and Clayton Nall (University of California, Santa Barbara). Abstract: How much does self-interest drive Americans’ policy attitudes? Survey research typically finds that self-interest’s role is minimal. Such conclusions are typically reached by examining attitudes toward federal policies that present diffuse costs and low stakes. We consider a starker test case of self-interest: controversies surrounding development of dense and affordable housing in Americans’ communities. Liberal homeowners, especially, must cope with dissonance between their egalitarian ideology and a desire to protect their home values and quality of life. They often embrace liberal housing goals and redistributive housing policies but join conservatives in opposing dense housing in their own communities. Two survey experiments show that liberal homeowners are cross-pressured and barely more likely than conservative homeowners to support dense housing development. Messages appealing to homeowners’ self-interest reduce support further, while countervailing appeals about housing’s benefits to low- and middle-income families barely offset the negative effect. We discuss implications for the politics of equal opportunity at the state and local level."}
+
+## Sorting: absence of cross-pressures
+
+Partisan [sorting]{.yellow} when more identities/preferences/values point in same political direction
+
+. . .
+
+One of multiple ways to think about polarization (alongside issue stances, affective dislike)
+
+<!--
+
+## Evolving Social Norms
+
+![](images/gallup_same_sex_marriage.png){fig-alt="Gallup trend lines for the question, 'Do you think marriages between same-sex couples should or should not be recognized by the law as valid, with the same rights as traditional marriages?'. 'Should be valid' has increased from roughly 25% in 1996 to 71% in 2023. 'Should not be valid' has decreased from roughly 70% in 1996 to 28% in 2023."}
+
+-->
+
+## Elite Cues
+
+![](images/cues_trade.png){fig-alt="Pew: Positive views of free trade agreements rebound to pre-2016 levels. Results show % who say free trade agreements between the U.S. and other countries have generally been a [good thing/bad thing] for the U.S. Among all respondents, 'Good Thing' fluctuates from 52% in 2009 to 45% in 2016 to 56% in 2018, while 'Bad Thing' goes from 34% in 2009 to 43% in 2016 to 30% in 2018. Among Republicans/lean Republicans, 'Good Thing' goes from 57% in 2009 to 29% in 2016 to 43% in 2018, while 'Bad Thing' goes from 31% in 2009 to 63% in 2016 to 46% in 2018. Among Democrats/lean Democrats, that same trend is 53/59/67 Good Thing and 34/29/19 Bad Thing."}
+
+## Ambivalence
+
+On any given issue, many people are likely to hold conflicting considerations.
+
+. . .
+
+Reported opinions vary depending on which considerations are made [salient]{.yellow}
+
+. . .
+
+Freedom vs. equality (Feldman and Zaller 1992)
+
+Civil rights vs. public safety (Nelson, Clawson, and Oxley 1997)
+
+...and so on
+
+<!--
+## How polarized is the public?
+
+. . .
+
+Depends on what we mean by polarization:
+
+::: {.incremental}
+
+*   Diverging policy views
+*   Sorted social identities
+*   Affective dislike
+
+:::
+
+-->
+
+## People *Really* Contain Multitudes
+
+![](images/amvoter_1.png){fig-alt="American Voter Bot: I'm a 62 year old, non-college educated, white female from OR. I'm a very liberal Democrat who opposes hiring more police, always supports abortion, supports expanding Medicare, and supports more renewable fuel use. I voted for Joe Biden in 2020."}
+
+
+## People *Really* Contain Multitudes
+
+![](images/amvoter_2.png){fig-alt="American Voter Bot: I'm a 60 year old, non-college-educated, white female from NC. I'm a moderate independent who supports hiring more police, supports expanding Medicare, supports more renewable fuel use, and supports banning assault rifles. I voted for Donald Trump in 2020."}
+
+## People *Really* Contain Multitudes
+
+![](images/amvoter_3.png){fig-alt="I'm a 34 year old, college-educated, white male from WA. I'm a very conservative Republican who always supports abortion, opposes more border control, supports expanding Medicare, and supports more renewable fuel use. I didn't vote in 2020."}
+
+## People *Really* Contain Multitudes
+
+![](images/ahler_2014_abstract.png){width=80% fig-align="center" fig-alt="Paper title page. Title: Self-Fulfilling Misperceptions of Public Polarization. Author: Douglas J. Ahler. Abstract: Mass media convey deep divisions among citizens despite scant evidence for such ideological polarization. Do ordinary citizens perceive themselves to be more extreme and divided than they actually are? If so, what are the ramifications of such misperception? A representative sample from California provides evidence that voters from both sides of the state’s political divide perceive both their liberal and conservative peers’ positions as more extreme than they actually are, implying inaccurate beliefs about polarization. A second study again demonstrates this finding with an online sample and presents evidence that misperception of mass-level extremity can affect individuals’ own policy opinions. Experimental participants randomly assigned to learn the actual average policy-related predispositions of liberal and conservative Americans later report opinions that are 8–13% more moderate, on average. Thus, citizens appear to consider peers’ positions within public debate when forming their own opinions and adopt slightly more extreme positions as a consequence."}
+
+# Random sampling is beautiful
+
+## Whose Opinions Count?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+The alternative to surveys is often just vibes.
+
+::: {.fragment}
+
+Most people eat breakfast at home
+
+:::
+
+::: {.fragment}
+
+and don't use X
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![Is it?](images/nyt_yankee_diner.png){fig-alt="New York Times article: A good place to sample what's on people's minds is the Yankee Kitchen, where the tables and long curving counter were packed for breakfast on Saturday. It's owner is a Greek immigrant, Nick Raptis, who says: 'This is the greatest country on earth. I came with five bucks in my pocket.' But on immigration today, his customers tend to echo Mr. Trump's depiction of an emergency on the Southwest border. In a county that is 89 percent white and less than 2 percent Hispanic, they spoke of undocumented immigrants bankrupting Sun Belt hospitals, dragging down wages and burdening taxpayers."}
+
+:::
+
+::::
+
+<!--
+
+## How to Count?
+
+Aggregation cancels out (hopefully) random error
+
+. . .
+
+Lots to learn from [differences]{.yellow} in answers (or lack thereof) depending on context such as question wording or time.
+
+-->
+
+## Measuring Mass Opinion: Sampling
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+Surveys in theory let us to use a [sample]{.yellow} to learn about a [population]{.yellow}
+
+:::
+
+::: {.column width="60%"}
+
+::: {.fragment}
+
+![](images/normal_dist.png){fig-align="center" fig-alt="The Area Underneath a Normal Distribution. The tails extend to infinity and are asymptote to zero, but the full domain sums to 1. 95% of all possible values are within about 1.96 standard units fwrom the mean. Plot shows a symmetric bell curve with shaded areas under the curve depicting area underneath that curve, represented as a percentage of total area under the curve. 0 +/- one standard unit covers 68% of the area under the durve. 90% of the area under the curve is accounted for by 0 +/- 1.645 standard units. 95% of the area under the curve is accounted for by 0 +/- 1.96 standard units. 99% of the area under the curve is accounted for by 0 +/- 2.58 standard units."}
+
+::: {style="font-size: 50%;"}
+
+Miller, Steven. "What Do We Know About British Attitudes Toward Immigration? A Pedagogical Exercise of Sample Inference and Regression." March 23, 2020. http://svmiller.com/blog/2020/03/what-explains-british-attitudes-toward-immigration-a-pedagogical-example/
+
+:::
+
+:::
+
+:::
+::::
+
+## Measuring Mass Opinion: Sampling
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+Properties of a normal distribution?
+
+::: {.incremental}
+
+*   Symmetric
+*   Continuous
+    + Implications?
+      - Intervals, not points 
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+![](images/normal_dist.png){fig-align="center" fig-alt="The Area Underneath a Normal Distribution. The tails extend to infinity and are asymptote to zero, but the full domain sums to 1. 95% of all possible values are within about 1.96 standard units fwrom the mean. Plot shows a symmetric bell curve with shaded areas under the curve depicting area underneath that curve, represented as a percentage of total area under the curve. 0 +/- one standard unit covers 68% of the area under the durve. 90% of the area under the curve is accounted for by 0 +/- 1.645 standard units. 95% of the area under the curve is accounted for by 0 +/- 1.96 standard units. 99% of the area under the curve is accounted for by 0 +/- 2.58 standard units."}
+
+::: {style="font-size: 50%;"}
+
+Miller, Steven. "What Do We Know About British Attitudes Toward Immigration? A Pedagogical Exercise of Sample Inference and Regression." March 23, 2020. http://svmiller.com/blog/2020/03/what-explains-british-attitudes-toward-immigration-a-pedagogical-example/
+
+:::
+
+:::
+::::
+
+## Measuring Mass Opinion: Sampling
+
+Central Limit Theorem: Regardless of how a population is distributed, the [means of repeated samples]{.yellow} from that population will [trend toward being normally distributed]{.yellow}.
+
+. . .
+
+We can use sampling to apply the properties of the normal distribution to other distributions that are not symmetric or continuous (like vote choice).
+
+. . .
+
+Hear me out.
+
+## Measuring Mass Opinion: Sampling
+
+This [population]{.yellow} is [uniformly]{.yellow} distributed.
+
+![](images/samples_1_10.png){width=80% fig-align="center" fig-alt="Plot titled 'I asked my computer to pick a number between one and ten, 10,000 times.' x-axis has values between one and ten, y-axis has the count of how often each number was selected, showing a roughly uniform distribution with each number picked roughly 1,000 times. Mean of all selected values (roughly 5.5) is shown with a vertical reference line."}
+
+## Measuring Mass Opinion: Sampling
+
+![](images/slice_ten.png){width=80% fig-align="center" fig-alt="Plot titled 'Then I picked ten of those numbers and averaged them, ten times'. x-axis sample means, y-axis has the count of how often the sample mean fell within a particular range, showing that sample means between about 4 and 7 were about equally likely. Mean of all selected values (roughly 5.5) is shown with a vertical reference line."}
+
+## Measuring Mass Opinion: Sampling
+
+![](images/slice_one_hundred.png){width=80% fig-align="center" fig-alt="Plot titled 'Then I picked ten of those numbers and averaged them, one hundred times'. x-axis sample means, y-axis has the count of how often the sample mean fell within a particular range, showing that sample means between 3.5 and 8 occurred but sample means between 5 and 6 were more common. Mean of all selected values (roughly 5.5) is shown with a vertical reference line."}
+
+## Measuring Mass Opinion: Sampling
+
+![](images/slice_one_thousand.png){width=80% fig-align="center" fig-alt="Plot titled 'Then I picked ten of those numbers and averaged them, one thousand times'. x-axis sample means, y-axis has the count of how often the sample mean fell within a particular range, showing that sample means between 3 and 8 occurred but sample means between 5 and 6 were more common, with the distribution of sample means beginning to resemble a bell curve. Mean of all selected values (roughly 5.5) is shown with a vertical reference line."}
+
+## Measuring Mass Opinion: Sampling
+
+
+Look familiar?
+
+![](images/slice_one_million.png){width=80% fig-align="center" fig-alt="Plot titled 'Then I picked ten of those numbers and averaged them, one million times'. x-axis sample means, y-axis has the count of how often the sample mean fell within a particular range, showing that sample means between 2 and 9 occurred but sample means between 5 and 6 were more common, with the distribution of sample means forming a clear bell curve. Mean of all selected values (roughly 5.5) is shown with a vertical reference line."}
+
+## Measuring Mass Opinion: Sampling
+
+Reminder: each draw is n=10 from a uniform distribution
+
+![](images/slice_one_million.png){width=80% fig-align="center" fig-alt="Plot titled 'Then I picked ten of those numbers and averaged them, one million times'. x-axis sample means, y-axis has the count of how often the sample mean fell within a particular range, showing that sample means between 2 and 9 occurred but sample means between 5 and 6 were more common, with the distribution of sample means forming a clear bell curve. Mean of all selected values (roughly 5.5) is shown with a vertical reference line."}
+
+## Measuring Mass Opinion: Sampling
+
+Flipping this around...[diminishing returns once n > 400!]{.fragment}
+
+![](images/sample_sizes.png){width=80% fig-align="center" fig-alt="Plot titled 'Next, I took ten samples each of increasing sizes. Biggers sample sizes converge on the population average more quickly, with diminishing returns'. x-axis has sample sizes (10, 25, 100, 400, 1000, 2000, and 4000), y-axis has the distribution of sample means, each represented with a dot. Plot shows that at low samples sizes, the sample mean varies a lot (between 4.5 and 7 with sample size ten), but variation is reduced by sample size 100 and by sample size 400 sample means have generally converged to to the population mean (roughly 5.5, shown with a horizontal reference line."}
+
+## Measuring Mass Opinion: Sampling{.smaller}
+
+The Central Limit Theorem helps us *quantify uncertainty*
+
+::: {.incremental}
+
+*   [p-value]{.yellow}: [given a "null" hypothesis (of, say, 0), how (im)probable would the value we observed be *under repeated sampling*]{.fragment}
+*   [confidence interval]{.yellow}: [*under repeated sampling*, this interval around the estimate will contain the true population parameter x% of the time]{.fragment}
+    + [margin of error]{.yellow}: convention for describing confidence interval (often 95%)
+
+:::
+    
+## Measuring Mass Opinion: Sampling
+
+Core assumption? [*Random* sampling.]{.fragment} [It's hard!]{.fragment}
+
+. . .
+
+![](images/dewey_truman.png){width=60% fig-align="center" fig-align="Picture of Harry Truman holding a Chicago Daily Tribune newpaper that reads 'DEWEY DEFEATS TRUMAN' on the front page, after it was announced that Truman had won the election."}
+
+A lot of bad data <<< a little bit of good data
+
+## Measuring Mass Opinion: Sampling{.smaller}
+
+Ideally, it'd be great if we could use *simple random sampling*
+
+*   Sampling frame includes full population, contact is random, response is random
+
+. . .
+
+Ah, dang it.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/cohn_experiment.png){fig-alt="New York Times headline: Are the Polls Still Missing 'Hidden' Republicans? Here's What We're Doing to Find Out. Subhed: There's no breakthrough in our experiment yet, but the differences are intriguing."}
+
+:::
+
+::: {.column width="50%"}
+
+![](images/cohn_experiment_comment.png){fig-alt="Quote from the article: The data is still preliminary, and it will probably take at least six months, if not longer, before we can reach any final conclusions. But there is one immediate difference between the two groups, and that is in the polls' response rates: Nearly 30 percent of households have responded to the survey so far -- a figure dwarfing the 1.6 percent completion rate in the parallel Times/Siena poll."}
+
+:::
+
+::::
+
+## Measuring Mass Opinion: Sampling{.smaller}
+
+Alternatives to simple random sampling:
+
+::: {.incremental}
+
+*   Stratified random sampling
+    + divide population into subgroups, randomly sample within subgroup
+*   Cluster sampling
+    + randomly sample within specific sub-units
+*   Quota sampling
+    + sample within strata until reaching pre-set N
+*   Oversampling
+    + collect more units from specific strata of interest
+
+:::
+
+## Exit Quiz
+
+1. Briefly (one sentence) explain the concept of "latent opinion."
+
+2. True or false: Feldman and Zaller argue that most people are unaware of/do not understand ideological concepts.
+
+3. Matt Grossman summarizes Soroka and Wlezien's work by saying "It may not be the failures of democratic politics that produce an ungrateful, seemingly vindictive public, but actually its successes." What does he mean (again, briefly!)?
+
+# Break
+
+## Exit Quiz Answers
+
+1. Briefly (one sentence) explain the concept of "latent opinion."
+
+. . .
+
+Public opinion that will exist in the future, conditional on actions taken now.
+
+## Exit Quiz Answers
+
+2. True or false: Feldman and Zaller argue that most people "innocent" of ideology, in that they do not understand or use ideological values to inform their beliefs.
+
+. . .
+
+False.
+
+## Exit Quiz Answers
+
+3. Matt Grossman summarizes Soroka and Wlezien's work by saying "It may not be the failures of democratic politics that produce an ungrateful, seemingly vindictive public, but actually its successes." What does he mean (again, briefly!)?
+
+. . .
+
+Policy tends to move farther than what the public as a whole wants, generating a reaction in the opposite direction.
+
+"The public learns what policy makers are doing, but that means less people demanding more of that and more demanding less."
+
+## Measuring Mass Opinion: Sampling{.smaller}
+
+What can we do if we know the sample isn't random? [It depends on whether we know *how* it isn't random.]{.fragment}
+
+. . .
+
+[Non-response bias]{.yellow}: when the propensity to respond, conditional on contact, systematically differs across the population of interest
+
+. . .
+
+![](images/rcp_trump_biden.png){width=50% fig-align="center" fig-alt="Real Clear Politics 2020 presidential election polling average, showing a consistent Biden lead of 5-10 percentage points (peaking at 10.2 points on June 23, 2020). Biden won the popular vote by roughly four percentage points."}
+
+## Measuring Mass Opinion: Weighting
+
+In practice, sampling is never truly random.
+
+. . .
+
+If we can *observe* the ways it is non-random, we can adjust.
+
+. . .
+
+The task: render people in the sample [statistically exchangeable]{.yellow} with people outside of it.
+
+## Measuring Mass Opinion: Weighting{.smaller}
+
+Lots of different ways to do this. Some common ones:
+
+::: {.incremental}
+
+*   "Raking" to population benchmarks
+    + Upweight underrepresented cases, downweight overrepresented cases
+*   "Matching" to target sample
+    + Pair target sample cases with most similar observed cases, discard remaining (unrepresentative) observations
+*   Inverse-propensity scoring
+    + Upweight cases less likely to respond, downweight cases more likely to respond
+
+:::
+
+. . .
+
+*All* weighting methods assume you have [observed everything that rendered the sample non-random]{.yellow}. [No matter how fancy your method is, it won't work without good data.]{.fragment}
+
+## When in Doubt, Take an Average{.smaller}
+
+A single poll is just that:
+
+*   One sample
+*   One set of questions
+*   One set of analysis decisions
+    + Sampling frame
+    + Likely voter screen
+    + Weighting
+
+Different, reasonable decisions at each step can lead to different conclusions
+
+. . .
+
+Important to triangulate across multiple surveys
+
+<!--
+
+## If time: the polling industry
+
+Why do we see so many election polls?
+
+. . .
+
+Why should you be worried if all of the election polls look too similar?
+
+-->
+
+# No such thing as a perfect question
+
+## Quirks in Mass Opinion: Response Effects
+
+Context matters. This is often framed as a bug, but it's really a *feature*.
+
+. . .
+
+Hear me out.
+
+## Question Wording
+
+Question wording reflects *choices* about relevant information.
+
+. . .
+
+::: {style="font-size: 50%;"}
+
+| % Pro | Question | Pollster|
+|-|--------|--|
+| 57 | Do you favor or oppose a temporary ban on refugees from Syria, Iraq, Iran, Libya, Somalia, Sudan, and Yemen until the federal government improves its ability to screen out potential terrorists from coming here? | Rasmussen|
+| 55 | Do you approve or disapprove of President Trump's executive order prohibiting citizens from seven predominantly Muslim countries from being able to enter the United States for 90 days and halting processing of refugees for 120 days? | Politico|
+| 46 | Do you support or oppose suspending all travel by citizens of Iraq, Syria, Iran, Libya, Somalia, Sudan, and Yemen to the U.S. for 90 days? | Quinnipiac|
+| 42 | Thinking about some of the specific actions Donald Trump has taken since he has been in office, would you say you approve or disapprove of ordering a temporary ban on entry into the U.S. for most people from seven predominantly Muslim countries? | Gallup|
+
+:::
+
+::: {style="font-size: 40%;"}
+
+Bianco, William, and David Canon. 2023. *American Politics Today*, 8th Edition. W.W. Norton.
+
+:::
+
+## Question Wording
+
+Question wording reflects *choices* about relevant information.
+
+::: {style="font-size: 50%;"}
+
+| % Pro | Question | Pollster|
+|-|--------|--|
+| 57 | Do you favor or oppose a temporary ban on refugees from Syria, Iraq, Iran, Libya, Somalia, Sudan, and Yemen until the federal government improves its ability to [screen out potential terrorists]{.yellow} from coming here? | Rasmussen|
+| 55 | Do you approve or disapprove of [President Trump's]{.yellow} executive order prohibiting citizens from seven predominantly Muslim countries from [being able to enter the United States for 90 days]{.yellow} and [halting processing of refugees for 120 days]{.yellow}? | Politico|
+| 46 | Do you support or oppose [suspending all travel]{.yellow} by [citizens]{.yellow} of Iraq, Syria, Iran, Libya, Somalia, Sudan, and Yemen to the U.S. for 90 days? | Quinnipiac|
+| 42 | [Thinking about some of the specific actions Donald Trump has taken since he has been in office]{.yellow}, would you say you approve or disapprove of ordering a temporary ban on entry into the U.S. for [most people]{.yellow} from seven [predominantly Muslim countries]{.yellow}? | Gallup|
+
+:::
+
+::: {style="font-size: 40%;"}
+
+Bianco, William, and David Canon. 2023. *American Politics Today*, 8th Edition. W.W. Norton.
+
+:::
+
+## Question Wording
+
+Keeping constant wording over time can be more informative than perfecting the wording each time
+
+![](images/gallup_abortion_trend.png){fig-alt="Gallup trend line for the question: Do you think abortions should be legal under any circumstances, legal only under certain circumstances, or illegal in all circumstnaces? Trend line for % Legal under any circumstnaces, highlighted, was 21% in 1975 and is typically in the mid-20s, but jumped from 25% to 34% between 2019 and 2024."}
+
+## Framing
+
+Choice of how to present issue
+
+::: {.incremental}
+
+*   Equivalence framing (90% employment vs. 10% unemployment)
+*   Emphasis framing (KKK rally as free speech or public safety issue)
+    + "welfare" vs. "aid to poor", e.g.
+    + *counter*frames may cancel each other out
+
+:::
+
+. . .
+
+Experimenting with different frames in same survey can be more informative than single frame
+
+<!--
+
+## Limits of Framing
+
+Framing isn't magic, and tends to "work" better with less-familiar issues.
+
+![](images/nbc_prolife.png){fig-align="center"}
+
+. . .
+
+Easier for a turn of phrase to change the "object of evaluation" than the "evaluation of the object"
+
+-->
+
+## Framing
+
+Experimenting with different frames in same survey can be more informative than single frame
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/nyt_buses_headline.png){fig-alt="New Yorkers Support Free Buses, but They Don't THink it should Happen. A polling experiment shows how a small change in wording can make a big difference."}
+
+:::
+
+::: {.column width="50%"}
+
+![](images/nyt_buses_exp.png){fig-alt="Bar chart showing that wording changes policy support in New York City. For most issues, like adding police or making buses free, more people 'support' a policy than say 'N.Y.C. should do this'"}
+
+:::
+
+::::
+
+## Question Order
+
+What you ask about first can affect what your respondents think about later
+
+. . .
+
+Classic example: should the [U.S./Soviet Union] allow journalists from the [Soviet Union/U.S.] to enter?
+
+::: {.incremental}
+
+*   U.S. --> Soviet Union first: freedom of the press
+*   Soviet Union --> U.S. first: national security
+
+:::
+
+. . .
+
+First question changes the implied meaning of the second.
+
+## Social Desirability
+
+Respondents may be reluctant to express views that violate social norms
+
+::: {.incremental}
+
+*   can ask about these views *in*directly
+*   may be less of an issue in online samples (evaluate case-by-case)
+*   sensitivity to social norms may be empirically interesting!
+
+:::
+
+## Example: Shy Trump Voters?
+
+![](images/coppock_shy_trump_voters.png){fig-align="center" fig-alt="Journal article title page. Title: Did Shy Trump Supporters Bias the 2016 Polls? Evidence from a Nationally-representative List Experiment. Author: Alexander Coppock. Abstract: Explanations for the failure to predict Donald Trump's win in the 2016 Presidential election sometimes include the 'Shy Trump Supporter' hypothesis, according to which some Trump supporters succumb to social desirability bias and hide their vote preference from pollsters. I evaluate this hypothesis by comparing direct question and list experimental estimates of Trump support in a nationally representative survey of 5,290 American adults fielded from September 2 to September 13, 2016. Of these, 32.5% report supporting Trump’s candidacy. A list experiment conducted on the same respondents yields an estimate 29.6%, suggesting that Trump's poll numbers were not artificially deflated by social desirability bias as the list experiment estimate is actually lower than direct question estimate. I further investigate differences across measurement modes for relevant demographic and political subgroups and find no evidence in support of the 'Shy Trump Supporter' hypothesis."}
+
+. . .
+
+Present challenges in measuring Trump support more to do with non-response than social desirability.
+
+## Quirks (?) In Public Opinion
+
+Public opinion is often *thermostatic* -- moves in opposite direction of policy change
+
+![](images/policy_mood.png){fig-align="center" fig-alt="Plot showing Policy Mood (an index of whether the public would prefer more generally liberal or conservative plolicy change) over time. Democratic (blue) and Republican (red) administrations shown in background color shading. Plot shows that mood goes down (more conservative) during Democratic administrations and up (more liberal) during Republican administrations."}
+
+## Quirks (?) In Public Opinion
+
+Many citizens *symbolically* conservative and  *operationally* liberal.
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+![](images/gallup_ideo_id.png){fig-alt="Gallup trend lines for U.S. adults' ideological self-identification over time. Percent identifying as liberal goes from 17% in 1992 to 25% in 2021, moderate from 43% to 37%, and conservative from 36% to 36% (with some fluctuations, reaching as high as 40% in 2004 and 2010)."}
+
+:::
+
+::: {.column width="40%"}
+
+![](images/operational_liberal.png){fig-alt="Wall Street Journal plot entitled 'A Call for More: The percentage of respondents saying they want the federal government to do more to solve people's problems is at its highest level since the question was first posed in 1995'. Plot shows trends in percent agreeing more with the statement 'Government should do more to solve problems and help meet people's needs' (just over 30% in 1995 to 57% in 2017) and 'Government is doing too many things better left to businesses and individuals (over 60% in 1995 to 39% in 2017)."}
+
+:::
+
+::::
+
+## Quirks (?) In Public Opinion
+
+People generally agree that spending is too high but disagree about what to cut.
+
+![](images/spending_ap.png){fig-align="center" fig-alt="Poll: Government spends too much overall, too little in specific areas. A majority of U.S. adults say federal spending is too high, but far fewer say the same when asked about specific policies like education and Social Security, per a new AP-NORC poll. Percent who say government spending is [Too much / too little / about the right amount]. Overall: 60/16/22. Education: 12/65/21. Health care: 16/63/19. Social security: 7/62/29. Medicare: 10/58/31. Border security: 23/53/22. The military: 29/35/34."}
+
+## Regularities in Public Opinion{.smaller}
+
+Depends on availability/use of information
+
+::: {.incremental}
+
+*   Media, well, *mediates* relationship between elites/public/policy
+*   Relationship between political interest and attitude change?
+    + Low interest: unlikely to encounter/less able to contextualize information
+    + High interest: likelier to have strong predispositions/lots of prior information
+    + Moderate interest: easiest to move
+
+:::
+
+## Wording Crimes
+
+There's no such thing as a perfect question, but there is such a thing as a bad question.
+
+Here are some things to avoid (among others)...
+
+## Wording Crimes
+
+Leading questions
+
+Do you support or oppose replacing the final exam for Intro to American Politics with a less stressful, easier alternative?
+
+*   Strongly support
+*   Somewhat support
+*   Neither support nor oppose
+*   Somewhat oppose
+*   Strongly oppose
+
+## Wording Crimes
+
+Jargon
+
+Do you support or oppose including a question about linkage institutions on the final exam for Intro to American Politics?
+
+*   Strongly support
+*   Somewhat support
+*   Neither support nor oppose
+*   Somewhat oppose
+*   Strongly oppose
+
+## Wording Crimes
+
+Imbalanced, incomplete, or indirect response options
+
+Why did you enroll in Intro to American Politics? Check all that apply:
+
+*   Because it fit my schedule
+*   Because my friends enrolled
+*   Because Professor Green is the best
+
+## Wording Crimes
+
+Too much cognitive load
+
+Set reasonable expectations for respondents' memories
+
+<br>
+
+How many times have you raised your hand to speak in Intro to American Politics? 
+
+Please enter a number:
+
+## Wording Crimes
+
+Too much cognitive load
+
+Set reasonable expectations for how much respondents will read.
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+::: {style="font-size: 35%;"}
+
+Ungrading is a practice which eliminates or greatly minimizes the use of assigned points or letter grades in a course, focusing instead on providing frequent and detailed feedback to students on their work, in relation to the course learning goals. Ungrading is a form of “grading for growth,” in that the primary purpose of the assessment is to help students learn and improve their knowledge and skills, rather than to create a summative score that students use to compare themselves against an external credential.
+
+Often, ungrading occurs in an educational environment in which a final letter grade *does* need to be assigned; in this case, typically the instructor (sometimes with input from or jointly with students) assigns a grade at the end of the course. In some courses the instructor will ask the students to self-assign a final, summative grade, using some specific guiding questions. The grade assigned may also be based on acceptable completion of work from a list of specifications, similar to contract or specifications grading.^[Text copied from https://learninginnovation.duke.edu/blog/2022/09/what-is-ungrading/]
+
+Do you support ungrading Intro to American Politics?
+
+*   Yes
+*   No
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/happy_for_u.png){fig-alt="Meme: i aint reading all that. i'm happy for u tho. or sorry that happened."}
+
+:::
+
+::::
+
+## Wording Crimes
+
+Double-barreling
+
+Do you support or oppose changing the time and location of Intro to American Politics?
+
+*   Strongly support
+*   Somewhat support
+*   Neither support nor oppose
+*   Somewhat oppose
+*   Strongly oppose
+
+## Wording Crimes
+
+Asking people about their own causal effects
+
+Does hearing that Professor Green teaches Campaigns and Elections make you more or less likely to enroll in the class?
+
+*   More likely
+*   Less likely
+*   Neither more nor less likely
+
+## Now you try
+
+Divide into groups of 3-5. You're drafting our course evaluations.
+
+. . .
+
+Keep in mind:
+
+*   Objective (what is important to measure?)
+*   Audience (who will use this information for what?)
+*   Clarity (put yourself in respondents' shoes)
+*   Efficiency (tradeoffs between breadth and depth)
+
+. . .
+
+Email me your proposed questions by EOD tomorrow. I will select some to include *verbatim*.
+
+## Exit Quiz
+
+1. Zaller's model of how individuals form political attitudes, and report those attitudes on surveys, includes four axioms. Name one.
+
+2. Nate Cohn's article is entitled "How One Polling Decision is Leading to Two Distinct Stories of the Election." Name that decision.
+
+3. Agiesta, et al break independents down into five general sub-types. Name one.
+
+
+## Last week
+
+Public opinion
+
+1.  Public opinion is more than the sum of its parts
+2.  People contain multitudes
+3.  Random sampling is beautiful
+4.  No such thing as a perfect question
+
+. . .
+
+Reminder: take the eval survey if you haven't yet!
+
+## Exit Quiz Answers {.smaller}
+
+1.  Zaller's model of how individuals form political attitudes, and report those attitudes on surveys, includes four axioms. Name one.
+
+. . .
+
+1)  Reception: People who are more engaged are more likely to be exposed to and comprehend (i.e. receive) relevant messages.
+2)  Resistance: People tend to resist messages that are inconsistent with their predispositions, but only if they understand the relationship between the message and their predispositions.
+3)  Accessibility: Considerations that were brought to mind more recently are easier to retrieve.
+4)  Response: The survey response is a weighted average of accessible considerations.
+
+## Exit Quiz Answers
+
+2.  Nate Cohn's article is entitled "How One Polling Decision is Leading to Two Distinct Stories of the Election." Name that decision.
+
+. . .
+
+Whether to include respondents’ recollection of who they voted for in 2020 in survey weights.
+
+## Exit Quiz Answers
+
+3.  Agiesta, et al break independents down into five general sub-types. Name one.
+
+. . .
+
+Upbeat Outsiders, Disappointed Middle, Democratic Lookalikes, Republican Lookalikes, Checked out
+
+## This week {.smaller}
+
+Political parties
+
+![](images/political_party_founders.jpeg){width="50%" fig-align="center" fig-alt="A political party. Portrait of the constitutional convention, but with kegs and red solo cups."}
+
+. . .
+
+If this sounds interesting...
+
+POLSCI 202: Political Parties in Competition. Left, Right, and Beyond.
+
+## Structure for this week
+
+1.  Why parties?
+2.  History of the US party system(s)
+3.  Where's the party?
+4.  How do we make parties?
+
+# Why Parties?
+
+## Parties are fundamental to democracy
+
+. . .
+
+The framers warned us about parties, and yet...
+
+. . .
+
+Democracy is "a system where parties lose elections." - Adam Przeworski
+
+Democracy is "unthinkable" without parties. - E.E. Schattschneider
+
+. . .
+
+Why?
+
+## Why Parties?
+
+Parties are an emergent property of democracy because [parties solve collective action problems]{.yellow}.
+
+. . .
+
+"...an organized attempt to get control of the government." (Schattschneider 1942)
+
+## Why Parties?
+
+Time for some game theory...
+
+|         | Player A | Player B | Player C | Enacted? |
+|---------|:--------:|:--------:|:--------:|:--------:|
+| Issue 1 |    1     |    -1    |    0     |    No    |
+| Issue 2 |    1     |    0     |    -1    |    No    |
+| Issue 3 |    -1    |    1     |    0     |    No    |
+| Issue 4 |    0     |    1     |    -1    |    No    |
+| Issue 5 |    -1    |    0     |    1     |    No    |
+| Issue 6 |    0     |    -1    |    1     |    No    |
+
+. . .
+
+No cooperation, no policy
+
+## Why Parties?
+
+Remember Federalist 10: cooperation is necessary
+
+|                    |   Player A   |   Player B   | Player C |    Enacted?    |
+|--------------------|:------------:|:------------:|:--------:|:--------------:|
+| Issue 1            |      1       |      -1      |    0     |       No       |
+| [Issue 2]{.yellow} | [1]{.yellow} | [0]{.yellow} |    -1    | [Yes]{.yellow} |
+| Issue 3            |      -1      |      1       |    0     |       No       |
+| [Issue 4]{.yellow} | [0]{.yellow} | [1]{.yellow} |    -1    | [Yes]{.yellow} |
+| Issue 5            |      -1      |      0       |    1     |       No       |
+| Issue 6            |      0       |      -1      |    1     |       No       |
+
+Players A and B make a deal
+
+## Why Parties?
+
+Decision rule: if indifferent, defer to partner
+
+|                  |  Player A  |  Player B  | Player C |   Enacted?   |
+|------------------|:----------:|:----------:|:--------:|:------------:|
+| Issue 1          |     1      |     -1     |    0     |      No      |
+| [Issue 2]{.blue} | [1]{.blue} | [0]{.blue} |    -1    | [Yes]{.blue} |
+| Issue 3          |     -1     |     1      |    0     |      No      |
+| [Issue 4]{.blue} | [0]{.blue} | [1]{.blue} |    -1    | [Yes]{.blue} |
+| Issue 5          |     -1     |     0      |    1     |      No      |
+| Issue 6          |     0      |     -1     |    1     |      No      |
+
+Players A and B form a [long coalition]{.yellow}
+
+## Why Parties?
+
+How does the coalition keep itself together?
+
+. . .
+
+In order to repeat their patterns of cooperation, coalitions need to be able to...
+
+-   monitor members' behavior
+-   reward cooperation
+-   sanction defection
+
+. . .
+
+Parties develop the tools to do these things.
+
+## Why Parties?
+
+Who are Players A, B, and C here?
+
+|                  |  Player A  |  Player B  | Player C |   Enacted?   |
+|------------------|:----------:|:----------:|:--------:|:------------:|
+| Issue 1          |     1      |     -1     |    0     |      No      |
+| [Issue 2]{.blue} | [1]{.blue} | [0]{.blue} |    -1    | [Yes]{.blue} |
+| Issue 3          |     -1     |     1      |    0     |      No      |
+| [Issue 4]{.blue} | [0]{.blue} | [1]{.blue} |    -1    | [Yes]{.blue} |
+| Issue 5          |     -1     |     0      |    1     |      No      |
+| Issue 6          |     0      |     -1     |    1     |      No      |
+
+## Why Parties?
+
+This is actually not settled in political science!
+
+. . .
+
+:::::: columns
+::: {.column width="50%"}
+Top-down view: parties are teams of politicians seeking to win elections
+
+![](images/dnc.jpg){fig-alt="The Democratic National Convention 2020"}
+:::
+
+:::: {.column width="50%"}
+::: fragment
+Bottom-up view: parties are teams of "policy demanders" seeking to win policy
+
+![](images/interest_groups.png){fig-alt="Interest group logos. From top-left to bottom-right: United Auto Workers, Sunrise, National Association for the Advancement of Colored People, United Farm Workers, Everytown for Gun Safety, National Education Association, Emily's List"}
+:::
+::::
+::::::
+
+## Why Parties?
+
+::::: columns
+::: {.column width="50%"}
+Top-down view: parties are teams of politicians seeking to win elections
+
+![](images/dnc.jpg){fig-alt="The Democratic National Convention 2020 (pictures of Joe Biden and Kamala Harris)"}
+:::
+
+::: {.column width="50%"}
+Middle-up view: parties are teams of "policy demanders" seeking to win policy
+
+![](images/interest_groups.png){fig-alt="Interest group logos. From top-left to bottom-right: United Auto Workers, Sunrise, National Association for the Advancement of Colored People, United Farm Workers, Everytown for Gun Safety, National Education Association, Emily's List"}
+:::
+:::::
+
+How do monitoring, rewarding, and sanctioning work in each of these models?
+
+## Parties' Functions {.smaller}
+
+What do parties *do* for democracy?
+
+::: incremental
+-   recruit, vet, nominate, and support candidates
+-   develop policy proposals
+-   help organize/staff government
+-   structure issue space/debate
+    -   formally in platforms, informally in stances/communication
+    -   provide cues to voters re: "what goes with what"
+:::
+
+## Parties' Functions {.smaller}
+
+Can restate these as collective actions
+
+::: incremental
+-   Coordination
+    -   Manage conflicting ambitions/tradeoffs
+    -   Set priorities
+-   Public goods
+    -   Party brand applies to all candidates
+    -   Turning out one voter helps multiple candidates
+-   Social choice
+    -   Logrolling preferences breaks gridlock, stability clarifies alternatives
+:::
+
+## Party Brands
+
+Parties become associated with sets of positions/ideas/groups over time
+
+. . .
+
+This brand can be useful for voters and politicians
+
+::: incremental
+-   voters: reduces costs of information search
+-   politicians: reduces costs of educating voters on positions
+:::
+
+## Party Brands
+
+But! Lower transaction costs mean higher conformity costs
+
+Voters get "choice between compromises"
+
+-   Many combinations of stances excluded
+-   Many issues excluded
+
+## Party Brands
+
+Brands can serve as an accountability mechanism. [Why?]{.fragment}
+
+. . .
+
+Parties evaluated collectively, punished collectively for bad outcomes.
+
+## Choice Between Compromises
+
+U.S. has a two-party system. Why?
+
+. . .
+
+Implication: governing coalitions form *before* election, with voters choosing between them
+
+::: fragment
+-   (if you're frustrated with the two-party system, this is probably why)
+:::
+
+. . .
+
+Multi-party system:
+
+::: incremental
+-   voters can express narrower preferences with their vote
+-   if no majority, governing coalition forms *after* the election
+:::
+
+## U.S. Party Systems over Time {.smaller}
+
+Can demarcate historical periods of stable two-party competition in the US as party "systems"
+
+. . .
+
+Five or six party systems, depending on where you draw the lines. General pattern:
+
+-   Coalitions form around dominant cleavage
+-   New cleavages threaten to split coalition arrangements
+-   [Realignment]{.yellow} around new cleavage
+
+. . .
+
+Organizations often persist (institutional durability), but who and what they represent changes
+
+. . .
+
+Remember Duverger's Law. Single-member plurality elections a huge obstacle for minor parties.
+
+## First Party System (1790s-1820s) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Federalists
+
+-   Urban/New England base
+-   Merchant interests
+-   Protective tariffs
+-   Pro-national bank
+-   Lean British
+
+![](images/hamilton.jpeg){width="40%" fig-align="center" fig-alt="Portrait of Alexander Hamilton"}
+:::
+
+::: {.column width="40%"}
+Democratic-Republicans
+
+-   Rural/Southern base
+-   Agricultural interests
+-   Low tariffs
+-   Anti-national bank
+-   Lean French
+
+![](images/jefferson.jpeg){width="50%" fig-align="center" fig-alt="Portrait of Thomas Jefferson"}
+:::
+:::::
+
+## First Party System (1790s-1820s) {.smaller}
+
+Key developments:
+
+-   Primarily legislative (small electorate)
+-   Era of Good Feelings
+    -   Democratic-Republican dominance (Monroe essentially unopposed for re-election)
+-   First (disorganized) groups
+    -   Informal nomination procedures
+    -   Candidates promoted through clubs, newsletters, informal networks
+
+## Second Party System (1830s-1856) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   Continuation of Democratic-Republicans
+-   Populist
+-   Pro-slavery
+
+![](images/andrew_jackson.jpg){width="45%" fig-align="center" fig-alt="Portrait of Andrew Jackson"}
+:::
+
+::: {.column width="50%"}
+Whigs
+
+-   Opposition party
+-   Urban/educated
+-   Split on slavery
+
+![](images/henry_clay.jpeg){width="50%" fig-align="center" fig-alt="Portrait of Henry Clay"}
+:::
+:::::
+
+## Second Party System (1830s-1856) {.smaller}
+
+Key developments:
+
+-   Expansion of electorate (removal of property requirements)
+    -   Extension of competition for new voters
+-   Development of party organizations/newspaper networks
+    -   First party conventions
+-   Spoils system
+-   Suppression of slavery as potential cleavage
+
+## Third Party System (1857-1896) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   Pro-slavery/anti-Reconstruction
+-   Southern + urban bases
+    -   Machines assimilate immigrants, urban workers
+
+![](images/tweed.jpeg){width="50%" fig-align="center" fig-alt="Picture of Boss Tweed"}
+:::
+
+::: {.column width="50%"}
+Republicans
+
+-   Anti-slavery
+-   Northeastern base
+-   Pro-business
+
+![](images/lincoln.jpeg){fig-alt="Picture of Abraham Lincoln"}
+:::
+:::::
+
+## Third Party System (1857-1896)
+
+Key developments
+
+-   Civil War -\> Reconstruction -\> Jim Crow
+-   Industrial Revolution / Gilded Age
+    -   Clarification of economic cleavage
+-   Development of political machines in cities
+    -   "Honest graft" analogous to previous spoils system
+    -   Parties as central features of *social* life
+
+## Fourth Party System (1897-1932) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   Southern + industrial base
+    -   White primary, de-facto one-party rule in South
+-   Anti-immigration
+
+![](images/wilson.png){width="50%" fig-align="center" fig-alt="Picture of Woodrow Wilson"}
+:::
+
+::: {.column width="50%"}
+Republicans
+
+-   Non-Southern, middle-class base
+-   Pro-business
+-   Less anti-immigration
+
+![](images/roosevelt.jpeg){fig-align="center" fig-alt="Picture of Teddy Roosevelt"}
+:::
+:::::
+
+## Fourth Party System (1897-1932) {.smaller}
+
+Key developments
+
+-   Government takes over party functions / weakens parties
+    -   Secret ballot (states adopted between 1884-1891)
+    -   Administration of elections
+    -   Social services
+-   Progressive Era reforms
+    -   Women's suffrage
+    -   Civil service reform
+    -   Direct primary and senate elections
+-   Emergence/incorporation of minor parties (Progressives, Populists)
+
+## Fifth Party System (1933-1968) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   New Deal coalition
+    -   Working class base
+    -   Racial realignment / "Dixiecrats"
+-   More active government in economy
+
+![](images/RooseveltNewDeal.jpg){width="50%" fig-align="center" fig-alt="FDR campaign button, slogan 'For A New Deal'"}
+:::
+
+::: {.column width="50%"}
+Republicans
+
+-   (Mostly) opposition party
+-   Middle class base
+-   Pro-business
+    -   Opposed New Deal spending/regulation
+    -   More anti-communist
+
+![](images/eisenhower.jpg){width="50%" fig-align="center" fig-alt="Picture of Dwight Eisenhower"}
+:::
+:::::
+
+## Fifth Party System (1933-1968) {.smaller}
+
+Key developments
+
+-   Great Depression
+-   World War II --\> Cold War
+-   Civil Rights Movement
+-   Racial realignment
+    -   Starts early, takes time (we'll come back to this)
+-   Weaker parties --\> candidate-centered elections
+
+## Quick Aside
+
+1950: American Political Science Association report on political parties
+
+. . .
+
+Key argument: parties *aren't polarized enough*, voters need clearer choice
+
+. . .
+
+Now seems like a product of being in the middle of long-term sorting
+
+## 1968 {.smaller}
+
+Chain of events lead to democratization of parties' nomination procedures
+
+:::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   Robert F. Kennedy (JFK's brother, RFK Jr's father) assassinated after winning CA primary
+    -   Had been running on anti-war platform
+-   Humphrey nominated at convention over McGovern
+    -   Hadn't campaigned in primaries
+    -   Not anti-war
+-   Protests turned to riots at the convention
+:::
+::::
+
+::: {.column width="40%"}
+![](images/rfk.png){fig-alt="Robert F. Kennedy (senior) speaking to supporters in Los Angeles prior to being assassinated."}
+:::
+::::::
+
+## 1968's Aftermath {.smaller}
+
+McGovern-Fraser Commission convenes to amend rules in response
+
+-   "The cure for the ills of democracy is more democracy."
+-   Changes to Democratic delegate selection procedures (incl. pledged delegates)
+    -   Republicans soon followed suit
+    -   More states shifted to selecting delegates in primaries (vs. caucuses/conventions)
+
+. . .
+
+McGovern, not entirely coincidentally, wins nomination in 1972 (and loses badly in the general)
+
+## Sixth Party System (1969-present) {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Democrats
+
+-   More active government in economy
+-   Culturally liberal
+-   More dovish foreign policy
+-   Urban base
+
+![](images/obama.png){width="40%" fig-align="center" fig-alt="Picture of Barack Obama"}
+:::
+
+::: {.column width="50%"}
+Republicans
+
+-   Less active government in economy
+-   Culturally conservative
+-   More hawkish foreign policy
+-   Rural base
+
+![](images/reagan.jpeg){width="40%" fig-align="center" fig-alt="Picture of Ronald Reagan"}
+:::
+:::::
+
+## Sixth Party System (1969-present) {.smaller}
+
+Key developments
+
+-   Nationalization of politics
+    -   Harder to develop distinct/local brands
+-   "Conflict extension" (Layman and Carsey 2002)
+    -   Polarization
+    -   Sorting
+
+## Minor Parties {.smaller}
+
+Foiled by Duverger. But! Can influence major party agendas or sub-national government.
+
+::::: columns
+::: {.column width="50%"}
+Past
+
+-   Free Soil (1840)
+-   Prohibition (1880)
+-   Progressive/Bull Moose (1912)
+-   American Independent (1968)
+:::
+
+::: {.column width="50%"}
+Present
+
+-   Libertarian
+-   Green
+-   Working Families
+-   Democratic Farmer-Labor (MN)
+:::
+:::::
+
+# Where's the Party?
+
+## Where are parties located?
+
+:::::: columns
+:::: {.column width="70%"}
+A few different places!
+
+::: incremental
+-   Party in government
+    -   Elected officials, appointed bureaucrats
+-   Party in organization
+    -   Campaign committees
+-   Party in the electorate
+    -   Voters, activists
+:::
+::::
+
+::: {.column width="30%"}
+![V.O. Key](images/vokey.png){fig-alt="Picture of V.O. Key"}
+:::
+::::::
+
+## Party in Government
+
+. . .
+
+Question: is Bernie Sanders a Democrat?
+
+. . .
+
+On the (senate) ballot, no. In Congress, yes. [Angus King and Bernie Sanders *elected* as independents but *caucus* as Democrats.]{.fragment}
+
+. . .
+
+This matters for...
+
+-   procedure
+-   collaboration
+-   committees
+
+## Party in Government
+
+Parties in government...
+
+-   set the agenda
+-   coordinate across branches of government
+-   hold each other accountable
+
+## Party Organizations {.smaller}
+
+Committees all the way down
+
+-   National
+    -   General (DNC, RNC)
+    -   Congressional (DCCC, RCCC, DSCC, RSCC)
+    -   Gubernatorial (DGA, RGA)
+    -   State legislative (DLCC, RLCC)
+-   State
+    -   Central committees and conventions
+    -   Congressional district committees
+-   Local
+    -   City/county committees
+    -   Precinct/ward committees
+        -   Student groups
+
+## Party "Strength" {.smaller}
+
+"Strong" parties are better-able to select candidates of their choosing and constrain their behavior
+
+::: incremental
+-   parties historically adapt to changes in formal rules
+    -   authority vs. power in nomination process
+:::
+
+. . .
+
+Present-day *parties* are considered relatively "weak," but *partisanship* is relatively strong.
+
+. . .
+
+Why are political scientists worried about this?
+
+![](images/weak_parties_strong_partisanship.png){fig-align="center" fig-alt="Headline of Vox article, by Julia Azari: Weak parties and strong partisanship are a bad combination"}
+
+## Party "Strength" {.smaller}
+
+Case: Biden 2024
+
+. . .
+
+No formal mechanism to remove a candidate seen as a liability for the party. [But!]{.fragment}
+
+. . .
+
+![](images/pelosi_biden.png){width="80%" fig-align="center"}
+
+::: {style="font-size: 50%;"}
+Zhou, Li. "Nancy Pelosi is still in charge." Vox, July 23, 2024. https://www.vox.com/politics/362620/nancy-pelosi-biden
+:::
+
+```{=html}
+<!--
+
+## Extended Party Networks
+
+In practice, boundaries of "party-in-organization" may blur. [Party-aligned media...part of the party organization?]{.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/democratic_epn.png)
+
+:::
+
+::: {.column width="50%"}
+
+![](images/republican_epn.png)
+
+:::
+
+::::
+
+::: {style="font-size: 50%;"}
+
+Koger, Gregory, Seth Masket, and Hans Noel. 2009. "Partisan Webs: Information Exchange and Party Networks." *British Journal of Political Science* 39(3): 633-653.
+
+:::
+
+## Knowledge Regimes
+
+Political coalitions develop policy expertise to support their agendas.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Center for American Progress](images/cap.png)
+
+:::
+
+::: {.column width="50%"}
+
+![Heritage Foundation](images/heritage.png)
+
+:::
+
+::::
+
+. . .
+
+This is more heavily *privatized* in the U.S. than elsewhere.
+
+-->
+```
+
+## Exit Quiz
+
+1.  Explain the principal-agent problem political parties need to solve in Bawn, et al.
+
+2.  What is the main *institutional* feature of U.S. politics that Lee Drutman identifies as the issue at the core of the two-party system?
+
+```{=html}
+<!--
+
+## Party in the Electorate
+
+A few different flavors of parties in the electorate
+
+*   Registered partisans
+*   Partisan identifiers
+*   Partisan voters
+
+## Party in the Electorate
+
+Party registration isn't the same thing as party identification
+
+::: {.incremental}
+
+*   [registration]{.yellow}: administrative, varies by state, used for primary election eligibility
+    + NC uses partisan registration for semi-closed primary
+*   [identity]{.yellow}: social/informal, can carry different weight for different individuals
+
+:::
+
+. . .
+
+These might not necessarily go together!
+
+## Party in the Electorate
+
+Partisanship is currently, for the most part, [nationalized]{.yellow}
+
+. . .
+
+Some exceptions!
+
+![](images/ky_map.png){width=60% fig-align="center"}
+
+
+## Party in the Electorate
+
+Early accounts: partisanship as a "standing decision," or default setting.
+
+*   Repeat past behavior unless given reason not to
+
+. . .
+
+Current accounts emphasize partisanship as a [social identity]{.yellow} or bundle of identities.
+
+*   Parties are groups, subject to group dynamics
+
+## Party in the Electorate{.smaller}
+
+Many sources of party identification
+
+*   material interest
+*   specific events
+*   culture/ideology
+*   socialization
+    + friends/family
+    + local context
+*   group identity
+    + people like me
+    + people I like
+
+## Party in the Electorate{.smaller}
+
+Polarization means different things
+
+*   Issues?
+    + More in recent years, but not as much as people think
+    + Think back to last week: people contain multitudes!
+*   Sorted social groups?
+    + Big cleavages: race, education, religious observance
+*   Affective dislike?
+    + Rising
+
+. . .
+
+Question: what's bad about polarization?
+
+## Some quirks in identification
+
+Many self-ID'ed independents consistently vote for one party
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+"Negative" partisanship: disliking one party more than liking another.
+
+:::
+
+::: {.column width="50%"}
+
+![](images/idk_not_trump.png){fig-align="center"}
+
+:::
+
+::::
+
+## Party Brands
+
+Parties become associated with sets of positions/ideas over time
+
+. . .
+
+This brand can be [useful]{.yellow} for voters and politicians
+
+::: {.incremental}
+
+*   voters: reduces costs of information search
+*   politicians: reduces costs of educating voters on positions
+
+:::
+
+## Party Brands
+
+But! Lower transaction costs mean higher conformity costs
+
+Voters get "choice between compromises" 
+
+* Many combinations of stances excluded
+* Many issues excluded
+
+## Party Brands
+
+Brands can serve as an accountability mechanism. [Why?]{.fragment}
+
+. . .
+
+Parties evaluated collectively, punished collectively for bad outcomes.
+
+## Issue Constraint
+
+High-information, strong partisans tend to exhibit the most issue constraint.
+
+. . .
+
+Generally, political knowledge/interest associated with higher issue constraint.
+
+. . .
+
+Let's talk about this for a second.
+
+*   Current debate in the field whether issue constraint reflects [sophistication]{.yellow} or [dogmatism]{.yellow}
+*   What do you think? 
+
+## Issue Ownership
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+Some voters trust different parties with different general issues
+
+::: {.fragment}
+
+Parties want elections to be "about" issues they "own"
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+![](images/issue_ownership.png){fig-align="center"}
+
+::: {style="font-size: 35%;"}
+
+Wright, Jamie, Scott Clifford, and Elizabeth Simas. "Partisanship now trumps political parties’ ownership of issues among voters, except among independents." London School of Economics, July 5 2022. https://blogs.lse.ac.uk/usappblog/2022/07/05/partisanship-now-trumps-political-parties-ownership-of-issues-among-voters-except-among-independents/
+
+:::
+
+:::
+
+::::
+
+## Let's talk about this
+
+::: {.incremental}
+
+*   Costs and benefits of weak parties?
+    + Benefits of gatekeeping
+
+:::
+
+-->
+```
+
+# Break
+
+## Essay 2 Defense
+
+Please claim a time if you haven't already
+
+## Exit Quiz Answers
+
+1.  Explain the principal-agent problem political parties need to solve in Bawn, et al.
+
+. . .
+
+How to elect representatives *who will faithfully pursue the party's agenda* (even if it's not the agenda favored by the general election's median voter) once they are elected.
+
+## Exit Quiz Answers
+
+2.  What is the main institutional feature of U.S. politics that Lee Drutman identifies as the issue at the core of the two-party system?
+
+. . .
+
+Single-member districts with plurality voting.
+
+## Let's try this
+
+You're making your own parties.
+
+. . .
+
+-   Consider your [interest]{.yellow} and develop [goals]{.yellow}
+-   Form [coalitions]{.yellow} with other interests
+-   Develop a [platform]{.yellow} that advances your [goals]{.yellow}
+    -   you can only advance your goals if you [win]{.yellow}
+
+## Debrief
+
+Ok, what just happened?
+
+. . .
+
+Where do you see this happening?
+
+## Coalitions everywhere
+
+![](images/singh_endorsements.png){width="80%" fig-align="center"}
+
+## Exit Quiz
+
+1.  Levitsky and Ziblatt identify two problems with Hamilton's argument (from Federalist 68) that the Electoral College would serve an effective gatekeeping function. Name one.
+
+2.  Finkel, et al describe three components of political sectarianism. Name one.
+
+
+## Exit Quiz Answers
+
+1.  Levitsky and Ziblatt identify two problems with Hamilton's argument (from Federalist 68) that the Electoral College would serve an effective gatekeeping function. Name one.
+
+. . .
+
+::: incremental
+-   Electoral College goes into effect after votes have been cast; doesn't affect who runs/wins votes in the first place.
+-   Didn't anticipate parties, which coordinated to place electors.
+:::
+
+## Exit Quiz Answers
+
+2.  Finkel, et al describe three components of political sectarianism. Name one.
+
+. . .
+
+::: incremental
+-   Othering: tendency to view opposing partisans as essentially different
+-   Aversion: tendency to dislike and distrust opposing partisans
+-   Moralization: tendency to view opposing partisans’ views as bad, not just different
+:::
+
+## This week
+
+Elections
+
+![](images/nyt_map.png){fig-align="center" fig-alt="Map of 2012 presidential election results. Each county is represented by a dot, colored by whether it voted for Obama or Romney and sized by the number of votes cast in that county."}
+
+::: {style="font-size: 50%;"}
+Parlapiano, Alicia. "There Are Many Ways to Map Election Results. We've Tried Most of Them." *New York Times*, most recently updated November 1, 2016. https://www.nytimes.com/interactive/2016/11/01/upshot/many-ways-to-map-election-results.html
+:::
+
+## If this sounds interesting...
+
+POLSCI 242: Campaigns and Elections
+
+## Why elections? {.smaller}
+
+What are elections...for?
+
+::: incremental
+-   Basic premise of "rule by many"
+-   Non-violent mechanism for conferring authority
+-   Sanction representatives to exercise accountability
+    -   [Retrospective]{.yellow} evaluations
+-   Select representatives to shape policy
+    -   [Prospective]{.yellow} evaluations
+    -   If hard to monitor for accountability, try to select faithful agent
+:::
+
+## Before we dive in...
+
+It is *extremely strange* that President Trump was allowed to run for office post-Jan 6.
+
+-   Failure of elite gatekeeping (Senate, SCOTUS, Republican Party)
+
+. . .
+
+We only get to disagree about policy if we agree about democracy ("a system where parties lose elections")
+
+. . .
+
+Prisoner's dilemma: must be more costly for losing incumbent to defect (reject election results) than to cooperate (accept election results)
+
+## Election mechanics {.smaller}
+
+Administering an election involves answering these questions (among others)...
+
+::::: columns
+::: {.column width="50%"}
+Basics:
+
+-   Who can run?
+    -   Age/residency requirements?
+-   Who can vote?
+    -   Eligibility requirements?
+    -   Registration requirements?
+        -   Closed primary, e.g.?
+-   Who's on the ballot?
+    -   Candidates? Party lists?
+-   How to vote?
+    -   Where? When?
+    -   How many votes on a single ballot?
+:::
+
+::: {.column width="50%"}
+Decision rules:
+
+-   How to count?
+    -   Single/multiple/ranked choice?
+        -   How to allocate ranked choices?
+    -   When to recount?
+-   How is a winner determined?
+    -   How many winners are there?
+        -   Single/multi-member?
+    -   Plurality? Majority? Proportional?
+:::
+:::::
+
+## How to vote
+
+States have wide latitude to set administrative procedures
+
+::: incremental
+-   Typically require registration
+    -   Many states offer some form of same-day registration
+    -   ND abolished voter registration in 1951
+-   Vary in extent of absentee/early/mail-in voting
+    -   Some states (Oregon, e.g.) fully by mail
+    -   Absentee vs. early: absentee typically requires reason
+:::
+
+## When is the election? {.smaller}
+
+Election Day is the Tuesday after the first Monday in November (since 1845)
+
+:::::: columns
+:::: {.column width="60%"}
+Goes back to making voting convenient for farmers
+
+::: incremental
+-   Sunday (church) and Wednesday (market day) unavailable for travel, also ruling out Monday and Thursday
+    -   Tuesday
+-   After harvest season, but before it gets too cold
+    -   Early November
+-   November 1 ruled out (All Saints Day)
+:::
+::::
+
+::: {.column width="40%"}
+![](images/snl_when.png){fig-alt="Screenshot of SNL sketch with an undecided voter asking, 'When is the election?'"}
+:::
+::::::
+
+. . .
+
+Path dependence!
+
+## Presidential election mechanics {.smaller}
+
+Really 51 (including DC) state elections with some common features
+
+-   Who can run?
+    -   35yr+ natural-born citizen
+-   Who can vote?
+    -   18yr+ citizens (with some exclusions)
+-   How do they vote?
+    -   Varies by state
+-   How do ballots get counted?
+    -   Varies by state
+-   How is a winner determined?
+    -   Majority in Electoral College
+        -   If no EC majority, House delegations vote
+
+## Big Picture (Participation)
+
+Why do people vote?
+
+::: incremental
+-   resources
+-   habits
+-   social context (norms, networks)
+-   competition
+-   candidate/issue preferences
+-   campaign contact
+:::
+
+## Big Picture (Participation)
+
+Why do people vote?
+
+. . .
+
+Economic model: U = pB - C + D
+
+::: incremental
+-   [U]{.yellow}: utility of voting (vote if \> 0)
+-   [p]{.yellow}: probability your vote is decisive
+-   [B]{.yellow}: net benefits from your preferred candidate winning
+-   [C]{.yellow}: costs of voting
+-   [D]{.yellow}: intrinsic benefits of voting (regardless of who wins)
+:::
+
+## Big Picture (Participation)
+
+Why do people vote?
+
+Economic model: U = pB - C + D
+
+The economic model is pretty vague. Can we unpack it? What goes under which term?
+
+## Big Picture (Participation)
+
+Why do people vote?
+
+Economic model: U = pB - C + D
+
+Common to drop pB
+
+::: incremental
+-   p is \~0, so pB is \~0
+-   U = D - C?
+    -   Puzzle: \~nobody votes because they think the outcome matters to them?
+:::
+
+## Big Picture (Participation) {.smaller}
+
+Some objections to dropping pB in practice:
+
+::: incremental
+-   p is small but not zero...and B is large
+-   p is subjective (can be overestimated)
+-   p is endogenous (those who prefer to believe their vote matters behave as if it does)
+-   uncertainty about what others will do
+    -   if everybody behaves as if their vote doesn't matter, your vote is decisive *by definition*!
+-   voting is a collective action sustained by norms
+    -   p is probability that *people like you* are decisive
+:::
+
+## Big Picture (Choice)
+
+How do voters decide? [Quick thought experiment about hot dog vendors...]{.fragment}
+
+. . .
+
+![](images/hotelling_1.png){width="80%" fig-align="center" fig-alt="My very rough, PowerPoint-generated image of a beach (tan rectangle for sand, blue rectangle for water) with two hot dog stands."}
+
+## Big Picture (Choice)
+
+How do voters decide? Quick thought experiment about hot dog vendors...
+
+![](images/hotelling_2.png){width="80%" fig-align="center" fig-alt="Starting positions for the hot dog vendors, where one is positioned 1/4 of the way from the left end of the beach and the other is positioned 1/4th of the way from the right, such that the one on the left is the closest stand for all beachgoers on the left half of the beach (green line) and the one on the right is the closest stand for all beachgoers on the right half of the beach (red line)."}
+
+## Big Picture (Choice)
+
+How do voters decide? Quick thought experiment about hot dog vendors...
+
+![](images/hotelling_3.png){width="80%" fig-align="center" fig-alt="Depiction of what happens if the vendor on the left moves toward the center (green arrow), increasing their market share (green line gets longer, red line gets shorter)."}
+
+## Big Picture (Choice)
+
+How do voters decide? Quick thought experiment about hot dog vendors...
+
+![](images/hotelling_4.png){width="80%" fig-align="center" fig-alt="Equilibrium: both vendors at the center of the beach, such that the vendor on the left has the left half of the beach and the vendor on the right has the right half of the beach."}
+
+## Big Picture (Choice): Spatial Models
+
+General explanation for spatial clustering (fast food chains, gas stations, e.g.)
+
+. . .
+
+Downs (1957) restates as [Median Voter Theorem]{.yellow}
+
+-   Not meant to fully explain politics, but useful jumping off point
+
+## Big Picture (Choice): Spatial Models
+
+More concretely, worth thinking about [how candidates/parties appeal to pivotal voters]{.yellow}.
+
+. . .
+
+Spatial proximity is one explanation. [Debate over whether what matters is proximity per se, vs. *direction* of expected change.]{.fragment}
+
+## Big Picture (Choice) {.smaller}
+
+Assumptions that make the hot dog equilibrium (and Median Voter Theorem) work:
+
+::: incremental
+-   [one dimension]{.yellow}: beach, not mall; no one's selling ice cream
+-   [exogenous preferences]{.yellow}: beach umbrellas stay in same spot regardless of where vendors move
+-   [full participation]{.yellow}: everyone buys a hot dog no matter how far they have to walk
+-   [complete information]{.yellow}: everyone sees/agrees where vendors and consumers are
+-   [no uncertainty]{.yellow}: vendor isn't trying to convince you of where they'll set up shop tomorrow
+-   [unitary actor]{.yellow}: consumers on edge of the beach aren't part of the business
+-   [free movement]{.yellow}: no lags or competing claims over perceived (re)positioning
+:::
+
+. . .
+
+Useful for thinking about *when and how these assumptions are (not) met*.
+
+## Big Picture (Choice): Behavior {.smaller}
+
+Second model: partisanship serves as default setting/"standing decision," additional factors may lead voters to change behavior
+
+Worth considering...what factors affect vote choice? [In rough temporal order...]{.fragment}
+
+::: incremental
+-   (pre)dispositions
+-   socialization (family and friends)
+-   salient identities (race, gender, age, religion)
+-   partisanship/ideology
+-   specific issues
+-   valence (non-ideological candidate traits)
+-   material conditions (sociotropic)
+-   material conditions (personal)
+-   current events
+:::
+
+. . .
+
+Can interact; earlier factors can affect evaluation of later factors.
+
+## Big Picture (Choice): Fundamentals
+
+First two models are *prospective*; third is *retrospective*.
+
+:::::: columns
+:::: {.column width="60%"}
+Retrospective economic voting is *fundamental* to macropolitical theory
+
+::: fragment
+Not a model of *all* voters' behavior; a model of the *pivotal* voter's behavior.
+:::
+::::
+
+::: {.column width="40%"}
+!["It's the economy, stupid." - James Carville](images/carville.jpeg){width="60%" fig-alt="Picture of Democratic political consultant James Carville"}
+:::
+::::::
+
+## Big Picture (Choice) {.smaller}
+
+::::::: columns
+::::: {.column width="40%"}
+Possible mechanisms:
+
+::: incremental
+-   Sanction
+    -   Remove bad incumbents/retain good incumbents
+-   Selection
+    -   Identify faithful/competent agents
+:::
+
+::: fragment
+Psychological accounts of voters' inability to do this with perfect efficiency
+:::
+:::::
+
+::: {.column width="60%"}
+![](images/retrospective_cycle.png){fig-alt="Diagram of the cyclce of retrospectve accountability. Voters observe events, actions, and outcomes in incumbent's term --> Attribute credit/blame for those events, actions, and outcomes --> Evaluate incumbent, vote --> Elected officials respond to electoral incentives --> Voters observe events, actions, and outcomes in incumbent's term"}
+:::
+:::::::
+
+## Big Picture (Choice): Psychology {.smaller}
+
+Psychological factors:
+
+::: incremental
+-   Heuristics (partisanship, e.g.) affect evaluations
+-   Recency bias (more weight on recent performance)
+-   Myopia
+    -   More credit for (costlier, more visible) response than (cheaper, less visible) prevention
+-   "Blind" retrospection (credit/blame for irrelevant events)
+    -   Unexpected college football results, e.g.
+:::
+
+. . .
+
+These aren't all *bad*. [Heuristics are *useful*; more recent information might *warrant* higher weight; voters use relevant information *when they have it*, e.g.]{.fragment.}
+
+## Big Picture (Choice)
+
+Fundamentals models make vote share fairly predictable (outcomes hard to predict lately because vote share was predictably close)
+
+![](images/sides_2016.png){fig-align="center" fig-alt="John Sides, August 23, 2016 headline: Never forget: The 2016 presidential election is supposed to be one that Republicans can win"}
+
+## Big Picture (Choice, 2024 specifically)
+
+Post-COVID unwinding has led voters to penalize incumbents pretty much everywhere
+
+-   UK, New Zealand, Australia, Germany, Canada, India, etc. etc.
+
+. . .
+
+In this context, the 2024 election *was the Republican nominee's to lose*
+
+## Campaign Effects {.smaller}
+
+So (when/why) do campaigns matter?
+
+. . .
+
+Strategic campaigns tailor strategy to economic conditions (Vavreck 2009):
+
+::: incremental
+-   Clarifying campaign: party advantaged by economic fundamentals emphasizes them
+-   Insurgent campaign: party disadvantaged by economic fundamentals emphasizes other issues where
+    -   that party's positions popular/that party owns issue
+    -   other party's positions are unpopular/lacks ownership
+:::
+
+. . .
+
+Two high-profile, well-resourced general election campaigns often cancel each other out. Doesn't mean they don't matter.
+
+. . .
+
+Effects easier to observe in primaries and open-seat races (no partisan cue, less baked-in familiarity)
+
+## Campaign Effects {.smaller}
+
+Campaigns still serve important functions:
+
+::: incremental
+-   information
+    -   help voters learn about economic conditions
+    -   reinforce existing views/bring partisans home
+-   salience
+    -   contest which cleavage will be dominant
+-   valence
+    -   make claims on efficacy/trustworthiness
+-   mobilization
+    -   encourage supporters to participate
+:::
+
+## If time...
+
+![](images/dems_liberal.png){fig-align="center" fig-alt="Chart showing upward trend in share of voters saying Democratic Party is 'too liberal,' rising from the mid-40s in the early 2010s to the mid-50s in the mid-2020s"}
+
+## Exit Quiz
+
+1.  (2pts) Both Popkin (*The Reasoning Voter*) and Achen/Bartels (*Democracy for Realists*) argue that voters generally have low/incomplete information about politics. For whom is this is a *bigger* problem for democracy?
+
+2.  Briefly (two sentences max) how "approval voting" works.
+
+# Break
+
+## Exit Quiz Answers
+
+1.  (2pts) Both Popkin (*The Reasoning Voter*) and Achen/Bartels (*Democracy for Realists*) argue that voters generally have low/incomplete information about politics. For whom is this is a *bigger* problem for democracy?
+
+. . .
+
+Achen/Bartels
+
+## Exit Quiz Answers
+
+2.  Briefly (two sentences max) how "approval voting" works.
+
+. . .
+
+Individuals vote for every candidate they would "approve" of holding office, and whoever gets the most votes wins.
+
+## Election Cycles/Perpetual Campaigns
+
+Federal elections in even-numbered years.
+
+Some states do legislative/gubernatorial elections in odd-numbered years.
+
+Municipalities usually have something important on the ballot every year.
+
+. . .
+
+Officeholders are considered to be running for re-election or their next seat until they say they aren't.
+
+## Candidate Emergence {.smaller}
+
+The choices voters make are conditional on the choices voters are given.
+
+Factors that influence who runs for office? [Means, motive, and opportunity:]{.fragment}
+
+::: incremental
+-   means
+    -   time, money, networks
+-   motive
+    -   generally want to run?
+    -   fit between specific office and goals
+-   opportunity
+    -   open seat?
+    -   political lean of district?
+    -   party support?
+:::
+
+## Candidate Emergence {.smaller}
+
+Have any of you run for office?
+
+. . .
+
+Thought about running for office in the future? [Why (not)?]{.fragment}
+
+## Campaign Setup {.smaller}
+
+What do you need to run a campaign?
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   money
+    -   staff
+    -   office space
+    -   infrastructure
+    -   ads
+-   platform
+    -   party may subsidize this step
+-   plan
+    -   what's your "win number"?
+    -   how will you reach it?
+:::
+::::
+
+::: {.column width="50%"}
+![](images/klobuchar_announcement.png){fig-alt="Picture of Amy Klobuchar at her 2020 presidential campaign launch event (in the snow)"}
+:::
+::::::
+
+## Campaign Setup {.smaller}
+
+In principle, can organize however you want. But, some basics.
+
+::::: columns
+::: {.column width="50%"}
+-   Campaign manager
+-   Communications director
+    -   Press secretary
+    -   Pollster
+    -   Digital director
+-   Finance director
+-   Political director
+-   Field director
+    -   Data director
+-   Research director
+:::
+
+::: {.column width="50%"}
+![](images/obama_staff.png){fig-alt="Picture of Barack Obama's 2012 campaign senior staff"}
+:::
+:::::
+
+## Consultants
+
+Industry of firms selling campaign expertise. May sell specific services (polling, research, advertising, direct voter contact, e.g.) or entire campaign. [Principal-agent relationship!]{.fragment}
+
+![Stuart Stevens, with Mitt Romney](images/stevens_romney.png){fig-align="center" fig-alt="Picture of Stuart Stevens (campaign manager) behind Mitt Romney in 2012"}
+
+## Nomination {.smaller}
+
+Parties' role in candidate selection especially important under conditions of polarization. [Why?]{.fragment}
+
+. . .
+
+Partisan "primaries" can be organized as...
+
+-   convention (party elites pick)
+-   caucus (public forum that ends in a public vote)
+-   primary election
+    -   closed primary: registered members only
+    -   semi-closed primary: no members of other party
+    -   open primary: anyone can participate
+
+. . .
+
+Non-partisan primaries (essentially "first stage" elections) becoming more popular
+
+## Primaries {.smaller}
+
+"Invisible" primary: informal campaign for activist/elite support before voting begins
+
+![](images/burgum_iowa.jpeg){fig-align="center" fig-alt="Picture of Doug Burgum flipping burgers at a fair in Iowa while running for president"}
+
+## Winning Coalitions
+
+Getting to your "win number" means thinking about [marginal voters]{.yellow}. Two types of marginal voter:
+
+::: incremental
+-   Might vote, will vote for you if they do
+    -   Mobilization
+-   Will vote, might vote for you
+    -   Persuasion
+:::
+
+. . .
+
+If you don't fall into either of these groups, campaign messaging *is not for you* (volunteer/donation appeals separate).
+
+## Winning Coalitions
+
+Abilities to target different types of marginal voter vary by state.
+
+. . .
+
+::::: columns
+::: {.column width="70%"}
+Different states collect different data on voters, made available to campaigns.
+:::
+
+::: {.column width="30%"}
+![](images/hacking_electorate.jpg){fig-alt="Cover of Hacking the Electorate by Eitan Hersh"}
+:::
+:::::
+
+## Winning Coalitions
+
+Let's talk about this for a second.
+
+To what extent do mobilization and persuasion trade off against each other?
+
+## Winning Coalitions
+
+Let's talk about this for a second.
+
+"Persuasion" as we commonly understand the term (and as some of you learned last week) is *really hard*.
+
+. . .
+
+But, campaigns can persuade people to vote for them *without changing their minds*.
+
+## The Art of Manipulation
+
+Campaigns manipulate[^1] the political terrain using [heresthetics]{.yellow} (Riker 1986)
+
+[^1]: non-derogatory
+
+. . .
+
+Rhetoric: winning the debate at hand
+
+Heresthetic: altering terms of debate to be more favorable
+
+. . .
+
+Vavreck's "insurgent campaigns" rely on heresthetics.
+
+. . .
+
+Aim is to set agenda on issue that divides your opponent's coalition and unites yours.
+
+## Campaign Messages
+
+Campaigns develop a "message box"
+
+|            |    We Say    |  They Say  |
+|------------|:------------:|:----------:|
+| About Us   |    Why us    | Why not us |
+| About Them | Why not them |  Why them  |
+
+. . .
+
+Decisions early on about what you want the race to be "about"
+
+. . .
+
+Campaign rhetoric is repetitive by design.
+
+```{=html}
+<!--
+
+## Campaign Messages
+
+Types of issues:
+
+*   Ideological (policy stance on left/right continuum)
+*   Valence (character, background, experience, competence)
+
+. . .
+
+Incentive to be *vague* on left/right spectrum and emphasize valence issues during general elections.
+-->
+```
+
+## Ads
+
+Ads can be...
+
+-   positive: why you're good
+-   negative: why they're bad
+-   inoculating: why you aren't bad
+-   contrasting: why you're better
+
+## Ads
+
+People say they don't like negative ads, and yet we see a lot of them. Why?
+
+. . .
+
+Negative ads are often *informative*
+
+![](images/negative_katko.jpeg){width="70%" fig-align="center" fig-alt="Image from a negative ad against Rep. John Katko, featuring a headline from syracues.com reading 'Why Central New York's biggest Obamacare insurer wants whopping 39 percent rate hike' with the text: 'John Katko's vote: Jacking up insurance premiums 39%'"}
+
+## Ads
+
+People say they don't like negative ads, and yet we see a lot of them. Why?
+
+Candidates in a prisoner's dilemma
+
+|   | Candidate B Positive | Candidate B Negative |
+|----|:--:|:--:|
+| Candidate A Positive | Competitive, reputations intact | B wins |
+| Candidate A Negative | A wins | Competitive, reputations harmed |
+
+## Ads
+
+It's hard to know what messages will be effective without pre-testing.
+
+::::: columns
+::: {.column width="50%"}
+![](images/shor_ads.png){fig-alt="Headline of an article by David Shor: With message testing, popularity does not equal persuasiveness"}
+:::
+
+::: {.column width="50%"}
+![](images/shor_ads_context.png){fig-alt="Text from the article: 'We saw this first-hand when working on the Doug Jones campaign in Alabama last December. Opponent Roy Moore was mired in controversy and scandal, so it seemed intuitive to focus Jones ads on Moore's reported misconduct. But when we tested the messaging, we found that ads emphasizing Jones's ability to improve education in the state were in fact the most persuasive. While people might have responded favorably to ads focused on the Moore scandal, the media had publicized it enough that additional messaging didn't actually *change minds*. Interestingly, we also found that messages aligning Moore with Trump didn't persuade voters to support Jones -- rather, it dissuaded certain groups to vote at all.'"}
+:::
+:::::
+
+## Ads
+
+Less negative campaigning under ranked-choice voting (why?)
+
+. . .
+
+Change institutions (here, decision rules), change behavior
+
+. . .
+
+But! Tradeoff in loss of (negative) information.
+
+## Campaign Messages {.smaller}
+
+Campaigns buy air time in [media markets]{.yellow}
+
+![](images/media_market_states.png){fig-align="center" fig-alt="Map of media markets in the United States"}
+
+. . .
+
+Key:
+
+-   Pricing varies by market
+-   Markets span multiple constituencies
+    -   Not drawn with politics in mind
+
+## Campaign Messages
+
+Ads increasingly moving to digital platforms
+
+. . .
+
+Platform affordances make ads useful for different things.
+
+. . .
+
+<br>
+
+Why, for instance, are campaigns' ads on Facebook *more partisan* and *less negative* than ads on TV?
+
+```{=html}
+<!--
+
+## Conventions
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+Used to matter more for candidate selection. Now essentially a sustained rally.
+
+::: {.fragment}
+
+Candidates typically get "convention bump" from increased in-party enthusiasm 
+
+*   possibly just response bias
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](images/rnc2020.jpeg){fig-align="center"}
+
+:::
+
+::::
+
+
+## Debates
+
+Debating is a norm.
+
+. . .
+
+Frontrunners might not feel compelled to participate.
+
+. . .
+
+Effects often more about *clarifying* than *persuading*. [2024 an exception that proved the rule.]{.fragment}
+
+. . .
+
+Media coverage often affects perceptions more than direct viewing. [2024 actually consistent in this regard.]{.fragment}
+
+## Debates
+
+How do we know who "won" a debate?
+
+. . .
+
+![](images/debate_2024_prepost.png){fig-align="center"}
+
+::: {style="font-size: 50%;"}
+
+Bycoffe, Aaron, Amina Brown, and Nathaniel Rakich. "Who Won The First Biden-Trump Presidential Debate?" FiveThirtyEight, Most recently updated June 28, 2025. https://projects.fivethirtyeight.com/biden-trump-june-debate-poll/
+
+:::
+
+-->
+```
+
+## Ground Game
+
+Direct voter contact about *winning the margins*
+
+-   Canvassing
+-   Phonebanking/textbanking
+-   Relational organizing (contact through personal networks)
+
+. . .
+
+Phases:
+
+-   ID likely/potential supporters
+-   Persuade undecideds
+-   Mobilize confirmed supporters (GOTV)
+
+## Money
+
+Money obviously matters, but people often overestimate *how much* and *where* it matters.
+
+. . .
+
+Difficult to identify:
+
+-   Campaign contributions affecting roll call votes
+    -   Any given contribution is small share of total, issue priority unclear
+    -   Easier to help an ally than win a convert
+-   How many dollars to buy a vote
+    -   Closest races see highest spending
+
+## Campaign Finance
+
+Federal Election Campaign Act of 1971 (FECA): first *comprehensive* campaign finance regulations
+
+-   Disclosure requirements
+-   Partial public funding
+-   Federal Elections Commission
+
+. . .
+
+Spending limits struck down in *Buckley v. Valeo (1976)*, which set initial precedent that (spending) money is speech.
+
+## Campaign Finance {.smaller}
+
+Bipartisan Campaign Reform Act of 2002 (aka McCain-Feingold)
+
+-   Designed to regulate "soft money" (i.e. money not directly contributed to campaigns)
+    -   Contribution limits
+        -   Generally upheld by SCOTUS (interest in anti-corruption warrants limiting speech)
+        -   Limits on aggregate contribution across all committees overturned
+    -   Restrictions on issue ads near elections
+        -   Overturned by SCOTUS
+    -   Restrictions on self-financing
+        -   Overturned by SCOTUS
+    -   Restrictions on election communication from corporations/unions
+        -   Overturned by SCOTUS (*Citizens United*)
+
+## Campaign Finance
+
+General theme: government's interest in regulating campaign finance is about *preventing corruption*, not *equal voice*
+
+. . .
+
+*Value conflict* between freedom (of speech) and equality (of voice) when some can "speak" louder than others.
+
+## Political Action Committees {.smaller}
+
+Emerged in response to restrictions on who could directly contribute
+
+-   CIO-PAC in 1943
+
+. . .
+
+"Connected" PACs: political arms of established organizations (non-connected PACs for issues, candidates, e.g.)
+
+. . .
+
+Leadership PACs: non-connected PACs for elected officials
+
+-   Can make independent expenditures as long they aren't coordinated with/directly for member's own campaign (can distribute to other members' campaigns, e.g.)
+
+## Super PACs
+
+Not subject to contribution or spending limits, so long as they are fully independent.
+
+. . .
+
+-   No coordination with/donations to campaigns
+-   Same disclosure requirements as regular PACs, but...
+    -   Intermediaries can circumvent disclosure
+    -   Quarterly filing --\> final push disclosed after the election
+
+## Super PACs
+
+Super PACs change campaign dynamics.
+
+. . .
+
+:::::: columns
+::: {.column width="40%"}
+Attempts to get around coordination restrictions within letter of law
+:::
+
+:::: {.column width="60%"}
+![](images/superpac_twitter_poll.png){fig-alt="Washington (CNN) -- Republicans and outside groups used anonymous Twitter accounts to share internal polling data ahead of the midterm elections, CNN has learned, a practice that raises questions about whether they violated campaign finance laws that prohibit coordination. The Twitter accounts were hidden in plain sight. The profiles were publicly available but meaningless without knowledge of how to find them and decode the information, according to a source with knowledge of the activities."}
+
+::: {style="font-size: 50%;"}
+Moody, Chris. "How the GOP used Twitter to stretch election laws." CNN, November 17, 2014. https://www.cnn.com/2014/11/17/politics/twitter-republicans-outside-groups/index.html
+:::
+::::
+::::::
+
+```{=html}
+<!--
+
+## Dark Money vs. Parties
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+Recent deregulation has *weakened formal parties* and *strengthened policy-demanding groups*
+
+:::
+
+
+::: {.column width="60%"}
+
+![](images/dark_parties.png)
+
+:::
+
+::::
+
+
+## Campaign Finance
+
+Current landscape:
+
+![fec.gov](images/fec_limits.png)
+
+## Campaign Finance
+
+Current disclosure requirements (for *aggregate* contributions):
+
+*   $50: Date, name, mailing address
+*   $200: Date, full name, mailing address, occupation, employer
+
+## Campaign Finance
+
+Non-profits can promote issues, not candidates
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Traditional non-profit
+
+![501(c)(3)](images/cap.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+Broader "social welfare" non-profit
+
+![501(c)(4)](images/cap_action.png){width=70% fig-align="center"}
+
+:::
+
+::::
+
+## Campaign Finance
+
+527 committees:
+
+*   Named for relevant section of the tax code
+*   Committees set up for the express purpose of influencing politics
+
+## Public Financing?
+
+Technically, the U.S. has limited forms of public financing
+
+::: {.incremental}
+
+*   Presidential Election Campaign Fund
+    + Voluntary contribution through tax form
+*   Presidential campaigns can apply for [matching funds]{.yellow}
+    + Need >=\$5000 in increments of <=\$250 in 20 states
+    + Government matches donations <= $250
+
+:::
+
+. . .
+
+General election presidential campaigns eligible for $20m grant *if they limit spending*, so they typically don't take it.
+-->
+```
+
+## Initiatives and Referenda
+
+Select opportunities for direct input:
+
+-   Initiative: citizen's proposal on ballot
+-   Referendum: legislature's proposal on ballot
+-   Recall: up or down retention vote
+
+. . .
+
+Rules for ballot access and passage vary by state
+
+## Let's talk about this
+
+How do you think about whether/for whom to vote?
+
+-   Prospective/retrospective?
+-   Civic duty/net utility?
+-   Partisan attachment/spatial proximity/material benefit?
+
+. . .
+
+Now think about someone you know who votes for the other team. What's their calculus, do you think?
+
+## Exit Quiz
+
+1.  In Vavreck's model of campaign effects, campaigns engage in three core behaviors. Name one.
+
+2.  (2 pts, second is bonus) Grimmer/Marble and Sides/Tesler/Vavreck offer different accounts of why Donald Trump won in 2016, but Lynn Vavreck in particular argues that the two teams are really answering different questions about that election. What are these two questions?
+
+
+## Bonus Question
+
+Q. Explain the principal-agent problem political parties need to solve in Bawn, et al.
+
+A. How to elect representatives *who will faithfully pursue the party's agenda* (even if it's not the agenda favored by the general election's median voter) once they are elected.
+
+. . .
+
+Less than 1/2 got this one, so it's getting counted as bonus.
+
+## Exit Quiz Answers
+
+1.  In Vavreck's model of campaign effects, campaigns engage in three core behaviors. Name one.
+
+::: incremental
+-   Agenda setting: refocusing the voters’ attention to issues favorable to the candidate/changing the weights voters place on certain issues
+-   Persuading: convincing voters that candidates hold particular positions on specific issues
+-   Clarifying: educating voters about their positions on already-important issues
+:::
+
+## Exit Quiz Answers {.smaller}
+
+2.  (2 pts, second is bonus) Grimmer/Marble and Sides/Tesler/Vavreck offer different accounts of why Donald Trump won in 2016, but Lynn Vavreck in particular argues that the two teams are really answering different questions about the 2016 election. What are these two questions?
+
+::: incremental
+-   Sides/Tesler/Vavreck: Change in relationship between racial attitudes and vote choice among voters?
+-   Grimmer/Marble: Change in contribution of racially \[moderate/conservative\] voting blocs to Republican coalition?
+    -   i.e. change in composition of the electorate, accounting for turnout
+:::
+
+## Both can be true!
+
+![](images/grimmer_marble.png){fig-align="center" fig-alt="Measuring the Contribution of Voting Blocs to Election Outcomes (authors: Justin Grimmer, William Marble, and Cole Tanigawa-Lau"}
+
+"...we show that in 2016, Trump's largest gains in support, compared to Mitt Romney in 2012, came from White voters with moderate racial resentment...despite the fact that the relationship between vote choice and racial resentment was stronger in 2016 and 2020 than in other elections."
+
+## This week
+
+Interest Groups
+
+## Interest Groups
+
+What do we already know about interest groups?
+
+::: incremental
+-   Related to factions/policy demanders
+    -   Worth thinking about where the lines are
+-   Interact with...
+    -   Members of Congress
+    -   Executive branch / bureaucracy
+    -   Parties
+:::
+
+## Stated formally
+
+An interest group is an [organization]{.yellow} whose members [share preferences]{.yellow} and attempt to [influence policy]{.yellow} through [electioneering and lobbying]{.yellow}.
+
+## Logic of Lobbying
+
+::::::: columns
+::::: {.column width="70%"}
+Politics is our process for determining who gets what.
+
+::: fragment
+Interest groups form when individuals act collectively to try and get what they want.
+:::
+
+::: fragment
+Political scientists' pet peeve: "special" interest groups just means *other people's* interest groups.
+:::
+:::::
+
+::: {.column width="30%"}
+![](images/chamber_of_commerce.png){fig-align="center" fig-alt="The logo for the United States Chamber of Commerce"}
+:::
+:::::::
+
+## Linkage Institutions
+
+Interest groups are [linkage institutions]{.yellow}: a mechanism that connects citizens to policymakers / provides a channel for communicating preferences.
+
+. . .
+
+Elections, parties, and the media are also linkage institutions.
+
+. . .
+
+Interest group signals as (difficult to quantify) public opinion?
+
+## Interest Group Pluralism
+
+Early theory of interest groups: pluralism
+
+. . .
+
+Diverse array of interests organize and *compete* for power
+
+. . .
+
+Diversity of interests is balancing, no one group can become too powerful
+
+## Pluralism's Critics
+
+What's missing here?
+
+::: incremental
+-   Uneven playing field
+    -   strength in dollars
+-   Logic of collective action
+    -   easier to organize some interests than others (debt reduction, e.g.)
+    -   some groups better-able to overcome free-rider problems
+-   If broader public doesn't provide input, is that tacit agreement?
+:::
+
+## Promoting collective action
+
+What can interest groups do to discourage free riding?
+
+::: incremental
+-   Moral incentives
+    -   Public interest sign-ups, e.g.
+-   Selective benefits
+    -   AAA, e.g.
+-   Compulsory participation
+    -   Labor unions, e.g.
+:::
+
+## Why Join?
+
+Different types of benefits
+
+. . .
+
+::::::: columns
+:::: {.column width="50%"}
+More outcome-based:
+
+::: incremental
+-   [Material]{.yellow}: tangible benefits (may be specific to group membership)
+-   [Purposive]{.yellow}: benefits from working to achieve a broader policy goal (skills, e.g.)
+:::
+::::
+
+:::: {.column width="50%"}
+Less outcome-based:
+
+::: incremental
+-   [Solidary]{.yellow}: benefits from working together (community, friendship, e.g.)
+-   [Expressive]{.yellow}: benefits from signaling group membership
+:::
+::::
+:::::::
+
+## Interest Group Mechanics
+
+Interest groups may vary in how much direct input their members have.
+
+. . .
+
+AARP, e.g. -- selective benefits for members, but members don't direct lobbying priorities
+
+![](images/aarp.jpeg){width="60%" fig-align="center" fig-alt="The logo for the AARP"}
+
+## Lobbying in the Public Interest
+
+Public interest lobbies...examples?
+
+. . .
+
+-   Consumer advocacy
+-   Environmentalism
+-   Anti-homelessness
+
+. . .
+
+What do these have in common?
+
+. . .
+
+Organizers overlap with but not necessarily beneficiaries
+
+. . .
+
+Heavily reliant on [moral incentives]{.yellow} ("help us help others")
+
+## Expansion of Interest Groups
+
+:::::: columns
+:::: {.column width="60%"}
+Size, scope, and nature of interest group activity interacts with technology and political landscape
+
+::: fragment
+Earlier bottom-up [voluntary associations]{.yellow} largely gave way to top-down [advocacy organizations]{.yellow}
+:::
+::::
+
+::: {.column width="40%"}
+![](images/voluntary_association.jpeg){fig-alt="Picture of a crowded meeting room for a voluntary association"}
+:::
+::::::
+
+## Expansion of Interest Groups
+
+Interest group activity more concentrated in DC now than in previous eras
+
+. . .
+
+Linked to expansion in size/scope of federal government, but which way does causal arrow go?
+
+-   Larger federal government --\> more interest group organization
+-   More interest group organization --\> larger federal government
+
+## Interest group activities
+
+Think about your own experience with interest groups.
+
+::: incremental
+-   How often are you asked to sign petitions?
+    -   Or put your name on an email list?
+-   How often are you asked to donate money?
+-   How often are you asked to attend a meeting?
+:::
+
+## Market of Influence {.smaller}
+
+::::::: columns
+::::: {.column width="60%"}
+Lobbying is a regulated business.
+
+::: incremental
+-   Quarterly reporting of how much which clients spent on which issues
+-   Reporting requirements for interest groups/corporations' lobbying activity
+-   Requirement to register if acting on behalf of foreign government
+:::
+
+::: fragment
+Relatively light restrictions on "revolving door" from government staff to lobbying.
+
+-   Typically one-year cooling off for staff / two years for electeds
+:::
+:::::
+
+::: {.column width="40%"}
+![](images/k_street.png){fig-alt="Street sign at the 1500 block of K Street NW in Washington, DC"}
+:::
+:::::::
+
+## Market of Influence {.smaller}
+
+Lobbying is a big business because *the stakes are really high*
+
+. . .
+
+-   Total federal outlays in 2024: 6.8 trillion
+-   Total spending on federal lobbying in 2024: \$4.5 billion (.066% of outlays)
+
+. . .
+
+Top spenders tend to represent industries with heavy government involvement
+
+-   Chamber of Commerce
+-   National Association of Realtors
+-   Pharmaceutical Research and Manufacturers of America
+-   American Hospital Association
+
+## How Lobbying Matters
+
+Intuitive to think that lobbying systematically buys politicians' support, but this is often difficult to quantify. Why?
+
+. . .
+
+Easier to help an ally than win a convert
+
+-   Lobbying as [legislative subsidy]{.yellow}: providing information, expertise, and political support to help politicians draft/prioritize legislation that they already want to pass
+
+## How Lobbying Matters
+
+Doesn't mean lobbying never secures initial support, especially when politician begins indifferent
+
+. . .
+
+And, money in other places can help allies win elections in the first place
+
+. . .
+
+But! It does mean that "politicians are bought and paid for" is a bit too simple
+
+## How Lobbying Matters
+
+Less professionalized legislatures rely more heavily on lobbyists.
+
+Tradeoff relevant to debates over congressional staffing and term limits:
+
+-   High turnover in Congress --\> more reliance on/deference to lobbyists
+
+## Market of Influence
+
+Who works for interest groups?
+
+::: incremental
+-   Policy experts ("wonks")
+-   Politics experts ("hacks")
+:::
+
+## Market of Influence
+
+::::::: columns
+:::: {.column width="40%"}
+Interest group representatives often hired back into government agencies.
+
+::: fragment
+This often looks unseemly...why haven't we banned it?
+:::
+::::
+
+:::: {.column width="60%"}
+![](images/sec_clayton.png){fig-alt="Open Secrets page for former Securities and Exchange Commissioner Jay Clayton, who worked at the lobbying firm Sullivan & Cromwell for over 20 years before being appointed SEC chairman."}
+
+::: {style="font-size: 50%;"}
+https://www.opensecrets.org/revolving/rev_summary.php?id=79303
+:::
+::::
+:::::::
+
+## Interest Groups and Social Movements {.smaller}
+
+What's the difference?
+
+::::: columns
+::: {.column width="50%"}
+Social movements
+
+-   Loosely organized
+-   Lobbying *public* to think/care about issue
+:::
+
+::: {.column width="50%"}
+Interest groups
+
+-   Formally organized
+-   Lobbying *government* for specific policy
+:::
+:::::
+
+Both demonstrate *power* and encourage responsiveness to policy demands.
+
+. . .
+
+Lines can blur / overlap. Interest groups can grow out of social movements.
+
+## Tactics {.smaller}
+
+::::::: columns
+:::: {.column width="50%"}
+Insider:
+
+::: incremental
+-   Interact with government
+    -   legislature
+        -   members and staff
+    -   bureaucracy
+-   Testimony, meetings, calls, emails, comments on regulations, etc.
+-   Repeated game, important to stay credible
+    -   On both substance and politics
+:::
+::::
+
+:::: {.column width="50%"}
+Outsider:
+
+::: incremental
+-   Pressuring government
+    -   From petitioning to protesting to advertising
+-   Aim to alter incentives
+:::
+::::
+:::::::
+
+## Insider Tactics: Meetings
+
+![](images/lobbying_meeting.png){fig-align="center" fig-alt="Picture of a meeting at a small round table"}
+
+## Insider Tactics: Public Comments
+
+![](images/rule_comments.png){fig-align="center" fig-alt="Screenshot of a page showing proposed rules on regulations.gov, with options to comment on the proposed rules."}
+
+## Outsider Tactics: Advertising
+
+![](images/harry_louise.png){fig-align="center" fig-alt="Picture from the 'Harry and Louise' ads against Bill Clinton's health insurance reform bill. Tagline: Know the Facts 1-800-285-HEALTH. Paid for by the Coalition for Health Insurance Choices. Funding by Health Insurance Association of America"}
+
+## Outsider Tactics: Sponsored Research
+
+![Homeowners associations are great, according to new research by interest group representing homeowners associations.](images/hoa_research.png){fig-alt="Excerpt from a report prepared by the Community Associations Institute. Title: Community Associations Remain Preferred Places to Call Home: 2020 Homeowner Satisfaction Survey. Text: For the eighth time in 15 years, Americans living in homeowners associations, condominiums, and housing cooperatives say they're overwhelmingly satisfied in their communities. 89% of residents rate their overall community association experience as very good or good (70%) or neutral (19%). 89% say members of their elected governing board 'absolutely' or 'for the most part' serve the best interests of their communities. 74% say their community managers provide value and support to residents and their associations. 94% say their association's rules protect and enhance property values (71%) or have a neutral effect (23%); only 4% say the rules harm property values."}
+
+::: {style="font-size: 50%;"}
+https://www.caionline.org/AboutCommunityAssociations/Pages/StatisticalInformation.aspx
+:::
+
+## Outsider Tactics: Protest
+
+![](images/fanduel.png){fig-align="center" fig-alt="Picture of CNBC coverage of a pro-sports betting protest. Caption: Fanduel hosting rally outside NY AG's office. Protesters holding signs reading 'Let's get real, it's just fantasy,' and 'Schneiderman should focus on real problems'"}
+
+## General Tactics: Legal
+
+:::::::: columns
+:::: {.column width="50%"}
+Both insiders and outsiders can sue.
+
+-   End-around democratic competition if you can ground your demands in *rights*.
+
+::: fragment
+Use *amicus* briefs to argue interests before SCOTUS
+:::
+::::
+
+::::: {.column width="50%"}
+:::: fragment
+![](images/amicus_net.png){fig-alt="Figure 3. AMicus Curiae Network. Squares indicate organizations in the test set. Circles indicate organizations in the training set. Nodes are colored by ACNet score from liberal (blue) to conservative (red). Nodes without scores are light grey. Figure shows polarization in the network, with a clear cluster of blue nodes and multiple smaller clusters of red nodes with little overlap, as well as a ring of isolates that are disconnected from the rest of the network."}
+
+::: {style="font-size: 50%;"}
+Abi-Hassan, Sahar, Janet Box-Steffensmeier, Dino P. Christenson, Aaron R. Kaufman, and Brian Libgober. 2023. "The Ideologies of Organized Interests and Amicus Curiae Briefs: Large-Scale, Social Network Imputation of Ideal Points." *Political Analysis* 31: 396–413.
+:::
+::::
+:::::
+::::::::
+
+## Exit Quiz {.smaller}
+
+1.  Baylor argues that the NAACP and CIO's choice to prioritize a specific policy was crucial for racial realignment (hint: "One could have hardly invented a better institution for pitting \[Republican interests\] against the interests of civil rights groups"). Which policy was it?
+
+<!-- -->
+
+a)  Anti-lynching laws
+b)  Establishing a Fair Employment Practices Commission
+c)  Desegregating the military
+d)  The Voting Rights Act
+
+<!-- -->
+
+2.  Per Della Costa, Vaughn, and Baumgartner, who are the main opponents of changing the North Carolina school calendar?
+
+# Break
+
+## Exit Quiz Answers {.smaller}
+
+1.  Baylor argues that the NAACP and CIO's choice to prioritize a specific policy was crucial for racial realignment (hint: "One could have hardly invented a better institution for pitting \[Republican interests\] against the interests of civil rights groups"). Which policy was it?
+
+<!-- -->
+
+a)  Anti-lynching laws
+b)  Establishing a Fair Employment Practices Commission
+c)  Desegregating the military
+d)  The Voting Rights Act
+
+. . .
+
+b)  Establishing a Fair Employment Practices Commission
+
+## Exit Quiz Answers
+
+2.  Who, according to Della Costa, Vaughn, and Baumgartner, opposes changing the North Carolina school calendar?
+
+. . .
+
+The travel and tourism industries, and representatives who represent tourism-heavy districts.
+
+## What about you? {.smaller}
+
+What are some interests you might organize around *as Duke students*?
+
+. . .
+
+Groups/clubs, sure, but also...
+
+::::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Housing and dining
+    -   Greek life / party policy
+    -   Food costs/options
+-   Accessibility
+-   Sports
+-   Transit (+parking?)
+:::
+::::
+
+:::: {.column width="50%"}
+::: incremental
+-   Curriculum
+    -   Majors? Requirements? Classes? Grading?
+-   Support services
+    -   Health, academic, professional, etc.
+-   Activity fee amount/distribution
+    -   External speakers
+:::
+::::
+:::::::
+
+## What about you?
+
+How might you go about organizing around these interests?
+
+. . .
+
+What would make that easier or harder?
+
+## Case studies
+
+I've had you read about a few specific cases of successful interest group activity this week.
+
+. . .
+
+A few of them are a bit dense. I want to talk about them in a bit more depth.
+
+## NAACP / CIO
+
+![](images/baylor_abstract.png){fig-align="center" fig-alt="Title page for Baylor (2013). Title: First to the Party: The Group Origins of the Partisan Transformation on Civil Rights, 1940-1960. Author: Christopher A. Baylor, College of the Holy Cross. Abstract: One of the most momentous shifts in twentieth-century party politics was the Democratic Party's embrace of civil rights. Recent scholarship finds that this realignment began as early as the 1940s and traces it to pressure groups, especially organized labor. But such scholarship does not explain why labor, which was traditionally hostile to African Americans, began to work with them. Nor does it ascribe agency to the efforts of African American pressure groups. Focusing on the National Association for the Advancement of Colored People (NAACP) and the Congress of Industrial Organizations (CIO), this article attempts to fill these gaps in the literature. It explains why civil rights and labor leaders reassessed their traditional animosities and began to work as allies in the Democratic Party. It further shows how pressure from the new black-blue alliance forced the national Democratic Party to stop straddling civil rights issues and to become instead the vehicle for promoting civil rights. NAACP and CIO leaders consciously sought to remake the Democratic Party by marginalizing conservative Southerners, and eventually succeeded."}
+
+## NAACP / CIO {.smaller}
+
+NAACP's internal politics: Walter White (not that one) vs. W.E.B. Du Bois
+
+. . .
+
+Being a "team player" means taking short-term losses (like slow-walking civil rights provisions of labor laws) for long-term gains
+
+. . .
+
+Compatible --\> coherent
+
+. . .
+
+Heading off the "demands of those who seek to push us into third party adventures"
+
+. . .
+
+The Fair Employment Practices Commission (FEPC) as a wedge issue
+
+. . .
+
+Coalition politics in nominations and platforms
+
+. . .
+
+NAACP starts as junior partner, ends as peer?
+
+## NRA
+
+The puzzle:
+
+![](images/polls_background_checks.png){fig-align="center" fig-alt="Morning Consult article. Headline: Voters are Nearly United in Support for Expanded Background Checks. Subhed: But electorate is more divided on legislation aimed at closing 'Charleston loophole'. Author: Eli Yokley. Date: March 10, 2021. Key Takeaways: 84% of voters, including 77% of Republicans, support requiring all gun purchasers to go through a background check. 48% support closing the 'Charleston loophole', while 38% oppose the move. Voter are more likely to trust Democrats than Republicans on gun policy, 44% to 38%, though it's an area of relative weakness for the president's party."}
+
+## NRA
+
+Common answers:
+
+::: incremental
+-   Issue importance
+    -   Minority votes on issue; majority doesn't
+        -   But! This might be changing
+-   Money
+    -   Not obvious that funding is unequal for/against
+:::
+
+## NRA
+
+Emerging answer: "people who own guns" --\> "gun owners"
+
+![](images/lacombe_nra.png){fig-alt="Journal article title page. Title: The Political Weaponization of Gun Owners: The National Rifle Association's Cultivation, Dissemination, and Use of a Group Social Identity. Author: Matthew J. Lacombe, Barnard College, Columbia University. Abstract: There is substantial evidence indicating that the NRA's (National Rifle Association) political influence is closely tied to the deep political engagement of the minority of Americans who oppose strict gun control laws. This explanation of the NRA’s influence, however, raises its own questions; namely, why are gun owners so devoted to their cause, and why is the NRA so effective at mobilizing them? I marshal a wide range of evidence covering nearly nine decades to demonstrate that an important cause of the political activity of gun owners is the NRA’s long-term cultivation and dissemination of a distinct, politicized gun owner social identity, which the NRA uses to mobilize mass political action on its behalf. My findings shed new light on the ability of interest groups to develop and use resources that help them influence policy by altering the political behavior of members of the mass public."}
+
+## NRA
+
+Hahrie Han has some pretty tough words for gun control groups. What did you think?
+
+:::::: columns
+::: {.column width="33%"}
+![](images/everytown.png){fig-alt="Logo for Everytown for Gun Safety"}
+:::
+
+::: {.column width="33%"}
+![](images/moms_demand.png){fig-alt="Logo for Moms Demand Action for Gun Sense in America"}
+:::
+
+::: {.column width="33%"}
+![](images/marchforourlives.jpeg){fig-alt="Logo for March for our Lives"}
+:::
+::::::
+
+## ACT-UP
+
+:::::::: columns
+:::::: {.column width="60%"}
+Being right, being "right," and winning.
+
+::: fragment
+Costly signals
+:::
+
+::: fragment
+Solidary benefits
+:::
+
+::: fragment
+Similarities/differences with contemporary social movements?
+:::
+::::::
+
+::: {.column width="40%"}
+![](images/actupfda.jpeg){fig-alt="Picture from an ACT-UP 'die-in' at the FDA. Signs read 'Silence = Death', and 'RIP Killed by the FDA'"}
+:::
+::::::::
+
+## Bringing it together
+
+These interests are very different...what do the groups have in common?
+
+. . .
+
+Balance between general and specific demands?
+
+## Let's talk about milk
+
+What *is* milk?
+
+![](images/got_milk.png){fig-align="center" fig-alt="got milk? logo"}
+
+## So here's the issue
+
+::::: columns
+::: {.column width="70%"}
+![https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=131.110](images/fda_milk.png){fig-alt="Code of Federal Regulations Title 21 -- Food and Drugs, Chapter I -- Food and Drug Administration Department of Health and Human Services, Subchapter B -- Food for Human Consumption, Part 131 -- Milk and Cream, Subpart B -- Requirements for Specific Standardized Milk and Cream, Section 131.110: Milk. (a) Description. Milk is the lacteal secretion, practically free from colostrum, obtained by the complete milking of one or more healthy cows. Milk that is in final package form for beverage use shall have been pasteurized or ultrapasteurized, and shall contain not less than 8 1/4 pecent milk solids not fat and not less than 3 1/4 percent milkfat. Milk may have been adjusted by separating part of the milkfat therefrom, or by adding thereto cream, concentrated milk, dry whole milk, skim milk, concentrated skim milk, or nonfat dry milk. Milk may be homogenized."}
+:::
+
+::: {.column width="30%"}
+![](images/oatly.png){fig-alt="A box of Oatly oat milk"}
+:::
+:::::
+
+## Your job {.smaller}
+
+Divide into groups of three. Each group will be given an interest to represent.
+
+. . .
+
+Your group's job is to:
+
+-   Consider the proposed rule
+-   Draft a public comment [from your interest's perspective]{.yellow}
+    -   What should the FDA do about plant-based milk labeling?
+        -   Is the proposed rule acceptable? If not, what should they change?
+    -   [Why]{.yellow} should the FDA adopt your group's preferred policy?
+-   Don't worry about writing this down, we'll talk it out
+
+. . .
+
+You may review the public comments that were actually submitted here: https://www.regulations.gov/document/FDA-2023-D-0451-0002/comment
+
+-   If you don't want to type out the URL, to the regulations.gov home page, search for docket ID [FDA-2023-D-0451-0002]{.yellow}, and click on "Browse Posted Comments"
+
+## Your job {.smaller}
+
+::::: columns
+::: {.column width="60%"}
+The proposed rule (FDA Docket Number FDA-2023-D-0451):
+
+-   Plant-based milk can be marketed as "milk" as long as it identifies plant source
+    -   "oat milk" is fine; "imitation milk" is typically not necessary
+-   Plant-based milk producers are encouraged to voluntarily include nutritional differences from cow's milk
+    -   Specifically (but not limited to) calcium, protein, vitamins A/D/B12, magnesium, phosphorous, potassium, or riboflavin
+:::
+
+::: {.column width="40%"}
+![Example](images/milk_labeling_fda.png){fig-alt="Example from the proposed rule. Figure 1: Example of Voluntary Nutrient Statement on Product Label netxt to Product Name (box includes in small print next to product name: Contains a lower amount of potassium than milk). Figure 2: Example of Voluntary Nutrient Statement on Product Label next to Product Name: (same disclaimer, but zoomed in)"}
+:::
+:::::
+
+## How this played out
+
+::::: columns
+::: {.column width="50%"}
+![](images/milk_quote.png){fig-alt="Excerpt from article covering the proposed rule: 'Woefully insufficient'. The National Milk PRoducers Federation (NMPF) said the FDA proposal 'falls woefully short of ending the decades-old problem of misleading plant-based labeling using dairy terminology but supported the federal agency's initiative to introduce nutrient statements, designed to highlight any significant nutritional differences between dairy milk and a plant-based alternative. 'For far too long, plant-based beverage manufacturers have blurred well-defined standards of identity to inappropriately and unfairly capitalize on dairy's nutritional benefits while FDA has ignored its enforcement obligations,' said Jim Mulhern, NMPF president and CEO. 'FDA's draft guidance is an encouraging first step toward promoting labeling transparency in the marketplace, but it's not enough. Our comments outline a solution to the misleading labeling practices existing in the marketplace today, and provide clear, truthful labeling options for marketers of plant-based beverages."}
+:::
+
+::: {.column width="50%"}
+![](images/vege_quote.png){fig-alt="Another excerpt: 'No justification for an uprecedecnted, unique, disparaging disclaimer' Proponents in favor of the use of dairy terms on dairy alternative products argued adopting 'milk' for use on plant-based products would be in line with what consumers were accustomed to. In its comments to the FDA, the Vegetarian Resource Groups -- an NGO dedicated to promoting vegetarianism -- said results of a survey it commissioned in 2020 suggested that 92% of US adults 'recognized that soy milk and dairy milk were different.' 'This supports our view that use of 'milk' to describe a plant-baed milk will not be confusing to consumers.'"}
+
+![](images/vege_quote_2.png){fig-alt="Another excerpt: The Plant Based Foods Association, a trade body that represents plant-based food companies, had submitted a 19-page statement in which it rebukes the need for nutrient disclaimers, questions the FDA's proposed use of the school nutrition standards that plant-based alternatives must meet, and suggests that the FDA had relied on 'questionable research and empirical evidence' that informed its recommendation for voluntary nutrient statements and naming obligations. The trade body argued that 'there is no justification for an unprecedented, unique, disparaging disclaimer' highlighting that plant-based products were low in nutrients that were not of public health concern, such as magnesium or protein. Of the nine essential nutrients contained in milk, only calcium, vitamin D, and potassium have been identified as such within the Dietary Guidelines for Americans, yet the FDA recommends manufacturers to highlight nutritional differences related to magnesium or protein content, the body said."}
+:::
+:::::
+
+::: {style="font-size: 50%;"}
+Lyubomirova, Teodora. "Dairy and plant-based organizations go head-to-head over FDA’s plant-based milk labeling guidance." Dairy Reporter, August 3, 2023.
+:::
+
+## How this played out
+
+End result: plant-based milk can be marketed as milk.
+
+-   Producers encouraged, but not required, to note nutritional differences from dairy
+
+. . .
+
+But!
+
+![](images/dairy_pride.png){width="60%" fig-align="center" fig-alt="Press release from Senator Tammy Baldwin: Baldwin, Risch, Collins, Welch, Introduce Bipartisan DAIRY PRIDE Act to Combat Mislabeling of Non-Dairy Products. Washington, DC -- Following the U.S. Food and Drug Administration's proposed guidance last week allowingnut, oat, soy, and other non-dairy products to use the name 'milk,' Senators Tammy Baldwin (D-WI), Jim Risch (R-ID), Susan Collins (R-ME), and Peter Welch (D-VT) today introduced bipartisan legislation to combat the unfair practice of mislabeling non-dairy products using dairy names. The Defending Against Imitations and Replacements of Yogurt, milk, and cheese to Promote Regular Intake of Dairy Everyday Act (DAIRY PRIDE Act) of 2023 would require non-dairy products made from nuts, seeds, plants, and algae to no longer be mislabeled with dairy terms such as milk, yogurt, or cheese."}
+
+## Exit Quiz {.smaller}
+
+1.  Name one contrast Hahrie Han draws between the gun control movement and the gun rights movement.
+
+2.  True or false: one of the key differences Theda Skocpol identifies between "fellowship associations" and "advocacy groups" is that advocacy groups are more representative of/responsive to working class people and interests.
+
+3.  ACT UP organized around multiple specific policy goals shown in the documentary. Name one.
+
+
+## Exit Quiz Answers
+
+1.  Name one contrast Hahrie Han draws between the gun control movement and the gun rights movement.
+
+. . .
+
+Gun rights groups...
+
+-   engage people who don't already agree with them
+-   build from the ground up through local organizations that aren't explicitly political (gun shops/clubs, e.g.)
+-   focus on identity rather than persuasion
+-   empower individuals to lead at the local level
+
+## Exit Quiz Answers
+
+2.  True or false: one of the key differences Theda Skocpol identifies between "fellowship associations" and "advocacy groups" is that advocacy groups are more representative of/responsive to working class people and interests.
+
+. . .
+
+False
+
+## Exit Quiz Answers
+
+3.  ACT UP organized around multiple specific policy goals shown in the documentary. Name one.
+
+. . .
+
+Many acceptable answers.
+
+## Last week
+
+Interest Groups
+
+-   Typology/evolution
+-   Logic of lobbying
+-   Cases
+
+## This week
+
+The Media
+
+![](images/newspapers.png){fig-align="center" fig-alt="Names in house fonts for The New York Times, The Wall Street Journal, and The Washington Post"}
+
+## Some premises: information
+
+Information is the raw materials of democracy.
+
+. . .
+
+Individuals need information to understand their interests and contribute to collective decisions
+
+::: incremental
+-   We'd like that information to be reliable
+-   We'd like more information rather than less
+    -   More *types* (local vs. national)
+    -   More *sources* (competition, corroboration)
+    -   More *perspectives* (the better to aggregate)
+-   We'd like to prioritize more vs. less important information
+:::
+
+## Some premises: transaction costs
+
+On our own, being informed has extremely high transaction costs
+
+. . .
+
+Too much information for each individual to independently...
+
+::: incremental
+-   Gather
+-   Verify
+-   Prioritize
+-   Contextualize
+-   Structure
+:::
+
+## Some premises: institutions
+
+Democracies benefit from non-governmental institutions that lower the transaction costs of learning what is new, true, and important.
+
+. . .
+
+The media is one.
+
+. . .
+
+Others include the scientific community/academia, political parties, interests groups, etc.
+
+## Some premises: institutions
+
+We use the government to lower transaction costs in some forms of economic exchange. Why not for information exchange?
+
+. . .
+
+Imposing conformity costs via informal norms \>\>\> imposing them via formal rules.
+
+. . .
+
+Empowering the government to say what is new, true, and important is empowering *whomever happens to control the government* to say what is new, true, and important.
+
+## Some premises: market for information
+
+Both professional and amateur (social) media tend to follow a market logic
+
+::: incremental
+-   Supply meets demand
+-   Demand is not strictly oriented toward maximizing the acquisition of true information
+:::
+
+. . .
+
+Market structure --\> information environment
+
+## Expectations {.smaller}
+
+Some professional norms we might want our information *producers* to abide by?
+
+::: incremental
+-   Honesty
+    -   Get the facts right
+-   Independence
+    -   Avoid conflicts of interest
+        -   With businesses
+        -   With parties
+        -   With government
+    -   Same as neutrality? Objectivity?
+-   Accountability
+    -   Minimize harm
+    -   Correct mistakes, allow criticism
+:::
+
+## Expectations
+
+As these are norms, not rules, the mechanisms that sustain them are *informal*
+
+-   Honesty
+-   Independence
+-   Accountability
+
+. . .
+
+Properties of *sources* over *time*, not individual pieces of information.
+
+. . .
+
+History of the media is the history of businesses adapting to *technological change* and *market pressures*
+
+## Origins of the U.S. Media
+
+:::::: columns
+:::: {.column width="50%"}
+Earliest newspapers in U.S. were overtly partisan
+
+::: incremental
+-   Run at a loss
+    -   High production costs
+    -   Low demand
+-   Publishers relied on partisan patrons
+:::
+::::
+
+::: {.column width="50%"}
+![Jefferson depicted burning the Constitution during the election of 1800](images/jefferson_press.jpeg){fig-alt="Political cartoon from the election of 1800, depicting Thomas Jefferson trying to throw the Constitution into a fire and an eagle swooping in to snatch the Constitution out of his hand"}
+:::
+::::::
+
+## Origins of the U.S. Media {.smaller}
+
+:::::: columns
+:::: {.column width="50%"}
+Technological progress --\> "penny press"
+
+::: incremental
+-   Mass production, mass consumption
+-   Less reliance on partisan patronage
+    -   Can turn a profit on circulation
+-   But, formal/informal favors still common
+    -   Jackson / spoils system
+    -   Payoffs
+:::
+::::
+
+::: {.column width="50%"}
+![](images/penny_press.jpeg){fig-alt="A drawing depicting someone operating an early newspaper printing press"}
+:::
+::::::
+
+## Yellow Journalism {.smaller}
+
+:::::: columns
+:::: {.column width="70%"}
+"Yellow journalism": early innovations in selling newspapers
+
+::: incremental
+-   Named for "The Yellow Kid" syndicated cartoon
+-   Featured choices designed to be catchy
+    -   Pictures/comics
+    -   Sensational coverage (physical clickbait)
+-   Pioneered by William Randolph Hearst and Joseph Pulitzer (sound familiar?)
+:::
+::::
+
+::: {.column width="30%"}
+![](images/yellow_kid.jpeg){fig-alt="Drawing of 'The Yellow Kid', who is bald, barefoot, holding a goblet, standing in front of an empty bottle, and wearing a yellow dress that says 'Well Hullygee Here's To You'"}
+:::
+::::::
+
+## Muckraking {.smaller}
+
+:::::: columns
+:::: {.column width="60%"}
+Progressive Era movement toward transparency / "good government" reforms --\> investigative journalism
+
+::: incremental
+-   Dubbed "muckraking" (derogatory) by Teddy Roosevelt
+    -   Frustration with focus on negative information
+-   Not always substantiated, but often spurred meaningful reforms
+    -   Pure Food and Drug Act of 1906, e.g.
+:::
+::::
+
+::: {.column width="40%"}
+![](images/muckraking.png){fig-alt="Cartoon of Teddy Roosevelt holding his nose while using a rake labeled 'Investigation' to rake up muck labeled 'Meat Scandal'. Caption: A nauseating job, but it must be done (President Roosevelt takes hold of the investigating muck-rake himself in the packing house scandal)"}
+:::
+::::::
+
+## Professionalization
+
+:::::: columns
+:::: {.column width="65%"}
+As news business grew, journalism became a more established profession.
+
+::: fragment
+Found an important new source of revenue: reader attention (i.e. ads)
+:::
+::::
+
+::: {.column width="35%"}
+![](images/oz_ad.png){fig-alt="Newspaper advertisement for the theatrical release of the Wizard of Oz"}
+:::
+::::::
+
+## Professionalization
+
+Ad-driven business model discourages "yellow" journalism. Why?
+
+. . .
+
+Advertisers want to protect their brands.
+
+![](images/advertisers_x.png){fig-align="center" fig-alt="CNN Headline from August 17, 2023 by Claire Duffy and Brian Fung: Two brands suspend advertising on X after their ads appeared next to pro-Nazi content"}
+
+. . .
+
+Together with business growth, encouraged development of professional norms.
+
+## Legacy Media
+
+Professionalization of the news produced what we think of today as "legacy" media
+
+::: incremental
+-   Produced by professional journalists
+-   Gatekept by editors
+:::
+
+. . .
+
+Specific conditions that make it in media companies' business interest to maintain credibility and mass appeal.
+
+## Radio {.smaller}
+
+:::::: columns
+:::: {.column width="50%"}
+Newspapers faced competition from radio (and then TV)
+
+::: incremental
+-   Radio useful for different purposes/audiences
+-   Relative importance peaked during WWII, but still widespread
+:::
+::::
+
+::: {.column width="50%"}
+![](images/fireside_chat.jpeg){fig-alt="Picture of FDR speaking into a set of microphones during a fireside chat"}
+:::
+::::::
+
+## Network TV News {.smaller}
+
+:::::: columns
+:::: {.column width="50%"}
+TV grows in popularity post-WWII, centered around small set of broadcast networks (i.e. ABC, CBS, NBC)
+
+::: incremental
+-   Networks deliver small amount of news to \~everyone
+-   Relative importance of network news peaked in late '70s / early '80s
+:::
+::::
+
+::: {.column width="50%"}
+![](images/cronkite.png){fig-alt="Picture of Walter Kronkite sitting at his news desk"}
+:::
+::::::
+
+## Cable TV News {.smaller}
+
+:::::: columns
+:::: {.column width="50%"}
+Cable TV --\> diversification / choice
+
+::: incremental
+-   \~90% of TV households have cable by 2000
+    -   Less today (competition from streaming)
+-   Specialization --\> catering to niche audiences
+-   Development of channels *for* news (CNN, FOX News, MSNBC)
+:::
+::::
+
+::: {.column width="50%"}
+![](images/cnn_origin.jpeg){fig-alt="Picture of Ted Turner standing at a podium labeled CNN Cable News Network"}
+:::
+::::::
+
+## Cable TV News
+
+:::::: columns
+:::: {.column width="50%"}
+Consequences of media choice?
+
+::: incremental
+-   Selection into/out of news
+    -   Some consume much more news, many consume less
+-   Selection into *pro-attitudinal* news
+:::
+::::
+
+::: {.column width="50%"}
+![](images/media_choice.png){fig-alt="Selection of TV channels: ESPN, Discovery Channel, HGTV, HLN, BET, A&E, Disney Channel, Fox Sports 1, CNN, CNBC, USA, TV Land, History, Lifetime, National Geographic, Fox Business Network, MSNBC, Food Network, TNT, VH1, Bravo, Nickelodeon, TLC, Fox News Channel"}
+:::
+::::::
+
+## Digital media {.smaller}
+
+Introduction of the internet --\> production and consumption of news increasingly online
+
+::: incremental
+-   Online versions of print sources
+-   Blogs
+-   Social media
+-   YouTube/Twitch (alternative to TV)
+-   Podcasts (alternative to radio)
+    -   Why are they called podcasts?
+:::
+
+## Digital media {.smaller}
+
+:::::: columns
+:::: {.column width="60%"}
+Obviously the internet has changed a lot...but what, specifically?
+
+::: incremental
+-   Challenged subscription model
+    -   Consumption at the story level, not source level
+    -   LLMs challenging ad traffic model as well
+-   Fewer gatekeepers (pros and cons)
+    -   Social media is other people, for better and worse
+-   More opportunities for [incidental exposure]{.yellow}
+:::
+::::
+
+::: {.column width="40%"}
+![](images/social_logos.png){fig-alt="Social media app logos: Twitter, Facebook, Instagram, Pinterest, Whatsapp, Tiktok"}
+:::
+::::::
+
+## Who Killed the (Local) Newspaper?
+
+. . .
+
+Blogs and Twitter -- i.e. free information -- challenge subscription model for national outlets.
+
+. . .
+
+Craigslist -- i.e. free classifieds -- poses an even bigger challenge to ad revenue model for local outlets.
+
+::::: columns
+::: {.column width="50%"}
+![](images/classifieds.png){width="70%" fig-align="center" fig-alt="Picture of the classified section of a local newspaper, with subsections for Business, Real Estate, and Careers"}
+:::
+
+::: {.column width="50%"}
+![](images/cl_raleigh.png){width="70%" fig-align="center" fig-alt="Screenshot of the Raleigh page of Craigslist"}
+:::
+:::::
+
+::: {style="font-size: 50%;"}
+Djourelova, Milena, Ruben Durante, and Gregory Martin. 2024. "The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist." *Review of Economic Studies*, rdae049. https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdae049/7665573
+:::
+
+## Current Trends in Digital Media
+
+Shift away from social *networks* (Twitter, Facebook) toward algorithmic feeds (TikTok, Instagram)
+
+. . .
+
+Alternate media on YouTube/podcasts growing in popularity
+
+. . .
+
+Pros/cons?
+
+```{=html}
+<!--
+
+## Who is the Media For?
+
+Fundamental challenge of modern media: good reporting is expensive; junk is cheap
+
+:::{.incremental}
+
+*   As the saying goes, if you aren't paying, you're the product
+    + Here, the product is usually your attention.
+*   Some gates are kept for a reason
+
+:::
+
+-->
+```
+
+## Nationalization and Concentration
+
+Current trends: fewer outlets, owned by fewer companies
+
+Concentration --\> more common (national) content across local outlets
+
+. . .
+
+-   Radio: iHeartMedia
+-   Local Print: Gannett
+-   Local TV: Sinclair
+
+## Nationalization and Concentration
+
+Social media *trends toward concentration*. Why?
+
+. . .
+
+Network effects: people want to use the sites more other people are using
+
+## Regulating the Media
+
+Regulating the media in a country with strong press freedom rules/norms is tricky.
+
+::: incremental
+-   High constitutional bar for [prior restraint]{.yellow} (restricting speech before it occurs).
+    -   Remember *NYT v. US* (1971) re: Pentagon Papers
+-   Illegal to intentionally publish false information
+    -   Proving intent is difficult
+:::
+
+. . .
+
+Easier to regulate radio/TV (vs. print/digital) because airwaves are in limited supply
+
+## Regulating the Media {.smaller}
+
+Federal Communications Commission (FCC) regulates radio/TV
+
+::: incremental
+-   1949-1987: Fairness Doctrine
+    -   Holders of broadcast licenses need to fairly reflect differing views on controversial issues
+    -   Ruled constitutional (limited licences aren't speech), but extremely difficult to enforce
+    -   Rush Limbaugh signed to syndicated contract in 1988
+-   [Equal time rule]{.yellow} for *candidates* still in place, with exemptions
+-   Individuals have [right of rebuttal]{.yellow} against personal attacks
+:::
+
+## Regulating the Media
+
+Regulating the media in a country with strong press freedom rules/norms is tricky.
+
+. . .
+
+Digital media covered under Section 230 of Communications Decency Act
+
+::: incremental
+-   Platforms aren't publishers
+-   Websites aren't legally liable for content their users post (with some exceptions)
+:::
+
+. . .
+
+Debate over whether algorithmic recommendation counts as editorial/publisher-style intervention
+
+## Exit Quiz {.smaller}
+
+1.  How does Hamilton argue we could encourage the production of more hard news and less soft news?
+
+2.  True or false: Hamilton argues that non-partisan (independent) papers were likelier to emerge in larger cities, as opposed to smaller towns.
+
+3.  Which of the following strategies did the FCC use to sanction Jimmy Kimmel?
+
+<!-- -->
+
+a)  Directly forcing ABC to suspend him
+b)  Indirectly threatening network affiliates and their parent companies
+c)  Neither
+d)  Both
+
+# Break
+
+## Exit Quiz Answers
+
+1.  How does Hamilton argue we could encourage the production of more hard news and less soft news?
+
+. . .
+
+Lower its production costs (examples include Freedom of Information Act, public provision of information, etc.)
+
+## Exit Quiz Answers
+
+2.  True or false: Hamilton argues that non-partisan (independent) papers were likelier to emerge in larger cities, as opposed to smaller towns.
+
+. . .
+
+True.
+
+Easier to achieve economy of scale to offset fixed costs, larger (and therefore more economically viable) potential audiences – easier to sell more ads at higher rates.
+
+## Exit Quiz Answers
+
+3)  Which of the following strategies did the FCC use to sanction Jimmy Kimmel?
+
+<!-- -->
+
+a)  Directly forcing ABC to suspend him
+b)  Indirectly threatening network affiliates and their parent companies
+c)  Neither
+d)  Both
+
+. . .
+
+b)  Indirectly threatening network affiliates and their parent companies
+
+## Types of Coverage
+
+Political coverage falls into a few different categories, such as...
+
+-   [Hard news]{.yellow}: Coverage of specific issues/policies
+-   [Soft news]{.yellow}: Coverage of people/personalities
+-   [Horse-race coverage]{.yellow}: Coverage of who's winning/losing
+
+. . .
+
+Supply- and demand-side incentives against hard news, even if it's what people say they want.
+
+## Types of Coverage
+
+Horse race coverage, for example, can be produced...
+
+::::::: columns
+::::: {.column width="60%"}
+::: incremental
+-   frequently
+-   cheaply
+-   without appearance of slant
+:::
+
+::: fragment
+Similar incentives for weather/crime reporting in local news.
+:::
+:::::
+
+::: {.column width="40%"}
+![](images/horse_race.png){fig-alt="Screenshot of headlines from searching for 'biden vs. trump'. NYT: Trump Leads Biden in Nearly Every Battleground State, New Poll Finds. CNN: Opinion: Why Democrats shouldn't despair over concerning new polls abo... CBS News: If Trump wins, more voters foresee better finances, staying out of war -- CBS... Reuters: Biden trails Trump in 2024 US election's key states, polls show. Axios: Trump leading Biden in five swing states: Poll. BBC: Four surprises that could upend the 2024 US election. ABC News: Heading into 2024,m ost Americans believe country headed in the wrong..."}
+:::
+:::::::
+
+## Media Effects
+
+Remember how there's no such thing as a perfect survey question?
+
+. . .
+
+Reporting the news is similar.
+
+. . .
+
+Organizations have to make *decisions* about what and how to report. Those decisions can matter a lot.
+
+## Media Effects
+
+:::::: columns
+:::: {.column width="50%"}
+Choices:
+
+::: incremental
+-   [Filtering]{.yellow}: choice of what's newsworthy
+-   [Framing]{.yellow}: choice of how to present issue
+:::
+::::
+
+::: {.column width="50%"}
+![](images/framing_jobs.png){fig-alt="CNN, Fox Business, and New York Times headlines reporting the same jobs report. CNN: The US economy added 150,000 jobs last month. Here's what that means. Fox Business: US job growth cools in October to 150k while unemployment unexpectedly rises. NYT: Job Growth Slows, Sowing a Mix of Concern and Calm"}
+:::
+::::::
+
+## Media Effects
+
+Typically, news media affects what we think *about*, harder to get people to think *differently*
+
+. . .
+
+Remember heresthetics! Candidates try to get media to cover their preferred issues. [Examples?]{.fragment}
+
+## Politicians and the Media
+
+Candidates and elected officials want the media to talk about...
+
+::: incremental
+-   Them (favorably)
+-   Issues favorable to them
+:::
+
+. . .
+
+Various strategies to get [earned media]{.yellow} (as opposed to paid media) that sets the agenda
+
+## Politicians and the Media {.smaller}
+
+A few standard strategies:
+
+-   [Press release]{.yellow}: official written communication
+-   [Press conference]{.yellow}: open forum between official and press
+-   [Press briefing]{.yellow}: more restricted forum between press secretary/communications staff and press
+-   [Trial balloon]{.yellow}: anonymous disclosure of (potential) policy proposal, issue position, or other idea
+-   [Leak]{.yellow}: strategic disclosure of newsworthy information on the condition that the source isn't identified
+
+## Politicians and the Media
+
+Or...
+
+![](images/trump_earned_media.png){fig-align="center" fig-alt="Estimates of paid vs. earned ('bought' vs. 'free') media in the 2016 primary election. Donald Trump nearly $2 billion worth of earned media coverage, more than double the next-highest candidate (Hillary Clinton at $746 million), despite spending relatively little on advertisements."}
+
+::: {style="font-size: 50%;"}
+"\$2 Billion Worth of Free Media for Donald Trump." *The New York Times*, March 15, 2016. https://www.nytimes.com/2016/03/16/upshot/measuring-donald-trumps-mammoth-advantage-in-free-media.html
+:::
+
+## Trump and the Media
+
+What's going on here?
+
+![](images/trump_earned_media.png){fig-align="center" fig-alt="Estimates of paid vs. earned ('bought' vs. 'free') media in the 2016 primary election. Donald Trump nearly $2 billion worth of earned media coverage, more than double the next-highest candidate (Hillary Clinton at $746 million), despite spending relatively little on advertisements."}
+
+::: {style="font-size: 50%;"}
+"\$2 Billion Worth of Free Media for Donald Trump." *The New York Times*, March 15, 2016. https://www.nytimes.com/2016/03/16/upshot/measuring-donald-trumps-mammoth-advantage-in-free-media.html
+:::
+
+## How the Press Works: Beats
+
+Reporters often assigned "beats" to cover on a regular basis.
+
+. . .
+
+Ongoing coverage of particular issue --\> expanded network of sources and accumulating expertise
+
+![](images/dawn_vaughan_profile.png){fig-align="center" fig-alt="Bio for Dawn Baumgartner Vaughan: Dawn Baumgartner Vaughan is the Capitol Bureau Chief for The News & Observer, leading coverage of the legislative and executive branches in North Carolina with a focus on the governor, General Assembly leadership and state budget. She has received the McClatchy President's Award, N.C. Open Government Coalition Sunshine Award and several North Carolina Press Association awards, including for politics and investigative reporting."}
+
+## How the Press Works: Packs
+
+Reporters are people. Reporters working the same beats talk to each other.
+
+. . .
+
+::::: columns
+::: {.column width="50%"}
+[Pack journalism]{.yellow}: when (social) network effects lead journalists from different outlets to converge on similar coverage
+:::
+
+::: {.column width="50%"}
+![](images/trump_af1_press.png){fig-alt="Donald Trump speaking to a gaggle of reporters on Air Force One"}
+:::
+:::::
+
+## How the Press Works: The Record
+
+Conversations are typically "on the record" unless both the source *and journalist* agree otherwise
+
+::: incremental
+-   [On the record]{.yellow}: allowing what you say to be quoted by name
+-   [On background]{.yellow}: information can be used, but not attributed
+-   [Off the record]{.yellow}: information cannot be used
+:::
+
+## How the Press Works: The Record
+
+Off-record is a *mutual agreement*. Just because you say "off the record" doesn't mean it's off the record.
+
+![](images/office_off_record.png){fig-align="center" fig-alt="The Office meme: I DECLARE OFF THE RECORD"}
+
+## Working the Press
+
+Journalists' interactions with political figures are repeated games.
+
+. . .
+
+Political figures: need to maintain credibility
+
+Journalists: need to maintain access
+
+-   "beat-sweetener": favorable story about a source
+
+## Opinion Journalism
+
+:::::: columns
+:::: {.column width="60%"}
+What is opinion journalism (or punditry) *for*?
+
+::: incremental
+-   Opinion leadership at scale
+-   Interpret/analyze raw information
+-   Signal of public opinion?
+:::
+::::
+
+::: {.column width="40%"}
+![David Brooks, NYT Columnist](images/brooks.png){fig-alt="Headshot of David Brooks"}
+:::
+::::::
+
+## Opinion Journalism
+
+:::::: columns
+:::: {.column width="60%"}
+Marketplace of rationalizations (supply of opinions responsive to demand)
+
+::: fragment
+Constructing and maintaining ideologies
+
+-   What does it mean to be a conservative, *today*?
+:::
+::::
+
+::: {.column width="40%"}
+![David Brooks, NYT Columnist](images/brooks.png){fig-alt="Headshot of David Brooks"}
+:::
+::::::
+
+## You and the Media {.smaller}
+
+You should generally be skeptical of claims that "the media" is engaged in conspiracies to manipulate views or suppress information
+
+::: incremental
+-   It's a business, supply meets demand
+    -   Slant often reflects what audience wants to hear
+-   It's a competitive market
+    -   If it's new, true, and important there's an incentive to report on it
+    -   If professional media didn't report on it, it might be difficult to verify
+-   Just because you didn't see the story doesn't mean it wasn't written
+-   People who claim the media has an agenda...may have an agenda
+:::
+
+## You and the Media
+
+What is "fake" news? What does it mean for news to be "fake"?
+
+. . .
+
+We often mean one of...
+
+[Misinformation]{.yellow}: Inaccurate or misleading information
+
+[Disinformation]{.yellow}: Information produced with the *intention* to mislead
+
+## You and the Media
+
+Some academic debate over how big of a problem mis/disinformation is...
+
+::: incremental
+-   "Fake news" sources have tiny market share
+-   Corrections work (on specific false claims)
+-   Attitudes --\> misperceptions more than the other way around
+:::
+
+## You and the Media
+
+More common phenomena:
+
+-   Repurposing true information from reliable sources
+-   Partisan curation (non-overlapping sets of true information)
+
+## You and the Media {.smaller}
+
+What can you do?
+
+::: incremental
+-   Look for *source-level* indicators of reliability
+    -   Clear distinction between news/opinion/advertisement
+    -   Transparency in ownership/funding sources
+    -   Processes for verification and correction
+-   Know yourself
+    -   It's okay to have a perspective
+    -   Easiest to be misled by what you *want* to hear
+:::
+
+# Wrap-up
+
+## Big Picture
+
+That's all the material we're covering for this semester.
+
+You have been formally introduced to U.S. politics.
+
+. . .
+
+How we feeling?
+
+## Big Picture
+
+Politics is everywhere.
+
+. . .
+
+Politics involves conflict.
+
+. . .
+
+Collective action is hard.
+
+. . .
+
+Social science is hard.
+
+## Big Picture
+
+Reminder to fill out your course evaluations.
+
+![](images/eval_returns.png){fig-align="center"}
+
+## Final
+
+First thing: logistics
+
+-   Go to the bookstore and ask for two blue books
+    -   They should be free
+    -   This should be enough
+-   We'll try and have some *extras* on hand if needed
+
+. . .
+
+[Put all of your answers in blue books]{.yellow}. We'll want the physical copies of the questions back, but we will only grade answers in blue books.
+
+## Final
+
+Three hours, in person, pen/paper, closed-book.
+
+100 multiple choice, 10 short answer, 1 extra credit
+
+-   MC/SA sections equally weighted
+    -   partial credit possible on SA
+-   I promise three hours is plenty of time
+
+## Final format {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Multiple choice:
+
+-   Each week gets roughly equal space
+-   Heavy on lectures/readings
+-   No trivia on authors or dates
+:::
+
+::: {.column width="50%"}
+Short answer:
+
+-   Applying concepts to new situations
+-   Questions may touch on multiple weeks' material
+-   No trivia on authors or dates
+:::
+:::::
+
+## Practice multiple choice question
+
+Which of the following illustrates institutional durability?
+
+a.  a proposed amendment to the Constitution fails
+b.  a university has the same courses and policies, but all of its students and professors have been replaced
+c.  an organization establishes a budget over a ten-year time horizon
+d.  two bureaucratic agencies are merged into one
+
+. . .
+
+[b. a university has the same courses and policies, but all of its students and professors have been replaced]{.yellow}
+
+## Practice multiple choice question
+
+Which of the following correctly describes a function of the House Rules Committee?
+
+a.  it ensures that proposed bills don't conflict with other laws that Congress doesn't intend to change
+b.  it turns general policy goals submitted by members into precise legal language
+c.  it establishes rules for members' behavior in matters such as etiquette, decorum, and ethics
+d.  it determines when and how a bill may be amended
+
+. . .
+
+[d. it determines when and how a bill may be amended]{.yellow}
+
+## Practice short answer question {.smaller}
+
+One of labor unions' main activities is negotiating "collective bargaining agreements," which set standards for things like wages and benefits for all workers rather than each employee negotiating these items independently. In some states, it is illegal to require workers to pay union dues as a condition of their employment – even if their wages and benefits will be set by a collective bargaining agreement. This policy is often referred to as "right to work."
+
+It stands to reason that unions oppose right to work laws, but – in the language of collective action – why?
+
+. . .
+
+[Right to work laws create free rider problems, allowing workers to get the benefits of collective bargaining agreements without paying costs associated with negotiating them.]{.yellow}
+
+## Review?
+
+How's studying going?
+
+<br>
+
+Anything you want to review?
+
